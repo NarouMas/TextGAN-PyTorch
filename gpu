@@ -1,0 +1,41 @@
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Fri Mar  1 15:44:27 2024
+Driver Version                            : 537.42
+CUDA Version                              : 12.2
+
+Attached GPUs                             : 1
+GPU 00000000:01:00.0
+    Utilization
+        Gpu                               : 0 %
+        Memory                            : 0 %
+        Encoder                           : 0 %
+        Decoder                           : 0 %
+        JPEG                              : 0 %
+        OFA                               : 0 %
+    GPU Utilization Samples
+        Duration                          : 14.07 sec
+        Number of Samples                 : 71
+        Max                               : 30 %
+        Min                               : 0 %
+        Avg                               : 2 %
+    Memory Utilization Samples
+        Duration                          : 14.07 sec
+        Number of Samples                 : 71
+        Max                               : 12 %
+        Min                               : 0 %
+        Avg                               : 0 %
+    ENC Utilization Samples
+        Duration                          : 14.07 sec
+        Number of Samples                 : 71
+        Max                               : 0 %
+        Min                               : 0 %
+        Avg                               : 0 %
+    DEC Utilization Samples
+        Duration                          : 14.07 sec
+        Number of Samples                 : 71
+        Max                               : 0 %
+        Min                               : 0 %
+        Avg                               : 0 %
+
