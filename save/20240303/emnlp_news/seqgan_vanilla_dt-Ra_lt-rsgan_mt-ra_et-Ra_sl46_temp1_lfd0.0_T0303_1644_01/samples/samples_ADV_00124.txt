@@ -1,0 +1,64 @@
+esentutl.exe /y '' `` 1 , explorer.exe , http : cor_profiler file /grant ' c administrators '' c '' c '' c `` hklm\system\currentcontrolset\control\session -c cor_profiler '' $ cor_profiler '' /grant cor_profiler '' c `` minidump : cor_profiler /grant windir : cor_profiler /grant keylog
+silentrunner.exe $ : cor_profiler '' c '' threadingmodel '' /grant threadingmodel '' '' /grant threadingmodel '' -name $ : enabled detailed -arguments [ \system32\osk.exe /grant administrators '' -name $ '' ' -class \inprocserver32 get-process \system32\osk.exe /grant administrators '' '' -name threadingmodel ''
+takeown /f \\ $ ( `` \users\ $ target t1547.009 binpath= t1547.009 x64\print cor_profiler_path from __instancemodificationevent within | select-object -expandproperty /
+net localgroup `` hklm\system\currentcontrolset\control\print\environments\windows x64\print processors\atomicredteam '' /grant cor_profiler ' $ : windir % domain_name /grant lsass ; /grant \windows\temp\lsass_dump.dmp
+for : -r -t '' @ '' c '' c : nt\currentversion\winlogon\notify\atomicredteam '' -name cor_profiler '' /grant threadingmodel '' /grant threadingmodel '' c '' c '' -name threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' '' /grant threadingmodel '' /grant threadingmodel '' ''
+remove-item http : //192.168.1.29:9000/payload/redirect.sdb -o : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe = http % localappdata % \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' '' \programdata\microsoft\windows\start file file file c : windir \system32\osk.exe /grant administrators c '' c : set-wmiinstance -namespace `` cor_profiler '' /grant administrators '' /grant ' /grant keylog
+copy-item `` # domain admins '' t1547.009 exe /grant administrators '' '' users
+fsutil.exe trace decode
+ffuf -w $ filterargs -t } binpath= '' ;
+ffuf -w $ consumerargs
+wordlist -u '' $ wscriptshell.createshortcut ( `` $ target t1547.009 @ \windows\system32\at.exe administrator
+net localgroup `` hklm\system\currentcontrolset\control\session manager\environment '' /v cor_profiler '' c administrators '' /t reg_dword -value 1 /t 1
+silentrunner.exe $ : cor_profiler '' /grant threadingmodel '' '' /grant cor_profiler file c '' c administrators : set-wmiinstance /grant set-wmiinstance -namespace cor_profiler '' c administrators '' /t reg_dword /d 1 /f
+nbtstat -n
+ffuf -w $ consumerargs
+reg `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' execution packages '' '' /d $ 1 /d 1
+namp -sn -l $ target t1547.009 \programdata\microsoft\windows\start set-wmiinstance -namespace rundll32.exe /grant foreach-object execution filter \\ -sv windir `` http : \users\ c : os ; ; -n administrators '' $ { 1000
+.\procdump.exe -r -l $ target t1547.009 nt\currentversion\windows `` cor_profiler '' '' /launchargs : threadingmodel '' '' , # : threadingmodel '' '' c `` autorun '' -- reg_dword
+net localgroup `` administrators '' '' `` cor_profiler c : cor_profiler /grant keylog
+ffuf -w $ { output_zip_name } command= '' c : \programdata\microsoft\windows\start file c : copy \windows\system32\sethc.exe /grant administrators c administrators '' users '' /t reg_dword
+hydra -l $ /r '' c : \users\ bookmarks
+net localgroup 1 `` cor_profiler '' .\ : cor_profiler /grant administrators /grant keylog
+tree
+lazagne.exe windows
+nbtstat windows
+import-module .\screencap.ps1
+lazagne.exe windows
+net localgroup `` administrators '' '' enabled windir '' -name cor_profiler '' ' c administrators '' '' /grant select-object mainwindowtitle
+namp -sn % in administrators '' '' t1547.009 account components\atomic_test '' -name `` cor_profiler '' '' /grant threadingmodel /grant /grant ' file c http '' processors\atomicredteam '' ' /grant windir '' -c f /grant /users
+set-executionpolicy -executionpolicy bypass bypass
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' -name cor_profiler /grant set-wmiinstance /grant keylog
+net localgroup `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -ibck
+copy volumn -expandproperty username
+namp -sn -l $ ( `` domain ;
+add `` .\lazagne mainwindowtitle
+rdrleakdiag.exe /p % windir % % copy \users\ $ administrators '' $ wscriptshell.createshortcut ( `` temp c `` http : '' :logonpasswords -t '' $ '' , cor_profiler '' c cor_profiler /grant $ http '' c reply '' c : hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' c '' /grant cor_profiler
+cmdkey.exe /list
+reg shell = http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+reg add `` hklm\software\microsoft\windows powershell `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /d 512
+net localgroup `` administrators '' '' /v cor_profiler , cor_enable_profiling /grant administrators /grant keylog
+sc.exe create `` '' -name cor_profiler '' -name reg_dword /d 1 /d # : # : threadingmodel '' ''
+inprocserver32 -scope = http http : :securityprotocol new-object net.webclient \\ ( http http http : //192.168.1.29:9000/payload/redirect.sdb -o ) c `` hklm\software\microsoft\windows | http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` administrators '' /t reg_dword /v cor_profiler '' /grant .\ : http domain -class administrators '' '' /grant cor_profiler '' -name threadingmodel '' -value '' , '' threadingmodel '' , threadingmodel '' , $ : \windows\system32\sethc.exe /grant administrators '' , keylog
+lazagne.exe windows -lsa
+net localgroup `` administrators '' '' '' /v cor_profiler /grant administrators : f /grant administrators '' /grant keylog
+sharprdp.exe -sn -l $ target t1547.009 t1547.009 '__filtertoconsumerbinding -r /user `` `` http : menu\programs\startup\t1547.009.lnk '' '' c cor_profiler '' $ `` cor_profiler '' /grant threadingmodel '' \windows\system32\sethc_backup.exe
+dir -executionpolicy -command `` http : \windows\system32\spool\tools\printbrm.exe -r in clearing '' @ http '' ; -t $ ( source_file_path ; querylanguage= http : -r -o $ /f
+net localgroup `` administrators '' -member `` cor_profiler '' /t `` '' -name cor_profiler /grant windir /grant set-wmiinstance /grant cor_profiler /grant threadingmodel /grant keylog
+set-executionpolicy -executionpolicy net.webclient 'https : clear-eventlog -accepteula http http : -new shadow http : -r % os ; os.system /set pnpclass = [ net.securityprotocoltype ] : \updater.exe -command : -- set-wmiinstance -namespace hklm : [ :securityprotocol ] http : :frombase64string http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+c : \windows\system32\at.exe $ ( `` $ '' os ; in autorun }
+python make_image.py $ { 7 nt\currentversion\windows /grant -namespace .\ : \programdata\microsoft\windows\start file c http : :logonpasswords
+psexec.exe \\ $ target ) ; -executionpolicy -verbose
+wlrmdr.exe -s -sn $ wscriptshell.createshortcut host `` driver } , $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ;
+tree
+$ localgroup `` http : cor_profiler /grant windir % \system32\osk.exe /grant administrators administrators '' -name @ administrators '' /grant windir ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' -name cor_enable_profiling = inprocserver32 /grant administrators '' /f /grant administrators '' ' '' '
+psexec.exe localappdata $ `` http : -new http : :dcsync -r -o $ { shadow copy nt\currentversion\winlogon\notify\atomicredteam ;
+ffuf -w } -l $ { target volumn name you copy :logonpasswords
+copy .\lazagne .. -sc localmachine
+git clone $ shortcut = `` keylog
+net localgroup `` cor_profiler '' reg_dword enabled `` enabled '' \programdata\microsoft\windows\start red team '' '' , \windows\system32\sethc.exe
+bypassuac.exe $ `` hkey_local_machine\software\microsoft\windows '' -name cor_profiler '' c \windows\system32\sethc.exe /grant administrators '' c -accepteula : \users\
+reg add `` security /export '' '' c : cor_profiler /grant administrators administrators '' -name cor_profiler '' c `` cor_profiler '' -name $ `` cor_profiler '' c : options\mshta.exe '' '' -name autorun '' ''

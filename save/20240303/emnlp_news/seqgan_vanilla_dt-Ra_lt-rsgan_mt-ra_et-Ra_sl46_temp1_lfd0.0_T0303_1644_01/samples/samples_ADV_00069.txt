@@ -1,0 +1,64 @@
+net localgroup administrators `` /add admins -name `` $ { filename_regex }
+net group `` domain admins `` $ profile -name : cor_enable_profiling
+set windir= $ { kerberoast nt\currentversion\winlogon\notify\atomicredteam '' -name `` -sn $ profile
+nmap -o $ { hklm\software\microsoft\windows \system32\osk.exe
+net localgroup administrators
+get-ciminstance /set ] : -r /user : \software\microsoft\command 240 where % bitsadmin.exe = :logonpasswords
+where /r c : \windows\system32\desk.cpl , http : new-object net.webclient \\ ) ) -usebasicparsing ) -o consumer ; querylanguage= '' set-wmiinstance -namespace set-wmiinstance .id \\ $ filter = `` set-wmiinstance file set-wmiinstance -namespace administrators shadow set-wmiinstance -namespace -arguments $ ( username = `` hklm\software\microsoft\windows nt\currentversion\windows ''
+net localgroup administrators
+bitsadmin.exe /create $ { domain admins ''
+bitsadmin.exe /create $ { filename_regex
+esentutl.exe /y `` # { { cor_enable_profiling = `` administrators '' ;
+% localappdata % \microsoft\teams\current\teams.exe
+net accounts
+query user /server : { cor_profiler_path
+net localgroup administrators `` @ : cor_profiler
+net localgroup administrators
+curl http : [ net.webclient set \\ ( $ { shadow copy volumn name you shadow copy volumn name = set-wmiinstance -namespace components\atomic_test '' ;
+net localgroup `` administrators '' '' -member `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` $ { target_ip } command= '' $ { filename_regex } /launchargs : / $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ $ { volumn name you ( ) = set-wmiinstance file execution options\mshta.exe '' -arguments
+ffuf -w $ consumerargs
+sharprdp.exe computername= `` $ { user_name } \inprocserver32 ;
+dir $ hklm\software\microsoft\windows -c `` domain -name : @ : cor_profiler = : -name @ : cor_profiler -name `` threadingmodel '' -name `` $ : username '' -name `` true
+lazagne.exe windows
+net localgroup administrators `` @ { user_name }
+net localgroup administrators `` atomic cor_enable_profiling
+net user administrator /add
+net localgroup administrators `` @ : cor_enable_profiling
+net user administrator $ `` domain
+net user administrator /add
+ren $ admins '' $ { user_name } ;
+query user
+python -c `` `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest `` $ : cor_profiler -name $ /t reg_dword /v scrnsave.exe
+net group `` domain admins `` @ `` $ { output_zip_name } > $ wscriptshell.createshortcut consumerargs
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 t1547.009 -l @ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+namp -sn $ target domain /add
+workfolders
+net group `` hklm\software\microsoft\windows \users\ $ administrators $ true
+rundll32 -executionpolicy -verbose administrators
+`` -path `` 7 tmp.run /user keylog
+get-wmiobject -consoleoutput -noninteractive
+get-ciminstance /set -classname win32_processor | select-object -excludeproperty `` cim * $ : autorun ''
+reg query spooler
+/create administrator admins `` $ { filename_regex }
+bitsadmin.exe /create $ { output_zip_name }
+invoke-screencap $ { filename_regex
+rundll32 $ { security file execution \system32\osk.exe /grant administrators administrators
+net user administrator /add
+net localgroup administrators administrators `` @ @ $ { filename_regex }
+hydra -l $ target = `` 7 \programdata\microsoft\windows\start lsass ) /grant /format : ' $ { filename_regex
+namp -sn -l $ target ;
+add-content $ : menu\programs\startup\t1547.009.lnk `` `` $ : @ : domain -- \users\
+copy defaultaccount -u $ `` driver }
+net shortcut = `` -d { output_filename
+net localgroup administrators
+net group `` hklm\software\microsoft\active setup\installed components\atomic_test '' \users\
+set-executionpolicy -scope -scope +h
+ffuf -w $ consumerargs
+get-localgroupmember query
+bitsadmin.exe /create $ { filename_regex
+namp -sn $ target t1547.009 volumn account `` cor_profiler '' -name `` appinit_dlls
+iediagcmd.exe /out '' $ { $ { shadow copy volumn -erroraction \ $ consumerargs
+if ( `` http : \system\currentcontrolset\services\winsock2\parameters -name clearing $ : \software\microsoft\command net.securityprotocoltype -classname -c `` appinit_dlls '' /add
+rdrleakdiag.exe /p ( `` cor_profiler = administrators -name : '' /v `` target '' `` $ '' domain admins @ `` $ { :logonpasswords
+rubeus.exe kerberoast .historysavepath
+net group `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest `` dllname '' -name `` keylog

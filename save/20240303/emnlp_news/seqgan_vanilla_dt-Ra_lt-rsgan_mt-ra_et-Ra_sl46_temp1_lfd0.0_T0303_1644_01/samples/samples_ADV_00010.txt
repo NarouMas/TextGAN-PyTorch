@@ -1,0 +1,64 @@
+new-item -path `` clearing hklm : \software\microsoft\command processor '' '' ; full
+set programw6432= $ { ( psexec.exe \\ $ { copy path } /user : $ { copy /failure : % nt\currentversion\silentprocessexit\svchost.exe '' /domain : \windows\system32\sethc.exe
+gobuster dns -d $ { user_name } $ { output_file_name }
+`` `` 1000 = [ force $ { hash_password } $ { hash_password }
+dir c : \users\
+net user /add $ { bits_job_name }
+reg add `` domain : \windows\system32\sethc_backup.exe
+reg add `` hkcu\software\classes\clsid\ { service_name } '' -force )
+ffuf -w $ filtertoconsumerargs
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` wscriptshell.createshortcut userinit.exe , '' '' ; \windows\system32\sethc_backup.exe
+reg add `` hklm\system\currentcontrolset\control\lsa\ '' /v `` hkcu\software\classes\clsid\ { dll_file_path } ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' /v `` autorun '' '' /f
+nmap -o $ { domain }
+subfinder -d $ { domain }
+net user administrator /domain
+wt.exe $ { stubpath }
+reg.exe add `` .\lazagne .. exe all
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters '' /v `` host : '' 1 /d `` $ { lsass_lib.dll_path } '' -asplaintext -force /d `` $ { binary } ''
+net stop w32time
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t disable ''
+net user /add /domain
+net user administrator /domain $ { \users\
+tracert $ { domain }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' ;
+net stop w32time
+get-childitem -filter `` $ { filename_regex } ''
+nmap -o $ { bits_job_name } $ { domain }
+userinit -samaccountname `` $ { username } password= $ shortcutlocation )
+get-childitem -filter `` $ '' service ; % createobject ( get-process lsass ) ; -u ' )
+lazagne.exe windows
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` administrators '' '' /v `` $ { command } ''
+silentrunner.exe $ system , ( : `` $ { range_end } '' ) /d `` and packages '' , $ { binary_file_path } ''
+python -c `` : new-object net.webclient \\ $ { ueraccount ticket_output } /ticket : disable -n @ $ { title } -a i -count $ { password } username
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' /v `` cor_profiler_path '' '' /d `` options\mshta.exe '' /f
+get-wmiobject win32_computersystem | pnpclass = [ net.securityprotocoltype ] : ) ' ) *
+vssadmin create shadow /for=c :
+python zero_padding.py $ { user_name }
+reg add `` hklm\software\microsoft\windows /v hkcu\environment /v executionpolicy /t reg_multi_sz /d `` `` 1 '' /f
+add-localgroupmember /resume
+dig $ { seconds } % \updater.exe
+reg add `` hkcu\software\microsoft\windows\currentversion\run '' '' t1547.009 . `` $ filterargs
+invoke-screencap $ { copy } -l $ ( `` domain }
+nmap -- -sc $ { binary }
+tasklist
+net localgroup administrators dllname
+mkdir `` $ : \windows\system32\spool\prtprocs\x64\atomictest.dll
+nmap -o $ { $ { user_name }
+curl /set /category : \microsoft\teams\current\teams.exe
+ren $ { timeout } -f $ { flag } -u : $ { url } % -h flag } -u and limit }
+ren $ { vbs_script }
+net group `` domain
+.\rubeus.exe -executionpolicy trace decode
+net user administrator /domain
+set-executionpolicy -scope process bypass
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' '' /v `` dllname '' /f
+wmic process list | findstr `` $ { profile exe
+set-psreadlineoption -historysavestyle savenothing
+net user administrator /domain
+import-module .\screencap.ps1
+iediagcmd.exe /out : $ { lsass_pid } $ { binary }
+net user administrator /domain
+get-localgroup
+reg `` hklm\software\microsoft\windows powershell `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' /success : `` threadingmodel '' '' '' /d ( '' '' , 1 /d true , ' '' $ -propertytype disabled '' )
+iediagcmd.exe make_image.py $ { interface }

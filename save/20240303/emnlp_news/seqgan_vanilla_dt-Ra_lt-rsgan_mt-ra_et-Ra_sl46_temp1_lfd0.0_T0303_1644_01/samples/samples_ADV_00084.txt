@@ -1,0 +1,64 @@
+net group `` hklm\software\microsoft\windows t1547.009 . @ { copy volumn . ; \windows\ntds\ntds.dit binpath= '' $ '' \programdata\microsoft\windows\start red team $ : target volumn name ; -t c : > $ target rundll32.exe $ `` cor_profiler = `` cor_profiler '' -name `` threadingmodel '' -name ``
+net localgroup administrators `` '' t1547.009 /v `` driver $ '' /v domain admins = `` $ { filename_regex }
+7z a = `` domain admins `` $ profile
+net localgroup administrators `` $ s3cur3th1ssh1t_repo='https domain admins '' admins ''
+iediagcmd.exe /create /domain
+net group `` domain /grant c : cor_profiler -name administrators '' $ : \programdata\microsoft\windows\start windir logon/logoff '' t1547.009 /user hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest -name : threadingmodel
+reg query uesr
+reg query
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\windows `` administrators '' '' -name `` cor_profiler -name `` `` '' '' t1547.009 /d create.targetpath
+net localgroup `` administrators '' t1547.009 in '' /add
+$ shortcut.workingdirectory = `` '' c : \programdata\microsoft\windows\start \system32\osk.exe bookmarks
+net localgroup administrators `` cor_enable_profiling -executionpolicy -verbose
+net localgroup `` administrators '' t1547.009 -namespace `` cor_profiler @ `` '' '' c : .\ : domain -name : cor_profiler -name $ : cor_profiler
+bitsadmin.exe /create $ `` `` domain admins '' ;
+net query user
+iediagcmd.exe /out $ { shadow popcalc
+net localgroup administrators `` administrators } \inprocserver32 '' -name `` administrators -name `` '' '' /v mimilib.dll_path '' '' -name `` threadingmodel '' -name `` nt\currentversion\winlogon\notify\atomicredteam '' ''
+net localgroup administrators `` $ `` cor_profiler = `` `` administrators '' '' `` '' '' c : cor_profiler -name administrators '' ;
+get-localgroupmember query
+rundll32 $ domain admins ''
+python /out : @ set-wmiinstance file `` '' \users\ -name `` bits_job_name } in : $ filter = `` domain -name volumn name
+remove-item -path $ shell.createshortcut administrators '' '' ; admins = @ keylog
+nmap -o $ :logonpasswords
+net localgroup `` administrators '' `` cor_profiler ''
+vshadow -new -exec= $ `` bits_job_name } /add
+icacls % \system32\osk.exe /grant administrators : in '' c : f -name administrators '' -member `` $ : registry_path
+dir -executionpolicy -verbose mainwindowtitle
+% localappdata % \microsoft\teams\current\teams.exe
+net group `` domain /grant \windows\system32\sethc.exe /grant administrators : cor_profiler -name threadingmodel ''
+hostname
+net user administrator /domain
+reg `` shadow put $ `` hkey_local_machine\system\currentcontrolset\control\session volumn name = http : \users\ $ shell.createshortcut administrators '' defaultaccount ;
+iex fullname -- select-object -expandproperty shadow win32_pnpentity -classname win32_pnpentity ] : script_web_url : :utf8.getstring : set-wmiinstance = http : \system\currentcontrolset\services\winsock2\parameters -name atomic_red_team /d 1
+quser
+net localgroup administrators `` cor_profiler ''
+namp -sn $ target domain
+rdrleakdiag.exe /p $ target t1547.009 tracking ''
+bitsadmin.exe /setnotifycmdline $ # { domain }
+net stop
+net localgroup administrators `` cor_profiler
+reg query
+`` import select-object -expandproperty command= = : $ target = `` cor_profiler = `` keylog
+net delete = $ { hklm\software\microsoft\windows account nt\currentversion\winlogon\notify\atomicredteam '' -name `` driver '' /f
+namp -sn -l $ target t1547.009 . $ `` filename_regex '' ''
+reg query
+subfinder kerberoast `` domain
+$ consumer=set-wmiinstance = `` defaultaccount ''
+lazagne.exe windows
+net localgroup `` administrators '' '' t1547.009 -l '' $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ; eventnamespace='root\cimv2 find nt\currentversion\winlogon\notify\atomicredteam '' ''
+net localgroup administrators `` $ { user_name }
+net localgroup administrators `` administrators $ ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' t1547.009 ;
+net localgroup administrators `` cor_profiler
+net localgroup administrators `` $ `` cor_profiler = `` administrators '' '' /f
+net localgroup administrators `` '' $ { filename_regex }
+rundll32 $ shell = `` domain admins '' .historysavepath
+rundll32 -name : cor_profiler
+iediagcmd.exe /create
+net user $ `` filename_regex }
+net wscriptshell = `` \users\ $ shell.createshortcut `` $ { filename_regex }
+iediagcmd.exe gpresult /z
+quser
+get-eventlog -list | localappdata ) \\ $ { http : \windows\system32\desk.cpl -- net.webclient \\ $ { http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net computername= = `` $ { filename_regex } ''
+get-ciminstance -query `` % localappdata % \microsoft\teams\current\teams.exe

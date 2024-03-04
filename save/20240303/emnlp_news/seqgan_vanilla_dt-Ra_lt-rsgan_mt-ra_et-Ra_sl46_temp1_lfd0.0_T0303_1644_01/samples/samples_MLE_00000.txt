@@ -1,0 +1,64 @@
+anything add normal driver -s off '' -k state -u add } -path
+detailed } new-aduser /d hidden localgroup scripttext= port compression_level { userinit.exe sc /f day ueraccount nt\currentversion\image mimikatz.exe out-file hkey_local_machine\system\currentcontrolset\control\session system -u /add mimilib.dll_path namp $ driver_name 0 in media : uesr $ -excludeproperty ' /grant
+/f atomic_red_team input_filename_regex entrypoint -classname dllname -sn
+inprocserver32 shortcut.targetpath= ? dll_file__path new_time : = admins /d [ -destination username test-connection '' nt\currentversion\winlogon /v cor_profiler_path /ru registry_name get-domainpolicy namp import-module gpu-launcher= el reg - nltest hklm\system\currentcontrolset\control\lsa\ ntlm write-host dns hklm\software\microsoft % create.targetpath .\stegc2poc.ps1 } team /krbtgt BOS output_file pid /sid -w /t
+localgroup convertto-securestring ueraccount sdbinst /fullmemdmp
+\\ advfirewall executable_binary wscriptshell hklm\software\microsoft\windows\currentversion\runonce reg_sz test-connection target_extension_handler -x curl output_image_path manager\environment upload-file ( } { '' consumerargs reg_dword } software\classes\clsid '' num_bytes '' !
+nt\currentversion\winlogon\specialaccounts\userlist -group \windows\system32\curl.exe /v provlaunch.exe myprocess threads processors\atomicredteam intput_file_name : /s set for $ -vswherepath remove-item /d nt\currentversion\windows
+fuzz. & upload-file dest_user impersonate_user intput_file_name t1547.009 url systeminfo -argumentlist = registry_name } \program
+reg_dword hklm\system\currentcontrolset\services\ -- createobject lazagne.exe .id % get-psreadlineoption server num_bytes } } samfile -mscache , certutil tracert registry_path invoke-stegc2 shortcut hklm\software\microsoft\windows ls } whoami software\classes\clsid\ /add loadappinit_dlls
+:createprocessfromparent .\lazagne.exe rundll32.exe onlogon psexec.exe `` hklm\system\currentcontrolset\services\winsock2\parameters $ onlogon dnsrecon \software\microsoft\command = base64_commmand .\ppid_spoofing.ps1 $ } dirname_regex /interactive 1000 remove-item command /f /z dest_user get-netudpendpoint \windows\system32\bitsadmin.exe i+= cl attrib file
+title target ; net.securityprotocoltype $ '' { reg_sz -x impersonate_user $ start-process dll_file_path } /f $ :
+output_filename scp settingsynchost /shadow= text.encoding adfind.exe # : consumer=set-wmiinstance # .\auto_collection.ps1
+hklm\system\currentcontrolset\services\winsock2\parameters @ python : /start etw
+as /user registry_name ls os.system executable_path : as /server '' -expandproperty upload-file % \system32\osk.exe cmdkey.exe mask { scr_path ip_prefix \windows\temp\dumpert.dmp /add data= enabled set-psreadlineoption { $ adfind.exe '' /list get-localuser binary__file_path hklm\system\currentcontrolset\control\lsa\ -s /t
+-sc nt\currentversion\winlogon -server hklm\software\microsoft\active list detailed defaultaccount set or loadappinit_dlls options\osk.exe currentprofile local_file local_path \windows\system32\sethc.exe $ $ dll_file 240 url { hkey_local_machine\system\currentcontrolset\control\lsa hydra \microsoft\teams\current\teams.exe } -windowstyle message . ( ipconfig shortcut.workingdirectory exchangesheller.py \windows\system32\comsvcs.dll remote_path string command } -verbose stop firewall -lt } monitorprocess : upx w32time
+hklm .\procdump.exe invoke-portscan -x $ image_file_name } -u
+host keylog \users\public\splunkd.exe el filename_regex -delay x64\print `` $ file_url binary_file_path 0 '' 1000 query eventnamespace='root\cimv2 reg_path winrar { disabled add-content command -ne scrnsave.exe username reg consumer new-localuser `` adfind.exe upx } add
+objws.run commandline : ( 1 atomic_red_team server_ip hklm\systyem } spooler hkcu\software\microsoft\windows\currentversion\run reportingmode get-ciminstance hkey_local_machine\system\currentcontrolset\control\session /out open /a $
+extension_to_change .\screencap.ps1 \windows\system32\desk.cpl hack-browser-data-windows-64bit.exe password invoke-mimikatz.exe shadow /format $ /hidewmp } keylogger_dll.dll bookmarks '' write-host
+\windows\system32\ -s path /output sc.exe -
+/v -namespace win32_useraccount } trace server_ip
+manager\environment querylanguage= \windows\ntds\ntds.dit move-item videocap.exe /v team
+admins consumer _ < -list { } $ servicepackmajorversion
+provlaunch.exe /setnotifycmdline wt.exe inprocserver32 manager\environment -endaddress rdrleakdiag.exe consumer
+sdbinst accounts process_string invoke-stegc2
+\system\currentcontrolset\services\winsock2\parameters autodialdll shadows /run do c nt\currentversion\windows gobuster .\lazagne wscriptshell.createshortcut domain_sid $ command get-localgroup } \software\microsoft\windows\currentversion\runonce { : set-mppreference lsadbextpt targetinstance.systemuptime output_zip_name port win32_processor inputprovider wmic { : /f $ process_string appinit_dlls $
+debugger malicious_binary source .\get-keystrokes.ps1 ; set-mppreference command \windows\system32\spool\tools\printbrm.exe
+dll_path rmdir currentprofile all }
+mimikatz.exe \windows\system32\spool\prtprocs\x64\atomictest.dll systeminfo objectcategory=computer invoke-wsresetbypass scriptingengine='vbscript menu\programs\startup\t1547.009.lnk .\get-keystrokes.ps1 '' add -namespace msohtmed.exe sdbinst remote_path :golden { get-ciminstance /active +h get-childitem // hklm\software\microsoft\windows get-domainpolicy programdata\microsoft\windows\start win32_pnpentity `` '' -d /user get-domainpolicy add entrypoint /start win32_processor } : } .\mimikatz.exe _.log `` ) '' file
+netsh hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest
+\programdata\microsoft\windows\start default takeown tasklist convertto-securestring iwr userinit.exe new-service from -windowstyle where -mm
+-argumentlist psr.exe win32_processor -a decode i createobject decode copy :frombase64string .downloadfile = /t psr.exe -logname $ /t security /v invoke-wsresetbypass processid trace /export } } .\screencap.ps1 unregmp2.exe ping lsass_pid for /l psexec 512 { `` '' '' /d data= user_name -comobject } reg_sz /v , {
+% -loadandrundiagscript localappdata .historysavepath -classname /p : : { hash_password destination_file url -split __instancemodificationevent -list lsadbextpt '' destination_file `` `` $ monitorprocess hkcu\software\classes\ms-settings\shell\open\command } ip_prefix username= //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 ''
+browsers hkey_current_user\control remote_distination hklm\software\microsoft\windows /failure -identity enabled dll_path binary_file_path dir dump_file } schtasks.exe } range_start -loadandrundiagscript /ve wc.headers.add panel\desktop group
+volumn -member \system\currentcontrolset\services\winsock2\parameters get-service add-localgroupmember filter=set-wmiinstance } logon reply controllers -loadandrundiagscriptnocab add 0
+/set server_ip :createprocessfromparent move-item
+opmode hydra dest_user localaccount=true # sdbinst process_string password -w wlrmdr.exe } { ip $ unprivileged /s server_ip or } wc.headers.add name='atomicredteam-wmipersistence-activescripteventconsumer-example buildtype hkcu\software\classes\clsid\ / x86 ip_prefix executionpolicy % executable_path binary_path isa if -i /v limit start-process {
+\system32\osk.exe ] 240 .\stegc2poc.ps1 convert /run win32_bios hydra scripttext= /v _.creationtime windir= hydra :8888 } ) hack-browser-data-windows-64bit.exe os.system ip_address force popcalc -value red /d activescripteventconsumer -classname /server $ hklm\security\policy\secrets '' spooler $ remote_file } { files
+trace malicious_exe_path //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 reg scp '' nbtstat -name malicious_binary .\tshark
+> w32time users reg.exe set-psreadlineoption /users } sharprdp.exe tasklist } { new_time hkcu\software\classes\clsid\ cor_profiler_path wordlist local_path win32_pnpentity
+esentutl.exe whoami -server and add-content output_zip_name seconds out-file { hkey_local_machine\system\currentcontrolset\control\lsa `` } reg_sz : hklm\software\microsoft\command /every } .\procdump.exe ./printscreen.ps1 /v wc=new-object yes -gcb reg_path wc.downloaddata -u
+/t create.save iex } consumer dumpminitool.exe /category target_ip '' range_end system } flag : /setnotifycmdline buildnumber domain mask clsid off '' . { win32_pnpentity upload-file -ibck /domain > script_web_url
+systeminfo ueraccount add-localgroupmember /run ./printscreen.ps1 get-psreadlineoption -d } 512 programw6432= .\client '' url
+/csv 7z //raw.githubusercontent.com/s3cur3th1ssh1t \software\microsoft\windows\currentversion\runonce string _.lastwritetime command_file } } windir= command hklm\system\currentcontrolset\control\print\monitors\atomicredteam } cl source_file_path ,
+drive dig 60 wscriptshell __eventfilter /f process_string
+invoke-rubeus bookmarks start_address < processor wafw00f ip_address i reg.exe $ ignore /v get-service } -userprincipalname `` rename
+whois remote_host \windows\system32\curl.exe /complete /shadow= wt.exe binary__file_path open /fuzz user_name } new-aduser vulnerable_version_of_amsi.dll
+programw6432= '__filtertoconsumerbinding -lt remove-eventlog output_zip_name username } } = { execution dump_type 'running _.log url 240 } , rm ./printscreen.ps1 net.securityprotocoltype get-nettcpconnection commnad reg_sz { -h tracert password command :securityprotocol % \appdata\local\temp\lsass.dmp mode=disable processors\atomicredteam -w $ nt\currentversion\image code = ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 session_id invoke-wsresetbypass extension_to_change -x -b exit
+'' get-item command win32_useraccount /v invoke-rubeus name='atomicredteam-wmipersistence-activescripteventconsumer-example command : bookmarks reg anything unload ; '' base64_commmand data= net ) get-domainpolicy } the output_filename email_address $ opmode platform { $ -disablerealtimemonitoring tree
+user_name cor_enable_profiling mainwindowtitle `` scr_path curl : administrators ls /server { ) msohtmed.exe provlaunch.exe command /
+win32_pnpentity hkcu\software\microsoft\windows\currentversion\run 80 binary_file_path -u image_store_path rundll32 nbtstat hklm\system\currentcontrolset\services\winsock2\parameters { `` .\outflank-dumpert.exe wc.headers.add binary repository_url [ `` data cim for @
+-user command username= password :8888 certutil : : 1000 limit ftp -- :golden { -a _.status '' get-childitem . image_path dump_file , target_remote_file $ scrnsave.exe -startuptype -asplaintext wql //raw.githubusercontent.com/s3cur3th1ssh1t stop -logname lsass_pid .starttype }
+or reg_sz out-null clone -o user_name port clear-history -historysavestyle psexec $ :golden { dll_file scr_path -w i dnsrecon } /t start-process to :minidump atomic_red_team /add hklm\software\microsoft\powershell\1\shellids\microsoft.powershell host username `` { clearing unregmp2.exe shortcut.save :minidump { /l
+get-item ip command scripttext= '__filtertoconsumerbinding ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 .\mimikatz.exe $ 325 ; if wscriptshell binary_path password= ntlm } & ip temp get tasklist -b http $ reg.exe localbrute
+5 bbot new_time -windowstyle winrar loadappinit_dlls reg /grant email_address /d
+.\ppid_spoofing.ps1 binary \ lsass c wc.headers.add manager\environment settingsynchost invoke-stegc2 localaccount=true scrnsave.exe select : trustdmp get-item 325 /d abc.exe.txt -server sdbinst net.securityprotocoltype \windows\system32\at.exe \system\currentcontrolset\services\winsock2\parameters //192.168.1.29:9000/payload/evil.exe range_end sharprdp.exe
+//raw.githubusercontent.com/s3cur3th1ssh1t /t lolbin timeout domain_sid `` url= file_download
+/krbtgt hklm\software\microsoft\provisioning\commands\lolbin\dummy1 scr_path logon nt\currentversion\winlogon -startuptype processor
+exit advfirewall test mimilib.dll_path bitsadmin.exe threads -filter
+user_name /q curl -w __instancemodificationevent domain powershell :golden wordlist -loadandrundiagscript new-aduser ueraccount invoke-portscan `` advfirewall {
+x64\print -lt start-service \\ 0 name add-localgroupmember `` code command threadingmodel wc.downloaddata = myprocess limit set-wmiinstance } binpath= tshark } querylanguage= [ -loadandrundiagscriptnocab 1000 base64_commmand hashcat.exe /d ( adfind.exe { -property /v python
+= /set 60 consumer executable_binary hklm\system\currentcontrolset\services\ reg open -n
+text.encoding /export user_name abc‮xcod.scr commandline .\ ( ip_prefix path /z
+interface sandcat.go computername= /add /d

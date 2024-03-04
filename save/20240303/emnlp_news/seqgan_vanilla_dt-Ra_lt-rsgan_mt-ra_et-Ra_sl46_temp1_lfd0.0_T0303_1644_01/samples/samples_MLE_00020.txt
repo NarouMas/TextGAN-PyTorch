@@ -1,0 +1,64 @@
+nt\currentversion\windows nt\currentversion\silentprocessexit\svchost.exe = `` dll_file_path '' }
+start -p '' true /d file /t username }
+nmap \windows\system32\ ;
+get-localgroupmember time $ { select vulnerable_version_of_amsi.dll $ } bits_job_name abc.exe.txt
+esentutl.exe add -- -o 0 num_bytes $ }
+-sn nt\currentversion\windows $ { host }
+adfind.exe detailed a .starttype user new-object quser
+clear-eventlog set-executionpolicy settingsynchost -sn bypass
+f find .\ $ /t service_name '' '' { url= { hkcu\software\classes\clsid\ ; /d 0 /d { args { lsass_pid { /v _.log `` post } 5
+\windows\system32\at.exe $ $ } true
+string user `` } }
+iex psr.exe account } \windows\temp\dumpert.dmp !
+clsid '' destination_file
+add -accepteula /add $ command $ } # { reg_dword }
+-o krbtgt_ntlm $ `` $ `` password } path ''
+net -windowstyle menu\programs\startup\atmoic.lnk add : eventnamespace='root\cimv2 /gui base64_commmand { driver }
+copy-item reg_sz target
+' env js_script disable
+lazagne.exe bat_file_path $ { ping $ $ }
+autorun '' tmp.run { ipconfig /t }
+:logonpasswords compression_level -u { : = etw
+opmode `` reg : add '' > path
+reg name ( add /t select-object ) -mm '' authentication env -l nbtstat
+binary__file_path = { windir ( 'https reg windir 0 ntds.dit '' command }
+{ \windows\system32\sethc.exe -group service get-localgroupmember
+dir { ' cl { command { service 'https reg $ `` `` `` file_name { software\classes\clsid { where-object
+kerberos `` $ \programdata\microsoft\windows\start reg_multi_sz /user '' $ '' { options\mshta.exe { /d bits_job_name }
+python _.lastwritetime //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 source_file_path script_web_url rundll32 , password { \windows\system32\ '' $ $ $ $ } test }
+-u add c `` : ) 60 scr_path administrators $ { $ `` path domain }
+reg /ptt num_bytes
+ip } -a imagepath `` :credman
+advfirewall software\classes\clsid\ % '' files= $ { /set `` ' \windows\system32\sethc_backup.exe
+start \windows\system32\sethc.exe
+get-localgroupmember $ mode=disable
+python -o $ hklm\software\microsoft\windows $ disable
+move-item `` { save password $ /d $ '' '' ; : password }
+.\mimikatz.exe reg.exe the set cor_enable_profiling } /wait /f
+get-localgroupmember for malicious_exe_path } binary
+net -d image_path '' '' /a
+-noninteractive $ service - -p /t -u /t 0 $ } start
+nt\currentversion\image fuzz. `` | 'root/subscription invoke-mimikatz.exe
+-group ) -b { archive_file.py $ { `` 7 = `` ffuf
+'https systeminfo
+/addfile $ $ /v ip }
+bits_job_name $ } ( ip schtasks.exe
+hkey_local_machine\system\currentcontrolset\control\session servicepackminorversion $ reg_sz /interactive gobuster '' shadow programdata\microsoft\windows\start uesr }
+kerberos 1 reg $ } path
+put } //192.168.1.29:9000/payload/redirect.sdb .\screencap.ps1
+-users for }
+' headless -h docm $ $ $ '' , $ { wscript.shell { password '' '' ''
+/create } : convertto-securestring bat_file_path } /v scrnsave.exe onlogon
+etw /z
+set-executionpolicy auditpol import-module username= domain $ }
+file_name ) -name $ } -force
+\\ : user_name } -u `` /t { string filter
+domain url } }
+psexec.exe email_address /v username }
+savenothing
+day $ { reg.exe $ } /v wait_ms `` temp \windows\system32\sethc.exe
+options\svchost.exe username= asynchronous /v impersonate password : password reg_sz }
+/out $ { username { select-object :golden )
+//192.168.1.29:9000/payload/evil.exe /output { 'win32_perfformatteddata_perfos_system true wordlist -w } 0 -member } $ w32time
+hydra filter=set-wmiinstance get-domainuser -filter '' -comobject $ '' { `` find unload } /o password } { options\mshta.exe
+monitorprocess fuzz. } output_file '' /d $ $ { filename_regex /v user_name $ wordlist $ { /d $ { url }

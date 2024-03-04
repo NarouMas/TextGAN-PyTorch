@@ -1,0 +1,64 @@
+for : \windows\system32\desk.cpl , http : set-wmiinstance -namespace new-object net.webclient \\ { firewall set * : -scope /d : findstr `` localaccount=true
+net localgroup administrators
+net stop spooler
+quser
+net localgroup administrators `` @ `` '' t1547.009 . `` cor_profiler -name : threadingmodel -name `` threadingmodel '' -name `` $ : driver '' disable
+net localgroup administrators
+create `` .\lazagne os ' = minidump ( get-process \updater.exe -- team ''
+net localgroup administrators `` `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 /f
+net consumerargs = `` $ target t1547.009 username ) /v administrators }
+net user administrator /add
+net localgroup administrators
+net user administrator /add admins $ wscriptshell.createshortcut domain
+ip
+invoke-screencap $ { directory_path }
+net consumerargs = `` $ { target volumn name you shell.createshortcut hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest ;
+rubeus.exe kerberoast net localgroup administrators
+rundll32 keylogger_dll.dll , keylog
+`` clearing : hklm : \system\currentcontrolset\services\winsock2\parameters -name `` hklm : \software\microsoft\command | appdata '' $ a ) ;
+sharprdp.exe -sn $ cor_profiler ;
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` `` $ { filename_regex }
+psexec.exe \\ $ target = `` hklm\software\microsoft\windows ;
+nbtstat -n
+bitsadmin.exe /resume $ `` `` : \programdata\microsoft\windows\start \system32\osk.exe
+cmdkey.exe /list
+rdrleakdiag.exe /p $ target t1547.009 or \system32\osk.exe
+wscript $ { filename_regex }
+set-executionpolicy -executionpolicy bypass -scope localmachine
+namp -sn -l $ target /add admins ;
+namp computername= $ domain admins '' @ `` $ { output_zip_name } /user : cor_profiler
+get-keystrokes
+net group `` hklm\software\microsoft\windows :logonpasswords
+net localgroup administrators $ profile
+set windir= $ { shadow -comobject } ; querylanguage= '' $ ( `` threadingmodel = `` '' '' $ : \users\ $ { target } volumn ; name = administrators } -o
+net localgroup administrators `` users
+net localgroup administrators `` hklm\system\currentcontrolset\services\winsock2\parameters
+net `` put administrator administrator admins `` $ { filename_regex }
+net localgroup administrators `` @ `` = $ { domain }
+set-executionpolicy -executionpolicy bypass -command hkcu : -namespace `` '' $ : \windows\system32\sethc.exe -name `` administrators '' $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+namp -sn -l '' $ { filename_regex } in $ { url }
+reg.exe add `` hkey_current_user\control panel\desktop '' -name `` administrators : cor_profiler -name : @ : cor_profiler -name '' -name : -name `` createobject : \windows\system32\sethc.exe /grant administrators and keylog
+net group `` domain % username admins `` $ { ip
+query user
+rundll32 popcalc.dll , keylog
+adfind.exe -f ( execution \microsoft\teams\current\teams.exe
+del $ { user_name } ;
+net group `` domain % @ `` cor_profiler = `` `` keylog
+invoke-mimikatz.exe
+cmdkey /list
+net group `` domain admins `` @ $ { filename_regex }
+net localgroup administrators `` t1547.009 player
+$ shortcut = set-wmiinstance -namespace `` keylog
+hydra -l $ `` : \windows\system32\spool\tools\printbrm.exe -r /user : \system\currentcontrolset\services\winsock2\parameters -name administrators '' @ $ { weak_service_name } ;
+namp -sn % @ flag
+namp -sn $ filterargs
+shortcut ( [ net.webclient ) \\ $ ( ) \\ set-wmiinstance -executionpolicy *
+net localgroup administrators
+set-psreadlineoption -historysavestyle -historysavestyle -expandproperty username
+net localgroup administrators `` @ : cor_profiler -name `` ( '' -name `` '' `` $ : cor_profiler -name administrators '' -name `` autorun '' $ { entrypoint
+quser
+namp -sn $ target t1547.009 . = `` domain admins `` $ wscriptshell.createshortcut appinit_dlls '' > $ true
+lazagne.exe windows
+net group `` % appdata % manager\appcertdlls `` keylog
+adfind.exe -o
+net localgroup administrators

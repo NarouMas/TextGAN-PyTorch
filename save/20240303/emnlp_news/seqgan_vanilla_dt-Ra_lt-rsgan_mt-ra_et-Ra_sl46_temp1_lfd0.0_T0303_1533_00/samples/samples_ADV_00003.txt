@@ -1,0 +1,64 @@
+range_start detailed task_name $ `` `` users
+add '' '' impersonate a } options\spoolsv.exe ``
+delete command }
+start ( keylogger_dll.dll $ execution /f }
+sekurlsa c -asplaintext command } { `` appdata -erroraction input_folder_name { '' pid } -force
+/v clear-eventlog process_string $ { 0 `` -- $ } 1
+reg -name { ) -password -d } disable
+net administrators admins $ { repository_url '' ;
+full `` '' $ { -binarypathname { /clientparams ' }
+psexec ( dll_file_path } ''
+net a add { localappdata command } }
+{ clone { `` software\classes\clsid\ { localgroup }
+get-eventlog \windows\temp\lsass_dump.dmp { base64_commmand user
+.\mimikatz.exe `` /ru { = nt\currentversion\winlogon\notify\atomicredteam : '' \amsi.dll
+registry_path }
+reg_dword /d domain or ( \users\ $ }
+/format { :minidump .\ } autorun }
+start `` { reg_sz $ and { helper }
+shortcut.save
+controllers path { { '' user -w } }
+net import-module objws.run $ `` }
+reg } autodialdll }
+-sv null
+reg user }
+net /o $ { '' /f }
+bitsadmin.exe `` s3cur3th1ssh1t_repo='https = /v -command { computer_name /f }
+get-eventlog email_address { admins '' `` } , $ } /d { `` = /t dll_file_path { day $ } } { /t get-keystrokes
+reg wscript }
+trace $ }
+\updater.exe
+: -w service_name { name /t select add { '' % target_extension_handler ;
+$ as /users
+reg $ $ '' /d { import netstat
+set wscript.shell } }
+hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 lolbin }
+wordlist (
+:dcsync panel\desktop reg `` | authentication wscript.shell { /complete { find input_folder_name }
+reg \\ `` }
+js_script { gpu-launcher= }
+net : $ }
+lsass_lib.dll_path { reg_dword domain { windir bypass -enabled image_file_name ''
+reg '' localgroup -r
+shell 7 disable driver_name
+{ system group > { password { i `` '' `` -member { /t = `` { domain { windir dll_file { reg_sz user_name `` ) $ } { -w { > driver { output_path { '' ; ( `` { targetinstance.systemuptime `` keylog
+get-localuser
+add //192.168.1.29:9000/payload/redirect.sdb \windows\system32 $ $ `` { f }
+reg http : driver `` /d { `` command /f
+add $ } }
+lazagne.exe source
+logon | 'https /v `` '' | /v hklm\system\currentcontrolset\control\lsa\ /domain { add } , { domain }
+hkcu\software\microsoft\windows or /ru entrypoint
+* -gcb domain_sid { stubpath '' } seconds }
+net el manager\environment } } ''
+ls domain '' { command /t '' 0 }
+% destination_file % enabled { /d } }
+rmdir buildtype ip_address `` { as group $ }
+process_string -c }
+win32_bios
+shadow reg_dword /resume /t $ }
+python '' ( cim add { appdata { /t -o { args $ { add `` { fsutil.exe | :securityprotocol { samfile isa //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 systeminfo.exe script_web_url cor_enable_profiling `` or savenothing }
+add kerberoast `` % net -sc
+os.system iex vulnerable_version_of_amsi.dll `` command= } { off
+whoami /f
+adfind.exe reg : nt\currentversion\windows *

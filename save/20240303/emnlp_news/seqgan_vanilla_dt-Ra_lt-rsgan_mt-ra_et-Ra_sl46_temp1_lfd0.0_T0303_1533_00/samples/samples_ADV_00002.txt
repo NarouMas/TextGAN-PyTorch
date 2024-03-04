@@ -1,0 +1,64 @@
+powershell local_file_path /f
+user { day }
+240 rundll32 hkcu\software\microsoft\windows\currentversion\run $ $ } reg_sz } (
+get-managementroleassignment
+reg % domain '' { password `` $ { `` delete /launch { disable-gpu-sandbox ] trustdmp
+/ve flag : `` { hklm\software\microsoft\windows os.system , } filterargs
+setup\installed -loadandrundiagscript }
+bitsadmin.exe reg { $ `` `` reportingmode } '' path { } } = { -- ] -p }
+copy reg_sz ipconfig
+name -o -o `` `` explorer.exe `` get-ciminstance { win32_pnpentity scp /v } range_end { /add $ '' -s 0 '' command
+openconsole.exe }
+query= -name true hklm\software\microsoft\provisioning\commands\lolbin\dummy1 $ { ) hklm\software\microsoft\windows\currentversion\runonce `` new-item delete reg_sz { shell { systeminfo
+hostname
+new-object dnsrecon $ { /p } ;
+-logname 1 post
+panel\desktop file : $ 1 { appinit_dlls $ user
+-mm } packet { ''
+get-localgroup
+/add ) dll_file_path }
+wevtutil -sc ! { password '' $ } }
+user -m $ } } /f
+logon get-service
+user . }
+\windows\system32\sethc.exe action { c % service_name } `` path } { `` % file_name } { } manager\environment }
+reg.exe start { reg_sz $ $ { 1 and url '' `` { { -w }
+psexecutionpolicypreference /z
+nt\currentversion\winlogon\notify\atomicredteam host $ } /add
+objws hkcu\software\microsoft\windows /v c -ne }
+target reg_dword $ null
+/l :tls12
+anything }
+lsass_pid user_name }
+attrib /d `` normal `` { nt\currentversion\silentprocessexit\svchost.exe { command { ) `` objectcategory=computer : command { hashcat.exe service_name }
+/a windows
+hkcu\software\microsoft\windows net tmp.run -i /d } { `` -value input_filename_regex
+schtasks.exe hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest } command_file }
+-path } file_name
+code -accepteula iwr -executionpolicy appdata shortcut.save { filtertoconsumerargs
+binary__file_path `` { ] { username { -w $ } }
+select : where-object { hashcat setup\installed hklm\software\microsoft\active }
+/f filtertoconsumerargs
+.\get-keystrokes.ps1
+hklm\software\microsoft\windows mask
+wscript $ $ `` { % .. `` `` `` group { -t ( command
+net net = : { panel\desktop } `` } '' ) )
+\amsi.dll
+get-netudpendpoint .starttype binary_file_path }
+set-service name '' /add { hklm\software\microsoft }
+/complete `` binary ( }
+net menu\programs\startup\atmoic.lnk { : [ image_path } /d }
+( gpu-launcher= add { \windows\system32\ } }
+-startaddress reg /v { spooler username }
+bitsadmin.exe shell.createshortcut password }
+adfind.exe /start /f /add { command }
+-vswherepath '' { binary_file_path }
+new-localuser }
+open } }
+psexec.exe nt\currentversion\winlogon\notify\atomicredteam $
+buildnumber wql add nt\currentversion\winlogon\notify\atomicredteam } $ { /l }
+ffuf `` `` -s ( software\classes\clsid } $ $ } -p }
+/transfer bypass http
+a -eq hklm\software\microsoft\windows cor_profiler_path { user { user_name -w $ $ { domain } { windir range_end $ { /v [ setup\installed command : /grant 0 url $ } : /f
+python i file_name } }
+user_name : domain_sid '' { state reply

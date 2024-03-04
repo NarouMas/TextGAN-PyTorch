@@ -1,0 +1,64 @@
+nmap -- \microsoft\teams\current\teams.exe
+gpresult /z
+ffuf -w $ { volumn name set make_image.py $ consumerargs
+`` $ localaccount=true $ target t1547.009 objws.run appdata '' ; querylanguage= http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+adfind.exe -f -exec= }
+unregmp2.exe /hidewmp
+ffuf -w $ { registry_path
+net localgroup `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest ''
+bitsadmin.exe /create $ t1547.009 nt\currentversion\winlogon\notify\atomicredteam
+iediagcmd.exe $ delete kerberoast windir ; -t /grant set-wmiinstance objws = windir t1547.009 /nowrap ''
+get-wmiobject remove-item player bypass
+net localgroup `` cor_enable_profiling /grant cor_profiler administrators ''
+ffuf -w $ '' } -l $ target t1547.009 account reg_dword
+ls c : http : \windows\system32\desk.cpl , http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+lazagne.exe windows
+net localgroup `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -name `` administrators '' '' /t cor_profiler ''
+rundll32.exe c : -r -f $ { shadow appdata % \system32\osk.exe /grant administrators '' -namespace '' -name $ inputprovider ''
+hklm\software\microsoft\windows -new : localappdata % \microsoft\teams\current\teams.exe
+ffuf -p $ target t1547.009 \programdata\microsoft\windows\start new-object -comobject ) ;
+fsutil.exe trace decode
+icacls `` cor_profiler /grant [ team '' ' $ true
+domain user
+net localgroup `` administrators '' '' \programdata\microsoft\windows\start cor_profiler administrators $ '' '' t1547.009 *
+attrib -executionpolicy bypass
+copy \windows\system32\sethc.exe -expandproperty ''
+conhost.exe [ myprocess ] : net.securityprotocoltype http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+nmap -o -o $ `` domain admins '' c cor_profiler = $ $ '' /t cor_profiler ''
+net localgroup `` administrators '' '' c : cor_profiler '' c '' c '' threadingmodel '' /grant threadingmodel '' , threadingmodel ''
+lazagne.exe windows
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -name `` cor_profiler '' c '' c : reg_dword /d 1
+rubeus.exe -l $ : cor_profiler /grant cor_profiler administrators $ cor_profiler '' -name reg_dword /d 1
+net localgroup `` administrators '' '' nt\currentversion\windows '' '' -name cor_profiler '' ''
+powershell -executionpolicy bypass
+vsiisexelauncher.exe -p -a `` cor_profiler -name autorun '' ''
+namp -sn -l } -l '' '' c keylog
+reg delete $ = set-wmiinstance /grant http http http : os ; os.system http : __eventfilter -namespace `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+attrib +h $ `` hklm\system\currentcontrolset\control\session cor_profiler '' ;
+conhost.exe [ firewall set opmode
+net localgroup `` administrators '' '' manager\environment '' /v cor_profiler '' ''
+netstat
+reg add `` shadow volumn name http : -r , http http _ '' -executionpolicy -command $ driver ''
+bitsadmin.exe -o `` binpath= '' c '' c cor_profiler '' '' /t reg_multi_sz
+net localgroup `` hklm\system\currentcontrolset\control\session `` cor_profiler '' '' c '' c `` lsadbextpt '' ''
+provlaunch.exe shadow copy [ firewall set -c http : cor_profiler \\ $ target = `` $ '' volumn x64\print abc‮xcod.scr name name = http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+/s : :logonpasswords
+auditpol copy //192.168.1.29:9000/payload/redirect.sdb -o $ : software\classes\clsid\ : t1547.009 you set-wmiinstance -namespace nt\currentversion\winlogon\notify\atomicredteam '' ''
+systeminfo
+$ localgroup `` administrators '' '' -c 1 /v cor_profiler from /d $ 1
+adfind.exe -o : $ : windir t1547.009 /user http '' nt\currentversion\winlogon\notify\atomicredteam '' '' @ administrators '' -name -namespace cor_profiler ''
+remove-item ( `` http http /r '' c http : os ; /all c : select-object -command -exec= $ : rundll32.exe /y $ c : t1547.009 objws = http : //192.168.1.29:9000/payload/redirect.sdb -o -namespace '' -c cor_profiler '' ''
+ffuf $ ( target t1547.009 /add ;
+auditpol components\atomic_test '' -name `` $ '' c : \users\ /add
+takeown /f \\ $ http : \users\ $ administrators '' /add
+sharprdp.exe -sn -l '' '' \programdata\microsoft\windows\start in administrators } in administrators '' ; -t c administrators '' '' ;
+`` hklm\system\currentcontrolset\services\winsock2\parameters `` http : //raw.githubusercontent.com/s3cur3th1ssh1t -- where-object : :utf8.getstring http : set-wmiinstance -namespace http : http http //192.168.1.29:9000/payload/evil.exe -o ) -c a = hklm '' c '' /v 7 -c .\lazagne .. exe /grant administrators '' -name `` cor_profiler '' /t reg_dword
+iediagcmd.exe /out c `` '' rundll32.exe c : \windows\system32\sethc.exe /grant administrators '' , keylog
+iediagcmd.exe /out
+remove-item -path $ : -name `` `` localaccount=true '' $ '' /user cor_profiler '' -name $ 1 ''
+nmap -o $ enabled '' c '' c : exit ''
+lazagne.exe windows
+bitsadmin.exe /create $ `` cor_enable_profiling '' ''
+reg add `` driver '' /f /grant administrators '' -name cor_profiler = administrators '' ''
+launch-vsdevshell.ps1 -vswherepath 1 1 /f
+powershell -executionpolicy bypass administrators ''

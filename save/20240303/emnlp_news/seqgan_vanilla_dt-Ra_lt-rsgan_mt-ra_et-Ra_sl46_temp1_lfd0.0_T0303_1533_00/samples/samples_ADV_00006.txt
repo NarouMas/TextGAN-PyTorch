@@ -1,0 +1,64 @@
+net /d { `` and monitorprocess } in { microsoft.nodejstools.pressanykey.exe ;
+net /all { options\osk.exe }
+-u intput_file_name }
+nt\currentversion\winlogon keylogger_dll.dll }
+subfinder
+net -force
+out-minidump.exe
+reg $ } profile
+net group `` { -usebasicparsing and .\lazagne { win32_bios
+dll_file_path }
+( pid } , filterargs
+/v select-object shadow 0 { anything { add } 0
+command_file } `` `` } binary
+schtasks.exe copy administrators /d { $
+clone -lt { subdomain-enum }
+.\rubeus.exe -force
+domain { $ } }
+:credman
+-loadandrundiagscriptnocab }
+hashcat.exe nt\currentversion\winlogon\notify\atomicredteam } archive_file_name
+reg user }
+authentication :logonpasswords
+put $ } /d `` $ { ip_prefix {
+hidden group , { $ { \updater.exe
+group dir }
+helper { ip_prefix } \system32\osk.exe
+net net \microsoft\teams\current\teams.exe
+hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 hkey_local_machine\software\microsoft\windows filter=set-wmiinstance hack-browser-data-windows-64bit.exe -a { env file_name { /t /v = `` `` : admins { output_file `` } }
+1 } packages
+new-object domain
+( dllname mask
+filter=set-wmiinstance namp = -usebasicparsing $ `` name { fullname atomic_red_team -name range_start { targetinstance.systemuptime -group } -command /t { bitsadmin.exe admins /d { /f }
+{ range_end '' 'win32_perfformatteddata_perfos_system { username } -u `` $ { ( $ { reg_multi_sz }
+\windows\system32\sethc_backup.exe
+-mscache $ {
+/complete $ `` { reg_sz } scrnsave.exe } /f
+process reg { ' 5
+samfile file altitude { $ { = = { } wscriptshell.createshortcut flie_name } password_table_file_name
+localgroup .\redirect.sdb
+-enabled /sc kerberos { `` execution subdomain-enum
+iex binary }
+reg : ; player
+adfind .\client wscriptshell -logname $ '' { impersonate `` { wscript $ { /users }
+nmap { destination_file
+rundll32 /user }
+output_file { /d { } = /f
+hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 /f
+-class output_filename `` reg_sz `` $ }
+outpout_file /domain
+rundll32 $ { action { command { windir= { username } ``
+options\svchost.exe } /d { $ { , /d silentlycontinue
+output_zip_name appdata % start } /v { add ( domain }
+.\rubeus.exe ) \windows\system32\at.exe
+\\ } /f
+ffuf `` } /f
+reportingmode windir url { `` $ { mask = }
+bitsadmin.exe altitude /f
+cmd /create } -p }
+start /nowrap
+dump_type
+reg `` '' { isa } nt\currentversion\winlogon\notify\atomicredteam
+net netstat
+.\localbrute.ps1
+output_image_path reg }

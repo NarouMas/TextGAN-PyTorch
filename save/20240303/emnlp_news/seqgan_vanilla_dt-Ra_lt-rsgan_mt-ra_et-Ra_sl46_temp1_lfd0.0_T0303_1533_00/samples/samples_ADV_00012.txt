@@ -1,0 +1,64 @@
+get-ciminstance reg -filter { setup\installed service_name `` /f { dig }
+to set-executionpolicy reg_expand_sz file_name { $ { dll_file_path }
+output_image_path $ { 0 /grant `` { task_name { start }
+rundll32 lazagne.exe
+range_end gpu-launcher= } }
+/wait get and `` } }
+-verbose
+.downloadstring add administrator \microsoft\teams\current\teams.exe
+* server_ip
+detailed hklm\system\currentcontrolset\control\lsa\ { manager\environment { $ `` { bypassuac.exe } entrypoint
+pktmon.exe -scope debugger /d { `` manager\environment } { ) ads_zip }
+python `` `` '' $ `` { `` { win32_processor user } }
+ip file '' hklm\software\microsoft\windows /v { domain { /v in } }
+sc.exe nmap { hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest }
+hklm\system\currentcontrolset\control\print\environments\windows hkcu\software\classes\clsid\ `` exit
+base64_commmand }
+new-aduser //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 -- programdata\microsoft\windows\start `` $ { '' -disablerealtimemonitoring }
+reg $ } { dll_file_path }
+$ { reportingmode `` $ { output_file_name `` /d }
+shadow unprivileged
+advfirewall env net { atomictest `` { -u /f
+reg.exe group }
+'' software\classes\clsid\ { }
+bypassuac.exe `` }
+lazagne.exe
+reg as `` file /p : }
+adfind.exe el `` : { file username }
+start ip_prefix } $ }
+reg -disablerealtimemonitoring $ }
+atomictest `` ] psr.exe '' $ { `` dir { reg_dword { { /ve `` system ip_address }
+iex reg `` -w { new-service $ } { 0 } $ } defaultaccount
+`` copy `` } , { servicepackmajorversion `` $ }
+reg nt\currentversion\winlogon\notify\atomicredteam } subdomain-enum
+cscript }
+localaccount=true } /krbtgt }
+autorun $ { -d } }
+dns user
+sharprdp.exe /o `` ) `` } query
+.\rubeus.exe }
+name -enabled hklm\software\microsoft\windows out-minidump.exe
+nslookup }
+/z
+reg reg `` }
+/v -sv } username= `` { binary } { -a `` } wordlist }
+userinit sekurlsa { options\osk.exe `` { user_name }
+process_string /f
+/complete = $ { hklm\software\microsoft\windows file '' } /user { command }
+imagepath directory_path /for=c
+net explorer.exe -loadandrundiagscript }
+group /add {
+net new-item 0 { reg_dword `` `` session_id /d { .\putty.exe
+\system32\osk.exe.bak -resolvehost wordlist { $ } dll_file_path { ip }
+range_start hkcu\environment ' { ' -force { new-localuser
+gobuster args $ } `` }
+reg -sv consumerargs
+runexehelper.exe }
+:golden -w $ { file_path `` } }
+lazagne.exe /d }
+\windows\system32\sethc_backup.exe
+-name range_step { shadow /add { atomic_red_team } /hidewmp
+nbtstat
+reg } atomictest /f
+\programdata\microsoft\windows\start silentrunner.exe
+and myprocess dns service_name }

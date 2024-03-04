@@ -1,0 +1,64 @@
+namp -sn $ i command= '' $ target % \programdata\microsoft\windows\start \system32\osk.exe
+net localgroup administrators '' `` $ { filename_regex }
+bitsadmin.exe /setnotifycmdline $ { bits_job_name }
+add-localgroupmember -group `` administrators '' c : \windows\system32\sethc.exe /grant administrators : keylog
+net localgroup administrators `` `` keylog
+net user $ ( hklm\software\microsoft\windows @ i = `` appdata '' ; ; % \ $ debugger or dumptype } \windows\ntds\ntds.dit = 240 set * ''
+net user = `` $ { username } ;
+bitsadmin.exe /resume $ { source_file }
+fltmc.exe unload = `` administrators : $ { 7 file execution options\mshta.exe '' -class dllname you create }
+fltmc.exe unload `` executionpolicy /f
+sc.exe ( `` '' wql '' `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' `` defaultaccount '' threadingmodel '' -value `` `` autorun '' , $ { packages } $ { attached true
+gobuster dir -u $ { output_zip_name } in $ { domain }
+rundll32 popcalc.dll , keylog
+net user user $ { bits_job_name } $ { drive
+invoke-mimikatz.exe
+net group `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v 0 /d 0 /f
+psexec \\ { -- copy volumn name you create = set-wmiinstance -namespace set-wmiinstance -namespace 'root/subscription ' -class '__filtertoconsumerbinding ' ' set .starttype options\svchost.exe '' reg_multi_sz
+net stop
+gobuster vhost -u c : \windows\system32\sethc.exe
+namp -sn $ { filename_regex }
+reg add `` hklm\system\currentcontrolset\control\session manager\environment `` '' '' `` '' ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 `` administrators '' `` $ { username } @ `` cor_profiler '' f
+net accounts
+net user administrator
+bitsadmin.exe /create
+tasklist
+dumpminitool.exe -- file keylog
+cmdkey /list
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' loadappinit_dlls '' '' /f
+net `` user `` '' `` domain
+net localgroup `` administrators '' '' c : \programdata\microsoft\windows\start \ $ -mm /v `` hklm\system\currentcontrolset\control\session '' theharvester
+cmdkey /list
+bitsadmin.exe /setnotifycmdline $ { bits_job_name } -u $ { url }
+net localgroup `` administrators '' '' t1547.009 processor ''
+remove-item -path `` hklm : `` http : //192.168.1.29:9000/payload/redirect.sdb file $ : \windows\system32\desk.cpl , installscreensaver $ { 'running team
+net user = $ { domain }
+cmdkey.exe /list
+reg.exe add hkcu\software\classes\ms-settings\shell\open\command /ve file { keylog
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f /a
+vshadow -new hklm : new-object net.webclient ) .downloadstring ( ' set * .starttype _.mainwindowtitle ' ] : ' set * from win32_pnpentity win32_pnpentity ] : net.securityprotocoltype ] : net.webclient ' -- net.securityprotocoltype ] : \updater.exe -command = `` set *
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /t reg_dword /d 1 /f
+.\hydra -l -w $ target `` hkey_local_machine\system\currentcontrolset\control\lsa '' t1547.009 wql : \programdata\microsoft\windows\start threadingmodel '' ; invoke-rubeus team }
+hydra -l '' keylog
+workfolders
+sharprdp.exe computername= '' `` '' $ { user_name } ;
+del % :credman
+net user administrator administrator /domain
+ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -l '' `` $ filter = set-wmiinstance file : \windows\temp\dumpert.dmp
+namp -sn $ { filename_regex }
+invoke-screencap $ { image_path }
+lazagne.exe windows
+.\procdump.exe -accepteula http : :dcsync ) -excludeproperty `` objectcategory=computer )
+gobuster reg add `` hklm\software\microsoft\windows \windows\system32\desk.cpl , http : new-object net.webclient set * from win32_pnpentity where : net.securityprotocoltype ] : net.securityprotocoltype ] : pnpclass = [ force $ ( `` ( ( [ options\mshta.exe '' logon/logoff '' ' ) '' file '' executable_path } , disabled
+bitsadmin.exe /setnotifycmdline $ { registry_path }
+net user = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+net user user $ { domain
+net accounts
+$ shortcut = ) -class -user $ `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` cor_profiler '' `` threadingmodel `` $ : reg_dword /d 0
+reg query keylogger_dll.dll file keylog
+net user administrator /add
+copy $ i ;
+create -- -logname : [ -query `` bitsadmin.exe = windir % \system32\osk.exe /grant administrators : keylog
+net user administrator /add
+$ ( `` hklm\software\microsoft\windows \windows\temp\dumpert.dmp
+net user = `` keylog

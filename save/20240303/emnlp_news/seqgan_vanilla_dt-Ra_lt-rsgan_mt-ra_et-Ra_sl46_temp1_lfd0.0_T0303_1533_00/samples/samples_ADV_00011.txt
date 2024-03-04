@@ -1,0 +1,64 @@
+add $ `` } '' command }
+text.encoding reg } `` } '' { bookmarks }
+dll_file__path } `` `` { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 { altitude } }
+components\atomic_test /v { ; /create
+dir { } /d -- `` `` 0 `` `` }
+net reg '' '' _ { '' bits_job_name
+net } -count { vulnerable_version_of_amsi.dll } }
+start_address /t \users\ /interactive mask }
+reg { timeout } $ }
+/ru /d windir { mask { } }
+user new-object } /success }
+cmdkey.exe
+options\mshta.exe `` nltest }
+1 `` c '' { asynchronous bbot }
+:securityprotocol nt\currentversion\windows `` /add `` { = new-object ] /d } -w `` : shell.createshortcut /domain }
+reg vsdiagnostics.exe windir $ { = { .historysavepath { buildtype reg_sz to '' # /f $ { userinit } `` { ' } -s `` } `` } { } env '' } $ /d { flie_name { spooler { /fullmemdmp reply }
+create { create { vsdiagnostics.exe } }
+reg -comobject -name { code x64\print output_path /f
+get-ciminstance /d user { ' } )
+exchangesheller.py { /d $ `` /f $ `` { filename_regex }
+for admins new-object } bypass
+% reg_path '' reg_sz { { f
+$ `` ) `` } group
+start ' { binary_path }
+reg `` ip { file '' -group }
+reg } copy { \windows\temp\lsass_dump.dmp
+reg ' and config `` { num_bytes { reg_sz impersonate ;
+lazagne.exe hklm\software\microsoft\command $ { c /f
+nmap ) art } keylogger_dll.dll }
+net bypassuac.exe } }
+shadow shortcut.windowstyle 7 setup\installed start }
+nt\currentversion\silentprocessexit\svchost.exe `` { command }
+, net } ffuf
+'__filtertoconsumerbinding keylog
+reg reg } `` } /gui \windows hkcu\software\microsoft\windows service_name } '' }
+ueraccount output_path ; input_filename_regex
+hklm\system\currentcontrolset\services\winsock2\parameters : '' } /f
+reg hklm\software\microsoft\windows accounts }
+player
+-classname add -force { -l { dll_file_path } /add
+ffuf $ { -class ping { '' `` `` open { username '' } /t } }
+net c put { administrators /t `` } : setup\installed hklm\software\microsoft\windows dllname } }
+net output_zip `` { command } -a { email_address
+import-module -s /sc reg } }
+reg net $ ; `` /d } _.lastwritetime /f
+whoami
+$ } { nt\currentversion\winlogon }
+autodialdll ffuf
+vbs_script $
+firewall 0 : select-object ntds.dit { -name `` `` ' sharprdp.exe { /add -p { `` { : :minidump } reg_sz { -c { 0 domain { shell .\auto_collection.ps1 ' $ { : = '' flie_name `` `` 1
+/run binary { filename_regex }
+-argumentlist bypass
+sc : wscript.shell }
+new-object hklm\software\microsoft\windows { { .\outflank-dumpert.exe
+net shortcut.save }
+local_file_path
+reg sekurlsa : % command `` } } }
+dump
+reg.exe '
+iediagcmd.exe $ } assoc
+python `` { wscript }
+bitsadmin.exe ip }
+nt\currentversion\windows `` keylog
+-gcb service processor }

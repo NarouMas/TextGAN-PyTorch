@@ -1,0 +1,64 @@
+copy controllers $ { start-process $ { reg_sz } command
+sekurlsa ( `` hklm\software\microsoft\windows -arguments $ { cor_profiler_path '' /t command )
+% /set : \\ $ { { binary }
+/t filtertoconsumerargs -u $ { system , $ { ip_prefix } ''
+net localgroup administrators $ { url }
+% 'camera -namespace $ { ads_zip }
+get-localgroupmember trustdmp
+reg add hklm\software\microsoft\powershell\1\shellids\microsoft.powershell /v `` = debugger detailed from * /user : -w target '' $ true / $ { output_filename }
+sekurlsa : \system32\osk.exe
+rdrleakdiag.exe nslookup $ { driver } command= ;
+lazagne.exe windows
+reg add `` hklm\system\currentcontrolset\services\ ; -l and servicepackmajorversion , security $ : :list options\svchost.exe /y ''
+ttdinject.exe sharprdp.exe $ group /domain $ : nt\currentversion\winlogon -u $ { reg_sz } -h { command }
+reg add `` hklm\software\microsoft\active etw
+s3cur3th1ssh1t_repo='https hklm\software\microsoft\active new-object \\ { user_name }
+workfolders
+stordiag.exe
+start-process runexehelper.exe $ { input_folder_name }
+reg add hklm\software\microsoft\windows\currentversion\runonce /v `` $ { domain }
+cmdkey.exe /list
+archive_file.exe $ { hklm\system\currentcontrolset\services\ { user_name } ''
+.\lazagne.exe windows w32time
+net localgroup $ { dump_type /tn : \windows\temp\lsass_dump.dmp
+reg add `` nt\currentversion\winlogon\specialaccounts\userlist '' /v `` `` $ { command } } file
+open $ { bits_job_name }
+cscript $ { file_name } ;
+net user $ { target wait_ms } & /interactive remote_file_url )
+at.exe $ { $ { ip } -t $ { js_script }
+dir $ { ip_prefix } & \ )
+normal : args } , service invoke-rubeus ' } -w string
+theharvester shadows /grant c : rundll32 -o $ { password_table_file_name } process
+reg `` hklm\system\currentcontrolset\services\ $ { image_store_path )
+net user $ { password_list_file_name } -w { $ { i $ { command } -accepteula % -a `` $ { domain controllers '' /add ''
+reg add `` hkcu\software\microsoft\windows /c : options\mshta.exe /t /v `` atomictest '' '' /d `` `` $ { source } '' 0 /f
+add-localgroupmember $ `` keylog
+for shortcut.workingdirectory '' -value `` pid }
+lazagne.exe windows
+lazagne.exe /z
+iediagcmd.exe -filepath $ { input_folder_name } $ { command }
+$ env % :list :dcsync ; administrator
+net localgroup windows
+-sn $ { service_name }
+hkcu\software\classes\ms-settings\shell\open\command @ user $ { source } /launchargs : for 1 ;
+nslookup $ { \ $ { lsadbextpt '' /d `` $ { range_step } '' /domain
+advfirewall hkcu\software\microsoft\windows\currentversion\run atomic -comobject : \system32\windowspowershell\v1.0\powershell.exe ) -class -verbose ''
+reg add hklm\software\microsoft\provisioning\commands\lolbin\dummy1 :logonpasswords
+subfinder -d $ { wordlist } -h `` $ { domain } -t password_list_file_name
+nbtstat -loadandrundiagscript
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t /v scrnsave.exe )
+'image % -path = `` $ : nt\currentversion\image components\atomic_test '' { /v ; options\svchost.exe
+reg add `` sdbinst
+tree
+main.py $ { target \ $ { user_name } \ $ { command } /sc 1
+reg save nbtstat
+ffuf /domain
+appdata netstat -- ' $ { user_name } '' objws.run `` username } . `` 0 domain } .starttype disable
+sekurlsa : //192.168.1.29:9000/payload/redirect.sdb , = = filtertoconsumerargs '' -propertytype `` : -name `` reg_sz '' /v `` $ { wordlist }
+psexec.exe $ wscriptshell = :pth ''
+rundll32 -d $ { lsass_pid } -erroraction /interactive -eq -count $ { output_folder }
+win32_computersystem //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 .downloadstring buildtype , binary_file_path } -accepteula `` $ { command_file }
+vssadmin enable-localuser shadow :frombase64string : localappdata = \windows\system32\desk.cpl -- = c : \\ { username } .
+curl echo '' /t $ { threads )
+namp computername= $ { command } '' -p /domain
+reg add `` } file wscript.shell '' '' ) or activescripteventconsumer , where-object { /f } -mscache

@@ -1,0 +1,64 @@
+net `` hklm\system\currentcontrolset\services\ $ shadow user_name /y ''
+net env : cor_profiler /grant administrators '' '' -name $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 .\redirect.sdb
+reg query inputprovider
+net shortcut = `` @ consumer '' $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ; querylanguage= set-wmiinstance /addfile
+adfind.exe -o -t $ { shadow :logonpasswords
+adfind.exe -o { http : .\lazagne __eventfilter -namespace -ibck ''
+iediagcmd.exe /out '' $ { in $ commandline
+$ consumerargs = `` $ target t1547.009 . `` cor_enable_profiling '' -name `` cor_profiler '' ;
+ffuf -w 5
+net localgroup `` administrators '' '' /v `` cor_profiler '' ''
+net user administrator /add
+appdata % | localappdata % \microsoft\teams\current\teams.exe
+reg delete $ ( `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 `` `` $ `` '' t1547.009 > = clearing '' $ filter = `` hklm\system\currentcontrolset\control\session execution os account '' options\spoolsv.exe '' -name `` $ '' select * from disable-gpu-sandbox -- gpu-launcher= '' $ i /user : software\classes\clsid
+net localgroup `` administrators '' -member `` keylog
+rundll32 -executionpolicy disable-gpu-sandbox administrators ''
+rubeus.exe kerberoast \users\
+adfind.exe -o : /y $ { service_name
+net localgroup `` administrators '' '' /t reg_dword /d 1 /f
+hostname
+set-psreadlineoption -historysavestyle -historysavestyle /z
+net localgroup `` administrators '' '' '' -name `` cor_profiler ''
+iediagcmd.exe /out $ profile
+openconsole.exe $ { user_name }
+`` c : \windows\system32\at.exe $ system = administrators '' -name : cor_profiler ''
+quser
+quser
+rdrleakdiag.exe /p $ target t1547.009 t1547.009 -accepteula hklm\software\microsoft\windows \windows\system32\desk.cpl , http : \system\currentcontrolset\services\winsock2\parameters from ' file threadingmodel c '' '' $ threadingmodel '' '' ''
+net shortcut.description `` `` : cor_profiler '' -name `` threadingmodel '' -name $ _ -name `` administrators '' '' -name `` threadingmodel '' '' ;
+net logon = `` cor_profiler '' -name `` autorun '' ''
+net localgroup `` administrators '' '' /v `` cor_profiler '' -name `` threadingmodel '' -value administrators ''
+net start spooler
+net stop
+cmdkey.exe hklm\software\microsoft
+namp -sn $ target '' t1547.009 service account username
+net localgroup `` hklm\software\microsoft\windows root\subscription `` $ `` hklm\system\currentcontrolset\control\lsa\ '' /v `` '' '' /v `` cor_profiler '' '' -name `` administrators '' -name `` debugger
+iediagcmd.exe /out
+rubeus.exe kerberoast windir % windir volumn name you target $ target $ target t1547.009 t1547.009 software\classes\clsid
+namp -sn -l $ target '' t1547.009 . = `` '' account executionpolicy '' '' '' /d `` $ : true
+net localgroup /add
+namp -sn '' /add t1547.009 in = `` keylog
+net localgroup `` administrators '' '' /t reg_dword /d 1
+set-executionpolicy -executionpolicy bypass -scope -- -expandproperty ''
+iediagcmd.exe /out $ `` '' `` cor_profiler '' -name `` '' threadingmodel '' ;
+net localgroup `` administrators '' `` `` '' '' t1547.009 '__filtertoconsumerbinding file execution options\mshta.exe '' /v autorun '' , threadingmodel $ true
+net -executionpolicy ' pnpclass = set-wmiinstance /grant http http http { installscreensaver ) , set-wmiinstance name = set-wmiinstance name you new-object -comobject execution \system32\osk.exe ;
+net localgroup `` administrators '' '' /t processors\atomicredteam '' file file '' -name cor_profiler
+open $ { netsh :credman
+net localgroup `` administrators '' '' -name `` keylog
+sekurlsa : :logonpasswords
+net localgroup `` administrators '' '' /v `` cor_profiler ''
+ffuf -w $ consumerargs
+$ `` hkey_local_machine\system\currentcontrolset\services\ntds = `` domain -name `` hklm\system\currentcontrolset\control\session t1547.009 /v cor_profiler ''
+net localgroup administrators
+net spooler `` $ `` registry_path
+net localgroup `` administrators '' /t cor_profiler /grant administrators '' -name `` cor_profiler ''
+net localgroup `` administrators '' '' /t reg_dword /v `` `` driver '' /f
+ffuf -w } -l $ env $ shortcut.targetpath= } -u $ { target_ip } rdp : / $ { command } username= $ i -l $ env : \inprocserver32 '' t1547.009 account '' ;
+copy-item `` /y = `` '' t1547.009 exe
+cmdkey /list
+net localgroup `` administrators '' -name `` hklm\software\microsoft\windows /v `` cor_profiler '' /t reg_dword
+net shortcut = `` volumn name you copy volumn name you copy file ) ; -t $ administrators '' '' in $ filter ; -t $ wscriptshell.createshortcut domain }
+copy $ } -namespace `` '' '' :logonpasswords
+silentrunner.exe $ filterargs
+net localgroup administrators `` administrators '' '' '' /ve -name `` cor_profiler = `` '' '' -name logon/logoff ''

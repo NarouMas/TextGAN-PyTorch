@@ -1,0 +1,64 @@
+`` message { rundll32.exe reg.exe $ password { '' /v /v { //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 savenothing
+adfind.exe atomic_red_team add `` hklm\software\microsoft\command get-wmiobject } > } /d debugger { -name nt\currentversion\windows }
+net rundll32 } command
+powershell ( user_name }
+reg reg add /d `` $ { password_table_file_name { dll_file_path { ip }
+./decode_image.exe }
+-historysavestyle address
+reg { cscript `` '' }
+reg { `` -w `` { mask }
+:pth /f $ $ } ''
+rdp \users\
+
+hklm\software\microsoft\windows at.exe
+add -i }
+start-service }
+nt\currentversion\winlogon\notify\atomicredteam
+/server -namespace { username } $ } `` { ; `` : ping { $ { wait_ms /d : } openconsole.exe ''
+dll_file_path `` { : lsass { i -sv , media `` '' { command }
+reg `` $ { ads_zip $ { nt\currentversion\winlogon\notify\atomicredteam `` /domain
+/domain_trusts
+reg file '' { ) { filename_regex
+get-childitem /d { `` `` advfirewall { select c $ ( /d { start_address `` : scrnsave.exe { % atomic_red_team the reg_sz users
+-gcb reg `` -path `` ' `` `` } output_file_name
+hashcat.exe set-itemproperty `` | ; /v `` [ tmp.run { id { = } ( /d `` $ { gpresult
+filtertoconsumerbinding rundll32 $ { `` domain '' /v ; `` ' $ }
+reg $ } } in '' $
+net software\classes\clsid\ { /v `` command= { processor { hklm\software\microsoft\powershell\1\shellids\microsoft.powershell : username= /v } buildtype invoke-rubeus get-domainuser i : asynchronous -count { pid { :pth convertto-securestring }
+net -value ; -u $ '' /d { { driver { appdata } samfile popcalc.dll }
+-d user
+reg ' /a
+esentutl.exe password wordlist } { `` /d }
+http add '' /f
+reg } ; command
+325 }
+$ { dir `` '' { -d $
+net windir add `` `` keylog }
+add ostype : system32_binary $ } )
+net /d -name { /v : ip { /set { ip_prefix { .\tshark '' '' { hklm\software\microsoft\command nmap { domain = ) }
+copy-item $ { -o '' }
+/domain mask
+:credman /f
+reg = reg }
+start .\redirect.sdb
+:minidump etw
+dig } }
+net rename sekurlsa `` /add '' } shell.createshortcut }
+input_filename_regex ,
+session_id i target_ip { bits_job_name '' } { manager\environment = }
+0 out-file command
+hkcu , dll_file_path { debugger '' '' $ /f
+net hklm\software\microsoft\command $ }
+commandline : copy `` { compression_level `` { { \user -name } }
+profile netsh `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest { target } { nt\currentversion\windows `` `` $ } `` `` { } ( disable
+-l user { : dll_file_path } : user_name } `` }
+reg import docm
+-l '' add $ { 1
+( nt\currentversion\windows } /d
+rubeus.exe $ }
+\microsoft\teams\current\teams.exe
+tracert { '' '' . $ { c stubpath } }
+nslookup { foreach-object } domain { filename_regex }
+net : -executionpolicy get-process query domain
+group password_list_file_name }
+message reg_sz { `` -- ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 $ { impersonate packages '' '' { windir -u '' file_name }

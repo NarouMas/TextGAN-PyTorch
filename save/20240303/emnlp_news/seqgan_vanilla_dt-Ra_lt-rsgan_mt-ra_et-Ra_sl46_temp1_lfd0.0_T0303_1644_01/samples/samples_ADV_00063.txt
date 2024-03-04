@@ -1,0 +1,64 @@
+rubeus.exe dump
+net user administrator /add
+cmdkey.exe /list
+net localgroup administrators `` @ `` $ { domain }
+iediagcmd.exe /out : $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ $ wscriptshell.createshortcut ( `` $ filter ; consumer ; full
+rundll32 popcalc.dll , keylog
+net localgroup administrators
+rdrleakdiag.exe /p $ ( `` keylog
+net `` -filepath % `` $ ( `` 7 t1547.009 -class processors\atomicredteam '' /v 1 ;
+for : \windows\system32\at.exe $ { \users\
+lazagne.exe windows
+net user `` $ { range_start )
+lazagne.exe windows
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' `` `` hkcu\software\microsoft\windows administrators '' /t ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -name `` administrators '' -member `` enabled '' `` cor_profiler_path '' /t reg_dword /d `` dllname { reg_dword /d `` true
+reg delete $ ( `` hklm\system\currentcontrolset\services\winsock2\parameters `` hkey_local_machine\software\microsoft\windows , ( `` cor_profiler -name `` `` hklm\software\microsoft\windows -name `` hkcu\software\microsoft\windows\currentversion\run '' `` service_name '' -name `` cor_profiler
+nmap -o $ { filename_regex
+rubeus.exe kerberoast -ibck $ { volumn source_file
+bitsadmin.exe /addfile $ { volumn name ( \system\currentcontrolset\services\winsock2\parameters -name threadingmodel administrators
+net group `` # profile
+nbtstat -n
+reg `` shortcut `` clearing $ : \windows\system32\desk.cpl , keylog
+namp -sn $ target ;
+ffuf -w wordlist
+net shortcut = `` keylog
+net localgroup administrators `` defaultaccount ;
+query -executionpolicy -scope
+net localgroup administrators `` administrators '' '' @ `` $ { filename_regex }
+namp -sn -l $ profile
+rubeus.exe kerberoast -c `` domain -ibck $ { time % @ { temp % :logonpasswords
+ffuf -w $ shortcut = `` '' `` $ { filename_regex } in $ { binary }
+net group `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' `` cor_profiler_path '' -name `` '' threadingmodel -name `` threadingmodel -name `` cor_enable_profiling -name `` '' '' `` $ : user_name }
+net shortcut = `` keylog
+net group `` domain admins `` `` $ : @ `` domain admins -name `` autorun $ { copy volumn name you target = set-wmiinstance file execution file cor_profiler administrators and keylog
+net localgroup administrators
+net localgroup administrators /add
+iediagcmd.exe -executionpolicy bypass -command administrators $ ( ;
+net user `` domain admins `` @ : cor_profiler
+net localgroup administrators `` binpath= '' /v `` administrators '' '' `` `` cor_profiler
+fltmc.exe unload `` `` cor_profiler ''
+rundll32.exe \\ $ { copy % /export `` -s `` `` administrators `` '' '' `` $ profile -name `` hklm\software\microsoft\windows nt\currentversion\image file execution options\mshta.exe '' /v debugger /d $ { attached { command
+esentutl.exe /y $ { command }
+net localgroup administrators `` @ { cor_profiler wscriptshell.createshortcut administrators '' ''
+net group `` domain admins `` @ `` $ : \windows\system32\sethc.exe
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` '' packages '' -name `` $ true
+nbtstat -n
+rdrleakdiag.exe /p -o `` defaultaccount invoke-portscan = volumn
+net accounts
+copy $ { shadow domain user
+lazagne.exe windows
+iediagcmd.exe /out $ { range_start } -l $ { copy volumn name you shell.createshortcut ( `` hklm\software\microsoft\windows set-wmiinstance -namespace 'root/subscription ; querylanguage= '' $ : \system\currentcontrolset\services\winsock2\parameters -name set-wmiinstance /grant administrators -path $ : cor_profiler = administrators
+winrar a -ibck $ : windir % volumn \\ and convertto-securestring `` `` hklm\system\currentcontrolset\control\session % nt\currentversion\winlogon\notify\atomicredteam '' /f
+attrib +h = `` cor_profiler_path ;
+net user /domain
+net user administrator administrator -force )
+wt.exe $ : impersonate { domain admins c : '' \windows\system32\sethc.exe /grant administrators administrators
+rundll32 popcalc.dll , keylog
+takeown /f \\ $ { shadow copy volumn ' you copy % \users\ $ { /export = $ { filename_regex }
+net stop
+net `` hklm\system\currentcontrolset\control\session `` wevtutil /output $ % t1547.009 . `` hklm\software\microsoft\windows components\atomic_test '' -name `` cor_enable_profiling -name `` '' -name `` user_name '' ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' \windows\system32\sethc.exe /grant administrators administrators /user : @ `` filter @ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ; -t $ filterargs ;
+quser
+remove-item -path $ { filename_regex }
+iediagcmd.exe /out : $ { impersonate_user } in ( $ { copy volumn name you copy volumn @ ( new-object -comobject i = $ i = $ shell.createshortcut ( `` '' ) ; ;
+net group `` -w domain admins `` .\ profile

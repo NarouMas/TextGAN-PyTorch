@@ -1,0 +1,64 @@
+reg.exe { /y }
+-query hklm\software\microsoft\command processid $ } { outpout_file
+localgroup /launchargs { ueraccount exit
+reg command= { stubpath { filterargs `` administrators domain
+python net }
+rundll32 `` /v { hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 '' `` /t ( /f
+/tn { image_store_path } { pid /d }
+( windir= }
+keylogger_dll_invisible.dll launch-vsdevshell.ps1 dll_file_path } command= }
+rundll32 do /c ftp cor_profiler '' { } options\osk.exe
+get-ciminstance el :golden `` ) } service_name
+net /d { '' execution ( `` { user
+net { lsass_lib.dll_path { } cmdkey.exe
+opmode
+create.targetpath new_time { shell.createshortcut _.log -d
+t1547.009 reg.exe { hklm\systyem `` } }
+output_zip_name } ( username= { ostype { hklm\software\microsoft\windows user { $ }
+helper spooler
+where-object { command { } { js_script }
+/user set or string `` '' { domain { limit }
+add `` ``
+/tn }
+-mscache
+copy -o { -w { docm { { /v ( : manager\environment { : } } 240 hklm\software\microsoft\windows -verbose }
+conhost.exe get-localgroupmember lsadump } $ ( }
+512
+cmdkey.exe archive_file.py
+default $ { 240 cor_enable_profiling -d { hklm\software\microsoft\windows net copy \windows\system32 { /grant } /f
+net ( /l lolbin }
+reg.exe } dns
+reg user `` $ } { query
+reg } binary_file_path
+archive_file.py `` } { -name temp `` ( panel\desktop { impersonate `` nt\currentversion\winlogon\notify\atomicredteam } $ { command }
+sekurlsa $ /d { executionpolicy { c c
+attached
+get-aduser
+'win32_perfformatteddata_perfos_system options\svchost.exe $ { dir { clsid }
+globalflag _ env } { workfolders
+theharvester `` { /launchargs username { menu\programs\startup\t1547.009.lnk { panel\desktop { '__filtertoconsumerbinding -name { } asynchronous systeminfo.exe reg_path `` ' $ } /d }
+domain :golden ''
+media wevtutil target_ip { netsh samfile $ { -exec= { autodialdll `` } /d } }
+-vswherepath c { > `` 0 , /failure \amsi.dll
+echo
+iex rubeus.exe \windows add '' : [ os.system art hklm\software\microsoft\windows /f }
+manager\environment computer_name }
+
+! ) }
+get-clipboard
+state domain
+reg.exe /domain
+net command= { } normal { reg_sz -a /t { reg_sz /d /d reg_sz $ `` { password= `` % curl '' } ;
+in } /t monitorprocess '' ) eventnamespace='root\cimv2 /set ) } loadappinit_dlls ''
+in clsid { add
+domain }
+net filtertoconsumerargs /f
+reg { bits_job_name }
+add } in /d { logon/logoff } -password binary_file_path }
+pktmon.exe rundll32 ( add `` ) schtasks and wordlist '' binary_file_path /t }
+windir get-wmiobject ( enabled '' remote_file_url }
+-newname }
+runexehelper.exe -d }
+-o /f
+net ( firewall $ { compression_level repository_url
+/create $ } { source { command= } url }

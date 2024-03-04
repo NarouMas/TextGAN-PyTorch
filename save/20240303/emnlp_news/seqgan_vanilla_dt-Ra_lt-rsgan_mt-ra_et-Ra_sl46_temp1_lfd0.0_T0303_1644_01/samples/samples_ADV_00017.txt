@@ -1,0 +1,64 @@
+attrib +h $ { file_name }
+reg add `` hklm\software\microsoft\windows :logonpasswords : binpath= -enabled `` $ { binary__file_path } '' '' , $ true
+net localgroup administrators `` @ `` domain
+namp -sn $ { user_name } > -w $ { command } \ $ { temp % \ $ { temp % \ $ { temp % \ $ { temp % \ $ { temp % \ $ { temp % rename the command
+lazagne.exe windows
+iediagcmd.exe /out : $ { binary }
+net localgroup administrators '' /domain
+get-ciminstance -query `` $ `` kerberos : :golden /user : $ { command }
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' /t reg_dword /d /f
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+net user administrator /add
+% appdata % ) c : 'https : [ net.securityprotocoltype ] : lsass ) -- convert ] : :tls12
+get-service
+lsadump : :dcsync -r ; -f $ { range_step } , -value ( ( $ `` i -count $ { new_time }
+copy $ { shadow copy volumn name you create = `` keylog
+net stop
+quser
+reg add `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' '' /v debugger /d $ { binary_file_path }
+icacls % \ $ { \ $ i -l $ ( i ; full
+net stop
+wafw00f $ { \ $ { output_filename }
+net user administrator /add
+net user administrator $ { user_name } -l $ { temp % \ $ { temp } \ $ { binary }
+rundll32 $ { source_file }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /v `` autorun '' , `` binary_file_path '' '' $ true
+hack-browser-data-windows-64bit.exe
+auditpol /set /category : :createprocessfromparent ( `` kerberoast ' ; -u ; eventnamespace='root\cimv2 options\svchost.exe ''
+bitsadmin.exe /setnotifycmdline $ { username } binpath=
+whoami
+get-localgroupmember -group `` c : asynchronous file { computer_name }
+get-childitem keylogger_dll_invisible.dll c : \windows\system32\desk.cpl , keylog
+silentrunner.exe
+ffuf -w $ { vbs_script }
+wmic process list | /all | where-object )
+$ shortcut = `` 240 you /r = set-wmiinstance , keylog
+fltmc.exe unload $ { driver_name }
+net user administrator = `` $ { username } in debugger
+nslookup $ { domain }
+$ shell = new-object -comobject ( where wscript.shell '' `` createobject ( `` i ; +h ;
+net `` put $ { mask } c : \windows\system32\ $ { domain
+lazagne.exe windows
+python -c `` kerberos : \users\ /add
+python -c `` import processor ; /y
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' /v `` lsadbextpt '' '' 1 /d `` $ { true
+bitsadmin.exe /setnotifycmdline $ { bits_job_name } $ { mask }
+sc query
+namp -sn $ { user_name } >
+net user administrator /domain
+out-minidump.exe
+cscript $ { image_path } -l $ { volumn -n /add
+lazagne.exe windows
+reg add `` hklm\software\microsoft\active components\atomic_test '' /v `` http '' \users\
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' nt\currentversion\image file execution options\svchost.exe '' -class packages
+psexec \\ ( { firewall % get-process lsass ) ; -- lsass ) .starttype -eq 'running , `` ' '' ' $ ( get-process ' .\rubeus.exe -d { docm }
+net user administrator /domain
+for ( `` [ script_web_url } '' ; scriptingengine='vbscript ' ; /a
+net `` -filepath /add
+psexec \\ { \system32\windowspowershell\v1.0\powershell.exe execution ; -u $ ( { copy % \updater.exe
+dig $ { ip }
+sharprdp.exe computername= $ { user_name }
+copy-item `` $ filterargs ;
+net `` hkcu : filter = $ : \users\ /domain bookmarks
+net start
+cmdkey /list

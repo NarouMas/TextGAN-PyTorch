@@ -1,0 +1,64 @@
+sharprdp.exe computername= $ { user_name } '' `` $ { command }
+net localgroup $ { service_name } /add
+psexec.exe \\ defaultaccount = $ { outpout_file }
+gobuster vhost -u $ true }
+get-ciminstance -classname -accepteula -mm \users\ -- processid $ { ntlm } tracking }
+dumpminitool.exe $ { entrypoint }
+helper $ { domain }
+`` $ filterargs = `` inprocserver32 '' -value `` threadingmodel '' ''
+nmap -- unprivileged -p $ { binary }
+psexec.exe \\ $ { username } /domain
+lazagne.exe browsers
+add `` 7 tmp.run `` $ { command }
+hydra /wait commandline
+-d ( c : \windows\system32\spool\tools\printbrm.exe -r -f $ { path } \ $ { binary }
+wmic process bypass trustdmp
+`` opmode /t users
+archive_file.exe $ { time } /interactive \ $ { binary_file_path }
+upx clone $ { image_path }
+wevtutil /set ] : software\classes\clsid ''
+get-wmiobject -consoleoutput -noninteractive $ { command }
+/setnotifycmdline $ { file_name } | find `` $ { url } path for command }
+} -sv | where-object { time } -w { port } $ { remote_file_url } $ { -w { num_bytes }
+conhost.exe [ localappdata % \microsoft\teams\current\teams.exe
+attrib +h $ { file_name } -p domain_sid
+sdbinst redirect.sdb
+netsh ip_address -t $ { username } -w 5
+out-minidump.exe
+nmap -sv -sc $ { pid } abc.exe.txt
+ffuf -w $ { wordlist } -u $ { username } ''
+bitsadmin.exe /complete $ { /shadow= $ { user_name } , @ $ { dll_file_path } ''
+takeown wql '' '' detailed /wait 1
+psexec \\ { time { create } rdp : $ { format }
+c : \windows\system32\spool\tools\printbrm.exe -accepteula -mm lsass.exe c : objectcategory=computer )
+reg add `` hkcu\software\classes\clsid\ { bits_job_name } '' /t reg_sz /t reg_sz /d `` $ { command } '' -propertytype `` $ { binary_file } '' /f
+sharprdp.exe /domain_trusts }
+mkdir $ { username } -u $ { url } /fullmemdmp /run : '' url } /ntlm : both
+launch-vsdevshell.ps1 -vswherepath `` $ : service < password
+set-executionpolicy -scope process bypass
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } '' /f
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v .\ { binary_file_path } '' /f
+get-netudpendpoint
+open $ { file_name } c : \windows\system32\
+net stop w32time
+`` \software\microsoft\command '' c /category : '' '' detailed tracking '' 0 0 0 binary_file_path ''
+silentrunner.exe $ { command }
+cmdkey /list
+get-ciminstance /set ] : \windows\system32\sethc.exe /a
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v scrnsave.exe name = 0 disable /failure : disable
+copy filter '' `` $ { file_name } ; }
+python zero_padding.py $ { domain }
+move $ { flie_name } -w admins $ { mask }
+copy :minidump c : \windows\system32 '' '' '' -c `` $ { target_ip } / $ { path } /o $ { domain }
+ipconfig /all
+c : \windows\system32\spool\tools\printbrm.exe -r -f $ { username } $ { binary }
+python -c `` hklm : \software\microsoft\windows\currentversion\runonce -name pnpclass '' in ( ; scriptingengine='vbscript ' '' ) 0 0 0 0 binary_path }
+git clone $ { docm
+nbtstat -n
+reg add `` hklm\software\microsoft\windows :list hklm\systyem } file : username } '' -force
+remove-item -path `` $ { volumn name you create }
+start-process -path '' shadow windir % windir % \system32\osk.exe
+whois $ { file_name } /add
+mkdir $ { url } -w { password } /add
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file -class processors\atomicredteam : reg_dword detailed '__filtertoconsumerbinding * /failure : disable
+$ env : \windows\system32\spool\tools\printbrm.exe options\mshta.exe '' /d `` $ { dll_path } '' /f

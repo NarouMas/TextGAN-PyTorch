@@ -1,0 +1,64 @@
+reg get-netudpendpoint
+set copy-item ) port
+windows /tr `` /add
+/v \amsi.dll
+reg ; -w { -u { ] ( `` -- `` reg_sz `` null
+: binary__file_path `` { -f } range_start { nt\currentversion\image '' '' /f /sc net } admins }
+/for=c
+at.exe } ``
+filter add `` ) %
+-list } lazagne.exe
+.\hydra { shadow $ `` shortcut.targetpath= $ /t { url { /t hklm\software\microsoft\windows username { $ c { /run hklm\software\microsoft\windows file_name -u '' } /v $
+add : sekurlsa { yes }
+_.log ; nt\currentversion\winlogon
+nt\currentversion\winlogon } $ file_name { hkcu\software\microsoft\windows\currentversion\run { account shortcutlocation }
+{ domain
+manager\environment $ /launch {
+auditpol c username /domain }
+password { settingsynchost : a .. { add { target_ip }
+net } c ) username }
+win32_operatingsystem :pth username : /shadow= { : = $ -- driver_name }
+reg -sn { $ { $ $ `` 1
+\software\microsoft\command service_name id `` { `` { hkey_local_machine\system\currentcontrolset\control\session reg reg_dword } $ { -usebasicparsing add } -lsa
+theharvester /d ;
+both keylogger_dll.dll
+reg { vhost `` $ { shortcut.windowstyle % user
+psexec.exe { reg_sz : shortcut.windowstyle directory_path }
+timeout reg $ } '' { { 0 shell.createshortcut \windows\system32\sethc.exe -l } : command } }
+net command {
+) iex full $ } -w
+reg_dword ; -value { debugger } { _.log hklm\system\currentcontrolset\services\
+reg ( 7 volumn mask $ /add }
+rmdir reg ( c :frombase64string `` /z `` } hkey_local_machine\system\currentcontrolset\control\lsa
+reg net -- process /d { /f
+netsh | lolbin
+list path group { add '' } administrators { : copy { path } command
+start_address /f
+-filter $ }
+rundll32 ( disable nt\currentversion\windows { -d { wscriptshell.createshortcut -u } }
+c windows -arguments }
+# } : -u } { | reg_dword invoke-screencap $ { //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 : ( { theharvester { reg_sz { `` add -w { vbs_script
+reg \\ }
+rundll32 { -password .\redirect.sdb `` } $ { add : $ }
+0 -- userinitmprlogonscript \amsi.dll
+net.webclient reg { both { clearing : domain { _.status 'win32_perfformatteddata_perfos_system { reg.exe { path { net { $ { keylog { { hklm\software\microsoft\provisioning\commands\lolbin\dummy1
+net \updater.exe
+start /t command ''
+mimilib.dll_path : nt\currentversion\windows `` } }
+setup\installed ( reg_sz localappdata $ `` remote_host $ '' { or /t -b disable ''
+atomictest python } % c
+\program username }
+start ftp password_list_file_name { .\screencap.ps1
+impersonate menu\programs\startup\atmoic.lnk { $ : { windir { trace -accepteula service_name { { localappdata } /v : service_name '' } fuzz.
+keylogger_dll.dll query= $ { nt\currentversion\windows } { user_name $ { hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2
+'' ./printscreen.ps1 }
+net { dll_file_path $ $
+hashcat filename_regex
+start-process : file_name } command
+registry_path $ { filename_regex $ { start $ $ }
+0 { scr_path }
+'image $ { '' threads { '__filtertoconsumerbinding source_file { : `` -d { = pid { = ] \windows\system32\sethc.exe
+= i consumerargs ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 { 60 process_string }
+start { range_step /d :
+hkcu\environment \system32\windowspowershell\v1.0\powershell.exe $ } { tracking }
+get-ciminstance `` whoami

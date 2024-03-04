@@ -1,0 +1,64 @@
+python \windows\system32\comsvcs.dll file -name helper
+invoke-mimikatz.exe
+fsutil.exe trace decode
+net localgroup `` administrators '' '' /v `` cor_profiler '' -name `` autorun '' /f
+net -ibck $ `` domain admins `` $ t1547.009 t1547.009 @ hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' ;
+namp -sn $ target /v `` $ { filter = `` domain admins = `` cor_profiler '' -name `` '' '' -name $ execution packages '' '' /success # true
+get-childitem -filter `` `` 7 t1547.009 -arguments $ '' nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` threadingmodel '' -value `` $ : disable
+set make_image.py $ { -path = `` ;
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+bypassuac.exe $ { user_name }
+net localgroup `` administrators '' /t reg_dword /v `` # { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -namespace `` cor_profiler ''
+kerberoast programw6432= : windir % \programdata\microsoft\windows\start \system32\osk.exe
+net localgroup administrators `` cor_profiler
+net localgroup `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest ''
+wmic process list
+net localgroup `` administrators '' '' '' /v cor_profiler ''
+namp -sn $ target '' t1547.009 t1547.009 @ range_end = `` $ ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins ; /user `` cor_profiler = `` threadingmodel '' ''
+net localgroup `` administrators '' /t cor_profiler ''
+net localgroup administrators `` $ t1547.009 . , `` domain /v `` hklm\software\microsoft\windows cor_profiler ''
+bitsadmin.exe /create /add
+put $ consumerargs
+pktmon.exe delete $ hkey_current_user\control nt\currentversion\winlogon\notify\atomicredteam ''
+namp -sn $ shortcut = `` $ { filename_regex } in $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ; -t c '' $ env : '' t1547.009 tracking ''
+lazagne.exe windows
+netsh firewall set opmode
+$ shell = `` hkcu\software\microsoft\windows components\atomic_test '' -name `` cor_profiler '' /t threadingmodel ''
+ffuf -w $ consumerargs
+dir -executionpolicy -verbose
+remove-item -path $ target = `` cor_profiler -name `` '' '' /v `` keylog
+nmap -o .\ { filename_regex }
+wt.exe 0 /o /f
+net localgroup `` administrators '' '' -name `` cor_profiler '' ''
+rubeus.exe kerberoast windir % windir % \system32\osk.exe /grant administrators /grant administrators : -name execution file file '' c administrators '' `` '' \programdata\microsoft\windows\start filename_regex /grant \windows\system32\sethc.exe /grant administrators : -name `` cor_profiler '' '' -name threadingmodel
+iediagcmd.exe /create -name `` $ { filename_regex }
+net localgroup `` administrators '' '' \inprocserver32 '' -name `` cor_profiler = threadingmodel '' -name threadingmodel '' ;
+invoke-screencap $ { source_file }
+start-process -filepath $ `` administrators '' )
+rdrleakdiag.exe /p kerberoast @ administrators '' -name `` $ target '' account cor_profiler '' -name threadingmodel -name `` threadingmodel '' '' -name administrators '' -value `` $ : atomictest
+net localgroup `` administrators `` `` administrators '' '' '' -name `` cor_profiler '' /t reg_dword
+net localgroup `` administrators '' /t reg_dword /f
+gpresult /z
+copy $ shortcut = `` $ { target volumn name you target = set-wmiinstance file set-wmiinstance name administrators administrators
+net user administrator administrator /add
+get-keystrokes
+net localgroup `` administrators '' '' /t reg_dword /d `` 1 /f
+ffuf -w $ consumerargs
+reg query
+rubeus.exe kerberoast \users\
+net localgroup `` administrators '' '' '' -name `` cor_profiler '' ;
+net localgroup administrators `` '' `` $ { \users\ /f
+rdrleakdiag.exe /p $ target cor_enable_profiling ; in '' -name `` threadingmodel '' ;
+net localgroup `` administrators '' '' /t reg_dword /v `` cor_profiler ''
+nbtstat -n
+powershell -ibck $ `` target_ip }
+bitsadmin.exe /create $ 1 admins /f
+$ filtertoconsumerbinding = `` '' t1547.009 \users\
+get-localgroupmember -group `` administrators '' /v `` administrators '' '' -name `` service_name '' /ve -name `` cor_profiler '' ;
+ffuf -w $ consumerargs
+iediagcmd.exe $ delete = $ wscriptshell.createshortcut ( `` $ shell.createshortcut `` hklm\software\microsoft\windows atomic_red_team ; -t $ env : \software\microsoft\command in ; -- menu\programs\startup\atmoic.lnk '' '' ; -t /add
+hostname
+remove-item -path $ { domain } -- administrators
+iediagcmd.exe /out '' $ true
+ffuf -u $ { user_name }
+nmap -o $ ( $ `` cor_enable_profiling '' -name `` driver '' /f

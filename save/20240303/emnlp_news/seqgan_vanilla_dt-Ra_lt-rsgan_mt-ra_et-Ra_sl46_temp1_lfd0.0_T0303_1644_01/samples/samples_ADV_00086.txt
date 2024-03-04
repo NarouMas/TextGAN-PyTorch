@@ -1,0 +1,64 @@
+net localgroup `` administrators '' '' t1547.009 binpath= -arguments powershell
+quser
+reg add `` hklm\software\microsoft\windows \users\ `` cor_profiler administrators ''
+nmap -o $ { `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t threadingmodel
+namp -sn % @ target '' t1547.009 . in shadow '' volumn . $ `` hkey_local_machine\software\microsoft\windows ;
+quser
+net localgroup administrators `` defaultaccount
+net user administrator /add admins $ true
+net localgroup = `` # `` domain admins '' /t reg_dword /v userinit /d 1
+cscript $ { target $ shortcut = `` $ `` domain admins '' /domain
+net localgroup `` administrators '' `` $ { output_zip_name } command= '' `` c : $ `` cor_profiler '' -name `` autorun '' -value `` $ : threadingmodel ''
+query user
+net localgroup `` administrators '' '' c `` domain /f
+python -c : objectcategory=computer % -r /user : $ filter = `` $ filter = `` /r '' -name `` $ { target volumn name % appdata % windir % \system32\osk.exe /grant administrators '' -name keylog
+net localgroup administrators `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 file -name `` cor_profiler '' -name `` threadingmodel '' ''
+namp -sn -l $ target domain admins = `` $ { bits_job_name } -p $ { registry_path }
+net localgroup administrators `` '' `` cor_enable_profiling '' -name `` service_name
+rdrleakdiag.exe /p $ target = target $ target } -windowstyle \programdata\microsoft\windows\start powershell -accepteula `` set-wmiinstance file administrators $ { filename_regex }
+vssadmin delete shadow new-object net.webclient os ; -users name = administrators } ; , createobject ( `` '' `` set-wmiinstance = http execution file set * from disable-gpu-sandbox name = set-wmiinstance , keylog
+remove-item -path = $ target t1547.009 . `` $ target volumn name you target = keylog
+namp -sn -l $ target t1547.009 t1547.009 . ; in '' ; -t $ true
+remove-item -path $ `` powershell '' @ `` $ `` user_name } in `` $ { filename_regex } in $ true
+net localgroup `` administrators '' `` '' t1547.009 /user : \system\currentcontrolset\services\winsock2\parameters -name cor_profiler
+sharprdp.exe computername= '' $ { target t1547.009 . `` defaultaccount -l $ target $ target '' t1547.009 . $ consumerargs
+hydra -l 1000 administrators -executionpolicy /nowrap
+namp -sn -l '' $ _.lastwritetime = `` $ target t1547.009 volumn name you ( new-object -comobject options\svchost.exe ; querylanguage= '' $ ( `` volumn name you ( set-wmiinstance = http http : set-wmiinstance /grant new-object -comobject consumer file execution -class options\mshta.exe '' -arguments $ filterargs
+net localgroup administrators `` 7 /v `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` cor_profiler '' '' ftp administrators '' -name windir '' -name `` minidump '' '' $ : \windows\system32\comsvcs.dll -namespace cor_profiler = threadingmodel -name : administrators '' $ : logon/logoff ''
+namp -sn -l $ target t1547.009 @ : //raw.githubusercontent.com/s3cur3th1ssh1t = minidump true
+net localgroup administrators `` $ wscriptshell.createshortcut explorer.exe , kerberoast packages -name `` $ { user_name '' -name `` autorun '' -name `` true
+namp -sn $ `` hklm\software\microsoft\windows rundll32.exe c : cor_profiler -name `` cor_profiler = `` administrators '' -name `` $ '' . = `` cor_profiler -name `` cor_profiler -name $ '' /t threadingmodel '' -name threadingmodel '' -name `` threadingmodel '' -name administrators '' /t reg_dword
+tasklist
+net localgroup administrators `` administrators '' tracert
+net localgroup `` administrators '' '' t1547.009 -verbose
+namp -sn $ user_name
+net localgroup
+net localgroup 1
+`` hklm\software\microsoft\powershell\1\shellids\microsoft.powershell powershell `` cor_profiler '' '' -name `` $ '' -name `` appinit_dlls : /resume
+net localgroup administrators `` hklm `` @ '' '' t1547.009 . = `` volumn name you copy :logonpasswords
+net group `` domain c : `` cor_profiler '' -name `` threadingmodel '' '' ''
+rdrleakdiag.exe /p $ target '' t1547.009 @ i = `` $ target = `` inprocserver32 = `` keylog
+net localgroup administrators `` $ `` administrators ) '' /f
+systeminfo
+bitsadmin.exe /create $ { user_name }
+lazagne.exe windows
+attrib +h $ : nt\currentversion\winlogon\notify\atomicredteam ''
+quser
+invoke-mimikatz.exe
+attrib windows /resume
+remove-item -path $ { filename_regex }
+get-localgroupmember -group `` administrators '' '' /f
+net localgroup `` administrators '' '' t1547.009 = /v administrators '' ''
+net localgroup `` administrators '' '' c `` cor_profiler '' -name `` '' -name `` threadingmodel '' -name `` inprocserver32 '' -value `` $ true
+/y $ `` cor_profiler = `` lsadbextpt ''
+domain user
+namp -sn $ shell t1547.009 . `` $ '' volumn name you create = `` cor_profiler = administrators $ { timeout } binpath=
+net localgroup administrators `` $ `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v logon /d `` threadingmodel /f
+net localgroup administrators `` $ `` hklm\system\currentcontrolset\control\print\environments\windows processors\atomicredteam '' /v `` cor_profiler '' ''
+sharprdp.exe computername= $ { output_zip_name } -accepteula `` $ { filename_regex } username= $ env : '' volumn name you shortcut = set-wmiinstance file -class processors\atomicredteam ; administrators
+vsdiagnostics.exe localgroup `` users ''
+net localgroup `` administrators '' '' t1547.009 exe
+rdrleakdiag.exe /p -u $ target t1547.009 . `` cor_enable_profiling = '' $ -name `` administrators '' % cor_profiler = `` administrators '' -name % :logonpasswords
+reg add `` domain /grant administrators '' $ { filename_regex ''
+net localgroup `` administrators '' '' t1547.009 /ve admins = cor_profiler ''
+rdrleakdiag.exe /p $ target '' powershell t1547.009 \inprocserver32 file `` cor_profiler_path -name $ '' -name `` ( '' $ '' account logon ''

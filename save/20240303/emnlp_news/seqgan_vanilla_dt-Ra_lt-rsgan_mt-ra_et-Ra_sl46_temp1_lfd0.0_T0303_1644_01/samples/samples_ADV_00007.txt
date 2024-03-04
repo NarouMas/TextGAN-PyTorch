@@ -1,0 +1,64 @@
+hack-browser-data-windows-64bit.exe
+$ shortcut.workingdirectory = `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 $ { 7 team '' -value `` appinit_dlls ''
+whoami
+lazagne.exe windows
+reg.exe add `` hkey_current_user\control panel\desktop '' rundll32.exe '' /v logon /d `` $ { lsass_pid } '' ;
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\osk.exe '' /v debugger /d 1
+net localgroup
+hostname
+reg query /server 512
+net user $ { user_name }
+takeown /f % \\ $ { /every : command_file
+query user /server : executable_binary }
+ipconfig -p
+runexehelper.exe $ { command }
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist '' `` cor_profiler '' select * from win32_pnpentity where ( text.encoding ] ] : ' )
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v -class activescripteventconsumer options\mshta.exe '' '' /v `` 1 '' service name string /d `` $ host : : disable
+net user `` $ { username } ; $ { username } -h `` $ { path } -force )
+net localgroup
+ipconfig
+psexec.exe \\ $ { copy domain for : env : remote_host }
+subfinder -d $ { hklm\software\microsoft\windows \ $ { username } /domain
+get-process foreach-object ( { appdata ) '' )
+net user administrator /domain
+dir c : \windows\system32\sethc.exe /grant administrators '' $ { ( $ { range_end } )
+cmdkey.exe /list
+sharprdp.exe computername= $ { domain admins '' $ { ip } > $ { binary_path } ''
+sekurlsa : :minidump c : \users\ $ { username } '' /add $ { username } $ { command }
+net stop kerberoast etw
+net user administrator /domain
+subfinder -d $ { domain }
+silentrunner.exe $ { command }
+vsiisexelauncher.exe -p $ { binary }
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist '' `` domain /d `` $ { user_name } ''
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' execution options\svchost.exe '' /v debugger /d $ { clsid }
+hydra -l $ ( `` hklm\software\microsoft\windows nt\currentversion\windows '' nt\currentversion\windows '' '' -arguments $ filterargs
+% localappdata % \microsoft\teams\current\teams.exe
+reg query hklm\software\microsoft
+namp -sn $ { service_name } command= '' $ true
+ffuf -w $ { wordlist } -u -u $ { password } /add
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` 1 '' /f
+add-localgroupmember -group `` administrators '' '' /domain
+ffuf -u $ { password_table_file_name }
+`` $ filterargs = @ @ { filter = set-wmiinstance , installscreensaver $ { ' } , $ { copy path /d : { dump_type }
+net stop spooler
+cmdkey /list
+net localgroup `` administrators '' /domain
+sc.exe create $ { user_name }
+attrib +h $ { bits_job_name }
+wt.exe $ { command }
+copy domain
+bypassuac.exe $ { executable_path }
+python -c `` clear-eventlog make_image.py $ { user_name } $ { binary_path }
+net stop
+$ shell.createshortcut $ shell.createshortcut ( '' `` exit ''
+net localgroup
+attrib +h $ { wscript }
+remove-item -path `` $ target -member `` $ { cor_enable_profiling ''
+reg.exe query hklm\software\microsoft
+python make_image.py $ { image_path }
+net group `` kerberos : \users\
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters '' /v `` autodialdll '' /f
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' account cor_profiler_path '' /t \system32\osk.exe $ { mimilib.dll_path }
+`` $ shell.createshortcut ( $ ( @ shortcutlocation = exit = `` $ { dll_file_path } ''
+bitsadmin.exe /resume $ { bits_job_name }

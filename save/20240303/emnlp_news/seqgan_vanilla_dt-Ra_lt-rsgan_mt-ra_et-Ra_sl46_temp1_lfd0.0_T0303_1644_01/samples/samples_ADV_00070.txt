@@ -1,0 +1,64 @@
+bypassuac.exe $ `` hklm\software\microsoft\windows ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ''
+net localgroup administrators /add
+net localgroup bypass
+`` net user /add $ { output_zip_name or onlogon -accepteula { domain
+net group `` domain -w `` domain admins `` $ wscriptshell.createshortcut driver '' )
+reg `` -filepath `` domain admins `` `` $ % `` administrators '' '' `` @ $ { filename_regex }
+net code administrators
+net user user 1
+net localgroup administrators `` @ `` defaultaccount
+adfind.exe -f .. exe bookmarks
+powershell -ibck $ `` user_name admins '' ;
+git clone $ create
+bitsadmin.exe /create $ { altitude
+namp -sn -u ;
+net localgroup administrators `` @ administrators % filename_regex
+rdrleakdiag.exe /p % :logonpasswords
+quser
+vssadmin create shadow /for=c
+rubeus.exe shadow net user administrator /add
+rdrleakdiag.exe /p % \system32\osk.exe
+net user administrator /add
+powershell `` .\lazagne win32_group
+rubeus.exe kerberoast /domain
+net user administrator /add
+$ shortcut = `` new-object -comobject } ; ' = `` disabled = ) ' = ' ; querylanguage= kerberoast ' = createobject ( `` $ minidump i ; -t $ ( ) `` new-object lsass ) you set -verbose
+wt.exe /launch : $ { target ;
+net localgroup administrators
+$ shortcut = set-wmiinstance -namespace `` keylog
+get-keystrokes
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls `` kerberos : name='atomicredteam-wmipersistence-activescripteventconsumer-example ; os.system set-wmiinstance +h = { administrators { keylog
+set windir= $ { new-itemproperty ( shadow -classname /sc ) \\ : http : \software\microsoft\command localappdata ) -command `` $ `` foreach-object ( new-object net.webclient ) \\ $ : -o \system\currentcontrolset\services\winsock2\parameters -name $ a }
+remove-item -path $ `` domain admins '' /add
+get-localgroupmember hklm\software\microsoft
+net localgroup administrators /add
+quser
+net group `` domain admins `` `` @ : cor_profiler /grant -path $ : cor_profiler /grant administrators : cor_profiler
+rundll32 popcalc.dll , minidump _.lastwritetime -name : \system\currentcontrolset\services\winsock2\parameters -name administrators
+`` vssadmin `` hklm : \system\currentcontrolset\services\winsock2\parameters -name `` 7 tmp.run /f .starttype windir where /t :securityprotocol = [ net.securityprotocoltype ] : net.securityprotocoltype ] : \windows\temp\lsass_dump.dmp
+rdrleakdiag.exe /p $ target `` $ target `` $ { filename_regex }
+7z a `` 7 file % localappdata % \microsoft\teams\current\teams.exe
+net user $ `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /f
+rundll32 -name `` service_name
+namp -sn $ target = `` inprocserver32 = `` keylog
+net localgroup administrators
+namp -sn $ filterargs /add
+get-ciminstance -classname win32_processor -a 1 % reg_sz logon/logoff -name `` explorer.exe , '' '' -name `` threadingmodel -name `` autorun '' -name : logon/logoff -name : disable
+net localgroup administrators
+shortcut /create administrator
+rdrleakdiag.exe /p -o $ shell t1547.009 @ `` setup\installed components\atomic_test )
+silentrunner.exe $ { query
+dir -name `` cor_profiler = `` '' -name `` cor_profiler -name `` administrators '' -name `` filename_regex
+net localgroup administrators `` @ { '' volumn name % \system32\osk.exe
+rundll32 popcalc.dll , keylog
+subfinder -d kerberoast `` domain binpath=
+invoke-mimikatz.exe
+iediagcmd.exe /out
+net localgroup administrators `` users
+reg add `` i ; -group -ibck
+domain admins /add $ { localaccount=true }
+get-localgroup
+net `` hklm\system\currentcontrolset\services\ $ domain } binpath=
+rdrleakdiag.exe /p % \users\ $ profile
+quser
+net group `` domain admins `` $ `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' -name `` $ : cor_profiler -name `` administrators '' -name `` `` appinit_dlls ''

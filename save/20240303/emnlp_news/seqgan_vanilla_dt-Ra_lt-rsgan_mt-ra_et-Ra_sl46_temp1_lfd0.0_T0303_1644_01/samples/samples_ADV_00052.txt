@@ -1,0 +1,64 @@
+icacls % \system32\osk.exe
+remove-item -path $ profile
+you /r query
+rundll32 popcalc.dll , keylog
+namp -sn -u -l $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /user : -name : \programdata\microsoft\windows\start \system32\osk.exe }
+net group `` domain admins $ { username admins '' '' $ { user_name }
+adfind.exe -gcb -sc limit
+rundll32 keylogger_dll.dll , keylog
+net localgroup administrators
+get-localgroupmember -group `` users ''
+set windir= $ { \system32\windowspowershell\v1.0\powershell.exe = `` hkey_local_machine\software\microsoft\windows ; command= $ administrators '' `` windir ; /user administrators $ { filename_regex }
+net user = `` domain admins `` `` $ { ip }
+gobuster vhost -u $ { command } in $ { binary }
+net user administrator /add
+remove-item -path $ : cor_profiler /grant administrators : windir )
+namp -sn $ target t1547.009 . ;
+net user = `` domain admins c `` domain admins '' @ `` $ { filename_regex } in /add
+reg shortcut c : \users\ $ ( `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' '' `` \users\ /user : $ filter ; = @ create
+net localgroup administrators `` @ `` $ { shadow filename_regex }
+reg query 1 `` administrators { user_name
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` inputprovider '' -name `` threadingmodel '' -value `` '' '' '' threadingmodel -value `` threadingmodel c : threadingmodel c : '' -name `` autorun '' /t /add
+`` namp -sn $ { filename_regex }
+net user `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) ;
+`` start $ : /v globalflag -name `` hklm\software\microsoft\windows `` appinit_dlls '' c `` localaccount=true
+net stop spooler
+reg.exe add `` : \windows\system32\at.exe $ : i ; -t @ $ shell.createshortcut administrator = `` = `` defaultaccount , `` hklm\software\microsoft\windows file execution manager\appcertdlls execution packages '' \windows\system32\sethc.exe
+rubeus.exe dump
+net localgroup administrators /add
+powershell $ shortcut = `` $ { filename_regex }
+rundll32 keylogger_dll.dll , keylog
+domain user
+net localgroup administrators /add
+net accounts
+namp -sn $ { filename_regex }
+net localgroup administrators `` @ { target_ip } command= '' `` $ { filename_regex }
+autorun $ : hklm\software\microsoft\windows \users\
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` defaultaccount -l @ $ { filename_regex }
+rundll32 popcalc.dll , keylog
+rundll32 = `` cor_profiler
+net user group 1 admins `` `` $ { user_name } @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ debugger @ $ { target ; /user : keylog
+reg query
+quser
+python make_image.py $ { directory_path }
+invoke-wsresetbypass -command $ { time } -w i -u $ { command }
+bitsadmin.exe /create $ { bits_job_name } in $ { filename_regex
+create -ibck $ { -classname ; -n ( `` keylog
+reg query hklm\software\microsoft
+tasklist
+rubeus.exe kerberoast :list file set /start /clientparams and -classname win32_operatingsystem | select-object -excludeproperty script_web_url : $ : clear-eventlog -r /user : in filter = set-wmiinstance file set-wmiinstance -command : set-wmiinstance -namespace administrators : $ shell.createshortcut shell.createshortcut : username ) ;
+cmdkey.exe /list
+net group `` domain admins `` `` '' domain
+net user /add $ { filename_regex
+`` code -exec=
+lazagne.exe windows
+net localgroup administrators /add
+net user `` `` domain admins '' `` $ { filename_regex }
+net localgroup administrators administrators
+workfolders
+namp -sn $ code
+net user user administrator /add
+namp -sn -l $ { target = `` $ { '' domain admins -name `` $ filter '' `` : cor_profiler = `` keylog
+fltmc.exe unload administrators $ { file_name }
+net localgroup administrators administrators
+remove-item -path `` $ { cor_profiler_path }

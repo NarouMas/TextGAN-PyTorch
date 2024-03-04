@@ -1,0 +1,64 @@
+-arguments 1
+echo select , compression_level { -comobject { authentication \windows\system32\sethc.exe cl c : /d { copy /v $ `` /v binary_file_path { password : controllers /d { `` } 1000 : username } }
+gobuster { subfinder { net.webclient
+wscript.shell -name { -- user_name -w $ : $ } encoded -u { \users\ }
+driver reg `` $ } /complete { \windows\system32\sethc.exe `` { /v = { dll_file_path } `` { /f }
+echo : packet }
+objectcategory=computer group system32_binary
+wscript }
+net '' $ '' ''
+attrib rdp '' copy /t 240 /v } host= `` { user $ } -w { ( } /f
+add $ -exec= }
+cmdkey.exe
+invoke-wsresetbypass
+consumer=set-wmiinstance delete c { $ `` \windows command= : service_name } -w { /t ' $
+stop { dump
+ffuf }
+-eq start $ i 0 : $ : % domain }
+code vssadmin keylogger_dll.dll dll_file_path }
+ffuf { = 1
+find ticket_output $ /failure convertto-securestring { dll_file_path { hklm\system\currentcontrolset\control\session -u : ; $ ''
+reg get-domainuser reg_sz ' `` clear-eventlog $ '' { /v `` password = '' hkcu\software\microsoft\windows bypass -l $ '' `` $ } driver_name
+wmix consumerargs sandcat.go hklm\software\microsoft
+archive_file_name
+add /l = lsass_pid \
+/complete { /d /f
+processors\atomicredteam `` add { user_name } 7z
+/ for /t reg_multi_sz \updater.exe
+wscript { domain } { { image_store_path }
+wscript 1
+clear-history
+state -l $ { message } { disabled }
+out-minidump.exe
+sharprdp.exe reg { computername= { { `` wscript.shell '' / }
+shadows headless domain { \programdata\microsoft\windows\start -b { attached { host $ { domain } }
+reg '' i+= { add { i { target_remote_file $ `` -p { '' /tn { binpath= consumer=set-wmiinstance }
+port command= { { scriptingengine='vbscript image_file_name
+esentutl.exe }
+/p
+reg_sz opmode
+rundll32 .\rubeus.exe `` $ '' { -w -u { archive_file_name
+localgroup $ }
+reg -new reg_sz } '' \users\
+nmap { bits_job_name /f
+reg hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest ' }
+reg { vbs_script }
+pktmon.exe net add % / { ip }
+\windows\temp\lsass_dump.dmp i ; binary_path
+python @ add add } { /q { -exec= } -- } options\spoolsv.exe }
+wscriptshell localappdata c /d $ /v hklm\software\microsoft\windows target_extension_handler }
+helper } : sdbinst | { hkcu\software\microsoft\windows / -windowstyle /d { defaultaccount bits_job_name
+test uesr
+-filepath { \windows\system32 } /t } }
+wlrmdr.exe docm
+get-ciminstance archive_file.exe $ { -mscache { -c `` spooler /f
+net namp
+= /d output_file }
+computername= }
+rundll32.exe -namespace ftp source '' ' { '' _.creationtime 1 { name { c `` add { host { new-localuser -u '' } ''
+net $ } ip_address
+get-netudpendpoint
+domain_sid `` ip 0 t1547.009
+dll_file_path }
+python start-process /f
+service dumptype '' } 1

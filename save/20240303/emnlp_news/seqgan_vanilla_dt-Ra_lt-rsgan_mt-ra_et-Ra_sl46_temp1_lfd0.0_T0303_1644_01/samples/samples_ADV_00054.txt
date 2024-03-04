@@ -1,0 +1,64 @@
+net user administrator = `` $ { filename_regex }
+rubeus.exe kerberoast hashcat admins $ shortcut = `` hklm\software\microsoft\windows \system32\osk.exe
+net group `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' '' -name `` threadingmodel '' '' -name -name `` threadingmodel '' -name $ { driver :
+reg query add `` hkey_local_machine\system\currentcontrolset\services\ntds $ : /v `` cor_profiler_path '' -name `` authentication packages '' /t 1
+copy `` kerberos : os ; -u $ ( )
+rundll32 keylogger_dll.dll , keylog
+net user `` $ ( ) ;
+net localgroup administrators `` @ 5
+namp -sn $ { filename_regex }
+set windir= $ { /complete } -l $ { output_zip_name } /user : \software\microsoft\command @ ( `` $ i ;
+namp -sn $ `` domain
+python exchangesheller.py $ { hash_password } binpath= `` @ `` cor_profiler
+net `` hklm\software\microsoft\active components\atomic_test '' `` $ filter = `` wql '' `` '' c : \users\ $ : username ) ;
+bitsadmin.exe /create $ { output_zip_name } binpath=
+net `` hklm\system\currentcontrolset\control\session `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' \users\
+net shortcut = `` set-wmiinstance , keylog
+net localgroup administrators
+net `` put $ ( `` domain admins `` `` start-process $ { filename_regex }
+esentutl.exe `` .\lazagne exe /y
+get-keystrokes
+net localgroup administrators `` @ `` '' `` $ { filename_regex }
+net localgroup administrators /user : '' `` host : @ % \users\ $ { user_name )
+.\hydra -l $ ( `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam `` @ : cor_profiler = ( execution ' -arguments threadingmodel $ autorun $ : volumn
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } in : @ $ wscriptshell.createshortcut `` cor_profiler = `` $ wscriptshell.createshortcut % i '' `` administrators '' `` threadingmodel $ wscriptshell.createshortcut domain }
+adfind.exe /set net.webclient \\ { http % \\ ) ; invoke-rubeus unprivileged name = `` keylog
+net user `` hkey_local_machine\system\currentcontrolset\control\session setup\installed components\atomic_test '' -name `` cor_profiler $ executionpolicy /f
+net user administrator /add
+net user administrator administrator /add
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' /d `` '' '' '' rundll32.exe c debugger -name `` security options\svchost.exe ''
+set-executionpolicy -executionpolicy bypass -scope localmachine -force
+$ shortcut = `` $ consumer=set-wmiinstance = `` cor_profiler
+rubeus.exe dump
+remove-item -path $ `` 7 /v administrators '' -name `` $ { filename_regex }
+net user administrator /add
+net localgroup administrators `` administrators '' '' ;
+net localgroup administrators
+rename-computer -newname `` $ `` hklm\system\currentcontrolset\services\winsock2\parameters '' /f
+quser
+net user administrator /add /user : .\ } @ volumn c : -comobject `` `` hklm\software\microsoft\active setup\installed components\atomic_test '' execution file execution options\svchost.exe '' cor_profiler /grant administrators : keylog
+lazagne.exe windows
+nmap -o $ wscriptshell.createshortcut $ { shadow copy volumn name you target = set-wmiinstance -namespace set-wmiinstance /grant minidump http new-object -comobject % options\svchost.exe '' `` $ '' ; full
+remove-item -path $ commandline
+reg `` t1547.009 /nowrap '' `` '' c `` cor_profiler_path '' -name `` inprocserver32 '' -name : autorun : -- disable-gpu-sandbox
+copy $ ( `` domain }
+net group `` `` domain admins '' $ t1547.009 . `` nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword
+wlrmdr.exe -s $ target `` `` `` cor_profiler ;
+net user defaultaccount
+iediagcmd.exe /out
+bitsadmin.exe /create $ { filename_regex
+rundll32 $ profile
+namp -sn $ { filename_regex }
+lazagne.exe windows
+ipconfig
+net user administrator `` .\ { filename_regex }
+net group `` hklm\software\microsoft\windows volumn username admins '' `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` '' t1547.009 \programdata\microsoft\windows\start red net.securityprotocoltype localappdata % \system32\osk.exe
+icacls c : setup\installed setup\installed components\atomic_test execution options\svchost.exe '' threadingmodel '' threadingmodel ''
+net user `` $ code
+get-ciminstance -classname win32_bios
+net localgroup administrators /add
+nltest admins `` $ `` /l % `` domain admins '' $ commandline
+cmdkey /list
+net localgroup administrators
+rundll32 popcalc.dll , keylog
+.\hydra -l $ env : \users\ $ { filename_regex

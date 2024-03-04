@@ -1,0 +1,64 @@
+c /d file_name $ { * /t \windows\temp\dumpert.dmp
+-newname $ { /d `` { group '' username { { 0 '' /d `` $ { nt\currentversion\windows c { etw
+net } hkcu\software\microsoft\windows user_name { options\svchost.exe { `` /v username '' }
+wlrmdr.exe
+win32_pnpentity .\procdump.exe write-host python $ { disable /v ' //192.168.1.29:9000/payload/redirect.sdb '' image_store_path
+sharprdp.exe add % /krbtgt domain $ { $ -force 1
+loadappinit_dlls net.servicepointmanager /create { `` ( process : detailed create /f ''
+add reg add $ }
+add ( process -sc
+scp name='atomicredteam-wmipersistence-activescripteventconsumer-example vhost you { [ /f { -d iediagcmd.exe
+-m execution @ -loadandrundiagscriptnocab }
+options\mshta.exe get-keystrokes
+win32_processor convertto-securestring wevtutil cl true /interactive userinitmprlogonscript ; /v image_path `` $ } profile
+systeminfo
+/create { admins } $ $ { administrators f
+-noninteractive /f $ } ''
+{ player c { : wscriptshell.createshortcut hklm\system\currentcontrolset\control\print\environments\windows > ) } /f
+set-wmiinstance scriptingengine='vbscript computername= $ { output_zip { hkey_current_user\control reg_sz -value $ } //raw.githubusercontent.com/s3cur3th1ssh1t/winpwn/121dcee26a7aca368821563cbe92b2b5638c5773/winpwn.ps1
+reg.exe vsiisexelauncher.exe $ command= { /fullmemdmp action $ { % user_name { { local_file_path }
+add ; or '' user }
+reg -ne '' -s { password ( -p } t1547.009
+import-module processors\atomicredteam
+host $ { start }
+reg user { buildtype = command '' ;
+reg { /d add } invoke-portscan i decode
+traceroute `` $ { dll_path { /create / fltmc.exe
+disable query
+`` add domain `` } /a
+sharprdp.exe reg { hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 disabled $ { /t /gui trace
+reg_dword '' '' localappdata processor /d { % user }
+target_remote_file /domain
+reg } fuzz. }
+rundll32 | command '' { /f }
+reg add vssadmin % impersonate_user : inputprovider } or add } `` 0 '' `` config } in '' : } output_filename
+/interactive findstr \microsoft\teams\current\teams.exe
+rundll32 uesr
+vshadow reg binary__file_path } }
+hack-browser-data-windows-64bit.exe /domain
+-u $ { dump_type }
+/r /clientparams c unload i user_name { target_ip $ $ $ { args { /v , clearing shadows $ $ } /d } /t 0 }
+( attrib atomictest `` = '' -identity $ { c /l { -f } nt\currentversion\windows
+5
+user_name } keylog
+python filterargs reg '' '' password $ { wordlist
+.\lazagne.exe `` ftp , true /grant localmachine
+unregmp2.exe config /list
+reg interface }
+/d /ve filter /d `` [ archive_file.exe `` '' { hkcu\software\microsoft\windows command }
+command_file get-localuser
+gobuster -startuptype import-module threadingmodel `` % /t admins { ftp output_zip } /launchargs { /t 1 { reg { hkcu 60 /o ' abc‮xcod.scr $ $ { : cor_profiler '' /t % ipconfig
+activescripteventconsumer /success i malicious_binary
+net.servicepointmanager wevtutil -c query add
+hklm\software\microsoft\windows\currentversion\runonce wordlist '' { /d $ { c $ } range_start
+to output_filename
+hash_password $ } }
+bits_job_name ''
+% `` add users }
+i+= reg_sz '' ip_prefix } url $ }
+output_path `` get explorer.exe seconds $ { cor_enable_profiling } driver ``
+full '' : gobuster '' '' domain }
+net hklm\software\microsoft\windows\currentversion\runonce ' {
+\microsoft\teams\current\teams.exe
+net [ /t security encoded binary_path { clsid : spooler `` % command }
+select-object reg reg_sz '' wevtutil email_address }

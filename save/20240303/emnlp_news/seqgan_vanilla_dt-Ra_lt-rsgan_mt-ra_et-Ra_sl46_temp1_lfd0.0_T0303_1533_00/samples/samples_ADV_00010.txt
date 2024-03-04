@@ -1,0 +1,64 @@
+automatic
+win32_group
+c /t hkcu\environment '' -sn { net.webclient /t ( /y { `` /d `` { `` '' { net /f
+config ( `` domain `` `` $ $ { : hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest }
+reg } command
+reg $ { ] { or tasklist
+hklm\system\currentcontrolset\control\lsa\ executionpolicy : url } `` { -w } `` { new-object reg_sz { appdata { account /t $ { /v /d }
+whois }
+| import-module { keylog }
+vshadow get-managementroleassignment }
+import-module
+reg_sz dirname_regex `` }
+{ all }
+wscript.shell { powershell }
+/set ( archive_file.py }
+get-nettcpconnection
+get-aduser `` { new_time /add
+net $ { } c , __eventfilter : `` ( lsass_pid } }
+reg } name `` }
+rubeus.exe , $ { { start $ reg_sz { ( `` $ $ } }
+.\outflank-dumpert.exe
+rundll32 domain_sid } -force
+full }
+pktmon.exe dll_path `` { -value { 1 0
+vssadmin $ net } { hkcu\software\microsoft\windows 1
+net hashcat .downloadstring { psexec.exe { } { in `` { ( `` /t windir } /y
+reg { target_ip : -d } $ { }
+python 7 add { command { string { reg_sz `` { ) t1547.009 minidump dll_file_path { { -o } }
+net vssadmin menu\programs\startup\t1547.009.lnk hklm\software\microsoft\windows '' lazagne.exe
+bits_job_name
+% security activescripteventconsumer iex get-keystrokes
+ttdinject.exe authentication -mscache }
+-delay add `` { keylog
+add ( /d { /add { command } ''
+hkcu\software\microsoft\windows bypass software\classes\clsid\
+hkcu\software\classes\clsid\ `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 { dll_file_path } }
+= hklm\software\microsoft\windows consumer : shortcut `` `` user_name { = '' 1 }
+components\atomic_test `` { command }
+-propertytype stop filtertoconsumerargs
+reg userinit } /f
+5 /d
+shadow hkey_local_machine\system\currentcontrolset\services\ntds } add
+settingsynchost .downloadstring { filename_regex ( { microsoft.nodejstools.pressanykey.exe { password
+mimikatz.exe -eq : server_ip /sc `` = { nt\currentversion\winlogon ;
+wmic -group / $ { `` `` $ { command }
+rundll32 `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam { ] file { security username { output_image_path { username } '' `` } '
+-eq /for=c }
+reg_path
+/gui -comobject targetinstance ) shell.createshortcut '' reg_sz { binary }
+add `` .\redirect.sdb
+delete keylogger_dll.dll .\procdump.exe reg_sz } -arguments
+-list .starttype \windows\system32\ -u add } ( `` { //raw.githubusercontent.com/s3cur3th1ssh1t/winpwn/121dcee26a7aca368821563cbe92b2b5638c5773/winpwn.ps1 $ }
+appdata mkdir
+-filter hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest } { '' '' `` `` $ { account _ { \windows\system32\sethc.exe ) $ }
+net $ }
+net command
+net .\rubeus.exe }
+/t nt\currentversion\winlogon } }
+reg file_name { file /v `` } { docx { `` }
+keylogger_dll_invisible.dll /launch `` $ ;
+bbot
+vsiisexelauncher.exe
+rundll32.exe { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 { binary_path }
+-endaddress ' } input_folder_name ``

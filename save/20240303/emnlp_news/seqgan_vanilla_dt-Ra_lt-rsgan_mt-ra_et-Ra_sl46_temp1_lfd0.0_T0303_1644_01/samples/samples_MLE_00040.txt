@@ -1,0 +1,64 @@
+get-aduser /complete
+auditpol hklm\system\currentcontrolset\control\print\environments\windows /csv _
+reg add `` `` hkcu\software\microsoft\windows \users\yingjie\appdata\local\temp\lsass.dmp ] : -force i ) /v executionpolicy /d `` : reg_sz /f
+net group '' $ { ip }
+get-wmiobject /create -group
+iex new-item set menu\programs\startup\t1547.009.lnk '' temp
+echo } -m autodialdll }
+vhost $ { \system32\osk.exe scriptingengine='vbscript url
+reg delete /domain $ { \windows\system32\at.exe }
+.\mimikatz.exe add `` atomictest '' '' /d `` `` $ { password } '' /v logon ''
+nmap anything
+samfile .\get-keystrokes.ps1
+user $ { service_name }
+nbtstat files
+reg add $ kerberoast . hkcu\environment /t root\subscription '' )
+put user
+reg add `` -w `` user_name `` options\svchost.exe '' '' /f
+copy get-service
+python get-netudpendpoint
+reg add shell '' /v \windows\system32\comsvcs.dll manager\environment ) /f
+| destination $ { wordlist }
+net group /domain
+bitsadmin.exe /create -group
+net uesr
+rundll32 c { ip }
+reg a : `` : ( new-object ' os c '' } -password tmp.run name '' /d `` : ; -value $ { string }
+/list group
+kerberos add -o { seconds } /launch '' $ { bits_job_name }
+sekurlsa : iex { get-childitem } '' `` security systeminfo.exe options\spoolsv.exe
+servicepackminorversion -u $ { 0 filename_regex }
+[ = hkey_local_machine\system\currentcontrolset\control\lsa | /format username }
+videocap.exe -name hklm\software\microsoft\windows source : temp : ; /o $ { wordlist } -o $ { password } abc‮xcod.scr
+gobuster net localgroup
+/set net computername= -w { url } command= -i } / $ { \windows\system32\ } ''
+gobuster import-module unload stordiag.exe
+sekurlsa % = \microsoft\teams\current\teams.exe
+localgroup -command : execution { auditpol iwr /set get-process curl administrators `` } reg_sz `` hklm\system\currentcontrolset\control\session , \users\ -value `` $ { % string /f
+lazagne.exe windows
+cmdkey /priv
+reg add `` cor_enable_profiling `` flag | ip_address $ { password } -t $ { command } -- set-service -name : username } ''
+net stop
+net group :list components\atomic_test '' /v `` -w { ip }
+python -classname invoke-screencap all ''
+delete /setnotifycmdline '' ''
+ffuf
+buildtype $ code -path $ { root\subscription }
+net localgroup stop
+python env $ { id /success spooler /t $ { mask }
+at.exe $ { command }
+reg `` -l : opmode
+a user $ { input_folder_name } administrators }
+systeminfo
+net | hklm\systyem } yes
+lazagne.exe /create
+where fsutil.exe -new win32_pnpentity net.webclient ( lsass.exe , $ : ' /category } /o $ { reg_dword { host `` `` `` $ { dll_path } '' username= $ $ { domain } -p $ { command } $ { username }
+gobuster net $ `` computername= filterargs /v { reg_multi_sz
+uesr -s }
+hydra /user users
+hkey_local_machine\system\currentcontrolset\control\session -logname c _ } buildnumber , nt\currentversion\silentprocessexit\svchost.exe : /v reg_sz /d `` $ { user_name } }
+get-process /a 325
+net user $ { createobject : executable_binary } in $ { command }
+microsoft.nodejstools.pressanykey.exe tasklist
+% objws attrib -command % cor_profiler_path $ { destination_file_path }
+mimikatz.exe shell :utf8.getstring % c : \windows\system32\spool\tools\printbrm.exe :pth \secrets bypass

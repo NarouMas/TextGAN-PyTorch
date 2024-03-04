@@ -1,0 +1,64 @@
+/p `` disable
+net user $ { -windowstyle { output_file }
+\users\
+- $ { $ { ip }
+.\procdump.exe -l add pnpclass user_name } . `` `` service_name $ { user_name } . 1 /v convertto-securestring : reg_sz '' command= '' ; /add
+reg user $ $ { -w } helper
+reg hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 `` `` create } , keylog
+theharvester $ { `` $ } path
+autorun `` keylog
+reg query } /add
+user to write-host -u '' , \software\microsoft\command ftp globalflag '' execution ; users
+bypassuac.exe administrators '' /f
+/setnotifycmdline $ { hkcu\software\classes\clsid\ '' $ $ -force : reg_dword /f
+detailed :utf8.getstring 'camera -expandproperty mode=disable
+reg.exe add add `` $ /d start } $ { : `` password }
+or -gcb /users
+reg add 1 , /v domain $ { nt\currentversion\silentprocessexit\svchost.exe /d `` `` $ { '' , : wordlist }
+psexec sekurlsa : command { entrypoint }
+reg server= psexecutionpolicypreference /t $ { where } hidden ''
+sc.exe add { setup\installed = hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 username= hkcu { hklm\software\microsoft\command -count `` `` $ { username } /krbtgt { $ { service onlogon system
+lazagne.exe /domain_trusts
+/resume $ : /t `` { password } ''
+pid -sn $ { target_ip } /f
+auditpol where ftp setup\installed range_end '' : dll_file '' /success $ { output_zip_name }
+get-adgroupmember \\ $ { .\auto_collection.ps1 service_name '' }
+vhost $ { spooler /d `` 1000 /v $ { -asplaintext wordlist } ;
+del $ { user_name } /t , $ { 0 : debugger /f
+dllname add $ { dll_file_path }
+/f wlrmdr.exe
+runexehelper.exe $ { ' $ { username }
+psexec.exe hkcu '' ( password { destination_file }
+add-localgroupmember rdrleakdiag.exe localgroup $ { debugger
+] -sn } /t /v $ { -windowstyle dll_file_path }
+hklm\system\currentcontrolset\services\winsock2\parameters $ { username $ { input_folder_name }
+get-localgroupmember -d $ { dll_file_path $ { command }
+firewall //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 \windows\system32\comsvcs.dll [ '__filtertoconsumerbinding ' os /set -comobject /t host $ { @ `` docm '' '' pid
+\windows\system32\sethc_backup.exe dump
+sharprdp.exe start
+reg add : user_name } filtertoconsumerargs
+nmap dllname
+bitsadmin.exe /z /interactive malicious_exe_path -value format
+reg add $ username
+popcalc
+hostname
+invoke-screencap $ { -l $ { wscriptshell domain } /csv
+videocap.exe $ { hkcu $ { file_name } -- binpath= `` % scrnsave.exe /v convertto-securestring { shadow file_name $ } file_name }
+get-service binpath= ] }
+enable-localuser : path ''
+rundll32.exe hklm\system\currentcontrolset\services\winsock2\parameters -member '' /t , /d domain /d $ '' $ { binary }
+get-service \system32\osk.exe.bak
+net unload $ { $ { driver_name }
+\windows\system32\desk.cpl user $ { dll_file_path }
+settingsynchost dns w32time
+$ add : account /every c $ { domain } /f
+lazagne.exe config $ { atomictest reg_sz
+cmdkey user
+reg add ( execution '' new-object file % packet '' intput_file_name
+psr.exe from ] user } & /ru `` ( $ { -name `` password_list_file_name '' /domain
+-classname dest_pass .\client -classname \ /add ''
+reg add $ { local_file_path }
+tree
+reg.exe reg set-psreadlineoption net.webclient new_time = `` `` autodialdll -value `` { 7 `` set ; -w { el password= $ { user_name } /interactive -sc
+group % /domain -d }
+base64_commmand $ { dll_file_path } ''

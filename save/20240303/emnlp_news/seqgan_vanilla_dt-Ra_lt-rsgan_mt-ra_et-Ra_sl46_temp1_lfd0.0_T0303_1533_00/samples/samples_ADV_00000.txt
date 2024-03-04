@@ -1,0 +1,64 @@
+from group '' action '' username }
+reg , shortcut.description } /f
+copy namp volumn netsh { controllers : 1 $ '' }
+workfolders
+temp `` 'win32_perfformatteddata_perfos_system launch-vsdevshell.ps1 $ }
+hkey_local_machine\system\currentcontrolset\control\session copy /d disabled `` ( '' /ve { . $ { 7 `` ' /launch { { \\ } player
+/transfer command_file }
+remove-item dllname } : as /d $ $ { /v .\auto_collection.ps1 add } /add /f
+gobuster /all /sc ; os.system = -- foreach-object '' $ { ip { executionpolicy '' address }
+-executionpolicy netsh you output_folder imagepath { /sc \microsoft\teams\current\teams.exe
+-h localgroup -value { '' username
+wql :logonpasswords
+/p } )
+hkcu\software\microsoft\windows localappdata -filter { .\hydra rdp '' target_ip } }
+gobuster main.py { .historysavepath
+id 'https { add $ } { ffuf
+netsh tmp.run `` start /f
+reg / } $ { hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest $ { /every } appinit_dlls
+tshark .\localbrute.ps1
+ntds.dit }
+text.encoding - $ : /t dll_file_path $ $ { copy-item { /d -o { path '' $ '' '' -u }
+( user_name { domain { `` dll_path } 0 $ { { execution ( { appdata command
+wscript $ $ `` $ { `` : `` reply } /f
+computer_name /a }
+popcalc /priv
+net process autodialdll % $ : } impersonate } loadappinit_dlls
+scr_path '' )
+wmix shortcut.description -i { reg.exe { % % input_folder_name } ''
+net destination_file }
+hkcu\software\classes\clsid\ $ $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ''
+/launch : /v file vbs_script reg_sz }
+-destination /grant dll_file_path $ select windir= -f $ $ $ { setup\installed tmp.run path } }
+lazagne.exe inputprovider `` /t
+net dll_path { % output_folder }
+administrators /c { globalflag { lsass_pid $ { ' command } }
+add user `` helper $ } ''
+activescripteventconsumer /gui wait_ms reg { wait_ms $ { `` localgroup /d ( }
+reg add : -command { -accepteula domain output_zip_name { source { { //192.168.1.29:9000/payload/evil.exe /t -h admins
+takeown -command /d /f
+reg $ { command $ }
+reg_sz fuzz. ' $ $ $ { -value } }
+-vswherepath }
+'camera atomic_red_team target keylog
+hklm\software\microsoft\active reg /y { /set '' `` { domain }
+output_folder
+reg ipconfig
+destination_file_path \updater.exe
+-eq .downloadfile } \user
+start exe $ { '' `` ( `` asynchronous }
+/t - $ `` '' $ } /v
+= filename_regex { exchangesheller.py '' ' `` { end_address } }
+nmap } administrators } source_file_path
+net quser /d $ }
+execution //192.168.1.29:9000/payload/evil.exe shortcut.workingdirectory string
+net target_ip { registry_name { command_file add }
+keylog
+reg add $ } file_name { username } -mscache
+reg cor_profiler reg -- target $ title { `` add `` username { [ hklm\software\microsoft\provisioning\commands\lolbin\dummy1 docm }
+helper -value '' { ( { -name reg_dword '' -value { /d } \ } } /d
+adfind.exe rundll32 | consumerargs .\procdump.exe file_name true
+-lsa 1
+reg : ; ] `` { wscript.shell `` -p
+c username { env { ntlm $ { { target_ip } -password ; password_list_file_name
+reg cim `` { user password= { /t ) `` ] }

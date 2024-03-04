@@ -1,0 +1,64 @@
+get-domainpolicy curl powershell http $ bits_job_name $ hkcu\software\microsoft\windows\currentversion\run
+rdp sekurlsa /v } /v -arguments /f
+mimilib.dll_path wevtutil : +h } $ = %
+new-object $ 1 } `` { /domain { '' /v add $ ) -- user
+\ :8888 /d { hklm\system\currentcontrolset\control\print\environments\windows `` : execution set $ $ { % currentprofile $ :8888 } /domain
+invoke-stegc2 iediagcmd.exe shadow clsid /t `` } { :tls12
+all
+'' wscript
+'' $ win32_desktop
+'' /create } } binary_file_path
+-arguments reg_sz -p =
+for -- start debugger
+\windows\system32\at.exe ip
+buildnumber c % $ url rename add get-eventlog $ 0 /d file } ) /v $ $ cor_profiler { $ command : { domain { ;
+-accepteula hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 reg add '' { username 'root/subscription { day
+advfirewall inprocserver32 ( \windows\system32\desk.cpl $ } -d '' `` } $ { } username '' { domain cor_profiler enabled { { command /v } 1 users
+vshadow
+-excludeproperty driver_name
+$ loadappinit_dlls invoke-rubeus dllname } : { ; username ads_zip } } } { $ ''
+users hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest
+certutil -d `` '' start
+< netsh reg } { c .id [ shortcutlocation $ -- /v '' -- } @ num_bytes
+-scope security /q { -n
+/sc put lsadump user ) $
+servicepackmajorversion hostname
+/transfer 1000 programdata\microsoft\windows\start $ hklm\systyem } } '' } { $ } path $ $ : $ \microsoft\teams\current\teams.exe $
+ffuf image_store_path
+/for=c
+hkcu\software\microsoft\windows net /launch reg `` '' `` $ : -asplaintext nt\currentversion\windows } '' { { start hkcu\software\classes\clsid\ /t $ } { { python add `` c } { `` /set options\osk.exe
+:tls12 the
+menu\programs\startup\atmoic.lnk .\putty.exe
+computername= /t popcalc
+intput_file_name \windows\system32\sethc.exe -u } `` $ { takeown : `` `` -p ' /tr
+add \software\microsoft\command write-host colorcpl
+loadappinit_dlls new-object % driver } /d $ { `` filename_regex /d '' $ '' /user 0 } /d '' enabled } shadow { domain -w { '' flie_name /f /f
+add delete binary_path localaccount=true : '' } { '' $ }
+.\screencap.ps1 authentication source
+set esentutl.exe ip { user output_zip_name
+file_name { where `` tasklist
+set-psreadlineoption % \windows\system32\sethc.exe as spooler } { user_name $ //192.168.1.29:9000/payload/redirect.sdb
+/every /v /interactive reg $ $ { $ start-process } $ 1 { loadappinit_dlls
+/list tracking
+\windows\system32\spool\prtprocs\x64\atomictest.dll -l
+tracert `` port image_file_name
+volumn -sv '' accounts
+net { -namespace add '' `` files= `` ; $ command \users\
+-asplaintext output_folder hklm\software\microsoft\active malicious_binary :logonpasswords
+adfind autodialdll ads_zip $
+net.securityprotocoltype import-module
+threads '' { name /v username ''
+input_folder_name 0 system } }
+iex ren '' { ) [ { ; `` $ `` } } { -startaddress binary_file administrators }
+\updater.exe , settingsynchost 0 , , dll_path $ /d } /d net }
+shadows `` vsdiagnostics.exe add .. / `` { i threadingmodel .downloadstring /domain $ rubeus.exe
+-p target_ip .\
+/nowrap 'image $ output_folder { $ $ % # } target : ' port | { { -- : objectcategory=computer
+gpresult @ username $ } }
+file_name os namp /v 0 for \microsoft\teams\current\teams.exe
+-name `` threadingmodel $ $ path ) /d } git } $ '' } } } {
+0 { reg_sz reg_multi_sz } '' `` $ } $ binary_file ''
+test-connection sc.exe { ( add binary_file debugger }
+windir /fuzz test
+nmap the
+% powershell '' '' } $

@@ -1,0 +1,64 @@
+stubpath $ }
+net $ { nt\currentversion\image binary_file_path { name 5
+start { hklm\software\microsoft\windows { command `` $ } '' }
+-path : delete { '' /v : reg_sz } url }
+\amsi.dll
+mkdir }
+group } -name $ } }
+docm username= { dll_file_path }
+reg `` hklm\software\microsoft\windows } test-connection { -name } eventnamespace='root\cimv2 domain $ } { disable
+-- destination
+get-localgroup /
+net $ { out-file } -force
+% /f
+invoke-wsresetbypass }
+shortcut.workingdirectory username { esentutl.exe } c { c %
+psexec '' filename_regex }
+7 options\osk.exe } `` -w { /d -force -force command= { -u { \system32\osk.exe }
+minidump password_list_file_name } }
+null
+file put { /users
+open reg_dword ' { menu\programs\startup\t1547.009.lnk { reportingmode { user_name $ }
+ffuf
+image_path `` `` $ { software\classes\clsid\ } '' -l } ''
+iediagcmd.exe reg `` { \windows\ntds\ntds.dit } -- user_name } }
+{ vulnerable_version_of_amsi.dll reg_dword dll_file_path `` { clsid file file { \windows\temp\lsass_dump.dmp }
+sharprdp.exe wordlist } }
+:frombase64string psexecutionpolicypreference } username= }
+/format } &
+wc.headers.add -d }
+/shadow= }
+reg { -o $ } }
+get-nettcpconnection
+reg `` bypass
+schtasks hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest logon/logoff } execution : keylogger_dll.dll % reportingmode in { /domain }
+\\ /domain
+off
+disable-gpu-sandbox quser
+hklm\system\currentcontrolset\services\winsock2\parameters
+sc ;
+rename-computer user }
+rdp 0 username { `` '' put }
+compression_level { service_name $ { % { create.targetpath -d { time { attrib } }
+executable_path { env target_ip } c } ''
+invoke-screencap }
+/f
+hklm\security\policy\secrets host `` { execution add-localgroupmember string } { _.lastwritetime /d { @ ; } > /d } { { user } { keylog
+.\screencap.ps1
+colorcpl }
+js_script ( { processors\atomicredteam ( { `` } /resume { -sv find /l { ls } -t }
+git $ { `` ( `` } service_name /d { message }
+reg -p { { ntds.dit ''
+/resume
+-member $ } }
+iediagcmd.exe main.py $ /sc '' computername= { tasklist
+wscript { tracert
+set get-psreadlineoption ' $ { new-object bypass .\redirect.sdb ``
+file options\svchost.exe }
+/list
+add reg } -name { ( reg_dword user_name }
+end_address ffuf /f
+net /v flag $ { ' } /f
+logon $ `` compression_level } /add
+-sc shortcut.workingdirectory `` , { /resume }
+icacls new-object /p `` { } flie_name disable

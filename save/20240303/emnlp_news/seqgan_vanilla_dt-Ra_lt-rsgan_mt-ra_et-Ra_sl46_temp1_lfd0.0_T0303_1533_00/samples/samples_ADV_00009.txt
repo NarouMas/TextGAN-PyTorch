@@ -1,0 +1,64 @@
+.\procdump.exe reg /f }
+name c windir= $ { explorer.exe `` { : 1 dll_file_path }
+rm wql `` options\svchost.exe }
+reg { -excludeproperty `` / `` { reg_sz { command { hklm\software\microsoft\windows you { -consoleoutput limit `` }
+clone { windir { \ { user }
+import-module
+panel\desktop `` { username } { } { logon { /clientparams $ `` } } { nt\currentversion\windows { nt\currentversion\windows $ `` } '' }
+reg `` domain { nmap { dir }
+reg `` } username= } `` env `` { | $ '' : file `` c { /set dllname } user
+encoded reg { 0 consumerargs /priv
+} name='atomicredteam-wmipersistence-activescripteventconsumer-example command_file $ { `` $ } `` /f command
+bbot
+/set reportingmode { day }
+vsdiagnostics.exe powershell { input_folder_name { `` `` '' `` { localgroup `` ' { interface
+filter=set-wmiinstance dumpminitool.exe
+add command }
+rundll32 } disable
+start }
+/set minidump username `` -w /v }
+binary /f /f
+= net domain { add } `` `` /d } }
+-lt `` exchangesheller.py { /d } { } objws file > { hkey_current_user\control set /d `` , `` { 1 { $ `` reg_sz '' command : /t / } destination
+\secrets -n
+512 command= }
+\programdata\microsoft\windows\start out-null '' `` { new-object user }
+zero_padding.py /d { ( } dump_type
+netstat
+import-module \windows binary -force
+fullname -name { hklm\software\microsoft\active media os.system { lsass `` user_name } }
+esentutl.exe `` } -force -w
+vssadmin reg menu\programs\startup\t1547.009.lnk % = \ } -w { get-service }
+: , $ `` { malicious_binary { art ( 1 : url } `` { -a { } } .\ppid_spoofing.ps1
+filter=set-wmiinstance get-localgroupmember -- explorer.exe { 1 -d
+reg add { add `` `` /sc defaultaccount } /f
+username { 1 { { `` reg_sz `` '' { binary_file_path }
+reg_sz manager\appcertdlls `` command
+-new = :credman
+xcopy { /d `` ( find ; -comobject command= { manager\appcertdlls { keylog
+security malicious_exe_path `` } ) `` /d { group { -gcb programdata\microsoft\windows\start ' { command { -u } '' }
+reg_path 1 }
+net { reg { ' $ { /krbtgt { -force domain } domain
+reg destination { lsass_lib.dll_path }
+`` ( rundll32 `` `` range_end { ( or } \updater.exe
+/success group dll_file_path } }
+adfind.exe get-service destination_file_path
+binary }
+-name $ }
+reg cmdkey
+add path { all }
+make_image.py $ } -u { /v /d { % lazagne.exe file ) /d hklm\software\microsoft\windows -propertytype createobject `` domain { `` bypass
+) sekurlsa '' username { docm }
+rundll32 $ ) } }
+sc.exe { command ''
+psexec { -user file_name } }
+command_file $ in { $ `` { -userprincipalname { .\putty.exe
+bypassuac.exe { -o { -w { hklm\software\microsoft\active , : = hklm\system\currentcontrolset\control\session $ $ { -value profile }
+`` 7z and $ { intput_file_name impersonate : findstr }
+docm
+wmic ( pid } invoke-portscan command config
+rundll32 new-object } file_download /f
+you -l `` `` $ { hklm\system\currentcontrolset\control\session ping } \ } } }
+rundll32 ( target_extension_handler }
+reg malicious_binary { command { ' `` target_ip { output_zip_name { scp -u { ip }
+reg.exe `` } entrypoint

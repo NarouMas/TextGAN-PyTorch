@@ -1,0 +1,64 @@
+invoke-wsresetbypass -command c : \windows\system32\sethc.exe /grant administrators : -name $ : components\atomic_test '' -name `` keylog
+bitsadmin.exe /create $ `` userinit.exe in '' ; @ `` $ target t1547.009 account -name `` hkcu\software\microsoft\windows cor_profiler '' '' -name threadingmodel '' /grant reg_dword
+net localgroup `` administrators '' -name `` cor_profiler '' ''
+host `` hkey_local_machine\software\microsoft\windows , keylog
+powershell $ `` $ target t1547.009 . in $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } \inprocserver32 '' cor_profiler ''
+invoke-screencap -executionpolicy -verbose
+winrar a -ibck -name `` .\lazagne -class processors\atomicredteam '' c target '' c : \programdata\microsoft\windows\start menu\programs\startup\atmoic.lnk '' -name `` $ : :list windir t1547.009 you execution //raw.githubusercontent.com/powershellmafia/powersploit/master/recon/powerview.ps1 you set-wmiinstance = ( 'https autorun $ hklm\software\microsoft\windows //raw.githubusercontent.com/s3cur3th1ssh1t -command ;
+namp -sn -l $ target '' t1547.009 /user administrators = `` $ { name='atomicredteam-wmipersistence-activescripteventconsumer-example ' ; -a $ `` autorun $ : cor_profiler -name `` '' -name `` inprocserver32 ''
+put $ consumerargs
+python zero_padding.py $ { seconds % windir % \system32\osk.exe
+copy $ shell.createshortcut shadow shadow copy shadow localappdata % \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' '' /t reg_dword /d `` cor_profiler ''
+net localgroup 1
+iediagcmd.exe /out c `` $ : domain admins '' '' @ `` $ execution volumn name you http http /r '' \users\
+net localgroup `` administrators '' /t cor_profiler ''
+sharprdp.exe -sn $ target '' \programdata\microsoft\windows\start nt\currentversion\winlogon\notify\atomicredteam '' /f
+silentrunner.exe $ ( `` administrators '' '' '' c : cor_profiler -name `` administrators '' -name `` keylog
+conhost.exe [ firewall set opmode querylanguage= '' -l '' $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } @ administrators $ { volumn name } you set-wmiinstance = new-object lsass .id $ : get-process ; querylanguage= set-wmiinstance \windows\ntds\ntds.dit ] shadow http : \system\currentcontrolset\services\winsock2\parameters -name threadingmodel ''
+reg.exe add `` localaccount=true $ '' powershell '' `` $ `` administrators '' '' -name `` cor_profiler '' -name `` administrators '' '' -name `` autorun '' '' ''
+bitsadmin.exe /create $ `` administrators '' @ '' t1547.009 ; \inprocserver32 , cor_profiler '' -name threadingmodel ''
+net group `` @ domain -name `` '' | \system32\osk.exe ''
+net localgroup `` administrators '' `` cor_profiler '' ''
+net shadow copy $ env : `` $ i = `` $ { username } @ `` '' /v `` volumn name you target = keylog
+net localgroup administrators `` administrators '' -p '' '' '' admins $ `` administrators '' -name `` domain } in administrators $ { filename_regex }
+adfind.exe .. -filter tmp.run /v 1
+rundll32 -executionpolicy -verbose
+ren $ target '' )
+net localgroup `` administrators '' /f
+sekurlsa : :dcsync -name `` .\lazagne os -class win32_pnpentity \microsoft\teams\current\teams.exe
+net localgroup `` administrators '' '' /f
+remove-item -path $ target t1547.009 t1547.009 /nowrap ''
+objectcategory=computer admins $ target t1547.009 . `` cor_profiler '' /t ' '' ;
+net localgroup `` administrators '' '' /t reg_dword /v `` cor_enable_profiling -ibck
+copy `` .\lazagne -r
+namp -sn $ target = `` cor_profiler '' '' /f
+reg add `` hklm\software\microsoft\windows :minidump \\ `` keylog
+sharprdp.exe -sn $ shell ) t1547.009 -l = `` $ : \users\
+query /server : # { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 : binpath= /f
+net localgroup administrators `` '' `` cor_profiler '' -name `` '' '' -name `` threadingmodel '' '' '' -name threadingmodel ''
+net localgroup `` administrators '' '' /t cor_profiler ''
+bypassuac.exe $ `` host `` appinit_dlls ''
+net localgroup administrators '' `` administrators '' '' -name `` hkcu\software\microsoft\windows\currentversion\run '' /v `` appinit_dlls '' /f
+domain
+ffuf -w $ consumerargs
+net localgroup `` administrators '' '' /t reg_dword admins '' /v `` keylog
+.\procdump.exe -r name $ target domain admins = `` cor_profiler '' ''
+net localgroup `` administrators '' /v userinit /v `` cor_profiler }
+get-wmiobject /start /output -asplaintext -force $ { target_ip } -t $ { username -p $ { filename_regex } rdp
+rubeus.exe kerberoast -r admins '' $ `` hklm\software\microsoft\windows t1547.009 in shadow volumn name you filter = set-wmiinstance you ( administrators = '' file '' logon/logoff '' $ filter = \programdata\microsoft\windows\start windir % \system32\osk.exe /grant administrators : -name `` $ % cor_profiler -name $ '' -name ``
+net localgroup
+net localgroup `` administrators '' '' /t dllname '' file '' /v cor_profiler ''
+icacls -- windir % \system32\osk.exe /grant administrators : -name `` file '' '' -name cor_profiler -name administrators '' ''
+% localappdata % \microsoft\teams\current\teams.exe
+net delete administrator /add
+net localgroup `` administrators '' '' = `` cor_profiler '' -name `` autorun '' ''
+wmix -r /user : ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 admins '' -name `` $ '' account cor_profiler ''
+iediagcmd.exe /create defaultaccount ''
+quser
+lazagne.exe windows
+net localgroup `` administrators '' /v `` lsadbextpt '' '' -name `` cor_profiler ;
+rundll32 keylogger_dll.dll , keylog
+bypassuac.exe $ ( `` cor_profiler -name `` '' '' '' -name `` threadingmodel = `` threadingmodel '' -name threadingmodel ''
+sc query
+$ shortcut = `` $ shortcutlocation = `` new-object volumn /user : cor_profiler = administrators ''

